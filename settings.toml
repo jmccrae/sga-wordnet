@@ -1,0 +1,13 @@
+# Configuration for the EWE Wordnet Editor (https://github.com/jmccrae/ewe).
+#
+# Every path below is resolved relative to this file's own directory, not the
+# process's working directory - so this repo can be opened from anywhere
+# (including via the desktop app's "Open Wordnet Folder" picker) and the
+# paths keep working.
+database = "wordnet.db"
+wordnet_source = "src/yaml"
+id_prefix = "sga"
+project_name = "Old Irish Wordnet"
+tagline = "A wordnet for Old Irish (sga), extended from the Open English Wordnet"
+contact_email = "johnmccrae@gmail.com"
+source_url = "https://github.com/jmccrae/sga-wordnet"

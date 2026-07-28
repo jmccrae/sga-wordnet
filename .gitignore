@@ -11,3 +11,7 @@ wheels/
 
 # Claude Code local settings
 .claude/
+
+# EWE Wordnet Editor - local databases built from src/yaml (see settings.toml)
+/wordnet.db
+/corpus.db

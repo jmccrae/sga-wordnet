@@ -29,6 +29,21 @@ Editor](https://github.com/jmccrae/ewe).
   English translations (`.en`), Old Irish/English sentence pairs
   (`.en-ga`), and sense-disambiguation output (`.senses`, `.results.csv`).
 - `main.py` — entry point for the pipeline.
+- `src/yaml/` — the wordnet itself, in the same per-lexfile YAML layout as
+  [english-wordnet's `src/yaml/`](https://github.com/globalwordnet/english-wordnet/tree/main/src/yaml)
+  (`entries-{0,a-z}.yaml`, `noun.*.yaml`, `verb.*.yaml`, `adj.*.yaml`,
+  `adv.*.yaml`, `frames.yaml`), populated as the pipeline imports senses.
+  Each file starts out as an empty YAML mapping (`{}`) rather than a
+  0-byte file — EWE only registers a lexfile as writable once it's parsed
+  at least one YAML value, so a truly empty file silently blocks adding
+  new synsets to it.
+- `settings.toml` — configuration for the [EWE Wordnet
+  Editor](https://github.com/jmccrae/ewe); paths inside it (`wordnet_source
+  = "src/yaml"`) are relative to this file, so the repo can be opened
+  directly from EWE's desktop app "Open Wordnet Folder" picker, or served
+  with `dx serve` from a checkout of `ewe_dioxus` pointed at this
+  directory. `wordnet.db`/`corpus.db`, the databases EWE builds from
+  `src/yaml/`, are git-ignored and rebuilt locally on first run.
 
 ## Development
 
