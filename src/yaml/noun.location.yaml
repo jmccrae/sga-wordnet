@@ -1,22 +1,23 @@
-80844909-n:
+80921094-n:
   definition:
-  - a point located with respect to surface features of some region
+  - place — a general vicinity
+  ili: i82372
+  members:
+  - loc
+  partOfSpeech: n
+84095545-n:
+  definition:
+  - spot, place, topographic point — a point located with respect to surface features
+    of some region
   ili: i82501
   members:
   - loc
   partOfSpeech: n
-84996843-n:
+87048819-n:
   definition:
-  - a large and densely populated urban area; may include several independent administrative
-    districts
+  - urban center, city, metropolis — a large and densely populated urban area; may
+    include several independent administrative districts
   ili: i81847
   members:
   - cathair
-  partOfSpeech: n
-85677460-n:
-  definition:
-  - a general vicinity
-  ili: i82372
-  members:
-  - loc
   partOfSpeech: n

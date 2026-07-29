@@ -2,23 +2,23 @@ barr:
   n:
     sense:
     - id: 'barr%1:06:00::'
-      synset: 88519028-n
+      synset: 83143235-n
 becc:
   a:
     sense:
     - id: 'becc%3:00:01::'
-      synset: 84599011-a
+      synset: 87553185-a
   s:
     sense:
     - id: becc%5:00:00:???:00
-      synset: 85824252-s
+      synset: 81765892-s
 beus:
   r:
     sense:
     - id: 'beus%4:02:00::'
-      synset: 84681632-r
+      synset: 86379405-r
 bríathar:
   n:
     sense:
     - id: 'bríathar%1:10:00::'
-      synset: 80354926-n
+      synset: 82734458-n

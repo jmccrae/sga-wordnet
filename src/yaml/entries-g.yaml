@@ -2,45 +2,45 @@ genitiu:
   a:
     sense:
     - id: 'genitiu%3:01:00::'
-      synset: 82892106-a
+      synset: 86287358-a
   n:
     sense:
     - id: 'genitiu%1:10:01::'
-      synset: 86551665-n
+      synset: 89057725-n
 gerind:
   n:
     sense:
     - id: 'gerind%1:10:00::'
-      synset: 80210438-n
+      synset: 85409528-n
 gním:
   n:
     sense:
     - id: 'gním%1:26:00::'
-      synset: 89170686-n
+      synset: 88556240-n
     - id: 'gním%1:04:01::'
-      synset: 84418721-n
+      synset: 89795394-n
 grácad:
   v:
     sense:
     - id: 'grácad%2:32:00::'
-      synset: 85649300-v
+      synset: 83273709-v
 gréc:
   a:
     sense:
     - id: 'gréc%3:01:00::'
-      synset: 88829417-a
+      synset: 88528725-a
 grécde:
   a:
     sense:
     - id: 'grécde%3:01:00::'
-      synset: 88829417-a
+      synset: 88528725-a
 guthaigthe:
   n:
     sense:
     - id: 'guthaigthe%1:10:00::'
-      synset: 84001914-n
+      synset: 88626435-n
 guttae:
   n:
     sense:
     - id: 'guttae%1:10:00::'
-      synset: 84001914-n
+      synset: 88626435-n

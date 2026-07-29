@@ -8,10 +8,14 @@ synset (via a local `wn` library database - see
 https://github.com/goodmami/wn), and builds an EWE automaton script
 (https://github.com/jmccrae/ewe) that:
 
-  - creates a new synset per accepted English sense (same definition,
-    lexfile, part of speech) with the Old Irish lemma(s) as members -
-    multiple accepted lemmas mapping to the same English synset become
-    synonyms in the same new synset;
+  - creates a new synset per accepted English sense (same lexfile and
+    part of speech) with the Old Irish lemma(s) as members - multiple
+    accepted lemmas mapping to the same English synset become synonyms in
+    the same new synset. The definition is the English synset's own
+    definition, prefixed with its English member lemma(s) (e.g.
+    "definition — a concise explanation of the meaning of a word or
+    phrase or symbol"), since the members themselves no longer show the
+    English word once they're replaced with Old Irish ones;
   - sets the new synset's ili to the English synset's ili, preserving the
     interlingual link between the two wordnets.
 
@@ -57,10 +61,11 @@ def load_accepted_rows(xlsx_path):
 
 
 def resolve_sense(con, sense_key):
-    """Look up a sense key's synset id, pos, lexfile, ili and definition."""
+    """Look up a sense key's synset id, pos, lexfile, ili, definition and
+    English member lemmas (in synset order)."""
     cur = con.execute(
         """
-        select syn.id, syn.pos, lf.name, ili.id, d.definition
+        select syn.rowid, syn.id, syn.pos, lf.name, ili.id, d.definition
         from senses s
         join synsets syn on s.synset_rowid = syn.rowid
         join lexfiles lf on syn.lexfile_rowid = lf.rowid
@@ -70,7 +75,24 @@ def resolve_sense(con, sense_key):
         """,
         (sense_key_to_wn_id(sense_key),),
     )
-    return cur.fetchone()
+    row = cur.fetchone()
+    if row is None:
+        return None
+    synset_rowid, oewn_id, pos, lexfile, ili, definition = row
+
+    cur = con.execute(
+        """
+        select f.form
+        from senses s2
+        join entries e on s2.entry_rowid = e.rowid
+        join forms f on f.entry_rowid = e.rowid and f.rank = 0
+        where s2.synset_rowid = ?
+        order by s2.synset_rank
+        """,
+        (synset_rowid,),
+    )
+    english_lemmas = [r[0] for r in cur.fetchall()]
+    return oewn_id, pos, lexfile, ili, definition, english_lemmas
 
 
 def build_groups(rows, con):
@@ -84,7 +106,8 @@ def build_groups(rows, con):
         if resolved is None:
             unresolved.append((lemma, sense_key))
             continue
-        oewn_id, pos, lexfile, ili, definition = resolved
+        oewn_id, pos, lexfile, ili, definition, english_lemmas = resolved
+        definition = f"{', '.join(english_lemmas)} — {definition}"
         group = groups.setdefault(
             oewn_id,
             {"pos": pos, "lexfile": lexfile, "ili": ili, "definition": definition, "lemmas": []},

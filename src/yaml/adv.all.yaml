@@ -1,86 +1,90 @@
-80779431-r:
+81006346-r:
   definition:
-  - in truth (often tends to intensify)
-  ili: i18359
+  - solely, only, alone, entirely, exclusively — without any others being included
+    or involved
+  ili: i18198
   members:
-  - ám
+  - nammá
   partOfSpeech: r
-81161933-r:
+83067314-r:
   definition:
-  - in the way indicated
-  ili: i18911
-  members:
-  - amal
-  partOfSpeech: r
-81495488-r:
-  definition:
-  - equally
-  ili: i18559
-  members:
-  - cosmail
-  partOfSpeech: r
-83316390-r:
-  definition:
-  - (used to introduce a logical conclusion) from that fact or reason or as a result
+  - so, hence, thence, therefore, thus — (used to introduce a logical conclusion)
+    from that fact or reason or as a result
   ili: i18390
   members:
   - ar
   partOfSpeech: r
-84681632-r:
+84592924-r:
   definition:
-  - with reference to action or condition; without change, interruption, or cessation
-  ili: i18316
+  - then — at that time
+  ili: i18891
   members:
-  - beus
+  - dano
   partOfSpeech: r
-85241972-r:
+84727924-r:
   definition:
-  - in that case or as a consequence
+  - before, earlier — earlier in time; previously
+  ili: i18504
+  members:
+  - re
+  partOfSpeech: r
+85135742-r:
+  definition:
+  - so, thus, thusly — in the way indicated
+  ili: i18911
+  members:
+  - amal
+  partOfSpeech: r
+86151269-r:
+  definition:
+  - then — in that case or as a consequence
   ili: i18892
   members:
   - didiu
   - trá
   - dano
   partOfSpeech: r
-85677135-r:
+86379405-r:
   definition:
-  - earlier in time; previously
-  ili: i18504
+  - still — with reference to action or condition; without change, interruption, or
+    cessation
+  ili: i18316
   members:
-  - re
+  - beus
   partOfSpeech: r
-85746504-r:
+87372972-r:
   definition:
-  - in a manner that facilitates
-  ili: i18894
+  - alike, likewise — equally
+  ili: i18559
   members:
-  - co
+  - cosmail
   partOfSpeech: r
-86503983-r:
+87612028-r:
   definition:
-  - in addition
-  ili: i18418
-  members:
-  - dano
-  partOfSpeech: r
-88836789-r:
-  definition:
-  - without any others being included or involved
-  ili: i18198
-  members:
-  - nammá
-  partOfSpeech: r
-89051015-r:
-  definition:
-  - happening at a time subsequent to a reference time
+  - subsequently, after, afterward, afterwards, later, later on — happening at a time
+    subsequent to a reference time
   ili: i18505
   members:
   - íar
   partOfSpeech: r
-89063750-r:
+87655896-r:
   definition:
-  - at that time
-  ili: i18891
+  - so — in a manner that facilitates
+  ili: i18894
+  members:
+  - co
+  partOfSpeech: r
+88714875-r:
+  definition:
+  - indeed, so — in truth (often tends to intensify)
+  ili: i18359
+  members:
+  - ám
+  partOfSpeech: r
+89866716-r:
+  definition:
+  - besides, too, also, as well, likewise — in addition
+  ili: i18418
   members:
   - dano
   partOfSpeech: r

@@ -1,21 +1,21 @@
-81947506-n:
+83143235-n:
   definition:
-  - something less than the whole of a human artifact
+  - helmet — armor plate that protects the head
+  ili: i54769
+  members:
+  - barr
+  partOfSpeech: n
+85064914-n:
+  definition:
+  - part, portion — something less than the whole of a human artifact
   ili: i57017
   members:
   - rann
   partOfSpeech: n
-83300738-n:
+87993082-n:
   definition:
-  - the place where two or more things come together
+  - junction — the place where two or more things come together
   ili: i55315
   members:
   - accomol
-  partOfSpeech: n
-88519028-n:
-  definition:
-  - armor plate that protects the head
-  ili: i54769
-  members:
-  - barr
   partOfSpeech: n

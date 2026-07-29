@@ -1,94 +1,21 @@
-80428490-n:
+80415856-n:
   definition:
-  - a rule or body of rules of conduct inherent in human nature and essential to or
-    binding upon human society
-  ili: i67725
-  members:
-  - dliged
-  partOfSpeech: n
-80872238-n:
-  definition:
-  - one of the portions into which something is regarded as divided and which together
-    constitute a whole
-  ili: i67711
-  members:
-  - rann
-  partOfSpeech: n
-81413164-n:
-  definition:
-  - that which concerns a person with regard to a particular role or situation
-  ili: i66724
-  members:
-  - rann
-  partOfSpeech: n
-82234281-n:
-  definition:
-  - an abstract part of something
-  ili: i67716
-  members:
-  - dúil
-  partOfSpeech: n
-82282667-n:
-  definition:
-  - a characteristic property that defines the apparent individual nature of something
-  ili: i67612
-  members:
-  - inne
-  partOfSpeech: n
-82500315-n:
-  definition:
-  - the state of being unsure of something
-  ili: i66857
-  members:
-  - inderbus
-  partOfSpeech: n
-83048767-n:
-  definition:
-  - a discrimination between things as different and distinct on the basis of their
-    characteristics or attributes
-  ili: i67111
-  members:
-  - fodail
-  - dechor
-  partOfSpeech: n
-83143932-n:
-  definition:
-  - an odd or unusual characteristic
-  ili: i67624
-  members:
-  - sainred
-  partOfSpeech: n
-84330578-n:
-  definition:
-  - a general conscious awareness
-  ili: i66751
-  members:
-  - cíall
-  partOfSpeech: n
-85137272-n:
-  definition:
-  - a whole formed by a union of two or more elements or parts
+  - compound — a whole formed by a union of two or more elements or parts
   ili: i67721
   members:
   - comṡuidigthe
   partOfSpeech: n
-85951232-n:
+80714279-n:
   definition:
-  - the first part or section of something
-  ili: i67712
+  - law, natural law — a rule or body of rules of conduct inherent in human nature
+    and essential to or binding upon human society
+  ili: i67725
   members:
-  - tosach
+  - dliged
   partOfSpeech: n
-87580321-n:
+80785130-n:
   definition:
-  - a representative form or pattern
-  ili: i68036
-  members:
-  - desimrecht
-  partOfSpeech: n
-89103499-n:
-  definition:
-  - the idea that is intended
+  - substance, meaning — the idea that is intended
   ili: i67944
   members:
   - intliucht
@@ -96,18 +23,94 @@
   - cíall
   - inne
   partOfSpeech: n
-89249946-n:
+81886174-n:
   definition:
-  - a perceptual structure
+  - pattern, form, shape — a perceptual structure
   ili: i67998
   members:
   - delb
   - forgnúis
   partOfSpeech: n
-89551216-n:
+82029779-n:
   definition:
-  - a final part or section
+  - character, quality, lineament — a characteristic property that defines the apparent
+    individual nature of something
+  ili: i67612
+  members:
+  - inne
+  partOfSpeech: n
+83081164-n:
+  definition:
+  - sense — a general conscious awareness
+  ili: i66751
+  members:
+  - cíall
+  partOfSpeech: n
+83136937-n:
+  definition:
+  - end — a final part or section
   ili: i67714
   members:
   - deired
+  partOfSpeech: n
+85087478-n:
+  definition:
+  - distinction, differentiation — a discrimination between things as different and
+    distinct on the basis of their characteristics or attributes
+  ili: i67111
+  members:
+  - fodail
+  - dechor
+  partOfSpeech: n
+85966327-n:
+  definition:
+  - peculiarity, distinctive feature, distinguishing characteristic — an odd or unusual
+    characteristic
+  ili: i67624
+  members:
+  - sainred
+  partOfSpeech: n
+86634966-n:
+  definition:
+  - beginning — the first part or section of something
+  ili: i67712
+  members:
+  - tosach
+  partOfSpeech: n
+86742092-n:
+  definition:
+  - model, example — a representative form or pattern
+  ili: i68036
+  members:
+  - desimrecht
+  partOfSpeech: n
+86759983-n:
+  definition:
+  - part — that which concerns a person with regard to a particular role or situation
+  ili: i66724
+  members:
+  - rann
+  partOfSpeech: n
+88307027-n:
+  definition:
+  - doubt, doubtfulness, dubiousness, uncertainty, incertitude, dubiety — the state
+    of being unsure of something
+  ili: i66857
+  members:
+  - inderbus
+  partOfSpeech: n
+89726303-n:
+  definition:
+  - element, ingredient, component, constituent, factor — an abstract part of something
+  ili: i67716
+  members:
+  - dúil
+  partOfSpeech: n
+89910511-n:
+  definition:
+  - section, part, division — one of the portions into which something is regarded
+    as divided and which together constitute a whole
+  ili: i67711
+  members:
+  - rann
   partOfSpeech: n

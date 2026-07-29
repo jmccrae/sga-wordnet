@@ -1,41 +1,13 @@
-81883676-v:
+80902494-v:
   definition:
-  - report or maintain
-  ili: i26659
-  members:
-  - asbeir
-  partOfSpeech: v
-85165019-v:
-  definition:
-  - give expression to
+  - express, show, evince — give expression to
   ili: i26321
   members:
   - sluindid
   partOfSpeech: v
-85649300-v:
+82949802-v:
   definition:
-  - utter a hoarse sound, like a raven
-  ili: i26908
-  members:
-  - grácad
-  partOfSpeech: v
-85673208-v:
-  definition:
-  - express in words
-  ili: i26632
-  members:
-  - asbeir
-  partOfSpeech: v
-87620547-v:
-  definition:
-  - speak, pronounce, or utter in a certain way
-  ili: i26483
-  members:
-  - asbeir
-  partOfSpeech: v
-87993335-v:
-  definition:
-  - denote or connote
+  - stand for, mean, intend, signify — denote or connote
   ili: i26268
   members:
   - slond
@@ -44,10 +16,39 @@
   - inchosc
   - sluindid
   partOfSpeech: v
-88045998-v:
+83273709-v:
   definition:
-  - express a supposition
+  - croak, cronk — utter a hoarse sound, like a raven
+  ili: i26908
+  members:
+  - grácad
+  partOfSpeech: v
+84005320-v:
+  definition:
+  - say, allege, aver — report or maintain
+  ili: i26659
+  members:
+  - asbeir
+  partOfSpeech: v
+85784188-v:
+  definition:
+  - say, suppose — express a supposition
   ili: i26199
+  members:
+  - asbeir
+  partOfSpeech: v
+86941814-v:
+  definition:
+  - say, articulate, sound out, pronounce, enounce, enunciate — speak, pronounce,
+    or utter in a certain way
+  ili: i26483
+  members:
+  - asbeir
+  partOfSpeech: v
+87002822-v:
+  definition:
+  - say, tell, state — express in words
+  ili: i26632
   members:
   - asbeir
   partOfSpeech: v

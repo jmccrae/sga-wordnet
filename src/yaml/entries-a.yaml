@@ -2,114 +2,114 @@ accomol:
   n:
     sense:
     - id: 'accomol%1:06:00::'
-      synset: 83300738-n
+      synset: 87993082-n
     - id: 'accomol%1:14:01::'
-      synset: 89103239-n
+      synset: 83059103-n
 adcomla:
   v:
     sense:
     - id: 'adcomla%2:35:00::'
-      synset: 88277076-v
+      synset: 88506063-v
 adtreba:
   v:
     sense:
     - id: 'adtreba%2:40:00::'
-      synset: 83402941-v
+      synset: 85146580-v
 afracdae:
   a:
     sense:
     - id: 'afracdae%3:01:00::'
-      synset: 86863571-a
+      synset: 84937351-a
 aiccent:
   n:
     sense:
     - id: 'aiccent%1:10:00::'
-      synset: 81940406-n
+      synset: 88921522-n
 aicned:
   n:
     sense:
     - id: 'aicned%1:07:00::'
-      synset: 81267637-n
+      synset: 82559804-n
 aile:
   a:
     sense:
     - id: 'aile%3:00:00::'
-      synset: 86132659-a
+      synset: 88780467-a
 aimser:
   n:
     sense:
     - id: 'aimser%1:28:00::'
-      synset: 85003060-n
+      synset: 84836960-n
     - id: 'aimser%1:28:01::'
-      synset: 85656860-n
+      synset: 89962756-n
 ainm:
   n:
     sense:
     - id: 'ainm%1:10:00::'
-      synset: 80258995-n
+      synset: 86939996-n
     - id: 'ainm%1:10:01::'
-      synset: 81861800-n
+      synset: 84788963-n
     - id: 'ainm%1:26:02::'
-      synset: 87681215-n
+      synset: 81937208-n
     - id: 'ainm%1:10:03::'
-      synset: 84567670-n
+      synset: 83160390-n
 ainmmnid:
   a:
     sense:
     - id: 'ainmmnid%3:01:01::'
-      synset: 84033504-a
+      synset: 89033525-a
   n:
     sense:
     - id: 'ainmmnid%1:10:00::'
-      synset: 82575819-n
+      synset: 88482043-n
 aitherrechtaigthe:
   n:
     sense:
     - id: 'aitherrechtaigthe%1:10:00::'
-      synset: 80683811-n
+      synset: 86697922-n
 aittrebthach:
   n:
     sense:
     - id: 'aittrebthach%1:10:00::'
-      synset: 86551665-n
+      synset: 89057725-n
 amal:
   r:
     sense:
     - id: 'amal%4:02:00::'
-      synset: 81161933-r
+      synset: 85135742-r
 ar:
   r:
     sense:
     - id: 'ar%4:02:00::'
-      synset: 83316390-r
+      synset: 83067314-r
 aricc:
   v:
     sense:
     - id: 'aricc%2:39:00::'
-      synset: 85760643-v
+      synset: 87058334-v
 arsaid:
   n:
     sense:
     - id: 'arsaid%1:18:00::'
-      synset: 82357080-n
+      synset: 86464268-n
 asbeir:
   v:
     sense:
     - id: 'asbeir%2:32:00::'
-      synset: 81883676-v
+      synset: 84005320-v
     - id: 'asbeir%2:32:01::'
-      synset: 85673208-v
+      synset: 87002822-v
     - id: 'asbeir%2:32:02::'
-      synset: 87620547-v
+      synset: 86941814-v
     - id: 'asbeir%2:32:03::'
-      synset: 88045998-v
+      synset: 85784188-v
 atrab:
   n:
     sense:
     - id: 'atrab%1:03:00::'
-      synset: 88020863-n
+      synset: 81618529-n
 attá:
   v:
     sense:
     - id: 'attá%2:42:00::'
-      synset: 81151773-v
+      synset: 89295043-v

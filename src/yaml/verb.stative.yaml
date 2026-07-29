@@ -1,29 +1,29 @@
-80825849-v:
+86414182-v:
   definition:
-  - have an end, in a temporal, spatial, or quantitative sense; either spatial or
-    metaphorical
+  - stop, finish, terminate, cease, end — have an end, in a temporal, spatial, or
+    quantitative sense; either spatial or metaphorical
   ili: i34724
   members:
   - téit
   partOfSpeech: v
-81151773-v:
+87022866-v:
   definition:
-  - have an existence, be extant
-  ili: i34708
+  - have, feature — have as a feature
+  ili: i34822
   members:
-  - attá
+  - techtaid
   partOfSpeech: v
-86705559-v:
+88372326-v:
   definition:
-  - distinguish oneself
+  - stand out, surpass, excel — distinguish oneself
   ili: i35030
   members:
   - doróscai
   partOfSpeech: v
-88679274-v:
+89295043-v:
   definition:
-  - have as a feature
-  ili: i34822
+  - be, exist — have an existence, be extant
+  ili: i34708
   members:
-  - techtaid
+  - attá
   partOfSpeech: v

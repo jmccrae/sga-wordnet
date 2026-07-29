@@ -1,71 +1,182 @@
-80153171-a:
+80101918-s:
   definition:
-  - having undesirable or negative qualities
-  ili: i6173
-  members:
-  - olc
-  partOfSpeech: a
-80205486-s:
-  definition:
-  - serving to begin
+  - beginning, first — serving to begin
   ili: i5527
   members:
   - cétnae
   partOfSpeech: s
-81033008-s:
+80825790-s:
   definition:
-  - definite but not specified or identified
-  ili: i3898
-  members:
-  - derb
-  partOfSpeech: s
-81239152-a:
-  definition:
-  - not established beyond doubt; still undecided or unknown
-  ili: i1870
-  members:
-  - inderb
-  partOfSpeech: a
-81307611-s:
-  definition:
-  - unavoidably determined by prior circumstances
+  - necessary — unavoidably determined by prior circumstances
   ili: i1905
   members:
   - éicen
   partOfSpeech: s
-81940072-s:
+81510307-a:
   definition:
-  - similar in quality or character
+  - necessary — absolutely essential
+  ili: i8662
+  members:
+  - éicen
+  partOfSpeech: a
+81762366-s:
+  definition:
+  - akin, kindred — similar in quality or character
   ili: i11352
   members:
   - coibnestae
   partOfSpeech: s
-81993324-s:
+81765892-s:
   definition:
-  - belonging to an early stage of technical development; characterized by simplicity
-    and (often) crudeness
-  ili: i4503
+  - small, small-scale, pocket-size, pocket-sized, minor, modest — relatively moderate,
+    limited, or small
+  ili: i7722
   members:
-  - cétnaide
+  - becc
   partOfSpeech: s
-82433643-s:
+81827676-s:
   definition:
-  - distinctly separate from the first
+  - 3rd, tertiary, third — coming next after the second and just before the fourth
+    in position
+  ili: i12142
+  members:
+  - teirt
+  partOfSpeech: s
+81892052-s:
+  definition:
+  - special, particular, peculiar — unique or specific to a person or thing or category
+  ili: i6071
+  members:
+  - sainred
+  partOfSpeech: s
+82293685-s:
+  definition:
+  - second, 2d, 2nd — coming next after the first in position in space or time or
+    degree or magnitude
+  ili: i12141
+  members:
+  - tánaise
+  partOfSpeech: s
+82720354-s:
+  definition:
+  - certain — definite but not specified or identified
+  ili: i3898
+  members:
+  - derb
+  partOfSpeech: s
+83199480-s:
+  definition:
+  - common, mutual — common to or shared by two or more parties
+  ili: i11817
+  members:
+  - coitchenn
+  partOfSpeech: s
+83570020-a:
+  definition:
+  - clear — readily apparent to the mind
+  ili: i2425
+  members:
+  - follus
+  partOfSpeech: a
+83880759-s:
+  definition:
+  - different — distinctly separate from the first
   ili: i11343
   members:
   - sain
   partOfSpeech: s
-82886114-s:
+84550353-s:
   definition:
-  - belonging to times long past especially of the historical period before the fall
-    of the Western Roman Empire
+  - regular — conforming to a standard or pattern
+  ili: i12712
+  members:
+  - ríagolda
+  partOfSpeech: s
+85007864-a:
+  definition:
+  - present — temporal sense; intermediate between past and future; now existing or
+    happening or in consideration
+  ili: i9499
+  members:
+  - frecndairc
+  partOfSpeech: a
+85451944-s:
+  definition:
+  - different — differing from all others; not ordinary
+  ili: i2758
+  members:
+  - sain
+  partOfSpeech: s
+85457881-a:
+  definition:
+  - uncertain — not established beyond doubt; still undecided or unknown
+  ili: i1870
+  members:
+  - inderb
+  partOfSpeech: a
+86128746-s:
+  definition:
+  - ancient — belonging to times long past especially of the historical period before
+    the fall of the Western Roman Empire
   ili: i9485
   members:
   - sen
   partOfSpeech: s
-83262791-a:
+86133132-a:
   definition:
-  - same in identity
+  - individual, single — being or characteristic of a single thing or person
+  ili: i2774
+  members:
+  - óindae
+  - oín
+  partOfSpeech: a
+86144693-a:
+  definition:
+  - present — being or existing in a specified place
+  ili: i10145
+  members:
+  - frecndairc
+  partOfSpeech: a
+86652407-a:
+  definition:
+  - proper — marked by suitability or rightness or appropriateness
+  ili: i10311
+  members:
+  - díles
+  partOfSpeech: a
+87002668-a:
+  definition:
+  - plural — grammatical number category referring to two or more items or units
+  ili: i11999
+  members:
+  - ilar
+  partOfSpeech: a
+87378976-a:
+  definition:
+  - bad — having undesirable or negative qualities
+  ili: i6173
+  members:
+  - olc
+  partOfSpeech: a
+87553185-a:
+  definition:
+  - less — (comparative of `little' usually used with mass nouns) a quantifier meaning
+    not as great in amount or degree
+  ili: i8537
+  members:
+  - becc
+  partOfSpeech: a
+87831006-s:
+  definition:
+  - rude, primitive, crude — belonging to an early stage of technical development;
+    characterized by simplicity and (often) crudeness
+  ili: i4503
+  members:
+  - cétnaide
+  partOfSpeech: s
+88080213-a:
+  definition:
+  - same — same in identity
   ili: i11339
   members:
   - oín
@@ -73,153 +184,46 @@
   - cummae
   - inunn
   partOfSpeech: a
-83650412-s:
+88638420-s:
   definition:
-  - having all the qualities typical of the thing specified
-  ili: i10617
-  members:
-  - díles
-  partOfSpeech: s
-84122694-a:
-  definition:
-  - temporal sense; intermediate between past and future; now existing or happening
-    or in consideration
-  ili: i9499
-  members:
-  - frecndairc
-  partOfSpeech: a
-84151760-a:
-  definition:
-  - morally admirable
-  ili: i6195
-  members:
-  - maith
-  partOfSpeech: a
-84268066-s:
-  definition:
-  - common to or shared by two or more parties
-  ili: i11817
-  members:
-  - coitchenn
-  partOfSpeech: s
-84299076-s:
-  definition:
-  - commonly encountered
+  - usual, common — commonly encountered
   ili: i5312
   members:
   - coitchenn
   partOfSpeech: s
-84335668-a:
+88697422-s:
   definition:
-  - being or existing in a specified place
-  ili: i10145
+  - proper — having all the qualities typical of the thing specified
+  ili: i10617
   members:
-  - frecndairc
+  - díles
+  partOfSpeech: s
+88733271-a:
+  definition:
+  - good — morally admirable
+  ili: i6195
+  members:
+  - maith
   partOfSpeech: a
-84599011-a:
+88780467-a:
   definition:
-  - (comparative of `little' usually used with mass nouns) a quantifier meaning not
-    as great in amount or degree
-  ili: i8537
-  members:
-  - becc
-  partOfSpeech: a
-84647076-s:
-  definition:
-  - unique or specific to a person or thing or category
-  ili: i6071
-  members:
-  - sainred
-  partOfSpeech: s
-84677225-a:
-  definition:
-  - absolutely essential
-  ili: i8662
-  members:
-  - éicen
-  partOfSpeech: a
-84898043-s:
-  definition:
-  - little evolved from or characteristic of an earlier ancestral type
-  ili: i4501
-  members:
-  - cétnaide
-  partOfSpeech: s
-84960886-s:
-  definition:
-  - conforming to a standard or pattern
-  ili: i12712
-  members:
-  - ríagolda
-  partOfSpeech: s
-85095039-s:
-  definition:
-  - coming next after the second and just before the fourth in position
-  ili: i12142
-  members:
-  - teirt
-  partOfSpeech: s
-85824252-s:
-  definition:
-  - relatively moderate, limited, or small
-  ili: i7722
-  members:
-  - becc
-  partOfSpeech: s
-86116540-a:
-  definition:
-  - being or characteristic of a single thing or person
-  ili: i2774
-  members:
-  - óindae
-  - oín
-  partOfSpeech: a
-86132659-a:
-  definition:
-  - not the same one or ones already mentioned or implied; quantifier, other
+  - other — not the same one or ones already mentioned or implied; quantifier, other
   ili: i11342
   members:
   - aile
   partOfSpeech: a
-87090629-a:
+89212012-a:
   definition:
-  - grammatical number category referring to two or more items or units
-  ili: i11999
-  members:
-  - ilar
-  partOfSpeech: a
-87176326-s:
-  definition:
-  - coming next after the first in position in space or time or degree or magnitude
-  ili: i12141
-  members:
-  - tánaise
-  partOfSpeech: s
-88347611-a:
-  definition:
-  - having few parts; not complex or complicated or involved
+  - simple — having few parts; not complex or complicated or involved
   ili: i11962
   members:
   - díuit
   partOfSpeech: a
-89251255-a:
+89677527-s:
   definition:
-  - readily apparent to the mind
-  ili: i2425
+  - primitive, archaic — little evolved from or characteristic of an earlier ancestral
+    type
+  ili: i4501
   members:
-  - follus
-  partOfSpeech: a
-89267444-a:
-  definition:
-  - marked by suitability or rightness or appropriateness
-  ili: i10311
-  members:
-  - díles
-  partOfSpeech: a
-89714926-s:
-  definition:
-  - differing from all others; not ordinary
-  ili: i2758
-  members:
-  - sain
+  - cétnaide
   partOfSpeech: s

@@ -1,37 +1,38 @@
-82892106-a:
+80365201-a:
   definition:
-  - serving to express or indicate possession
-  ili: i16263
-  members:
-  - genitiu
-  partOfSpeech: a
-84033504-a:
-  definition:
-  - serving as or indicating the subject of a verb and words identified with the subject
-    of a copular verb
-  ili: i15641
-  members:
-  - ainmmnid
-  partOfSpeech: a
-86863571-a:
-  definition:
-  - of or relating to the nations of Africa or their peoples
-  ili: i16770
-  members:
-  - afracdae
-  partOfSpeech: a
-87219221-a:
-  definition:
-  - relating to the ablative case
+  - ablative — relating to the ablative case
   ili: i17421
   members:
   - fochslaid
   partOfSpeech: a
-88829417-a:
+84937351-a:
   definition:
-  - of or relating to or characteristic of Greece or the Greeks or the Greek language
+  - African — of or relating to the nations of Africa or their peoples
+  ili: i16770
+  members:
+  - afracdae
+  partOfSpeech: a
+86287358-a:
+  definition:
+  - possessive, genitive — serving to express or indicate possession
+  ili: i16263
+  members:
+  - genitiu
+  partOfSpeech: a
+88528725-a:
+  definition:
+  - Grecian, Greek, Hellenic — of or relating to or characteristic of Greece or the
+    Greeks or the Greek language
   ili: i17254
   members:
   - grécde
   - gréc
+  partOfSpeech: a
+89033525-a:
+  definition:
+  - nominative — serving as or indicating the subject of a verb and words identified
+    with the subject of a copular verb
+  ili: i15641
+  members:
+  - ainmmnid
   partOfSpeech: a

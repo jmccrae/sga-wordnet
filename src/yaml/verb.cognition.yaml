@@ -1,20 +1,22 @@
-86822565-v:
+81960504-v:
   definition:
-  - interpret something that is written or printed
-  ili: i24875
-  members:
-  - léigend
-  partOfSpeech: v
-86852653-v:
-  definition:
-  - establish the validity of something, as by an example, explanation or experiment
+  - establish, prove, show, shew, demonstrate — establish the validity of something,
+    as by an example, explanation or experiment
   ili: i25049
   members:
   - taidbsiu
   partOfSpeech: v
-89232778-v:
+84706651-v:
   definition:
-  - mark as different
+  - read — interpret something that is written or printed
+  ili: i24875
+  members:
+  - léigend
+  partOfSpeech: v
+85028320-v:
+  definition:
+  - separate, secern, secernate, severalise, severalize, differentiate, distinguish,
+    tell, tell apart — mark as different
   ili: i24985
   members:
   - dechor

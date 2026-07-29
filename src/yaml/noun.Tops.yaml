@@ -1,22 +1,23 @@
-83099911-n:
+81618529-n:
   definition:
-  - the real physical matter of which a person or thing consists
-  ili: i35567
+  - possession — anything owned or possessed
+  ili: i35591
   members:
-  - folad
+  - atrab
   partOfSpeech: n
-84906194-n:
+89251292-n:
   definition:
-  - 'a human being; person, singular, assertive existential pronoun; pronoun, person,
-    singular; quantifier: assertive existential'
+  - 'soul, individual, somebody, someone, person, mortal — a human being; person,
+    singular, assertive existential pronoun; pronoun, person, singular; quantifier:
+    assertive existential'
   ili: i35562
   members:
   - persan
   partOfSpeech: n
-88020863-n:
+89948552-n:
   definition:
-  - anything owned or possessed
-  ili: i35591
+  - substance — the real physical matter of which a person or thing consists
+  ili: i35567
   members:
-  - atrab
+  - folad
   partOfSpeech: n
