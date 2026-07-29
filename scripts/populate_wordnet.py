@@ -3,10 +3,14 @@
 data/sga_incomplete.results_AD.xlsx holds WSD candidates (Old Irish lemma,
 English WordNet sense key, definition) reviewed by an annotator, with
 "Correct Translation?" / "Correct Definition?" 0/1 columns. This script
-keeps rows where both are accepted, resolves each sense key to its English
-synset (via a local `wn` library database - see
-https://github.com/goodmami/wn), and builds an EWE automaton script
-(https://github.com/jmccrae/ewe) that:
+keeps rows where both are accepted, plus any row whose (lemma, sense key)
+appears in data/sense_corrections.csv - a manually curated list of rejected
+rows where the annotator's notes made clear the translation was right but
+the WSD system picked the wrong sense of that word; those rows are
+substituted with the corrected sense key from that file instead of being
+dropped. It then resolves each sense key to its English synset (via a local
+`wn` library database - see https://github.com/goodmami/wn), and builds an
+EWE automaton script (https://github.com/jmccrae/ewe) that:
 
   - creates a new synset per accepted English sense (same lexfile and
     part of speech) with the Old Irish lemma(s) as members - multiple
@@ -28,6 +32,7 @@ build (`ewe automaton`).
 """
 
 import argparse
+import csv
 import shutil
 import sqlite3
 import subprocess
@@ -40,6 +45,7 @@ import openpyxl
 import yaml
 
 DEFAULT_XLSX = "data/sga_incomplete.results_AD.xlsx"
+DEFAULT_CORRECTIONS = "data/sense_corrections.csv"
 DEFAULT_WN_DB = str(Path("~/.wn_data/wn.db").expanduser())
 
 
@@ -48,16 +54,43 @@ def sense_key_to_wn_id(sense_key: str) -> str:
     return "oewn-" + sense_key.replace("%", "__").replace(":", ".")
 
 
-def load_accepted_rows(xlsx_path):
+def load_corrections(csv_path):
+    """Load (lemma, wrong_sense_key) -> corrected_sense_key overrides for
+    rejected rows whose annotator notes show the translation was right and
+    only the WSD system's sense choice was wrong. Tolerant of a missing
+    file, since the corrections layer is optional."""
+    path = Path(csv_path)
+    if not path.exists():
+        return {}
+    with open(path, newline="", encoding="utf-8") as f:
+        return {
+            (row["lemma"], row["wrong_sense_key"]): row["corrected_sense_key"]
+            for row in csv.DictReader(f)
+        }
+
+
+def load_accepted_rows(xlsx_path, corrections):
+    """Rows accepted outright (both flags 1), plus rejected rows covered by
+    `corrections`, with the corrected sense key substituted in. Returns
+    (rows, correction_count)."""
     wb = openpyxl.load_workbook(xlsx_path, data_only=True)
     ws = wb.active
     rows = []
+    matched_corrections = set()
     for lemma, sense_key, _definition, _freq, correct_translation, correct_definition, _notes in ws.iter_rows(
         min_row=2, values_only=True
     ):
         if correct_translation == 1 and correct_definition == 1:
             rows.append((lemma, sense_key))
-    return rows
+        elif (lemma, sense_key) in corrections:
+            rows.append((lemma, corrections[(lemma, sense_key)]))
+            matched_corrections.add((lemma, sense_key))
+
+    unmatched = corrections.keys() - matched_corrections
+    for lemma, sense_key in sorted(unmatched):
+        print(f"WARNING: correction for {lemma!r} {sense_key!r} did not match any xlsx row", file=sys.stderr)
+
+    return rows, len(matched_corrections)
 
 
 def resolve_sense(con, sense_key):
@@ -138,6 +171,7 @@ def build_automaton(groups):
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--xlsx", default=DEFAULT_XLSX)
+    parser.add_argument("--corrections", default=DEFAULT_CORRECTIONS, help="CSV of (lemma, wrong_sense_key) -> corrected_sense_key overrides for rejected rows")
     parser.add_argument("--wn-db", default=DEFAULT_WN_DB, help="Path to a `wn` library sqlite database")
     parser.add_argument("--wordnet-dir", default=".", help="Directory containing settings.toml / src/yaml")
     parser.add_argument("--ewe-bin", default="ewe-cli", help="Path to (or name on PATH of) the ewe_cli binary")
@@ -145,7 +179,8 @@ def main():
     parser.add_argument("--apply", action="store_true", help="Actually run the script through ewe_cli (default: only generate it)")
     args = parser.parse_args()
 
-    rows = load_accepted_rows(args.xlsx)
+    corrections = load_corrections(args.corrections)
+    rows, correction_count = load_accepted_rows(args.xlsx, corrections)
     con = sqlite3.connect(args.wn_db)
     groups, unresolved = build_groups(rows, con)
 
@@ -162,7 +197,7 @@ def main():
     with open(args.script_out, "w", encoding="utf-8") as f:
         yaml.safe_dump(actions, f, allow_unicode=True, sort_keys=False)
 
-    print(f"{len(rows)} accepted rows -> {len(groups)} synsets ({len(unresolved)} unresolved sense keys)")
+    print(f"{len(rows)} accepted rows ({correction_count} via corrections) -> {len(groups)} synsets ({len(unresolved)} unresolved sense keys)")
     for lemma, sk in unresolved:
         print(f"  unresolved: {lemma} {sk}", file=sys.stderr)
     print(f"Automaton script written to {args.script_out}")
