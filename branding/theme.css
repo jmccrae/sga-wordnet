@@ -79,3 +79,24 @@
     src: url(https://fonts.gstatic.com/s/scopeone/v14/WBLnrEXKYFlGHrOKmGDFXEXI.ttf)
         format("truetype");
 }
+
+/* Workarounds for two ewe_dioxus layout bugs (filed upstream, remove these once
+ * fixed there - https://github.com/jmccrae/ewe/issues/11 and /issues/12):
+ *
+ * 1. #logo-img in main.css is a fixed `flex: 0 0 125px` box sized for the
+ *    built-in default logo (a ~140x140 square SVG); it doesn't constrain the
+ *    width of the embedded <svg> itself, so our flag (1320x680, much wider
+ *    than tall, with explicit pixel width/height attributes rather than only
+ *    a viewBox) renders at its own literal size and overflows the header.
+ * 2. h1.en-title hardcodes font-weight: 700, but Uncial Antiqua only ships a
+ *    400 weight - left as-is, that 700 request triggers the browser's
+ *    synthetic/faux bold, which looks distorted on this typeface. */
+#logo-img svg {
+    width: 100%;
+    height: auto;
+    max-width: 125px;
+}
+
+h1.en-title {
+    font-weight: 400;
+}
