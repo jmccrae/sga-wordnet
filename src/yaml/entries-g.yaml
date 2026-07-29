@@ -1,1 +1,46 @@
-{}
+genitiu:
+  a:
+    sense:
+    - id: 'genitiu%3:01:00::'
+      synset: 82892106-a
+  n:
+    sense:
+    - id: 'genitiu%1:10:01::'
+      synset: 86551665-n
+gerind:
+  n:
+    sense:
+    - id: 'gerind%1:10:00::'
+      synset: 80210438-n
+gním:
+  n:
+    sense:
+    - id: 'gním%1:26:00::'
+      synset: 89170686-n
+    - id: 'gním%1:04:01::'
+      synset: 84418721-n
+grácad:
+  v:
+    sense:
+    - id: 'grácad%2:32:00::'
+      synset: 85649300-v
+gréc:
+  a:
+    sense:
+    - id: 'gréc%3:01:00::'
+      synset: 88829417-a
+grécde:
+  a:
+    sense:
+    - id: 'grécde%3:01:00::'
+      synset: 88829417-a
+guthaigthe:
+  n:
+    sense:
+    - id: 'guthaigthe%1:10:00::'
+      synset: 84001914-n
+guttae:
+  n:
+    sense:
+    - id: 'guttae%1:10:00::'
+      synset: 84001914-n

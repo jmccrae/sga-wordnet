@@ -1,1 +1,141 @@
-{}
+dano:
+  r:
+    sense:
+    - id: 'dano%4:02:00::'
+      synset: 85241972-r
+    - id: 'dano%4:02:01::'
+      synset: 86503983-r
+    - id: 'dano%4:02:02::'
+      synset: 89063750-r
+dechor:
+  n:
+    sense:
+    - id: 'dechor%1:07:00::'
+      synset: 83411785-n
+    - id: 'dechor%1:09:02::'
+      synset: 83048767-n
+  v:
+    sense:
+    - id: 'dechor%2:31:01::'
+      synset: 89232778-v
+deired:
+  n:
+    sense:
+    - id: 'deired%1:09:00::'
+      synset: 89551216-n
+delb:
+  n:
+    sense:
+    - id: 'delb%1:09:00::'
+      synset: 89249946-n
+derb:
+  s:
+    sense:
+    - id: derb%5:00:00:???:00
+      synset: 81033008-s
+desimrecht:
+  n:
+    sense:
+    - id: 'desimrecht%1:09:00::'
+      synset: 87580321-n
+didiu:
+  r:
+    sense:
+    - id: 'didiu%4:02:00::'
+      synset: 85241972-r
+dliged:
+  n:
+    sense:
+    - id: 'dliged%1:09:00::'
+      synset: 80428490-n
+dobeir:
+  v:
+    sense:
+    - id: 'dobeir%2:35:00::'
+      synset: 85228128-v
+dobríathar:
+  n:
+    sense:
+    - id: 'dobríathar%1:10:00::'
+      synset: 83522739-n
+dofoirndea:
+  v:
+    sense:
+    - id: 'dofoirndea%2:32:00::'
+      synset: 87993335-v
+doformaig:
+  v:
+    sense:
+    - id: 'doformaig%2:30:00::'
+      synset: 85059447-v
+dogní:
+  v:
+    sense:
+    - id: 'dogní%2:36:00::'
+      synset: 81461899-v
+    - id: 'dogní%2:36:01::'
+      synset: 89145271-v
+doróscai:
+  v:
+    sense:
+    - id: 'doróscai%2:42:00::'
+      synset: 86705559-v
+déde:
+  n:
+    sense:
+    - id: 'déde%1:14:00::'
+      synset: 80728378-n
+déḟogur:
+  n:
+    sense:
+    - id: 'déḟogur%1:10:00::'
+      synset: 86512211-n
+día:
+  n:
+    sense:
+    - id: 'día%1:18:00::'
+      synset: 80810547-n
+díall:
+  n:
+    sense:
+    - id: 'díall%1:24:00::'
+      synset: 80162449-n
+dígabthach:
+  n:
+    sense:
+    - id: 'dígabthach%1:10:00::'
+      synset: 88097313-n
+dígbál:
+  n:
+    sense:
+    - id: 'dígbál%1:22:00::'
+      synset: 86478301-n
+díles:
+  a:
+    sense:
+    - id: 'díles%3:00:01::'
+      synset: 89267444-a
+  s:
+    sense:
+    - id: díles%5:00:00:???:00
+      synset: 83650412-s
+dílse:
+  n:
+    sense:
+    - id: 'dílse%1:07:00::'
+      synset: 84533167-n
+díuit:
+  a:
+    sense:
+    - id: 'díuit%3:00:00::'
+      synset: 88347611-a
+díṡruthigthe:
+  v:
+    sense:
+    - id: 'díṡruthigthe%2:30:00::'
+      synset: 81771855-v
+dúil:
+  n:
+    sense:
+    - id: 'dúil%1:09:00::'
+      synset: 82234281-n

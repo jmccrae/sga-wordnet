@@ -1,1 +1,68 @@
-{}
+fers:
+  n:
+    sense:
+    - id: 'fers%1:10:00::'
+      synset: 82856238-n
+fili:
+  n:
+    sense:
+    - id: 'fili%1:18:00::'
+      synset: 87918692-n
+fochslaid:
+  a:
+    sense:
+    - id: 'fochslaid%3:01:00::'
+      synset: 87219221-a
+fodail:
+  n:
+    sense:
+    - id: 'fodail%1:09:00::'
+      synset: 83048767-n
+fogur:
+  n:
+    sense:
+    - id: 'fogur%1:07:00::'
+      synset: 82351457-n
+foillsigud:
+  n:
+    sense:
+    - id: 'foillsigud%1:10:00::'
+      synset: 87982973-n
+folad:
+  n:
+    sense:
+    - id: 'folad%1:03:00::'
+      synset: 83099911-n
+    - id: 'folad%1:09:01::'
+      synset: 89103499-n
+follus:
+  a:
+    sense:
+    - id: 'follus%3:00:00::'
+      synset: 89251255-a
+forgnúis:
+  n:
+    sense:
+    - id: 'forgnúis%1:09:00::'
+      synset: 89249946-n
+fot:
+  n:
+    sense:
+    - id: 'fot%1:07:00::'
+      synset: 88958182-n
+frecndairc:
+  a:
+    sense:
+    - id: 'frecndairc%3:00:00::'
+      synset: 84122694-a
+    - id: 'frecndairc%3:00:02::'
+      synset: 84335668-a
+  n:
+    sense:
+    - id: 'frecndairc%1:28:01::'
+      synset: 86276635-n
+frecrae:
+  n:
+    sense:
+    - id: 'frecrae%1:10:00::'
+      synset: 85818009-n

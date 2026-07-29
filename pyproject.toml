@@ -7,6 +7,8 @@ requires-python = ">=3.11"
 dependencies = [
     "conllu>=6.0.0",
     "nltk>=3.10.0",
+    "openpyxl>=3.1.5",
+    "pyyaml>=6.0.3",
     "teanga>=0.1.0",
 ]
 

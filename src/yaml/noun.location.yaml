@@ -1,1 +1,22 @@
-{}
+80844909-n:
+  definition:
+  - a point located with respect to surface features of some region
+  ili: i82501
+  members:
+  - loc
+  partOfSpeech: n
+84996843-n:
+  definition:
+  - a large and densely populated urban area; may include several independent administrative
+    districts
+  ili: i81847
+  members:
+  - cathair
+  partOfSpeech: n
+85677460-n:
+  definition:
+  - a general vicinity
+  ili: i82372
+  members:
+  - loc
+  partOfSpeech: n

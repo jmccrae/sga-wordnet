@@ -1,1 +1,30 @@
-{}
+macc:
+  n:
+    sense:
+    - id: 'macc%1:18:00::'
+      synset: 82255227-n
+maith:
+  a:
+    sense:
+    - id: 'maith%3:00:00::'
+      synset: 84151760-a
+mascul:
+  n:
+    sense:
+    - id: 'mascul%1:10:00::'
+      synset: 86563991-n
+mod:
+  n:
+    sense:
+    - id: 'mod%1:07:00::'
+      synset: 85549682-n
+máthair:
+  n:
+    sense:
+    - id: 'máthair%1:18:00::'
+      synset: 82629015-n
+méit:
+  n:
+    sense:
+    - id: 'méit%1:07:00::'
+      synset: 81895008-n

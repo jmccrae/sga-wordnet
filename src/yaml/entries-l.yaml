@@ -1,1 +1,24 @@
-{}
+lainne:
+  n:
+    sense:
+    - id: 'lainne%1:12:00::'
+      synset: 87779680-n
+liter:
+  n:
+    sense:
+    - id: 'liter%1:10:00::'
+      synset: 86014271-n
+loc:
+  n:
+    sense:
+    - id: 'loc%1:15:00::'
+      synset: 85677460-n
+    - id: 'loc%1:04:01::'
+      synset: 81266300-n
+    - id: 'loc%1:15:02::'
+      synset: 80844909-n
+léigend:
+  v:
+    sense:
+    - id: 'léigend%2:31:00::'
+      synset: 86822565-v

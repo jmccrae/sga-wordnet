@@ -1,1 +1,22 @@
-{}
+85003060-n:
+  definition:
+  - a reading of a point in time as given by a clock
+  ili: i116704
+  members:
+  - aimser
+  partOfSpeech: n
+85656860-n:
+  definition:
+  - a suitable moment
+  ili: i117361
+  members:
+  - aimser
+  partOfSpeech: n
+86276635-n:
+  definition:
+  - the period of time that is happening now; any continuous stretch of time including
+    the moment of speech
+  ili: i116652
+  members:
+  - frecndairc
+  partOfSpeech: n

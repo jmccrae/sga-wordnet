@@ -1,1 +1,57 @@
-{}
+sain:
+  s:
+    sense:
+    - id: sain%5:00:00:???:00
+      synset: 82433643-s
+    - id: sain%5:00:01:???:00
+      synset: 89714926-s
+sainred:
+  n:
+    sense:
+    - id: 'sainred%1:09:00::'
+      synset: 83143932-n
+    - id: 'sainred%1:07:01::'
+      synset: 83498012-n
+  s:
+    sense:
+    - id: sainred%5:00:02:???:00
+      synset: 84647076-s
+sechmadachte:
+  n:
+    sense:
+    - id: 'sechmadachte%1:24:00::'
+      synset: 81740303-n
+sen:
+  s:
+    sense:
+    - id: sen%5:00:00:???:00
+      synset: 82886114-s
+sillab:
+  n:
+    sense:
+    - id: 'sillab%1:10:00::'
+      synset: 85771692-n
+slond:
+  v:
+    sense:
+    - id: 'slond%2:32:00::'
+      synset: 87993335-v
+sluindid:
+  v:
+    sense:
+    - id: 'sluindid%2:32:00::'
+      synset: 87993335-v
+    - id: 'sluindid%2:32:01::'
+      synset: 85165019-v
+son:
+  n:
+    sense:
+    - id: 'son%1:10:00::'
+      synset: 81282751-n
+    - id: 'son%1:07:01::'
+      synset: 82351457-n
+superlait:
+  n:
+    sense:
+    - id: 'superlait%1:10:00::'
+      synset: 86682867-n

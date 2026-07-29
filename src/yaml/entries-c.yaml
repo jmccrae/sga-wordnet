@@ -1,1 +1,123 @@
-{}
+cathair:
+  n:
+    sense:
+    - id: 'cathair%1:15:00::'
+      synset: 84996843-n
+cenél:
+  n:
+    sense:
+    - id: 'cenél%1:14:00::'
+      synset: 81799540-n
+    - id: 'cenél%1:10:01::'
+      synset: 83948703-n
+cinniud:
+  n:
+    sense:
+    - id: 'cinniud%1:10:00::'
+      synset: 87145126-n
+co:
+  r:
+    sense:
+    - id: 'co%4:02:00::'
+      synset: 85746504-r
+coibnestae:
+  s:
+    sense:
+    - id: coibnestae%5:00:00:???:00
+      synset: 81940072-s
+coindelg:
+  n:
+    sense:
+    - id: 'coindelg%1:24:00::'
+      synset: 84531947-n
+    - id: 'coindelg%1:04:01::'
+      synset: 83541844-n
+coitchenn:
+  s:
+    sense:
+    - id: coitchenn%5:00:00:???:00
+      synset: 84299076-s
+    - id: coitchenn%5:00:01:???:00
+      synset: 84268066-s
+comaccomol:
+  n:
+    sense:
+    - id: 'comaccomol%1:10:00::'
+      synset: 89403080-n
+comaisndís:
+  n:
+    sense:
+    - id: 'comaisndís%1:24:00::'
+      synset: 85480150-n
+comparit:
+  n:
+    sense:
+    - id: 'comparit%1:10:00::'
+      synset: 84243550-n
+comṡuidigthe:
+  n:
+    sense:
+    - id: 'comṡuidigthe%1:09:00::'
+      synset: 85137272-n
+comṡuidigud:
+  n:
+    sense:
+    - id: 'comṡuidigud%1:04:00::'
+      synset: 83690007-n
+conson:
+  n:
+    sense:
+    - id: 'conson%1:10:00::'
+      synset: 83562478-n
+    - id: 'conson%1:10:01::'
+      synset: 88040415-n
+cosmail:
+  r:
+    sense:
+    - id: 'cosmail%4:02:00::'
+      synset: 81495488-r
+cosmailius:
+  n:
+    sense:
+    - id: 'cosmailius%1:07:00::'
+      synset: 89666477-n
+cumachtae:
+  n:
+    sense:
+    - id: 'cumachtae%1:07:00::'
+      synset: 83348785-n
+    - id: 'cumachtae%1:07:01::'
+      synset: 82954118-n
+cummae:
+  a:
+    sense:
+    - id: 'cummae%3:00:00::'
+      synset: 83262791-a
+cumscugud:
+  n:
+    sense:
+    - id: 'cumscugud%1:24:00::'
+      synset: 85103413-n
+cétnae:
+  a:
+    sense:
+    - id: 'cétnae%3:00:00::'
+      synset: 83262791-a
+  s:
+    sense:
+    - id: cétnae%5:00:01:???:00
+      synset: 80205486-s
+cétnaide:
+  s:
+    sense:
+    - id: cétnaide%5:00:00:???:00
+      synset: 84898043-s
+    - id: cétnaide%5:00:01:???:00
+      synset: 81993324-s
+cíall:
+  n:
+    sense:
+    - id: 'cíall%1:09:00::'
+      synset: 89103499-n
+    - id: 'cíall%1:09:01::'
+      synset: 84330578-n

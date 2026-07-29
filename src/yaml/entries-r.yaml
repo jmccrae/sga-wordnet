@@ -1,1 +1,38 @@
-{}
+randatu:
+  n:
+    sense:
+    - id: 'randatu%1:07:00::'
+      synset: 84983458-n
+rann:
+  n:
+    sense:
+    - id: 'rann%1:17:00::'
+      synset: 80192930-n
+    - id: 'rann%1:06:01::'
+      synset: 81947506-n
+    - id: 'rann%1:24:02::'
+      synset: 87916767-n
+    - id: 'rann%1:09:03::'
+      synset: 80872238-n
+    - id: 'rann%1:09:04::'
+      synset: 81413164-n
+ranngabál:
+  n:
+    sense:
+    - id: 'ranngabál%1:10:00::'
+      synset: 88332605-n
+re:
+  r:
+    sense:
+    - id: 're%4:02:00::'
+      synset: 85677135-r
+remṡuidigud:
+  n:
+    sense:
+    - id: 'remṡuidigud%1:10:00::'
+      synset: 83435134-n
+ríagolda:
+  s:
+    sense:
+    - id: ríagolda%5:00:00:???:00
+      synset: 84960886-s

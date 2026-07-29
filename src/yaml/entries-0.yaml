@@ -1,1 +1,49 @@
-{}
+áirem:
+  n:
+    sense:
+    - id: 'áirem%1:23:00::'
+      synset: 82972994-n
+ám:
+  r:
+    sense:
+    - id: 'ám%4:02:00::'
+      synset: 80779431-r
+áram:
+  n:
+    sense:
+    - id: 'áram%1:23:00::'
+      synset: 82972994-n
+éicen:
+  a:
+    sense:
+    - id: 'éicen%3:00:00::'
+      synset: 84677225-a
+  s:
+    sense:
+    - id: éicen%5:00:01:???:00
+      synset: 81307611-s
+érchoiliud:
+  n:
+    sense:
+    - id: 'érchoiliud%1:10:00::'
+      synset: 87145126-n
+íar:
+  r:
+    sense:
+    - id: 'íar%4:02:00::'
+      synset: 89051015-r
+íth:
+  n:
+    sense:
+    - id: 'íth%1:13:00::'
+      synset: 88390434-n
+óindae:
+  a:
+    sense:
+    - id: 'óindae%3:00:00::'
+      synset: 86116540-a
+úathad:
+  n:
+    sense:
+    - id: 'úathad%1:10:00::'
+      synset: 85866699-n

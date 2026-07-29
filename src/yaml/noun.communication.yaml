@@ -1,1 +1,299 @@
-{}
+80210438-n:
+  definition:
+  - a noun formed from a verb (such as the `-ing' form of an English verb when used
+    as a noun)
+  ili: i69684
+  members:
+  - gerind
+  partOfSpeech: n
+80258995-n:
+  definition:
+  - a language unit by which a person or thing is known
+  ili: i69761
+  members:
+  - ainm
+  partOfSpeech: n
+80354926-n:
+  definition:
+  - the word class that serves as the predicate of a sentence
+  ili: i69683
+  members:
+  - bríathar
+  partOfSpeech: n
+80683811-n:
+  definition:
+  - a family name derived from name of your father or a paternal ancestor (especially
+    with an affix (such as -son in English or O'- in Irish) added to the name of your
+    father or a paternal ancestor)
+  ili: i69768
+  members:
+  - aitherrechtaigthe
+  partOfSpeech: n
+81282751-n:
+  definition:
+  - a unit of language that native speakers can identify
+  ili: i69544
+  members:
+  - son
+  - epert
+  partOfSpeech: n
+81861800-n:
+  definition:
+  - the word class that can serve as the subject or object of a verb, the object of
+    a preposition, or in apposition
+  ili: i69682
+  members:
+  - ainm
+  partOfSpeech: n
+81940406-n:
+  definition:
+  - a diacritical mark used to indicate stress or placed above a vowel to indicate
+    a special pronunciation
+  ili: i72344
+  members:
+  - aiccent
+  partOfSpeech: n
+82575819-n:
+  definition:
+  - the category of nouns serving as the grammatical subject of a verb
+  ili: i69647
+  members:
+  - ainmmnid
+  partOfSpeech: n
+82856238-n:
+  definition:
+  - a line of metrical text
+  ili: i70038
+  members:
+  - fers
+  partOfSpeech: n
+83111406-n:
+  definition:
+  - (language) communication by word of mouth
+  ili: i74022
+  members:
+  - insce
+  partOfSpeech: n
+83435134-n:
+  definition:
+  - a function word that combines with a noun or pronoun or noun phrase to form a
+    prepositional phrase that can have an adverbial or adjectival relation to some
+    other word
+  ili: i69717
+  members:
+  - remṡuidigud
+  partOfSpeech: n
+83522739-n:
+  definition:
+  - the word class that qualifies verbs or clauses
+  ili: i69689
+  members:
+  - dobríathar
+  partOfSpeech: n
+83562478-n:
+  definition:
+  - a letter of the alphabet standing for a spoken consonant
+  ili: i74052
+  members:
+  - conson
+  partOfSpeech: n
+83948703-n:
+  definition:
+  - a grammatical category in inflected languages governing the agreement between
+    nouns and pronouns and adjectives; in some languages it is quite arbitrary but
+    in Indo-European languages it is usually based on sex or animateness
+  ili: i69735
+  members:
+  - cenél
+  partOfSpeech: n
+84001914-n:
+  definition:
+  - a speech sound made with the vocal tract open
+  ili: i74034
+  members:
+  - guthaigthe
+  - guttae
+  partOfSpeech: n
+84243550-n:
+  definition:
+  - the comparative form of an adjective or adverb
+  ili: i69707
+  members:
+  - comparit
+  partOfSpeech: n
+84301194-n:
+  definition:
+  - a gender that refers chiefly (but not exclusively) to inanimate objects (neither
+    masculine nor feminine)
+  ili: i69738
+  members:
+  - neutur
+  partOfSpeech: n
+84567670-n:
+  definition:
+  - a content word that can be used to refer to a person, place, thing, quality, or
+    action
+  ili: i69690
+  members:
+  - ainm
+  partOfSpeech: n
+85605452-n:
+  definition:
+  - the primary form of an adjective or adverb; denotes a quality without qualification,
+    comparison, or relation to increase or diminution
+  ili: i69706
+  members:
+  - posit
+  partOfSpeech: n
+85771692-n:
+  definition:
+  - a unit of spoken language larger than a phoneme
+  ili: i69613
+  members:
+  - sillab
+  partOfSpeech: n
+85818009-n:
+  definition:
+  - a statement that solves a problem or explains how to solve the problem
+  ili: i71933
+  members:
+  - frecrae
+  partOfSpeech: n
+85866699-n:
+  definition:
+  - the form of a word that is used to denote a singleton
+  ili: i69586
+  members:
+  - úathad
+  partOfSpeech: n
+86014271-n:
+  definition:
+  - the conventional characters of the alphabet used to represent speech
+  ili: i72381
+  members:
+  - liter
+  partOfSpeech: n
+86512211-n:
+  definition:
+  - a vowel sound that starts near the articulatory position for one vowel and moves
+    toward the position for another
+  ili: i74033
+  members:
+  - déḟogur
+  partOfSpeech: n
+86551665-n:
+  definition:
+  - the case expressing ownership
+  ili: i69651
+  members:
+  - genitiu
+  - aittrebthach
+  partOfSpeech: n
+86563991-n:
+  definition:
+  - a gender that refers chiefly (but not exclusively) to males or to objects classified
+    as male
+  ili: i69737
+  members:
+  - mascul
+  partOfSpeech: n
+86682867-n:
+  definition:
+  - the superlative form of an adjective or adverb
+  ili: i69708
+  members:
+  - superlait
+  partOfSpeech: n
+86943352-n:
+  definition:
+  - a grammatical category used in the classification of pronouns, possessive determiners,
+    and verb forms according to whether they indicate the speaker, the addressee,
+    or a third party
+  ili: i69726
+  members:
+  - persan
+  partOfSpeech: n
+87145126-n:
+  definition:
+  - a concise explanation of the meaning of a word or phrase or symbol
+  ili: i71937
+  members:
+  - érchoiliud
+  - cinniud
+  partOfSpeech: n
+87162747-n:
+  definition:
+  - the category of nouns serving as the indirect object of a verb
+  ili: i69650
+  members:
+  - tobarthaid
+  partOfSpeech: n
+87599085-n:
+  definition:
+  - the message that is intended or expressed or signified
+  ili: i71150
+  members:
+  - inne
+  - tórand
+  partOfSpeech: n
+87893823-n:
+  definition:
+  - the form of a word that is used to denote more than one
+  ili: i69585
+  members:
+  - ilar
+  partOfSpeech: n
+87898447-n:
+  definition:
+  - nouns or pronouns or adjectives (often marked by inflection) related in some way
+    to other words in a sentence
+  ili: i69646
+  members:
+  - tuisel
+  partOfSpeech: n
+87982973-n:
+  definition:
+  - proof by a process of argument or a series of proposition proving an asserted
+    conclusion
+  ili: i71415
+  members:
+  - foillsigud
+  partOfSpeech: n
+88040415-n:
+  definition:
+  - a speech sound that is not a vowel
+  ili: i74051
+  members:
+  - conson
+  partOfSpeech: n
+88097313-n:
+  definition:
+  - a word that is formed with a suffix (such as -let or -kin) to indicate smallness
+  ili: i69556
+  members:
+  - dígabthach
+  partOfSpeech: n
+88332605-n:
+  definition:
+  - a non-finite form of the verb; in English it is used adjectivally and to form
+    compound tenses
+  ili: i69745
+  members:
+  - ranngabál
+  partOfSpeech: n
+89403080-n:
+  definition:
+  - an uninflected function word that serves to conjoin words or phrases or clauses
+    or sentences
+  ili: i69721
+  members:
+  - comaccomol
+  partOfSpeech: n
+89440460-n:
+  definition:
+  - a group of words that form a constituent of a sentence and are considered as a
+    single unit
+  ili: i69660
+  members:
+  - imḟognam
+  partOfSpeech: n
