@@ -45,6 +45,26 @@ Editor](https://github.com/jmccrae/ewe).
   directory. `wordnet.db`/`corpus.db`, the databases EWE builds from
   `src/yaml/`, are git-ignored and rebuilt locally on first run.
 
+## Pipeline scripts
+
+- `scripts/conllu_to_teanga.py` — converts `data/sga_incomplete.conllu` to
+  Teanga YAML (`data/sga_incomplete.teanga.yaml`), the corpus format used
+  by EWE's `corpus_source` / KWIC lookups.
+- `scripts/conllu_to_en_ga.py` — generates the fast_align bitext
+  (`data/sga_incomplete.en-ga`): one line per sentence, pairing the Old
+  Irish lemma sequence with the English `# translation` comment (tokenized
+  with NLTK's `word_tokenize`), separated by ` ||| `.
+- `scripts/align_corpus.py` — word-aligns `data/sga_incomplete.en-ga` with
+  [fast_align](https://github.com/clab/fast_align) (a local build, path
+  configurable via `--fast-align-bin`), producing
+  `data/sga_incomplete.align`. Forces `OMP_NUM_THREADS=1`: fast_align
+  parallelizes EM training by default, and floating-point summation order
+  (hence the final alignment in close calls) depends on thread scheduling,
+  so an unpinned multi-threaded run is not reproducible from one run to
+  the next. fast_align's own default flags are used (not the `-d -o -v`
+  symmetrization recipe from its README), since that's what matches this
+  project's alignments.
+
 ## Development
 
 This project uses [uv](https://docs.astral.sh/uv/) for dependency

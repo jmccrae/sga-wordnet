@@ -5,6 +5,8 @@ description = "A wordnet for Old Irish, built by extension from Open English Wor
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "conllu>=6.0.0",
+    "nltk>=3.10.0",
     "teanga>=0.1.0",
 ]
 
