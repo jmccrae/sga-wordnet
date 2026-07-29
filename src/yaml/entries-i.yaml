@@ -63,6 +63,11 @@ inunn:
     sense:
     - id: 'inunn%3:00:00::'
       synset: 88080213-a
+is:
+  v:
+    sense:
+    - id: 'is%2:42:00::'
+      synset: 89277815-v
 ith:
   n:
     sense:

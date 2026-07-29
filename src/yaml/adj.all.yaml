@@ -92,6 +92,13 @@
   members:
   - ríagolda
   partOfSpeech: s
+84949211-a:
+  definition:
+  - short — of speech sounds or syllables of relatively short duration
+  ili: i7894
+  members:
+  - timortae
+  partOfSpeech: a
 85007864-a:
   definition:
   - present — temporal sense; intermediate between past and future; now existing or
@@ -144,6 +151,13 @@
   members:
   - díles
   partOfSpeech: a
+86984615-a:
+  definition:
+  - compound — composed of more than one part
+  ili: i11935
+  members:
+  - comṡuidigthe
+  partOfSpeech: a
 87002668-a:
   definition:
   - plural — grammatical number category referring to two or more items or units
@@ -174,6 +188,13 @@
   members:
   - cétnaide
   partOfSpeech: s
+88067839-a:
+  definition:
+  - long — (of speech sounds or syllables) of relatively long duration
+  ili: i7893
+  members:
+  - airdíxa
+  partOfSpeech: a
 88080213-a:
   definition:
   - same — same in identity
@@ -212,6 +233,13 @@
   members:
   - aile
   partOfSpeech: a
+89091813-a:
+  definition:
+  - true — consistent with fact or reality; not false
+  ili: i13638
+  members:
+  - fír
+  partOfSpeech: a
 89212012-a:
   definition:
   - simple — having few parts; not complex or complicated or involved
@@ -219,6 +247,14 @@
   members:
   - díuit
   partOfSpeech: a
+89427292-s:
+  definition:
+  - intact, integral, entire — constituting the undiminished entirety; lacking nothing
+    essential especially not damaged
+  ili: i2897
+  members:
+  - óg
+  partOfSpeech: s
 89677527-s:
   definition:
   - primitive, archaic — little evolved from or characteristic of an earlier ancestral

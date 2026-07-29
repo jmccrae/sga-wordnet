@@ -17,8 +17,15 @@ gním:
     sense:
     - id: 'gním%1:26:00::'
       synset: 88556240-n
-    - id: 'gním%1:04:01::'
+    - id: 'gním%1:24:01::'
+      synset: 86218389-n
+    - id: 'gním%1:04:02::'
       synset: 89795394-n
+gnúis:
+  n:
+    sense:
+    - id: 'gnúis%1:09:00::'
+      synset: 89321446-n
 grácad:
   v:
     sense:

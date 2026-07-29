@@ -1,3 +1,11 @@
+80006726-n:
+  definition:
+  - character, graph, grapheme, graphic symbol — a written symbol that is used to
+    represent speech
+  ili: i72328
+  members:
+  - cárachtar
+  partOfSpeech: n
 80179898-n:
   definition:
   - syllable — a unit of spoken language larger than a phoneme
@@ -11,6 +19,20 @@
   ili: i69585
   members:
   - ilar
+  partOfSpeech: n
+80686488-n:
+  definition:
+  - derivative — (linguistics) a word that is derived from another word
+  ili: i69555
+  members:
+  - díṡruthigthe
+  partOfSpeech: n
+80982440-n:
+  definition:
+  - aspiration — a manner of articulation involving an audible release of breath
+  ili: i74060
+  members:
+  - tinfed
   partOfSpeech: n
 81092558-n:
   definition:
@@ -199,6 +221,13 @@
   members:
   - imḟognam
   partOfSpeech: n
+87143287-n:
+  definition:
+  - primitive — a word serving as the basis for inflected or derived forms
+  ili: i69583
+  members:
+  - cétnaide
+  partOfSpeech: n
 87167098-n:
   definition:
   - dative, dative case — the category of nouns serving as the indirect object of
@@ -271,6 +300,14 @@
   ili: i69717
   members:
   - remṡuidigud
+  partOfSpeech: n
+88890230-n:
+  definition:
+  - termination, ending — the end of a word (a suffix or inflectional ending or final
+    morpheme)
+  ili: i69633
+  members:
+  - tairmḟorcend
   partOfSpeech: n
 88921522-n:
   definition:

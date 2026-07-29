@@ -75,17 +75,24 @@ Editor](https://github.com/jmccrae/ewe).
 - `scripts/populate_wordnet.py` — the first actual wordnet-building step.
   Reads `data/sga_incomplete.results_AD.xlsx` (WSD candidates with an
   annotator's `Correct Translation?`/`Correct Definition?` verdicts),
-  keeps rows where both are accepted, resolves each English WordNet sense
-  key to its synset via a local [`wn`](https://github.com/goodmami/wn)
-  library database (`--wn-db`, default `~/.wn_data/wn.db`), and generates
-  an EWE automaton script that creates one new synset per accepted
-  English sense - same definition/lexfile/pos/ili, but with the Old Irish
-  lemma(s) as members instead of the English ones (synonyms in the
-  accepted set land in the same synset). Pass `--apply --ewe-bin <path
-  to a built ewe_cli>` to actually run it against `--wordnet-dir` (default
-  `.`); otherwise it just writes the automaton script to `--script-out`
-  for review. Relations (hypernym, etc.) aren't carried over yet, since
-  this only imports a sparse subset of English WordNet's synsets.
+  keeps rows where both are accepted, plus any rejected row covered by
+  `data/sense_corrections.csv` (`--corrections`) - a manually curated list
+  of (lemma, wrong sense key) -> corrected sense key overrides for rows
+  where the annotator's notes showed the translation was fine and only the
+  WSD system's sense choice was wrong (common in this corpus, since it's
+  largely Old Irish grammatical glosses and the automatic WSD often
+  preferred a common sense over an available grammar-specific one).
+  Resolves each English WordNet sense key to its synset via a local
+  [`wn`](https://github.com/goodmami/wn) library database (`--wn-db`,
+  default `~/.wn_data/wn.db`), and generates an EWE automaton script that
+  creates one new synset per accepted English sense - same definition/
+  lexfile/pos/ili, but with the Old Irish lemma(s) as members instead of
+  the English ones (synonyms in the accepted set land in the same synset).
+  Pass `--apply --ewe-bin <path to a built ewe_cli>` to actually run it
+  against `--wordnet-dir` (default `.`); otherwise it just writes the
+  automaton script to `--script-out` for review. Relations (hypernym,
+  etc.) aren't carried over yet, since this only imports a sparse subset
+  of English WordNet's synsets.
 
 ## Development
 

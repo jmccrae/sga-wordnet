@@ -42,6 +42,8 @@ aimser:
       synset: 84836960-n
     - id: 'aimser%1:28:01::'
       synset: 89962756-n
+    - id: 'aimser%1:28:02::'
+      synset: 85687796-n
 ainm:
   n:
     sense:
@@ -62,6 +64,11 @@ ainmmnid:
     sense:
     - id: 'ainmmnid%1:10:00::'
       synset: 88482043-n
+airdíxa:
+  a:
+    sense:
+    - id: 'airdíxa%3:00:00::'
+      synset: 88067839-a
 aitherrechtaigthe:
   n:
     sense:

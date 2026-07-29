@@ -27,6 +27,14 @@
   members:
   - díall
   partOfSpeech: n
+86218389-n:
+  definition:
+  - active, active voice — the voice used to indicate that the grammatical subject
+    of the verb is performing the action or causing the happening denoted by the verb
+  ili: i109443
+  members:
+  - gním
+  partOfSpeech: n
 86958274-n:
   definition:
   - change — a relational difference between states; especially between states before
@@ -34,6 +42,14 @@
   ili: i109756
   members:
   - cumscugud
+  partOfSpeech: n
+87456353-n:
+  definition:
+  - passive, passive voice — the voice used to indicate that the grammatical subject
+    of the verb is the recipient (not the source) of the action denoted by the verb
+  ili: i109444
+  members:
+  - césad
   partOfSpeech: n
 89475268-n:
   definition:

@@ -74,6 +74,8 @@ dogní:
     - id: 'dogní%2:36:00::'
       synset: 81282983-v
     - id: 'dogní%2:36:01::'
+      synset: 89220023-v
+    - id: 'dogní%2:36:02::'
       synset: 89978634-v
 doróscai:
   v:
@@ -130,6 +132,10 @@ díuit:
     - id: 'díuit%3:00:00::'
       synset: 89212012-a
 díṡruthigthe:
+  n:
+    sense:
+    - id: 'díṡruthigthe%1:10:01::'
+      synset: 80686488-n
   v:
     sense:
     - id: 'díṡruthigthe%2:30:00::'

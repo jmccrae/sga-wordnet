@@ -66,3 +66,8 @@ frecrae:
     sense:
     - id: 'frecrae%1:10:00::'
       synset: 87331769-n
+fír:
+  a:
+    sense:
+    - id: 'fír%3:00:00::'
+      synset: 89091813-a

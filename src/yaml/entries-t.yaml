@@ -3,6 +3,11 @@ taidbsiu:
     sense:
     - id: 'taidbsiu%2:31:00::'
       synset: 81960504-v
+tairmḟorcend:
+  n:
+    sense:
+    - id: 'tairmḟorcend%1:10:00::'
+      synset: 88890230-n
 techtaid:
   v:
     sense:
@@ -15,6 +20,16 @@ teirt:
     sense:
     - id: teirt%5:00:00:???:00
       synset: 81827676-s
+timortae:
+  a:
+    sense:
+    - id: 'timortae%3:00:00::'
+      synset: 84949211-a
+tinfed:
+  n:
+    sense:
+    - id: 'tinfed%1:10:00::'
+      synset: 80982440-n
 tobarthaid:
   n:
     sense:

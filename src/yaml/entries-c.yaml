@@ -55,9 +55,13 @@ comparit:
     - id: 'comparit%1:10:00::'
       synset: 81991571-n
 comṡuidigthe:
+  a:
+    sense:
+    - id: 'comṡuidigthe%3:00:00::'
+      synset: 86984615-a
   n:
     sense:
-    - id: 'comṡuidigthe%1:09:00::'
+    - id: 'comṡuidigthe%1:09:01::'
       synset: 80415856-n
 comṡuidigud:
   n:
@@ -81,6 +85,11 @@ cosmailius:
     sense:
     - id: 'cosmailius%1:07:00::'
       synset: 80577178-n
+cucann:
+  n:
+    sense:
+    - id: 'cucann%1:21:00::'
+      synset: 83357246-n
 cumachtae:
   n:
     sense:
@@ -98,6 +107,18 @@ cumscugud:
     sense:
     - id: 'cumscugud%1:24:00::'
       synset: 86958274-n
+cárachtar:
+  n:
+    sense:
+    - id: 'cárachtar%1:10:00::'
+      synset: 80006726-n
+césad:
+  n:
+    sense:
+    - id: 'césad%1:26:00::'
+      synset: 82477077-n
+    - id: 'césad%1:24:01::'
+      synset: 87456353-n
 cétnae:
   a:
     sense:
@@ -108,11 +129,15 @@ cétnae:
     - id: cétnae%5:00:01:???:00
       synset: 80101918-s
 cétnaide:
+  n:
+    sense:
+    - id: 'cétnaide%1:10:01::'
+      synset: 87143287-n
   s:
     sense:
     - id: cétnaide%5:00:00:???:00
       synset: 89677527-s
-    - id: cétnaide%5:00:01:???:00
+    - id: cétnaide%5:00:02:???:00
       synset: 87831006-s
 cíall:
   n:
