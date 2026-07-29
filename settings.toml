@@ -6,6 +6,8 @@
 # paths keep working.
 database = "wordnet.db"
 wordnet_source = "src/yaml"
+logo = "branding/four-provinces-flag.svg"
+theme = "branding/theme.css"
 id_prefix = "sga"
 project_name = "Old Irish Wordnet"
 tagline = "A wordnet for Old Irish (sga), extended from the Open English Wordnet"

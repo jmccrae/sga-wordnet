@@ -44,6 +44,14 @@ Editor](https://github.com/jmccrae/ewe).
   with `dx serve` from a checkout of `ewe_dioxus` pointed at this
   directory. `wordnet.db`/`corpus.db`, the databases EWE builds from
   `src/yaml/`, are git-ignored and rebuilt locally on first run.
+- `branding/` — EWE's `logo`/`theme` for this project: the [Four
+  Provinces Flag](https://commons.wikimedia.org/wiki/File:Four_Provinces_Flag.svg)
+  (© [Caomhan27](https://commons.wikimedia.org/wiki/User:Caomhan27),
+  [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)),
+  used both as the logo and as the source of `theme.css`'s palette - the
+  flag's dark green (Connacht's field, `#003d07`) as the primary colour,
+  its gold (Ulster's field and the charges throughout) as the accent.
+  Kept separate from `assets/`, which is corpus source data, not branding.
 
 ## Pipeline scripts
 
