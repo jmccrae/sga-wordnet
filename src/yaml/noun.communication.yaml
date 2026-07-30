@@ -1,1 +1,371 @@
-{}
+80006726-n:
+  definition:
+  - character, graph, grapheme, graphic symbol — a written symbol that is used to
+    represent speech
+  ili: i72328
+  members:
+  - cárachtar
+  partOfSpeech: n
+80179898-n:
+  definition:
+  - syllable — a unit of spoken language larger than a phoneme
+  ili: i69613
+  members:
+  - sillab
+  partOfSpeech: n
+80259077-n:
+  definition:
+  - plural, plural form — the form of a word that is used to denote more than one
+  ili: i69585
+  members:
+  - ilar
+  partOfSpeech: n
+80982440-n:
+  definition:
+  - aspiration — a manner of articulation involving an audible release of breath
+  ili: i74060
+  members:
+  - tinfed
+  partOfSpeech: n
+81092558-n:
+  definition:
+  - word — a unit of language that native speakers can identify
+  ili: i69544
+  members:
+  - son
+  - epert
+  partOfSpeech: n
+81424377-n:
+  definition:
+  - definition — a concise explanation of the meaning of a word or phrase or symbol
+  ili: i71937
+  members:
+  - érchoiliud
+  - cinniud
+  partOfSpeech: n
+81706051-n:
+  definition:
+  - consonant — a speech sound that is not a vowel
+  ili: i74051
+  members:
+  - conson
+  partOfSpeech: n
+81890503-n:
+  definition:
+  - letter, alphabetic character, letter of the alphabet — the conventional characters
+    of the alphabet used to represent speech
+  hypernym:
+  - 80006726-n
+  ili: i72381
+  members:
+  - liter
+  partOfSpeech: n
+81991571-n:
+  definition:
+  - comparative, comparative degree — the comparative form of an adjective or adverb
+  ili: i69707
+  members:
+  - comparit
+  partOfSpeech: n
+82042014-n:
+  definition:
+  - neuter — a gender that refers chiefly (but not exclusively) to inanimate objects
+    (neither masculine nor feminine)
+  hypernym:
+  - 89860995-n
+  ili: i69738
+  members:
+  - neutur
+  partOfSpeech: n
+82397685-n:
+  definition:
+  - ablative, ablative case — the case indicating the agent in passive sentences or
+    the instrument or manner or place of the action described by the verb
+  ili: i69654
+  members:
+  - fochslaid
+  partOfSpeech: n
+82524886-n:
+  definition:
+  - superlative, superlative degree — the superlative form of an adjective or adverb
+  ili: i69708
+  members:
+  - superlait
+  partOfSpeech: n
+82734458-n:
+  definition:
+  - verb — the word class that serves as the predicate of a sentence
+  ili: i69683
+  members:
+  - bríathar
+  partOfSpeech: n
+83160390-n:
+  definition:
+  - noun — a content word that can be used to refer to a person, place, thing, quality,
+    or action
+  ili: i69690
+  members:
+  - ainm
+  partOfSpeech: n
+84685879-n:
+  definition:
+  - consonant — a letter of the alphabet standing for a spoken consonant
+  hypernym:
+  - 81890503-n
+  ili: i74052
+  members:
+  - conson
+  partOfSpeech: n
+84788963-n:
+  definition:
+  - noun — the word class that can serve as the subject or object of a verb, the object
+    of a preposition, or in apposition
+  ili: i69682
+  members:
+  - ainm
+  partOfSpeech: n
+84817857-n:
+  definition:
+  - monstrance, demonstration — proof by a process of argument or a series of proposition
+    proving an asserted conclusion
+  ili: i71415
+  members:
+  - foillsigud
+  partOfSpeech: n
+85087606-n:
+  definition:
+  - diminutive — a word that is formed with a suffix (such as -let or -kin) to indicate
+    smallness
+  hypernym:
+  - 81092558-n
+  ili: i69556
+  members:
+  - dígabthach
+  partOfSpeech: n
+85337901-n:
+  definition:
+  - conjunction, connective, conjunctive, continuative — an uninflected function word
+    that serves to conjoin words or phrases or clauses or sentences
+  ili: i69721
+  members:
+  - comaccomol
+  partOfSpeech: n
+85409528-n:
+  definition:
+  - gerund — a noun formed from a verb (such as the `-ing' form of an English verb
+    when used as a noun)
+  ili: i69684
+  members:
+  - gerind
+  partOfSpeech: n
+86331880-n:
+  definition:
+  - masculine — a gender that refers chiefly (but not exclusively) to males or to
+    objects classified as male
+  hypernym:
+  - 89860995-n
+  ili: i69737
+  members:
+  - mascul
+  partOfSpeech: n
+86617844-n:
+  definition:
+  - speech, speech communication, spoken communication, spoken language, oral communication,
+    language, voice communication — (language) communication by word of mouth
+  ili: i74022
+  members:
+  - insce
+  partOfSpeech: n
+86697922-n:
+  definition:
+  - patronym, patronymic — a family name derived from name of your father or a paternal
+    ancestor (especially with an affix (such as -son in English or O'- in Irish) added
+    to the name of your father or a paternal ancestor)
+  hypernym:
+  - 86939996-n
+  ili: i69768
+  members:
+  - aitherrechtaigthe
+  partOfSpeech: n
+86730063-n:
+  definition:
+  - singular, singular form — the form of a word that is used to denote a singleton
+  ili: i69586
+  members:
+  - úathad
+  partOfSpeech: n
+86822319-n:
+  definition:
+  - diphthong — a vowel sound that starts near the articulatory position for one vowel
+    and moves toward the position for another
+  hypernym:
+  - 88626435-n
+  ili: i74033
+  members:
+  - déḟogur
+  partOfSpeech: n
+86881526-n:
+  definition:
+  - import, significance, signification, meaning — the message that is intended or
+    expressed or signified
+  ili: i71150
+  members:
+  - inne
+  - tórand
+  partOfSpeech: n
+86939996-n:
+  definition:
+  - name — a language unit by which a person or thing is known
+  ili: i69761
+  members:
+  - ainm
+  partOfSpeech: n
+87016430-n:
+  definition:
+  - positive, positive degree — the primary form of an adjective or adverb; denotes
+    a quality without qualification, comparison, or relation to increase or diminution
+  ili: i69706
+  members:
+  - posit
+  partOfSpeech: n
+87030202-n:
+  definition:
+  - construction, expression, grammatical construction — a group of words that form
+    a constituent of a sentence and are considered as a single unit
+  ili: i69660
+  members:
+  - imḟognam
+  partOfSpeech: n
+87143287-n:
+  definition:
+  - primitive — a word serving as the basis for inflected or derived forms
+  hypernym:
+  - 81092558-n
+  ili: i69583
+  members:
+  - cétnaide
+  partOfSpeech: n
+87167098-n:
+  definition:
+  - dative, dative case — the category of nouns serving as the indirect object of
+    a verb
+  ili: i69650
+  members:
+  - tobarthaid
+  partOfSpeech: n
+87331769-n:
+  definition:
+  - resolution, solution, answer, result, solvent — a statement that solves a problem
+    or explains how to solve the problem
+  ili: i71933
+  members:
+  - frecrae
+  partOfSpeech: n
+87379349-n:
+  definition:
+  - Greek, Hellenic, Hellenic language — the Hellenic branch of the Indo-European
+    family of languages
+  ili: i73283
+  members:
+  - gréc
+  partOfSpeech: n
+87443575-n:
+  definition:
+  - case, grammatical case — nouns or pronouns or adjectives (often marked by inflection)
+    related in some way to other words in a sentence
+  ili: i69646
+  members:
+  - tuisel
+  partOfSpeech: n
+87546268-n:
+  definition:
+  - participial, participle — a non-finite form of the verb; in English it is used
+    adjectivally and to form compound tenses
+  hypernym:
+  - 82734458-n
+  ili: i69745
+  members:
+  - ranngabál
+  partOfSpeech: n
+87796683-n:
+  definition:
+  - verse, verse line — a line of metrical text
+  ili: i70038
+  members:
+  - fers
+  partOfSpeech: n
+87894795-n:
+  definition:
+  - croak, croaking — a harsh hoarse utterance (as of a frog)
+  ili: i74103
+  members:
+  - grácad
+  partOfSpeech: n
+88482043-n:
+  definition:
+  - subject case, nominative, nominative case — the category of nouns serving as the
+    grammatical subject of a verb
+  hypernym:
+  - 87443575-n
+  ili: i69647
+  members:
+  - ainmmnid
+  partOfSpeech: n
+88490498-n:
+  definition:
+  - person — a grammatical category used in the classification of pronouns, possessive
+    determiners, and verb forms according to whether they indicate the speaker, the
+    addressee, or a third party
+  ili: i69726
+  members:
+  - persan
+  partOfSpeech: n
+88626435-n:
+  definition:
+  - vowel, vowel sound — a speech sound made with the vocal tract open
+  ili: i74034
+  members:
+  - guthaigthe
+  - guttae
+  partOfSpeech: n
+88734992-n:
+  definition:
+  - preposition — a function word that combines with a noun or pronoun or noun phrase
+    to form a prepositional phrase that can have an adverbial or adjectival relation
+    to some other word
+  ili: i69717
+  members:
+  - remṡuidigud
+  partOfSpeech: n
+88921522-n:
+  definition:
+  - accent, accent mark — a diacritical mark used to indicate stress or placed above
+    a vowel to indicate a special pronunciation
+  ili: i72344
+  members:
+  - aiccent
+  partOfSpeech: n
+89057725-n:
+  definition:
+  - genitive, genitive case, possessive, possessive case — the case expressing ownership
+  ili: i69651
+  members:
+  - genitiu
+  partOfSpeech: n
+89466722-n:
+  definition:
+  - adverb — the word class that qualifies verbs or clauses
+  ili: i69689
+  members:
+  - dobríathar
+  partOfSpeech: n
+89860995-n:
+  definition:
+  - gender, grammatical gender — a grammatical category in inflected languages governing
+    the agreement between nouns and pronouns and adjectives; in some languages it
+    is quite arbitrary but in Indo-European languages it is usually based on sex or
+    animateness
+  ili: i69735
+  members:
+  - cenél
+  partOfSpeech: n

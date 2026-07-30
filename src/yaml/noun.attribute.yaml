@@ -1,1 +1,119 @@
-{}
+80577178-n:
+  definition:
+  - similarity — the quality of being similar
+  ili: i61954
+  members:
+  - cosmailius
+  partOfSpeech: n
+81287314-n:
+  definition:
+  - composition, composing — the spatial property resulting from the arrangement of
+    parts in relation to each other and to the whole
+  ili: i63671
+  members:
+  - comṡuidigud
+  partOfSpeech: n
+81532433-n:
+  definition:
+  - strength — the property of being physically or mentally strong
+  ili: i63432
+  members:
+  - nert
+  partOfSpeech: n
+82489845-n:
+  definition:
+  - specialness, particularity — the quality of being particular and pertaining to
+    a specific case or instance
+  ili: i62045
+  members:
+  - randatu
+  partOfSpeech: n
+82559804-n:
+  definition:
+  - nature — the essential qualities or characteristics by which something is recognized
+  ili: i61872
+  members:
+  - aicned
+  partOfSpeech: n
+82954869-n:
+  definition:
+  - style, fashion, way, manner, mode — how something is done or how it happens
+  ili: i62886
+  members:
+  - mod
+  partOfSpeech: n
+84077027-n:
+  definition:
+  - difference — the quality of being unlike or dissimilar
+  ili: i61982
+  members:
+  - dechor
+  partOfSpeech: n
+84173747-n:
+  definition:
+  - power, powerfulness — possession of controlling influence
+  ili: i64253
+  members:
+  - cumachtae
+  partOfSpeech: n
+84937696-n:
+  definition:
+  - peculiarity, speciality, specialness, specialty, distinctiveness — a distinguishing
+    trait
+  ili: i62050
+  members:
+  - sainred
+  partOfSpeech: n
+85941576-n:
+  definition:
+  - quantity — an adequate or large amount
+  ili: i63843
+  members:
+  - méit
+  partOfSpeech: n
+87849671-n:
+  definition:
+  - sound — the particular auditory effect produced by a given cause
+  ili: i63177
+  members:
+  - fogur
+  - son
+  partOfSpeech: n
+88014072-n:
+  definition:
+  - length, duration — continuance in time
+  ili: i63542
+  members:
+  - fot
+  partOfSpeech: n
+88536860-n:
+  definition:
+  - figure, number — the property possessed by a sum or total or indefinite quantity
+    of units or individuals
+  ili: i63904
+  members:
+  - lín
+  partOfSpeech: n
+88616102-n:
+  definition:
+  - caliber, calibre, quality — a degree or grade of excellence or worth
+  ili: i61878
+  members:
+  - inne
+  partOfSpeech: n
+88914645-n:
+  definition:
+  - power, might, mightiness — physical strength
+  hypernym:
+  - 81532433-n
+  ili: i63436
+  members:
+  - cumachtae
+  partOfSpeech: n
+89225372-n:
+  definition:
+  - properness, propriety, correctitude — correct or appropriate behavior
+  ili: i62729
+  members:
+  - dílse
+  partOfSpeech: n

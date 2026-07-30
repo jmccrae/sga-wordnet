@@ -1,1 +1,23 @@
-{}
+83143235-n:
+  definition:
+  - helmet — armor plate that protects the head
+  ili: i54769
+  members:
+  - barr
+  partOfSpeech: n
+85064914-n:
+  definition:
+  - part, portion — something less than the whole of a human artifact
+  ili: i57017
+  members:
+  - rann
+  partOfSpeech: n
+87993082-n:
+  definition:
+  - junction — the place where two or more things come together
+  hypernym:
+  - 84095545-n
+  ili: i55315
+  members:
+  - accomol
+  partOfSpeech: n

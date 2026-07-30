@@ -1,1 +1,14 @@
-{}
+persan:
+  n:
+    sense:
+    - id: 'persan%1:03:00::'
+      synset: 89251292-n
+    - id: 'persan%1:08:01::'
+      synset: 86659954-n
+    - id: 'persan%1:10:02::'
+      synset: 88490498-n
+posit:
+  n:
+    sense:
+    - id: 'posit%1:10:00::'
+      synset: 87016430-n

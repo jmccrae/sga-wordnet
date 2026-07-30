@@ -1,1 +1,25 @@
-{}
+81618529-n:
+  definition:
+  - possession — anything owned or possessed
+  ili: i35591
+  members:
+  - atrab
+  partOfSpeech: n
+89251292-n:
+  definition:
+  - 'soul, individual, somebody, someone, person, mortal — a human being; person,
+    singular, assertive existential pronoun; pronoun, person, singular; quantifier:
+    assertive existential'
+  ili: i35562
+  members:
+  - persan
+  partOfSpeech: n
+89948552-n:
+  definition:
+  - substance — the real physical matter of which a person or thing consists
+  hypernym:
+  - 89475268-n
+  ili: i35567
+  members:
+  - folad
+  partOfSpeech: n

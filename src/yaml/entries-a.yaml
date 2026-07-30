@@ -1,1 +1,118 @@
-{}
+accomol:
+  n:
+    sense:
+    - id: 'accomol%1:06:00::'
+      synset: 87993082-n
+    - id: 'accomol%1:14:01::'
+      synset: 83059103-n
+adcomla:
+  v:
+    sense:
+    - id: 'adcomla%2:35:00::'
+      synset: 88506063-v
+adtreba:
+  v:
+    sense:
+    - id: 'adtreba%2:40:00::'
+      synset: 85146580-v
+afracdae:
+  a:
+    sense:
+    - id: 'afracdae%3:01:00::'
+      synset: 84937351-a
+aiccent:
+  n:
+    sense:
+    - id: 'aiccent%1:10:00::'
+      synset: 88921522-n
+aicned:
+  n:
+    sense:
+    - id: 'aicned%1:07:00::'
+      synset: 82559804-n
+aile:
+  a:
+    sense:
+    - id: 'aile%3:00:00::'
+      synset: 88780467-a
+aimser:
+  n:
+    sense:
+    - id: 'aimser%1:28:00::'
+      synset: 84836960-n
+    - id: 'aimser%1:28:01::'
+      synset: 89962756-n
+    - id: 'aimser%1:28:02::'
+      synset: 85687796-n
+ainm:
+  n:
+    sense:
+    - id: 'ainm%1:10:00::'
+      synset: 86939996-n
+    - id: 'ainm%1:10:01::'
+      synset: 84788963-n
+    - id: 'ainm%1:26:02::'
+      synset: 81937208-n
+    - id: 'ainm%1:10:03::'
+      synset: 83160390-n
+ainmmnid:
+  n:
+    sense:
+    - id: 'ainmmnid%1:10:00::'
+      synset: 88482043-n
+airdíxa:
+  a:
+    sense:
+    - id: 'airdíxa%3:00:00::'
+      synset: 88067839-a
+aitherrechtaigthe:
+  n:
+    sense:
+    - id: 'aitherrechtaigthe%1:10:00::'
+      synset: 86697922-n
+aittrebthach:
+  a:
+    sense:
+    - id: 'aittrebthach%3:01:00::'
+      synset: 86287358-a
+amal:
+  r:
+    sense:
+    - id: 'amal%4:02:00::'
+      synset: 85135742-r
+ar:
+  r:
+    sense:
+    - id: 'ar%4:02:00::'
+      synset: 83067314-r
+aricc:
+  v:
+    sense:
+    - id: 'aricc%2:39:00::'
+      synset: 87058334-v
+arsaid:
+  s:
+    sense:
+    - id: arsaid%5:00:00:???:00
+      synset: 86128746-s
+asbeir:
+  v:
+    sense:
+    - id: 'asbeir%2:32:00::'
+      synset: 84005320-v
+    - id: 'asbeir%2:32:01::'
+      synset: 87002822-v
+    - id: 'asbeir%2:32:02::'
+      synset: 86941814-v
+    - id: 'asbeir%2:32:03::'
+      synset: 85784188-v
+atrab:
+  n:
+    sense:
+    - id: 'atrab%1:03:00::'
+      synset: 81618529-n
+attá:
+  v:
+    sense:
+    - id: 'attá%2:42:00::'
+      synset: 89295043-v

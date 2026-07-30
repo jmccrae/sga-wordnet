@@ -1,1 +1,67 @@
-{}
+taidbsiu:
+  v:
+    sense:
+    - id: 'taidbsiu%2:31:00::'
+      synset: 81960504-v
+techtaid:
+  v:
+    sense:
+    - id: 'techtaid%2:42:00::'
+      synset: 87022866-v
+    - id: 'techtaid%2:40:01::'
+      synset: 80626763-v
+teirt:
+  s:
+    sense:
+    - id: teirt%5:00:00:???:00
+      synset: 81827676-s
+timortae:
+  a:
+    sense:
+    - id: 'timortae%3:00:00::'
+      synset: 84949211-a
+tinfed:
+  n:
+    sense:
+    - id: 'tinfed%1:10:00::'
+      synset: 80982440-n
+tobarthaid:
+  n:
+    sense:
+    - id: 'tobarthaid%1:10:00::'
+      synset: 87167098-n
+tormach:
+  n:
+    sense:
+    - id: 'tormach%1:04:00::'
+      synset: 89328654-n
+tosach:
+  n:
+    sense:
+    - id: 'tosach%1:09:00::'
+      synset: 86634966-n
+trá:
+  r:
+    sense:
+    - id: 'trá%4:02:00::'
+      synset: 86151269-r
+tuisel:
+  n:
+    sense:
+    - id: 'tuisel%1:10:00::'
+      synset: 87443575-n
+tánaise:
+  s:
+    sense:
+    - id: tánaise%5:00:00:???:00
+      synset: 82293685-s
+téit:
+  v:
+    sense:
+    - id: 'téit%2:42:00::'
+      synset: 86414182-v
+tórand:
+  n:
+    sense:
+    - id: 'tórand%1:10:00::'
+      synset: 86881526-n
