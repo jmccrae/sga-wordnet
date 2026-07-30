@@ -1,0 +1,251 @@
+rank,synset_id,pos,lexfile,category,link_count,english_lemmas,definition
+1,oewn-00001740-n,n,noun.Tops,top_concept,123,entity,that which is perceived or known or inferred to have its own distinct existence (living or nonliving)
+2,oewn-00002137-n,n,noun.Tops,top_concept,105,"abstraction, abstract entity",a general concept formed by extracting common features from specific examples
+3,oewn-00032220-n,n,noun.Tops,top_concept,30,relation,an abstraction belonging to or characteristic of two entities or parts together
+4,oewn-00024444-n,n,noun.Tops,top_concept,21,attribute,an abstraction belonging to or characteristic of an entity
+5,oewn-00001930-n,n,noun.Tops,top_concept,19,physical entity,an entity that has physical existence
+6,oewn-00031563-n,n,noun.Tops,top_concept,18,"grouping, group",any number of entities (members) considered as a unit
+7,oewn-00023280-n,n,noun.Tops,top_concept,17,psychological feature,a feature of the mental life of a living organism
+8,oewn-00023451-n,n,noun.Tops,top_concept,17,"cognition, noesis, knowledge",the psychological result of perception and learning and reasoning
+9,oewn-00002684-n,n,noun.Tops,top_concept,12,"object, physical object",a tangible and visible entity; an entity that can cast a shadow
+10,oewn-00033319-n,n,noun.Tops,top_concept,12,communication,something that is communicated by or to or between people or groups
+11,oewn-00003553-n,n,noun.Tops,top_concept,7,"unit, whole",an assemblage of parts that is regarded as a single entity
+12,oewn-00007347-n,n,noun.Tops,top_concept,7,"cause, causal agency, causal agent",any entity that produces an effect or is responsible for events or results
+13,oewn-00004258-n,n,noun.Tops,top_concept,5,"animate thing, living thing",a living (or once living) entity
+14,oewn-00004475-n,n,noun.Tops,top_concept,5,"being, organism",a living thing that has (or can develop) the ability to act or function independently
+15,oewn-00024900-n,n,noun.Tops,top_concept,5,state,the way something is with respect to its main attributes
+16,oewn-00029677-n,n,noun.Tops,top_concept,5,event,something that happens at a given place and time
+17,oewn-00030657-n,n,noun.Tops,top_concept,5,"human action, human activity, deed, act",something that people do or cause to happen
+18,oewn-00027365-n,n,noun.Tops,top_concept,4,location,a point or extent in space; a point or extent in space
+19,oewn-00021007-n,n,noun.Tops,top_concept,3,matter,that which has mass and occupies space
+20,oewn-00033914-n,n,noun.Tops,top_concept,3,"measure, amount, quantity",how much there is or how many there are of something that you can quantify
+21,oewn-00020270-n,n,noun.Tops,top_concept,2,substance,a particular kind or species of matter with uniform properties
+22,oewn-00021445-n,n,noun.Tops,top_concept,2,"food, nutrient",any substance that can be metabolized by an animal to give energy and build tissue
+23,oewn-00002452-n,n,noun.Tops,top_concept,1,thing,a separate and self-contained entity
+24,oewn-00015568-n,n,noun.Tops,top_concept,1,"beast, brute, animal, animate being, fauna, creature",a living organism characterized by voluntary movement
+25,oewn-00019308-n,n,noun.Tops,top_concept,1,natural object,an object occurring naturally; not made by man
+26,oewn-00022119-n,n,noun.Tops,top_concept,1,"artefact, artifact",a man-made object taken as a whole
+27,oewn-00026390-n,n,noun.Tops,top_concept,1,feeling,the experiencing of affective and emotional states
+28,oewn-00028468-n,n,noun.Tops,top_concept,1,time,the continuum of experience in which events pass from the future through the present to the past
+29,oewn-00029976-n,n,noun.Tops,top_concept,1,"process, physical process",a sustained phenomenon or one marked by gradual changes through a series of states
+30,oewn-00003993-n,n,noun.Tops,top_concept,0,congener,a whole (a thing or person) of the same kind or category as another
+31,oewn-00005787-n,n,noun.Tops,top_concept,0,benthos,"organisms (plants and animals) that live at or near the bottom of a sea, lake, river or stream"
+32,oewn-00005930-n,n,noun.Tops,top_concept,0,dwarf,a plant or animal that is atypically small
+33,oewn-00006024-n,n,noun.Tops,top_concept,0,heterotroph,an organism that depends on complex organic substances for nutrition
+34,oewn-00006150-n,n,noun.Tops,top_concept,0,parent,an organism (plant or animal) from which younger ones are obtained
+35,oewn-00006269-n,n,noun.Tops,top_concept,0,life,living things collectively
+36,oewn-00006400-n,n,noun.Tops,top_concept,0,biont,a discrete unit of living matter
+37,oewn-00006484-n,n,noun.Tops,top_concept,0,cell,(biology) the basic structural and functional unit of all organisms; they may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals
+38,oewn-00017402-n,n,noun.Tops,top_concept,0,"plant, plant life, flora",(botany) a living organism lacking the power of locomotion
+39,oewn-00019226-n,n,noun.Tops,top_concept,0,native,indigenous plants and animals
+40,oewn-00021914-n,n,noun.Tops,top_concept,0,nutrient,any substance (such as a chemical element or inorganic compound) that can be taken in by a green plant and used in organic synthesis
+41,oewn-00023083-n,n,noun.Tops,top_concept,0,article,one of a class of artifacts
+42,oewn-00023953-n,n,noun.Tops,top_concept,0,"motive, motivation, need",the psychological feature that arouses an organism to action toward a desired goal; the reason for the action; that which gives purpose and direction to behavior
+43,oewn-00028005-n,n,noun.Tops,top_concept,0,"form, shape",the spatial arrangement of something as distinct from its substance
+44,oewn-00028950-n,n,noun.Tops,top_concept,0,"space, infinite",the unlimited expanse in which everything is located
+45,oewn-00029306-n,n,noun.Tops,top_concept,0,absolute space,physical space independent of what occupies it
+46,oewn-00029413-n,n,noun.Tops,top_concept,0,phase space,(physics) an ideal space in which the coordinate dimensions represent the variables that are required to describe a system or substance
+47,oewn-00033122-n,n,noun.Tops,top_concept,0,social relation,a relation between living organisms (especially between people)
+48,oewn-00034512-n,n,noun.Tops,top_concept,0,phenomenon,any state or process known through the senses rather than by intuition or reasoning
+49,oewn-06294878-n,n,noun.communication,bridging,20,"language unit, linguistic unit",one of the natural units into which linguistic messages can be analyzed
+50,oewn-07968050-n,n,noun.group,bridging,14,"assemblage, accumulation, aggregation, collection",several things grouped together or considered as a whole
+51,oewn-06320373-n,n,noun.communication,bridging,13,"grammatical category, syntactic category",(grammar) a category of words having the same grammatical properties
+52,oewn-08014145-n,n,noun.group,bridging,13,"class, family, category",a collection of things sharing a common attribute
+53,oewn-05817200-n,n,noun.cognition,bridging,12,"content, cognitive content, mental object","the sum or range of what has been perceived, discovered, or learned"
+54,oewn-05842164-n,n,noun.cognition,bridging,10,"idea, thought",the content of cognition; the main thing you are thinking about
+55,oewn-05844071-n,n,noun.cognition,bridging,9,"conception, concept, construct",an abstract or general idea inferred or derived from specific instances
+56,oewn-04923519-n,n,noun.attribute,bridging,8,property,a basic or essential property shared by all members of a class
+57,oewn-04731092-n,n,noun.attribute,bridging,5,quality,an essential and distinguishing attribute of something or someone
+58,oewn-06300030-n,n,noun.communication,bridging,5,"open-class word, content word",a word to which an independent meaning can be assigned
+59,oewn-06328457-n,n,noun.communication,bridging,4,"part of speech, form class, word class",one of the traditional categories of words intended to reflect their functions in a grammatical context
+60,oewn-06328665-n,n,noun.communication,bridging,4,major form class,any of the major parts of speech of traditional grammar
+61,oewn-06804229-n,n,noun.communication,bridging,4,"signal, sign, signaling, signalling",any nonverbal action or gesture that encodes a message
+62,oewn-06819327-n,n,noun.communication,bridging,4,symbol,an arbitrary sign (written or printed) that has acquired a conventional significance
+63,oewn-06830481-n,n,noun.communication,bridging,4,"printed symbol, written symbol",a written or printed symbol
+64,oewn-13818991-n,n,noun.relation,bridging,4,grammatical relation,a linguistic relation established by grammar
+65,oewn-13819354-n,n,noun.relation,bridging,4,linguistic relation,a relation between linguistic forms or constituents
+66,oewn-00408356-n,n,noun.act,bridging,3,activity,any specific behavior
+67,oewn-10255246-n,n,noun.person,bridging,3,"relation, relative",a person related by blood or marriage
+68,oewn-06331794-n,n,noun.communication,bridging,3,"qualifier, modifier",a content word that qualifies the meaning of a noun or verb
+69,oewn-06332695-n,n,noun.communication,bridging,3,adjective,a word that expresses an attribute of something
+70,oewn-06334605-n,n,noun.communication,bridging,3,adverb,a word that modifies something other than a noun
+71,oewn-06611268-n,n,noun.communication,bridging,3,"content, substance, subject matter, message",content communicating a message; what something is about
+72,oewn-07125755-n,n,noun.communication,bridging,3,"phone, sound, speech sound",(phonetics) an individual sound unit of speech without concern as to whether or not it is a phoneme of some language
+73,oewn-04623416-n,n,noun.attribute,bridging,2,trait,a distinguishing feature of your personal nature
+74,oewn-05097645-n,n,noun.attribute,bridging,2,magnitude,the property of relative size or extent (whether large or small)
+75,oewn-05115065-n,n,noun.attribute,bridging,2,amount,the relative magnitude of something with reference to a criterion
+76,oewn-00576778-n,n,noun.act,bridging,2,work,activity directed toward making or doing something
+77,oewn-09786620-n,n,noun.person,bridging,2,"doer, actor, worker",a person who acts and gets things done
+78,oewn-09937706-n,n,noun.person,bridging,2,"child, kid",a human offspring (son or daughter) of any age
+79,oewn-10393697-n,n,noun.person,bridging,2,"issue, offspring, progeny",the immediate descendants of a person
+80,oewn-07571428-n,n,noun.food,bridging,2,"food, solid food",any solid substance (as opposed to liquid) that is used as a source of nourishment
+81,oewn-06301417-n,n,noun.communication,bridging,2,"form, signifier, descriptor, word form",the phonological or orthographic sound or appearance of a word that can be used to describe or identify something
+82,oewn-06302098-n,n,noun.communication,bridging,2,"function word, closed-class word",a word that is uninflected and serves a grammatical function but has little identifiable meaning
+83,oewn-06314530-n,n,noun.communication,bridging,2,substantive,any word or group of words functioning as a noun
+84,oewn-06322324-n,n,noun.communication,bridging,2,"oblique, oblique case",any grammatical case other than the nominative
+85,oewn-06735202-n,n,noun.communication,bridging,2,statement,a message that is stated or declared; a communication (oral or written) setting forth particulars or facts etc
+86,oewn-07123727-n,n,noun.communication,bridging,2,auditory communication,communication that relies on hearing
+87,oewn-05677778-n,n,noun.cognition,bridging,2,"state of mind, cognitive state",the state of a person's cognitive processes
+88,oewn-05709328-n,n,noun.cognition,bridging,2,"operation, process, cognitive operation, cognitive process, mental process",(psychology) the performance of some composite cognitive activity; an operation that affects mental contents
+89,oewn-05824413-n,n,noun.cognition,bridging,2,information,knowledge acquired through study or experience or instruction
+90,oewn-05857567-n,n,noun.cognition,bridging,2,"property, dimension, attribute",a construct whereby objects or individuals can be distinguished
+91,oewn-00109468-v,v,verb.change,bridging,2,change,undergo a change; become different in essence; losing one's or its original nature
+92,oewn-00169459-v,v,verb.change,bridging,2,change magnitude,change in size or magnitude
+93,oewn-15071467-n,n,noun.substance,bridging,2,solid,matter that is solid at room temperature and pressure
+94,oewn-08637636-n,n,noun.location,bridging,2,point,the precise location of something; a spatially limited location
+95,oewn-08648560-n,n,noun.location,bridging,2,region,a large indefinite location on the surface of the Earth
+96,oewn-13825132-n,n,noun.relation,bridging,2,voice,(linguistics) the grammatical relation (active or passive) of the grammatical subject of a verb to the action that the verb denotes
+97,oewn-13943868-n,n,noun.state,bridging,2,"condition, status",a state at a particular time
+98,oewn-14396987-n,n,noun.state,bridging,2,"psychological condition, psychological state, mental condition, mental state",(psychology) a mental condition in which the qualities of a state are relatively constant even though the state itself may be dynamic
+99,oewn-07955013-n,n,noun.group,bridging,2,arrangement,an orderly grouping (of things or persons) considered as a unit; the result of arranging
+100,oewn-07570579-n,n,noun.feeling,bridging,1,enthusiasm,a feeling of excitement
+101,oewn-02743769-n,n,noun.artifact,bridging,1,"plate armor, plate armour, armor plate, armor plating, armour plate",specially hardened steel plate used to protect fortifications or vehicles from enemy fire
+102,oewn-03127399-n,n,noun.artifact,bridging,1,covering,an artifact that covers something else (usually to protect or shelter or conceal it)
+103,oewn-03965995-n,n,noun.artifact,bridging,1,"scale, shell, plate",a metal sheathing of uniform thickness (such as the shield attached to an artillery piece to protect the gunners)
+104,oewn-04020673-n,n,noun.artifact,bridging,1,"protection, protective cover, protective covering",a covering that is intend to protect from damage or injury
+105,oewn-04199901-n,n,noun.artifact,bridging,1,shield,a protective covering or structure
+106,oewn-04749775-n,n,noun.attribute,bridging,1,sameness,the quality of being alike
+107,oewn-04770548-n,n,noun.attribute,bridging,1,"individualism, individuality, individuation",the quality of being individual
+108,oewn-04904939-n,n,noun.attribute,bridging,1,"behavior, behaviour, demeanor, demeanour, deportment, conduct",(behavioral attributes) the way a person behaves toward other people
+109,oewn-04990371-n,n,noun.attribute,bridging,1,sound property,an attribute of sound
+110,oewn-05051679-n,n,noun.attribute,bridging,1,temporal property,a property relating to time
+111,oewn-05101152-n,n,noun.attribute,bridging,1,"level, grade, degree",a position on a scale of intensity or amount or quality
+112,oewn-00191991-n,n,noun.act,bridging,1,change,the action of changing something
+113,oewn-00352311-n,n,noun.act,bridging,1,change of magnitude,the act of changing the amount or size of something
+114,oewn-00364086-n,n,noun.act,bridging,1,"increase, step-up",the act of increasing something
+115,oewn-00635107-n,n,noun.act,bridging,1,"investigating, investigation",the work of inquiring into something thoroughly and systematically
+116,oewn-00637093-n,n,noun.act,bridging,1,"scrutiny, examination",the act of examining something closely (as for mistakes)
+117,oewn-00720746-n,n,noun.act,bridging,1,duty,work that you are obliged to perform for moral or legal reasons
+118,oewn-00721817-n,n,noun.act,bridging,1,"office, part, role, function",the actions and activities assigned to or required or expected of a person or group
+119,oewn-00910190-n,n,noun.act,bridging,1,"creation, creative activity",the human act of creating
+120,oewn-00929076-n,n,noun.act,bridging,1,creating by mental acts,the act of creating something by thinking
+121,oewn-00931401-n,n,noun.act,bridging,1,verbal creation,creating something by the use of speech and language
+122,oewn-01357376-v,v,verb.contact,bridging,1,"tie, link, link up, connect","connect, fasten, or put together two or more pieces"
+123,oewn-09527267-n,n,noun.person,bridging,1,"spiritual being, supernatural being",an incorporeal being believed to have powers to affect the course of human events
+124,oewn-09633690-n,n,noun.person,bridging,1,communicator,a person who communicates with others
+125,oewn-09642198-n,n,noun.person,bridging,1,"female, female person",a person who belongs to the sex that can have babies
+126,oewn-09647338-n,n,noun.person,bridging,1,"male, male person",a person who belongs to the sex that cannot have babies
+127,oewn-09811996-n,n,noun.person,bridging,1,"root, ancestor, antecedent, ascendant, ascendent",someone from whom you are descended (but usually more remote than a grandparent)
+128,oewn-10103812-n,n,noun.person,bridging,1,female offspring,a child who is female
+129,oewn-10146245-n,n,noun.person,bridging,1,genitor,a natural father or mother
+130,oewn-10146343-n,n,noun.person,bridging,1,"primogenitor, progenitor",an ancestor in the direct line
+131,oewn-10305635-n,n,noun.person,bridging,1,"male offspring, man-child",a child who is male
+132,oewn-10419190-n,n,noun.person,bridging,1,parent,a father or mother; one who begets or one who gives birth to or nurtures and raises a child; a relative who plays the role of guardian
+133,oewn-10813654-n,n,noun.person,bridging,1,"author, writer",writes (books or stories or articles or the like) professionally (for pay)
+134,oewn-07572999-n,n,noun.food,bridging,1,dish,a particular item of prepared food
+135,oewn-07581905-n,n,noun.food,bridging,1,"foodstuff, food product",a substance that can be used or prepared for use as food
+136,oewn-07586285-n,n,noun.food,bridging,1,"sustenance, alimentation, nourishment, aliment, victuals, nutriment, nutrition",a source of materials to nourish the body
+137,oewn-07598762-n,n,noun.food,bridging,1,soup,liquid food especially of meat or fish or vegetable stock often containing pieces of solid food
+138,oewn-07818393-n,n,noun.food,bridging,1,"grain, food grain, cereal",foodstuff prepared from the starchy grains of cereal grasses
+139,oewn-06293304-n,n,noun.communication,bridging,1,"language, linguistic communication",a systematic means of communicating by the use of sounds or conventional symbols
+140,oewn-06317223-n,n,noun.communication,bridging,1,morpheme,minimal meaningful language unit; it cannot be divided into smaller meaningful units
+141,oewn-06323956-n,n,noun.communication,bridging,1,"constituent, grammatical constituent",(grammar) a word or phrase or clause forming part of a larger grammatical construction
+142,oewn-06324447-n,n,noun.communication,bridging,1,"syntagm, syntagma",a syntactic string of words that forms a part of some larger syntactic unit
+143,oewn-06331146-n,n,noun.communication,bridging,1,common noun,a noun that denotes any or all members of a class
+144,oewn-06331307-n,n,noun.communication,bridging,1,"deverbal noun, verbal noun",a noun that is derived from a verb
+145,oewn-06340499-n,n,noun.communication,bridging,1,tense,a grammatical category of verbs used to express distinctions of time
+146,oewn-06341255-n,n,noun.communication,bridging,1,"past, past tense",a verb tense that expresses actions or states in the past
+147,oewn-06360590-n,n,noun.communication,bridging,1,"black and white, written communication, written language",communication by means of written symbols (either printed or handwritten)
+148,oewn-06374360-n,n,noun.communication,bridging,1,"writing, piece of writing, written material",the work of a writer; anything expressed in letters of the alphabet (especially when considered from the point of view of style and effect)
+149,oewn-06376912-n,n,noun.communication,bridging,1,matter,written works (especially in books or magazines)
+150,oewn-06399623-n,n,noun.communication,bridging,1,"text, textual matter",the words of something written
+151,oewn-06656171-n,n,noun.communication,bridging,1,evidence,an indication that makes something evident
+152,oewn-06660359-n,n,noun.communication,bridging,1,proof,a formal series of statements showing that if one thing is true something else necessarily follows from it
+153,oewn-06661469-n,n,noun.communication,bridging,1,"statement, argument",a fact or assertion offered as evidence that something is true
+154,oewn-06751030-n,n,noun.communication,bridging,1,"account, explanation",a statement that makes something comprehensible by describing the relevant structure or operation or circumstances etc.
+155,oewn-06810027-n,n,noun.communication,bridging,1,"indicant, indication",something that serves to indicate or suggest
+156,oewn-06830640-n,n,noun.communication,bridging,1,mark,a written or printed symbol (as for punctuation)
+157,oewn-06833830-n,n,noun.communication,bridging,1,"diacritic, diacritical mark",a mark added to a letter to indicate a special pronunciation
+158,oewn-07025650-n,n,noun.communication,bridging,1,line,text consisting of a row of words written across a page or computer screen
+159,oewn-07026665-n,n,noun.communication,bridging,1,string,"a linear sequence (as of characters, words, proteins, etc.)"
+160,oewn-07026850-n,n,noun.communication,bridging,1,"string of words, linguistic string, word string",a linear sequence of words as spoken or written
+161,oewn-07124555-n,n,noun.communication,bridging,1,"utterance, vocalization",the use of uttered sounds for auditory communication
+162,oewn-07143654-n,n,noun.communication,bridging,1,pronunciation,the manner in which someone utters a word
+163,oewn-07146562-n,n,noun.communication,bridging,1,articulation,the aspect of pronunciation that involves bringing articulatory organs together so as to shape the sounds of speech
+164,oewn-01854282-v,v,verb.motion,bridging,1,"displace, move","cause to move or shift into a new position or place, both in a concrete and in an abstract sense"
+165,oewn-00590283-v,v,verb.cognition,bridging,1,understand,know and comprehend the nature or meaning of
+166,oewn-00620568-v,v,verb.cognition,bridging,1,"place, identify",recognize as being; establish the identity of someone or something
+167,oewn-00624823-v,v,verb.cognition,bridging,1,"see, interpret, construe",make sense of; assign a meaning to
+168,oewn-00630153-v,v,verb.cognition,bridging,1,"think, cerebrate, cogitate","use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments"
+169,oewn-00634289-v,v,verb.cognition,bridging,1,reason,think logically
+170,oewn-00667804-v,v,verb.cognition,bridging,1,"support, sustain, substantiate, corroborate, affirm, confirm",establish or strengthen as with new evidence or facts
+171,oewn-00701581-v,v,verb.cognition,bridging,1,"set, determine",fix conclusively or authoritatively
+172,oewn-05678554-n,n,noun.cognition,bridging,1,concern,something that interests you because it is important or affects you
+173,oewn-05683749-n,n,noun.cognition,bridging,1,"awareness, cognisance, cognizance, consciousness, knowingness",having knowledge of
+174,oewn-05690411-n,n,noun.cognition,bridging,1,"wonder, curiosity",a state in which you want to learn more about something
+175,oewn-05690773-n,n,noun.cognition,bridging,1,"interest, involvement",a sense of concern with and curiosity about someone or something
+176,oewn-05709891-n,n,noun.cognition,bridging,1,basic cognitive process,cognitive processes involved in obtaining and storing knowledge
+177,oewn-05734290-n,n,noun.cognition,bridging,1,structure,the complex composition of knowledge as elements and their combinations
+178,oewn-05755999-n,n,noun.cognition,bridging,1,"discrimination, secernment",the cognitive process whereby two or more stimuli are distinguished
+179,oewn-05778661-n,n,noun.cognition,bridging,1,higher cognitive process,cognitive processes that presuppose the availability of knowledge and put it to use
+180,oewn-05812801-n,n,noun.cognition,bridging,1,knowing,a clear and certain mental apprehension
+181,oewn-05824748-n,n,noun.cognition,bridging,1,"data point, datum",an item of factual information derived from measurement or research
+182,oewn-05824916-n,n,noun.cognition,bridging,1,"reading, meter reading, indication",a datum about some physical state that is presented to a user by a meter or similar instrument
+183,oewn-05832256-n,n,noun.cognition,bridging,1,"grounds, evidence",your basis for belief or disbelief; knowledge on which to base belief
+184,oewn-05847274-n,n,noun.cognition,bridging,1,category,a general concept that marks divisions or coordinations in a conceptual scheme
+185,oewn-05847533-n,n,noun.cognition,bridging,1,"form, sort, variety, kind",a category of things distinguished by some common characteristic or quality
+186,oewn-05858316-n,n,noun.cognition,bridging,1,"feature, characteristic",a prominent attribute or aspect of something
+187,oewn-05878206-n,n,noun.cognition,bridging,1,whole,all of something including all its component elements or parts
+188,oewn-05935308-n,n,noun.cognition,bridging,1,"representation, internal representation, mental representation",a presentation to the mind in the form of an idea or image
+189,oewn-05950141-n,n,noun.cognition,bridging,1,belief,any cognitive content held as true
+190,oewn-00231172-v,v,verb.change,bridging,1,grow,"become larger, greater, or bigger; expand or gain"
+191,oewn-00251950-v,v,verb.change,bridging,1,evolve,undergo development or evolution
+192,oewn-00252905-v,v,verb.change,bridging,1,develop,"grow, progress, unfold, or evolve through a process of evolution, natural growth, differentiation, or a conducive environment"
+193,oewn-02372362-v,v,verb.social,bridging,1,"act, move","perform an action, or work out or perform (an action)"
+194,oewn-02382049-v,v,verb.social,bridging,1,interact,act together or towards others or with others
+195,oewn-05223633-n,n,noun.body,bridging,1,"body, organic structure","the entire physical structure of an organism (an animal, plant, or human being)"
+196,oewn-05224424-n,n,noun.body,bridging,1,"figure, form, frame, chassis, shape, build, physique, anatomy, soma, bod, human body, physical body, flesh, material body",alternative names for the body of a human being
+197,oewn-13597072-n,n,noun.quantity,bridging,1,"fundamental measure, fundamental quantity",one of the four quantities that are the basis of systems of measurement
+198,oewn-13597304-n,n,noun.quantity,bridging,1,definite quantity,a specific measure of amount
+199,oewn-02110960-v,v,verb.perception,bridging,1,"comprehend, perceive",to become aware of through the senses
+200,oewn-02168177-v,v,verb.perception,bridging,1,"sight, spy",catch sight of; to perceive with the eyes
+201,oewn-01656555-v,v,verb.creation,bridging,1,"create from raw material, create from raw stuff",make from scratch
+202,oewn-08508836-n,n,noun.location,bridging,1,"territorial division, administrative district, administrative division",a district defined for administrative purposes
+203,oewn-08514304-n,n,noun.location,bridging,1,"area, country",a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)
+204,oewn-08569713-n,n,noun.location,bridging,1,"territory, district, dominion, territorial dominion",a region marked off for administrative or other purposes
+205,oewn-08591861-n,n,noun.location,bridging,1,"geographic area, geographic region, geographical area, geographical region",a demarcated area of the Earth
+206,oewn-08643858-n,n,noun.location,bridging,1,municipality,an urban district having corporate status and powers of self-government
+207,oewn-08658688-n,n,noun.location,bridging,1,"neighborhood, locality, vicinity, neck of the woods, neighbourhood",a surrounding or nearby region
+208,oewn-08665897-n,n,noun.location,bridging,1,section,a distinct region or subdivision of a territorial or political area or community or group of people
+209,oewn-08693705-n,n,noun.location,bridging,1,"populated area, urban area",a geographical area constituting a city or town
+210,oewn-02301114-v,v,verb.possession,bridging,1,"give, leave, impart, pass on",transmit (knowledge or skills)
+211,oewn-01468898-n,n,noun.animal,bridging,1,chordate,any animal of the phylum Chordata having a notochord or spinal column
+212,oewn-01474323-n,n,noun.animal,bridging,1,"craniate, vertebrate",animals having a bony or cartilaginous skeleton with a segmented spinal column and a large brain enclosed in a skull or cranium
+213,oewn-01663732-n,n,noun.animal,bridging,1,"reptile, reptilian","any cold-blooded vertebrate of the class Reptilia including tortoises, turtles, snakes, lizards, alligators, crocodiles, and extinct forms"
+214,oewn-01664459-n,n,noun.animal,bridging,1,"diapsid, diapsid reptile",reptile having a pair of openings in the skull behind each eye
+215,oewn-15137796-n,n,noun.time,bridging,1,"period, time period, period of time",an amount of time
+216,oewn-15205381-n,n,noun.time,bridging,1,"point, point in time",an instant of time
+217,oewn-15269461-n,n,noun.time,bridging,1,"second, minute, moment, instant",a particular point in time
+218,oewn-13823013-n,n,noun.relation,bridging,1,"modification, qualifying, limiting",the grammatical relation that exists when a word qualifies the meaning of the phrase
+219,oewn-13825994-n,n,noun.relation,bridging,1,"inflection, inflexion",a change in the form of a word (usually by adding a suffix) to indicate a change in its grammatical function
+220,oewn-13968971-n,n,noun.state,bridging,1,"position, status",the relative position or standing of things or especially persons in a society
+221,oewn-13971316-n,n,noun.state,bridging,1,standing,social or financial or professional status or reputation
+222,oewn-14323139-n,n,noun.state,bridging,1,symptom,(medicine) any sensation or change in bodily function that is experienced by a patient and is associated with a particular disease
+223,oewn-14346126-n,n,noun.state,bridging,1,"pain, hurting",a symptom of some physical hurt or disorder
+224,oewn-14347683-n,n,noun.state,bridging,1,"suffering, agony, excruciation",a state of acute pain
+225,oewn-14460341-n,n,noun.state,bridging,1,"honor, honour, laurels",the state of being honored
+226,oewn-14461591-n,n,noun.state,bridging,1,"reputation, repute",the state of being held in high esteem and honor
+227,oewn-07958392-n,n,noun.group,bridging,1,people,(plural) any group of human beings (men or women or children) collectively
+228,oewn-07967506-n,n,noun.group,bridging,1,social group,people sharing some social relation
+229,oewn-07989688-n,n,noun.group,bridging,1,building,the occupants of a building
+230,oewn-07991473-n,n,noun.group,bridging,1,"gathering, assemblage",a group of persons together in one place
+231,oewn-08474987-n,n,noun.group,bridging,1,series,similar things placed in order or happening one after another
+232,oewn-08476263-n,n,noun.group,bridging,1,sequence,serial arrangement in which things follow in logical order or a recurrent pattern
+233,oewn-13275704-n,n,noun.possession,bridging,1,gain,the amount by which the revenue of a business exceeds its cost of operating
+234,oewn-13275884-n,n,noun.possession,bridging,1,financial gain,the amount of monetary gain
+235,oewn-13276044-n,n,noun.possession,bridging,1,income,the financial gain (earned or unearned) accruing over a given period of time
+236,oewn-13279261-n,n,noun.possession,bridging,1,"net, profit, profits, lucre, net income, net profit, earnings",the excess of revenues over outlays in a given period of time (including depreciation and other non-cash expenses)
+237,oewn-13350663-n,n,noun.possession,bridging,1,assets,anything of material value or usefulness that is owned by a person or company
+238,oewn-13352213-n,n,noun.possession,bridging,1,"sum, amount, sum of money, amount of money",a quantity of money
+239,oewn-13387866-n,n,noun.possession,bridging,1,accumulation,(finance) profits that are not paid out as dividends but are added to the capital base of the corporation
+240,oewn-13388243-n,n,noun.possession,bridging,1,"stock, store, fund",a supply of something available for future use
+241,oewn-00742582-v,v,verb.communication,bridging,1,"communicate, intercommunicate",transmit thoughts or feelings
+242,oewn-00820635-v,v,verb.communication,bridging,1,"insist, take a firm stand",be emphatic or resolute and refuse to budge
+243,oewn-00833312-v,v,verb.communication,bridging,1,inform,"impart knowledge of some fact, state of affairs, or event to"
+244,oewn-00929020-v,v,verb.communication,bridging,1,speculate,"talk over conjecturally, or review in an idle or casual way and with an element of doubt or without sufficient reason to reach a conclusion"
+245,oewn-00930591-v,v,verb.communication,bridging,1,convey,(of information) make known; pass on
+246,oewn-00942415-v,v,verb.communication,bridging,1,"express, utter, verbalise, verbalize, give tongue to","articulate; either verbally or with a cry, shout, or noise"
+247,oewn-00954556-v,v,verb.communication,bridging,1,tell,let something be known
+248,oewn-00985856-v,v,verb.communication,bridging,1,"let loose, let out, utter, emit",express audibly; utter sounds (not necessarily words)
+249,oewn-01018787-v,v,verb.communication,bridging,1,"maintain, assert, asseverate",state categorically
+250,oewn-13479774-n,n,noun.process,bridging,1,"decrease, decrement",a process of becoming smaller or shorter

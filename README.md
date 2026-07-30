@@ -117,6 +117,17 @@ Editor](https://github.com/jmccrae/ewe).
   Tags are written as sparse `[index, "sga-<synset id>"]` pairs (teanga's
   `element` layer type - see the script's docstring for why a dense
   one-entry-per-token layer doesn't work here).
+- `scripts/priority_concepts.py` — read-only report, `data/
+  priority_concepts.csv`, ranking which English synsets to translate next
+  to grow the link structure rather than just the synset count. Two
+  categories, both computed from wn.db's hypernym graph: `top_concept` -
+  the untranslated members of English WordNet's `noun.Tops` file (the
+  ~51 canonical "unique beginner" concepts every noun hypernym chain
+  traces back to), ranked by how many existing synsets here already
+  descend from it; `bridging` - everything else that's a hypernym
+  (direct or transitive) of the most existing synsets here, ranked the
+  same way, so translating one creates many hypernym links at once
+  instead of one link per translation.
 
 ## Development
 
