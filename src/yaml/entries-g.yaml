@@ -13,12 +13,14 @@ gerind:
     - id: 'gerind%1:10:00::'
       synset: 85409528-n
 gním:
+  a:
+    sense:
+    - id: 'gním%3:00:01::'
+      synset: 87977433-a
   n:
     sense:
     - id: 'gním%1:26:00::'
       synset: 88556240-n
-    - id: 'gním%1:24:01::'
-      synset: 86218389-n
     - id: 'gním%1:04:02::'
       synset: 89795394-n
 gnúis:

@@ -629,7 +629,7 @@ VbI1:
 Eu/z:
     feats: ["Abbr=Yes", "", "Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Fut|VerbType=Cop", "Case=Nom|Degree=Pos|Gender=Fem|Number=Plur", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Plur", "Case=Gen|Number=Plur", "Case=Gen|Degree=Pos|Gender=Fem|Number=Plur", "", "PartType=Vb", "Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Pass", "Abbr=Yes", "", "Mood=Sub|Number=Sing|PartType=Aug|Person=3|Tense=Pres|Voice=Act", "Case=Nom|Number=Sing", "Case=Gen|Number=Plur", "", "Case=Gen|Number=Plur", "AdpType=Prep|Definite=Ind|Number=Plur|Person=3|PronType=Prs", "AdpType=Prep|Definite=Ind", "Case=Acc|Number=Sing", "Case=Gen|Number=Sing", "Foreign=Yes"]
     lemma: [".i.", "ar", "is", "com\u1e61uidigthe", "\u00f3", "fogur", "liter", "aile", "m\u00e1", "de", "doella", ".i.", "co", "att\u00e1", "com\u1e61uidigud", "liter", "n\u00f3", "sillab", "i", "fri", "slond", "genitiu", "_"]
-    sga_key: [[3, "sga-86984615-a"], [5, "sga-87849671-n"], [6, "sga-81890503-n"], [12, "sga-87655896-r"], [14, "sga-81659516-n"], [17, "sga-80179898-n"], [20, "sga-82949802-v"], [21, "sga-86287358-a"]]
+    sga_key: [[3, "sga-86984615-a"], [5, "sga-87849671-n"], [6, "sga-81890503-n"], [12, "sga-87655896-r"], [14, "sga-81287314-n"], [17, "sga-80179898-n"], [20, "sga-82949802-v"], [21, "sga-86287358-a"]]
     text: ".i. air bit com\u1E61uidichthi oa fograib liter naile ma du ellatar .i. con roib\
       \ com\u1E61uidigud liter no sillab indib fri slond geniten reliqua"
     tokens: [[0, 3], [4, 7], [8, 11], [12, 25], [26, 28], [29, 36], [37, 42], [43, 48], [49, 51], [52, 54], [55, 62], [63, 66], [67, 70], [71, 75], [76, 87], [88, 93], [94, 96], [97, 103], [104, 109], [110, 113], [114, 119], [120, 127], [128, 135]]
@@ -7452,7 +7452,7 @@ ZIBV:
 1ibx:
     feats: ["Abbr=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Abbr=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing", "Case=Gen|Degree=Pos|Number=Sing", "PartType=Vb", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass", "Case=Nom|Gender=Neut|Number=Sing|PronType=Art", "Case=Nom|Number=Sing", "", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes"]
     lemma: [".i.", "_", "_", "_", ".i.", "_", "_", "_", "_", "_", "_", "_", "_", "_", "a", "delb", "aittrebthach", "ar", "arbeir", "a", "aitherrechtaigthe", "ocus", "_", "_", "_", "_"]
-    sga_key: [[16, "sga-89057725-n"], [20, "sga-86697922-n"]]
+    sga_key: [[16, "sga-86287358-a"], [20, "sga-86697922-n"]]
     text: ".i. in caesar octavienda .i. octaviani filius fuit caesar \u204A non est filius octaviae\
       \ a deilb atreibthig ar berar a naitherrechtaigthe \u204A pro patronomico h\xED\
       c est"
@@ -7978,7 +7978,7 @@ yFpr:
 vjFI:
     feats: ["Abbr=Yes", "AdpType=Prep|Definite=Def", "Case=Dat|Gender=Neut|Number=Sing|PronType=Art", "Case=Dat|Number=Sing", "PartType=Vb", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act", "Case=Nom|Gender=Neut|Number=Sing|PronType=Art", "Case=Nom|Degree=Pos|Number=Sing", "Abbr=Yes", "Foreign=Yes", "Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop", "Gender=Masc|Number=Sing|Person=3|PronType=Prs", "Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs", "Case=Nom|Number=Sing", "Case=Gen|Number=Sing", "PronType=Ana", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act", "Foreign=Yes"]
     lemma: [".i.", "\u00f3", "a", "aitherrechtaigthe", "ad", "att\u00e1", "a", "aittrebthach", ".i.", "_", "is", "\u00e9_1", "a", "fochslaid", "ilar", "side", "att\u00e1", "_"]
-    sga_key: [[7, "sga-89057725-n"], [13, "sga-80365201-a"], [14, "sga-80259077-n"]]
+    sga_key: [[7, "sga-86287358-a"], [13, "sga-80365201-a"], [14, "sga-80259077-n"]]
     text: ".i. ua nd aitherrechtaigthiu at \xE1 a naitrebthach .i. acrisioneus is h\xE9 a \u1E1F\
       oxlaid ilair sidi fil sunt"
     tokens: [[0, 3], [4, 6], [7, 9], [10, 28], [29, 31], [32, 33], [34, 35], [36, 48], [49, 52], [53, 64], [65, 67], [68, 70], [71, 72], [73, 80], [81, 86], [87, 91], [92, 95], [96, 100]]
@@ -8075,7 +8075,7 @@ bx+/:
 bZO8:
     feats: ["Abbr=Yes", "Case=Gen|Gender=Masc|Number=Sing|PronType=Art", "Case=Gen|Degree=Pos|Gender=Masc|Number=Sing", "AdpType=Prep|Definite=Ind", "PartType=Rel", "Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act", "Case=Nom|Gender=Neut|Number=Sing|PronType=Art", "Case=Nom|Degree=Pos|Number=Sing"]
     lemma: [".i.", "in", "c\u00e9tnaide", "\u00f3", "a", "att\u00e1", "a", "aittrebthach"]
-    sga_key: [[2, "sga-89677527-s"], [7, "sga-89057725-n"]]
+    sga_key: [[2, "sga-89677527-s"], [7, "sga-86287358-a"]]
     text: ".i. in ch\xE9tnidi hu a mb\xED a naitrebthach"
     tokens: [[0, 3], [4, 6], [7, 15], [16, 18], [19, 20], [21, 24], [25, 26], [27, 39]]
     upos: ["ADV", "DET", "ADJ", "ADP", "PART", "VERB", "DET", "ADJ"]
@@ -8169,7 +8169,6 @@ jqk5:
 sMKC:
     feats: ["Abbr=Yes", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing", "Case=Acc|Number=Plur"]
     lemma: [".i.", "ar", "cuit", "tairm\u1e1forcend"]
-    sga_key: [[3, "sga-88890230-n"]]
     text: .i. ar chuit tarmorcenn
     tokens: [[0, 3], [4, 6], [7, 12], [13, 23]]
     upos: ["ADV", "ADP", "NOUN", "NOUN"]
@@ -8388,7 +8387,7 @@ lt1S:
 9fGw:
     feats: ["Abbr=Yes", "Case=Nom|Number=Sing", "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing", "", "Case=Nom|Number=Sing", "Case=Gen|Degree=Pos|Number=Sing", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing"]
     lemma: [".i.", "son", "l\u00e1n", "ocus", "delb", "aittrebthach", "\u00f3", "son"]
-    sga_key: [[1, "sga-87849671-n"], [4, "sga-81886174-n"], [5, "sga-89057725-n"]]
+    sga_key: [[1, "sga-87849671-n"], [4, "sga-81886174-n"], [5, "sga-86287358-a"]]
     text: ".i. son l\xE1n \u204A delb aitrebthaig o \u1E61un"
     tokens: [[0, 3], [4, 7], [8, 11], [12, 13], [14, 18], [19, 30], [31, 32], [33, 36]]
     upos: ["ADV", "NOUN", "ADJ", "CCONJ", "NOUN", "ADJ", "ADP", "NOUN"]
@@ -8595,7 +8594,7 @@ je7R:
 XcUx:
     feats: ["Abbr=Yes", "Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop", "Case=Nom|Number=Sing", "AdpType=Prep|Definite=Ind|Number=Sing|Person=1|PronType=Prs", "", "Case=Nom|Gender=Neut|Number=Sing|PronType=Art", "Case=Nom|Degree=Pos|Number=Sing", "Foreign=Yes", "Foreign=Yes"]
     lemma: [".i.", "is", "cummae", "la", "ocus", "a", "aittrebthach", "_", "_"]
-    sga_key: [[6, "sga-89057725-n"]]
+    sga_key: [[6, "sga-86287358-a"]]
     text: ".i. n\xED cumma limm \u204A a naitrebthach quia productum"
     tokens: [[0, 3], [4, 6], [7, 12], [13, 17], [18, 19], [20, 21], [22, 34], [35, 39], [40, 49]]
     upos: ["ADV", "AUX", "NOUN", "ADP", "CCONJ", "DET", "ADJ", "X", "X"]
@@ -8912,7 +8911,7 @@ Amdo:
 7QDH:
     feats: ["Abbr=Yes", "PartType=Vb", "Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Pass", "Case=Nom|Number=Plur", "Case=Nom|Degree=Pos|Gender=Neut|Number=Plur", "AdpType=Prep|Definite=Ind|Number=Plur|Person=3|PronType=Prs", "", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass", "AdpType=Prep|Definite=Def", "Case=Dat|Gender=Masc|Number=Sing|PronType=Art", "PartType=Dct", "Mood=Ind|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop", "PartType=Vb", "", "Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop", "AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs", "PartType=Vb", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass", "Case=Nom|Number=Sing", "", "AdpType=Prep|Definite=Ind", "Case=Acc|Degree=Pos|Number=Sing", "AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs"]
     lemma: [".i.", "de", "dogn\u00ed", "ainm", "d\u00edles", "de", "amal", "dogn\u00ed", "de", "in", "\u00ed", "is", "de", "c\u00eda", "is", "ar", "do", "dobeir", "desimrecht", "acht", "ar", "aittrebthach", "i"]
-    sga_key: [[18, "sga-86742092-n"], [21, "sga-89057725-n"]]
+    sga_key: [[18, "sga-86742092-n"], [21, "sga-89057725-n;sga-86287358-a"]]
     text: ".i. do gn\xEDter anmannn dilsi diib amal ngniter di nd h\xED as do ci nid airi do\
       \ berr desimrecht acht ar atrebthach nand"
     tokens: [[0, 3], [4, 6], [7, 13], [14, 21], [22, 27], [28, 32], [33, 37], [38, 45], [46, 48], [49, 51], [52, 54], [55, 57], [58, 60], [61, 63], [64, 67], [68, 72], [73, 75], [76, 80], [81, 91], [92, 96], [97, 99], [100, 110], [111, 115]]
@@ -9620,7 +9619,6 @@ V9Bd:
 ccVD:
     feats: ["Abbr=Yes", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing", "Case=Gen|Number=Sing", "Case=Gen|Degree=Pos|Gender=Masc|Number=Sing"]
     lemma: [".i.", "co", "intliucht", "posit", "ainmmde"]
-    sga_key: [[3, "sga-87016430-n"]]
     text: ".i. co nint\u1E61liucht posit ainmmdi"
     tokens: [[0, 3], [4, 6], [7, 18], [19, 24], [25, 32]]
     upos: ["ADV", "ADP", "NOUN", "NOUN", "ADJ"]
@@ -9652,7 +9650,7 @@ xjYU:
 9Mnj:
     feats: ["Abbr=Yes", "Case=Nom|Number=Sing", "Case=Gen|Number=Sing", "Case=Gen|Degree=Pos|Gender=Masc|Number=Sing", "", "AdpType=Prep|Definite=Def", "Case=Dat|Gender=Fem|Number=Sing|PronType=Art", "Case=Dat|Number=Sing", "Case=Dat|Degree=Pos|Number=Sing"]
     lemma: [".i.", "s\u00edans", "posit", "ainmmde", "immurgu", "i", "in", "rann", "ranngab\u00e1lda"]
-    sga_key: [[2, "sga-87016430-n"], [7, "sga-85064914-n"]]
+    sga_key: [[7, "sga-85064914-n"]]
     text: .i. sens posit ainmdi immurgu i sind rainn rangabaldi
     tokens: [[0, 3], [4, 8], [9, 14], [15, 21], [22, 29], [30, 31], [32, 36], [37, 42], [43, 53]]
     upos: ["ADV", "NOUN", "NOUN", "ADJ", "SCONJ", "ADP", "DET", "NOUN", "ADJ"]
@@ -9903,7 +9901,6 @@ mcSS:
 Kg3Z:
     feats: ["Mood=Ind|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop", "Case=Nom|Number=Sing"]
     lemma: ["is", "posit"]
-    sga_key: [[1, "sga-87016430-n"]]
     text: as posit
     tokens: [[0, 2], [3, 8]]
     upos: ["AUX", "NOUN"]
@@ -9914,7 +9911,7 @@ Kg3Z:
 oAzZ:
     feats: ["Abbr=Yes", "Case=Nom|Number=Sing", "Foreign=Yes", "", "Case=Nom|Number=Sing", "AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs", "Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop", "Gender=Neut|Number=Sing|Person=3|PronType=Prs", "Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act", "AdpType=Prep|Definite=Def", "Case=Dat|Gender=Fem|Number=Sing|PronType=Art", "Case=Dat|Number=Sing", "PartType=Dct", "PronType=Dem", "Case=Gen|Gender=Fem|Number=Sing|PronType=Art", "Case=Gen|Number=Sing"]
     lemma: [".i.", "s\u00e9ns", "_", "ocus", "posit", "la", "is", "ed", "att\u00e1", "i", "in", "comparit", "\u00ed", "sin", "in", "dobr\u00edathar"]
-    sga_key: [[4, "sga-87016430-n"], [11, "sga-81991571-n"], [15, "sga-89466722-n"]]
+    sga_key: [[11, "sga-81991571-n"], [15, "sga-89466722-n"]]
     text: ".i. Sens magis \u204A posit leiss iss ed b\xEDs i sin comparait hi sin inna dobreithre"
     tokens: [[0, 3], [4, 8], [9, 14], [15, 16], [17, 22], [23, 28], [29, 32], [33, 35], [36, 39], [40, 41], [42, 45], [46, 55], [56, 58], [59, 62], [63, 67], [68, 78]]
     upos: ["ADV", "NOUN", "X", "CCONJ", "NOUN", "ADP", "AUX", "PRON", "VERB", "ADP", "DET", "NOUN", "PART", "PART", "DET", "NOUN"]
@@ -10635,7 +10632,6 @@ RxHz:
 GH6T:
     feats: ["AdpType=Prep|Definite=Ind", "Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs", "Case=Dat|Number=Sing"]
     lemma: ["de", "a", "posit"]
-    sga_key: [[2, "sga-87016430-n"]]
     text: di a posit
     tokens: [[0, 2], [3, 4], [5, 10]]
     upos: ["ADP", "PRON", "NOUN"]
@@ -10646,7 +10642,7 @@ GH6T:
 eHjB:
     feats: ["", "Mood=Ind|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop", "Case=Nom|Degree=Pos|Number=Sing", "Case=Nom|Gender=Masc|Number=Sing|PronType=Art", "Case=Nom|Number=Sing", "AdpType=Prep|Definite=Ind", "Case=Acc|Number=Sing", "Case=Gen|Number=Sing", "Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop", "AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs", "Polarity=Neg", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes"]
     lemma: ["\u00f3re", "is", "tuidmide", "in", "posit", "cen", "fodail", "cen\u00e9l", "is", "ar", "n\u00ed", "techtaid", "_", "_", "_"]
-    sga_key: [[4, "sga-87016430-n"], [7, "sga-89860995-n"], [11, "sga-87022866-v"]]
+    sga_key: [[7, "sga-89860995-n"], [11, "sga-87022866-v"]]
     text: "huare as tuidmide in posit cen \u1E1Fodail ceineuil is airi n\xED techta nisi unum\
       \ genus"
     tokens: [[0, 5], [6, 8], [9, 17], [18, 20], [21, 26], [27, 30], [31, 37], [38, 46], [47, 49], [50, 54], [55, 57], [58, 64], [65, 69], [70, 74], [75, 80]]
@@ -10796,7 +10792,6 @@ ASdC:
 g2Mb:
     feats: ["AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing"]
     lemma: ["do", "derscugud", "de", "posit"]
-    sga_key: [[3, "sga-87016430-n"]]
     text: do derscuguth di posit
     tokens: [[0, 2], [3, 13], [14, 16], [17, 22]]
     upos: ["ADP", "NOUN", "ADP", "NOUN"]
@@ -10837,7 +10832,7 @@ G55f:
 iCaV:
     feats: ["Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop", "AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs", "Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop", "Case=Nom|Degree=Pos|Number=Sing", "Mood=Ind|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop", "Degree=Cmp", "", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act", "Case=Nom|Number=Sing", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes"]
     lemma: ["is", "i", "is", "follus", "is", "becc", "ol", "att\u00e1", "posit", "_", "_", "_", "_"]
-    sga_key: [[3, "sga-83570020-a"], [5, "sga-87553185-a"], [8, "sga-87016430-n"]]
+    sga_key: [[3, "sga-83570020-a"], [5, "sga-87553185-a"]]
     text: is and is follus as laigiu ol daas posit quando dicit oculos nitentes
     tokens: [[0, 2], [3, 6], [7, 9], [10, 16], [17, 19], [20, 26], [27, 29], [30, 34], [35, 40], [41, 47], [48, 53], [54, 60], [61, 69]]
     upos: ["AUX", "ADP", "AUX", "ADJ", "AUX", "ADJ", "SCONJ", "VERB", "NOUN", "X", "X", "X", "X"]
@@ -11266,7 +11261,7 @@ L81s:
 Kir0:
     feats: ["AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing", "Case=Gen|Number=Sing", "PartType=Vb", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act", "Foreign=Yes", "Foreign=Yes"]
     lemma: ["i", "loc", "posit", "ad", "att\u00e1", "_", "_"]
-    sga_key: [[1, "sga-89071008-n"], [2, "sga-87016430-n"]]
+    sga_key: [[1, "sga-89071008-n"]]
     text: "hi luc posit at \xE1 ego h\xEDc"
     tokens: [[0, 2], [3, 6], [7, 12], [13, 15], [16, 17], [18, 21], [22, 25]]
     upos: ["ADP", "NOUN", "NOUN", "PART", "VERB", "X", "X"]
@@ -11488,7 +11483,7 @@ HeVo:
 vYjt:
     feats: ["Abbr=Yes", "", "Mood=Sub|Number=Sing|Person=3|Tense=Past|Voice=Act", "Case=Dat|Number=Sing", "AdpType=Prep|Definite=Ind", "NumType=Card", "Foreign=Yes", "Abbr=Yes", "Foreign=Yes", "Case=Gen|Gender=Masc|Number=Sing|PronType=Art", "Case=Gen|Number=Sing", "", "Foreign=Yes", "Foreign=Yes", "Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop", "AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs", "PartType=Vb", "Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass", "Case=Nom|Gender=Neut|Number=Sing|PronType=Art", "Foreign=Yes", "Foreign=Yes"]
     lemma: [".i.", "co", "att\u00e1", "dechor", "eter", "d\u00e1", "_", ".i.", "_", "in", "tairm\u1e1forcend", "ocus", "_", "_", "is", "do", "do", "dobeir", "a", "_", "_"]
-    sga_key: [[3, "sga-85087478-n"], [10, "sga-88890230-n"]]
+    sga_key: [[3, "sga-85087478-n"]]
     text: ".i. co mbed dechur eter \u1E45d\xE1 nulla .i. ulla in tairmmorcinn \u204A ulla dimminutivum\
       \ is do thu cad a nuna reliqua"
     tokens: [[0, 3], [4, 6], [7, 11], [12, 18], [19, 23], [24, 27], [28, 33], [34, 37], [38, 42], [43, 45], [46, 58], [59, 60], [61, 65], [66, 78], [79, 81], [82, 84], [85, 88], [89, 92], [93, 94], [95, 99], [100, 107]]
@@ -13226,7 +13221,7 @@ OjXQ:
 m0jR:
     feats: ["PartType=Vb", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act", "Case=Acc|Number=Sing", "AdpType=Prep|Definite=Ind", "Case=Acc|Number=Sing"]
     lemma: ["ar", "arfo\u00edm", "com\u1e61uidigud", "la", "d\u00ed\u1e61ruthigud"]
-    sga_key: [[2, "sga-81659516-n"]]
+    sga_key: [[2, "sga-81287314-n"]]
     text: "ar f\xF3im comsuidigud la diruidigud"
     tokens: [[0, 2], [3, 7], [8, 19], [20, 22], [23, 33]]
     upos: ["PART", "VERB", "NOUN", "ADP", "NOUN"]
@@ -16052,7 +16047,7 @@ XDOf:
 da4q:
     feats: ["Abbr=Yes", "Case=Nom|Number=Sing", "Case=Gen|Number=Sing", "", "Case=Gen|Number=Sing", "", "Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act", "Foreign=Yes", "", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes"]
     lemma: [".i.", "inderbus", "cen\u00e9l", "ocus", "tairm\u1e1forcend", "ar", "att\u00e1", "_", "ocus", "_", "_", "_", "_"]
-    sga_key: [[1, "sga-88307027-n"], [2, "sga-89860995-n"], [4, "sga-88890230-n"], [6, "sga-89295043-v"]]
+    sga_key: [[1, "sga-88307027-n"], [2, "sga-89860995-n"], [6, "sga-89295043-v"]]
     text: ".i. inderbus cen\xEDuil \u204A tairmmorcinn ar biid panther \u204A panthera ut postea\
       \ dicet"
     tokens: [[0, 3], [4, 12], [13, 20], [21, 22], [23, 35], [36, 38], [39, 43], [44, 51], [52, 53], [54, 62], [63, 65], [66, 72], [73, 78]]
@@ -16889,7 +16884,7 @@ DyZy:
 it2n:
     feats: ["", "Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop", "Case=Nom|Number=Sing", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing", "Case=Nom|Gender=Masc|Number=Sing|PronType=Art", "Case=Nom|Number=Sing", "AdpType=Prep|Definite=Ind", "Foreign=Yes"]
     lemma: ["ar", "is", "sainred", "do", "mascul", "in", "tairm\u1e1forcend", "i", "_"]
-    sga_key: [[2, "sga-81892052-s"], [4, "sga-86331880-n"], [6, "sga-88890230-n"]]
+    sga_key: [[2, "sga-81892052-s"], [4, "sga-86331880-n"]]
     text: air is sainred do mascul in tairmorcenn in er
     tokens: [[0, 3], [4, 6], [7, 14], [15, 17], [18, 24], [25, 27], [28, 39], [40, 42], [43, 45]]
     upos: ["SCONJ", "AUX", "NOUN", "ADP", "NOUN", "DET", "NOUN", "ADP", "X"]
@@ -17815,7 +17810,7 @@ Ctw6:
 cTtu:
     feats: ["AdpType=Prep|Definite=Ind", "Number=Plur|Person=3|Poss=Yes|PronType=Prs", "Case=Dat|Number=Sing"]
     lemma: ["\u00edar", "a", "com\u1e61uidigud"]
-    sga_key: [[2, "sga-81659516-n"]]
+    sga_key: [[2, "sga-81287314-n"]]
     text: iar na comsuidigud
     tokens: [[0, 3], [4, 6], [7, 18]]
     upos: ["ADP", "PRON", "NOUN"]
@@ -19734,7 +19729,7 @@ UdJ0:
 iOK/:
     feats: ["NumType=Card", "Case=Nom|Number=Sing", "Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing", "Abbr=Yes", "Case=Nom|Gender=Neut|Number=Sing|PronType=Art", "Case=Nom|Number=Sing", "PartType=Vb", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass", "AdpType=Prep|Definite=Def", "Case=Dat|Gender=Masc|Number=Sing|PronType=Art", "Case=Dat|Number=Sing"]
     lemma: ["o\u00edn", "folad", "sluindid", "\u00edar", "com\u1e61uidigud", ".i.", "a", "folad", "fo", "fo\u1e61uidigedar", "fo", "in", "son"]
-    sga_key: [[1, "sga-89948552-n"], [4, "sga-81659516-n"], [12, "sga-81092558-n"]]
+    sga_key: [[1, "sga-89948552-n"], [4, "sga-81287314-n"], [12, "sga-81092558-n"]]
     text: "oin folad sluindite iar comsuidigud .i. a folad fo \u1E61uidigther fo nd \u1E61un"
     tokens: [[0, 3], [4, 9], [10, 19], [20, 23], [24, 35], [36, 39], [40, 41], [42, 47], [48, 50], [51, 61], [62, 64], [65, 67], [68, 71]]
     upos: ["NUM", "NOUN", "VERB", "ADP", "NOUN", "ADV", "DET", "NOUN", "PART", "VERB", "ADP", "DET", "NOUN"]
@@ -20036,7 +20031,7 @@ KgDP:
 ECMl:
     feats: ["Abbr=Yes", "", "PartType=Vb", "Gender=Neut|Number=Sing|Person=3|PronClass=C|PronType=Prs", "Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act", "AdpType=Prep|Definite=Ind|Number=Sing|Person=2|PronType=Prs", "", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act", "", "", "AdpType=Prep|Definite=Ind", "Case=Acc|Degree=Pos|Number=Plur", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Abbr=Yes", "Case=Nom|Number=Sing", "AdpType=Prep|Definite=Ind", "NumType=Card", "Case=Dat|Number=Dual", "AdpType=Prep|Definite=Def", "Case=Dat|Gender=Masc|Number=Sing|PronType=Art", "Case=Dat|Number=Sing", "", "Case=Dat|Number=Sing", "", "PartType=Aug", "Gender=Neut|Number=Sing|Person=3|PronClass=C|PronType=Prs", "Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act", "AdpType=Prep|Definite=Def", "Case=Dat|Gender=Masc|Number=Sing|PronType=Art", "Case=Dat|Number=Sing"]
     lemma: [".i.", "c\u00eda", "as", "id_2", "asbeir", "fri", "t\u00faas", "_", "_", "_", "_", "_", "att\u00e1", "camaiph", "dano", "la", "arsaid", "_", "_", "_", "_", "_", ".i.", "com\u1e61uidigud", "\u00f3", "d\u00e1", "\u00f3gae", "i", "in", "femen", "ocus", "neutur", "amal", "ro", "id_2", "gaibid", "i", "in", "mascul"]
-    sga_key: [[4, "sga-84005320-v"], [16, "sga-86464268-n"], [23, "sga-81659516-n"], [31, "sga-82042014-n"], [38, "sga-86331880-n"]]
+    sga_key: [[4, "sga-84005320-v"], [16, "sga-86464268-n"], [23, "sga-81287314-n"], [31, "sga-82042014-n"], [38, "sga-86331880-n"]]
     text: ".i. ci as id ruburt frit tuas alter utra pro altera utra rob\xF3i camaiph dano la\
       \ arsaidi altera utra \u204A alterum utrum .i. comsuidigud o dib nogaib i sind \u1E1F\
       emun \u204A neutur amal ro nd gab i sin mascul"
@@ -20128,7 +20123,7 @@ QLGM:
 DNnA:
     feats: ["Abbr=Yes", "Case=Nom|Number=Sing", "AdpType=Prep|Definite=Ind", "Case=Acc|Definite=Def|Number=Sing", "Case=Acc|Number=Sing"]
     lemma: [".i.", "com\u1e61uidigud", "fri", "cach", "tuisel"]
-    sga_key: [[1, "sga-81659516-n"], [4, "sga-87443575-n"]]
+    sga_key: [[1, "sga-81287314-n"], [4, "sga-87443575-n"]]
     text: .i. comsuidigud fri cach tuisel
     tokens: [[0, 3], [4, 15], [16, 19], [20, 24], [25, 31]]
     upos: ["ADV", "NOUN", "ADP", "DET", "NOUN"]
@@ -20139,7 +20134,7 @@ DNnA:
 7x7l:
     feats: ["Case=Nom|Number=Sing", "AdpType=Prep|Definite=Ind", "Case=Acc|Number=Plur", "Case=Nom|Gender=Masc|Number=Sing|PronType=Art", "PronType=Dem"]
     lemma: ["com\u1e61uidigud", "fri", "genitiu", "in", "sin"]
-    sga_key: [[0, "sga-81659516-n"], [2, "sga-89057725-n"]]
+    sga_key: [[0, "sga-81287314-n"], [2, "sga-89057725-n"]]
     text: comsuidigud fri genitne in sin
     tokens: [[0, 11], [12, 15], [16, 23], [24, 26], [27, 30]]
     upos: ["NOUN", "ADP", "NOUN", "DET", "PART"]
@@ -20352,7 +20347,7 @@ Rkn1:
 hd1/:
     feats: ["Abbr=Yes", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing", "Case=Gen|Number=Sing", "", "Case=Gen|Number=Sing"]
     lemma: [".i.", "\u00f3", "c\u00edall", "gn\u00edm", "ocus", "c\u00e9sad"]
-    sga_key: [[2, "sga-83081164-n"], [3, "sga-86218389-n"], [5, "sga-87456353-n"]]
+    sga_key: [[2, "sga-83081164-n"], [3, "sga-87977433-a"], [5, "sga-81155862-a"]]
     text: ".i. hua cheill gn\xEDma \u204A chesta"
     tokens: [[0, 3], [4, 7], [8, 14], [15, 20], [21, 22], [23, 29]]
     upos: ["ADV", "ADP", "NOUN", "NOUN", "CCONJ", "NOUN"]
@@ -24191,7 +24186,7 @@ LUhU:
 ZFt7:
     feats: ["Abbr=Yes", "Case=Nom|Gender=Neut|Number=Plur|PronType=Art", "PartType=Dct", "AdpType=Prep|Definite=Ind", "PartType=Rel", "Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Pass", "Case=Nom|Number=Sing"]
     lemma: [".i.", "a", "\u00ed", "\u00f3", "a", "gainithir", "c\u00e9sad"]
-    sga_key: [[6, "sga-87456353-n"]]
+    sga_key: [[6, "sga-81155862-a"]]
     text: ".i. inna h\xED hu a gainedar cesad"
     tokens: [[0, 3], [4, 8], [9, 11], [12, 14], [15, 16], [17, 25], [26, 31]]
     upos: ["ADV", "DET", "PART", "ADP", "PART", "VERB", "NOUN"]
@@ -24275,7 +24270,7 @@ BWVn:
 Nys8:
     feats: ["Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop", "Case=Nom|Number=Sing", "Case=Gen|Number=Sing", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act", "AdpType=Prep|Definite=Ind|Number=Plur|Person=3|PronType=Prs"]
     lemma: ["is", "c\u00edall", "c\u00e9sad", "att\u00e1", "i"]
-    sga_key: [[1, "sga-83081164-n"], [2, "sga-87456353-n"]]
+    sga_key: [[1, "sga-83081164-n"], [2, "sga-81155862-a"]]
     text: "is ciall ch\xE9sto fil indib"
     tokens: [[0, 2], [3, 8], [9, 15], [16, 19], [20, 25]]
     upos: ["AUX", "NOUN", "NOUN", "VERB", "ADP"]
@@ -24351,7 +24346,7 @@ gp/w:
 L1Zg:
     feats: ["Abbr=Yes", "Case=Nom|Number=Sing", "Case=Gen|Number=Sing", "AdpType=Prep|Definite=Ind|Number=Plur|Person=3|PronType=Prs", "", "Case=Nom|Number=Sing", "Case=Gen|Number=Sing"]
     lemma: [".i.", "c\u00edall", "c\u00e9sad", "i", "ocus", "im\u1e1fognam", "gn\u00edm"]
-    sga_key: [[1, "sga-83081164-n"], [2, "sga-87456353-n"], [5, "sga-87030202-n"]]
+    sga_key: [[1, "sga-83081164-n"], [2, "sga-81155862-a"], [5, "sga-87030202-n"]]
     text: ".i. ciall chesta indib \u204A immognam gn\xEDma"
     tokens: [[0, 3], [4, 9], [10, 16], [17, 22], [23, 24], [25, 33], [34, 39]]
     upos: ["ADV", "NOUN", "NOUN", "ADP", "CCONJ", "NOUN", "NOUN"]
@@ -24393,7 +24388,7 @@ WZmo:
 XVOb:
     feats: ["Abbr=Yes", "AdpType=Prep|Definite=Ind", "Case=Acc|Number=Sing", "Case=Gen|Number=Sing"]
     lemma: [".i.", "tre", "airchrae", "c\u00e9sad"]
-    sga_key: [[3, "sga-87456353-n"]]
+    sga_key: [[3, "sga-81155862-a"]]
     text: ".i. tre erchrae c\xE9sta"
     tokens: [[0, 3], [4, 7], [8, 15], [16, 21]]
     upos: ["ADV", "ADP", "NOUN", "NOUN"]
@@ -24414,7 +24409,7 @@ XVOb:
 BuxK:
     feats: ["Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop", "Foreign=Yes", "AdpType=Prep|Definite=Ind", "Case=Acc|Number=Sing", "AdpType=Prep|Definite=Def", "Case=Dat|Gender=Masc|Number=Sing|PronType=Art", "Case=Dat|Number=Sing"]
     lemma: ["is", "_", "fri", "comacnabad", "do", "in", "c\u00e9sad"]
-    sga_key: [[6, "sga-87456353-n"]]
+    sga_key: [[6, "sga-81155862-a"]]
     text: "is is fri comacnabad do n ch\xE9sad"
     tokens: [[0, 2], [3, 5], [6, 9], [10, 20], [21, 23], [24, 25], [26, 32]]
     upos: ["AUX", "X", "ADP", "NOUN", "ADP", "DET", "NOUN"]
@@ -24609,7 +24604,7 @@ VAu3:
 CJq6:
     feats: ["PartType=Vb", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass", "Case=Nom|Gender=Neut|Number=Sing|PronType=Art", "Case=Nom|Number=Sing", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing", "", "Polarity=Neg", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass", "Case=Nom|Gender=Fem|Number=Sing|PronType=Art", "Case=Nom|Number=Sing", "", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing"]
     lemma: ["ar", "aricc", "a", "ainm", "i", "d\u00eduitius", "ocus", "n\u00ed", "aricc", "in", "br\u00edathar", "acht", "i", "com\u1e61uidigud"]
-    sga_key: [[1, "sga-87058334-v"], [10, "sga-82734458-n"], [13, "sga-81659516-n"]]
+    sga_key: [[1, "sga-87058334-v"], [10, "sga-82734458-n"], [13, "sga-81287314-n"]]
     text: "ar ecar a nainm i ndiuitius \u204A n\xED airecar in briathar acht hi comsuidigud"
     tokens: [[0, 2], [3, 7], [8, 9], [10, 15], [16, 17], [18, 27], [28, 29], [30, 32], [33, 40], [41, 43], [44, 52], [53, 57], [58, 60], [61, 72]]
     upos: ["PART", "VERB", "DET", "NOUN", "ADP", "NOUN", "CCONJ", "PART", "VERB", "DET", "NOUN", "SCONJ", "ADP", "NOUN"]
@@ -24621,7 +24616,7 @@ CJq6:
 O2we:
     feats: ["", "Mood=Ind|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop", "Case=Nom|Number=Sing", "Case=Gen|Number=Sing", "Foreign=Yes"]
     lemma: ["amal", "is", "br\u00edathar", "gn\u00edm", "_"]
-    sga_key: [[2, "sga-82734458-n"], [3, "sga-86218389-n"]]
+    sga_key: [[2, "sga-82734458-n"], [3, "sga-87977433-a"]]
     text: "amal as \u1E41briathar gn\xEDma aperio"
     tokens: [[0, 4], [5, 7], [8, 17], [18, 23], [24, 30]]
     upos: ["SCONJ", "AUX", "NOUN", "NOUN", "X"]
@@ -24632,7 +24627,7 @@ O2we:
 2WOe:
     feats: ["Abbr=Yes", "Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop", "Gender=Neut|Number=Sing|Person=3|PronType=Prs", "PartType=Vb", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act", "Foreign=Yes", "PartType=Vb", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass", "Case=Nom|Number=Sing", "Case=Gen|Number=Sing", "Mood=Ind|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop", "Case=Gen|Gender=Neut|Number=Sing|PronType=Art", "PartType=Dct", "Mood=Ind|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes"]
     lemma: [".i.", "is", "ed", "as", "asbeir", "_", "ar", "arbeir", "c\u00edall", "c\u00e9sad", "is", "a", "\u00ed", "is", "_", "_", "_", "_", "_", "_", "_", "_"]
-    sga_key: [[8, "sga-80785130-n"], [9, "sga-87456353-n"]]
+    sga_key: [[8, "sga-80785130-n"], [9, "sga-81155862-a"]]
     text: ".i. iss ed as beir h\xEDc ar berr chial chesto as ind \xED as difficio quando pro\
       \ vincor accipitur ut inante ostendit"
     tokens: [[0, 3], [4, 7], [8, 10], [11, 13], [14, 18], [19, 22], [23, 25], [26, 30], [31, 36], [37, 43], [44, 46], [47, 50], [51, 52], [53, 55], [56, 64], [65, 71], [72, 75], [76, 82], [83, 92], [93, 95], [96, 102], [103, 111]]
@@ -25287,7 +25282,7 @@ HvDO:
 icp+:
     feats: ["Abbr=Yes", "Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs", "Case=Nom|Number=Sing", "Case=Nom|Gender=Neut|Number=Sing|PronType=Art", "PartType=Dct", "PronType=Dem", "Case=Acc|Gender=Fem|Number=Sing|PronType=Art", "Case=Acc|Number=Sing", "PartType=Vb", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass", "Case=Nom|Number=Sing", "Case=Gen|Number=Sing", "Case=Gen|Number=Sing", "AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs"]
     lemma: [".i.", "a", "gr\u00e9c", "a", "\u00ed", "so", "in", "tan", "ar", "arbeir", "c\u00edall", "br\u00edathar", "gn\u00edm", "a"]
-    sga_key: [[10, "sga-80785130-n"], [11, "sga-82734458-n"], [12, "sga-86218389-n"]]
+    sga_key: [[10, "sga-80785130-n"], [11, "sga-82734458-n"], [12, "sga-87977433-a"]]
     text: ".i. a grec a n\xED siu in tan ara mberar ciall brethre gn\xEDma ass"
     tokens: [[0, 3], [4, 5], [6, 10], [11, 12], [13, 15], [16, 19], [20, 22], [23, 26], [27, 30], [31, 37], [38, 43], [44, 51], [52, 57], [58, 61]]
     upos: ["ADV", "PRON", "NOUN", "DET", "PART", "PART", "DET", "NOUN", "PART", "VERB", "NOUN", "NOUN", "NOUN", "ADP"]
@@ -26290,7 +26285,7 @@ jWCE:
 U1NL:
     feats: ["Abbr=Yes", "", "Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop", "AdpType=Prep|Definite=Def", "Case=Acc|Gender=Neut|Number=Sing|PronType=Art", "Case=Acc|Degree=Pos|Gender=Neut|Number=Sing", "PartType=Vb", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act", "Case=Nom|Gender=Masc|Number=Sing|PronType=Art", "Case=Nom|Number=Sing"]
     lemma: [".i.", "ar", "is", "fri", "a", "sechmadachte", "do", "dot\u00e9t", "in", "com\u1e61uidigud"]
-    sga_key: [[5, "sga-84247059-n"], [9, "sga-81659516-n"]]
+    sga_key: [[5, "sga-84247059-n"], [9, "sga-81287314-n"]]
     text: .i. ar is fri sa sechmodachte do tet in chomsuidigud
     tokens: [[0, 3], [4, 6], [7, 9], [10, 13], [14, 16], [17, 29], [30, 32], [33, 36], [37, 39], [40, 52]]
     upos: ["ADV", "SCONJ", "AUX", "ADP", "DET", "ADJ", "PART", "VERB", "DET", "NOUN"]
@@ -26301,7 +26296,7 @@ U1NL:
 7yRH:
     feats: ["Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop", "AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs", "Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop", "AdpType=Prep|Definite=Def", "Case=Acc|Gender=Neut|Number=Sing|PronType=Art", "Case=Acc|Degree=Pos|Gender=Neut|Number=Sing", "PartType=Vb", "Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act", "Case=Nom|Gender=Masc|Number=Sing|PronType=Art", "Case=Nom|Number=Sing"]
     lemma: ["is", "ar", "is", "fri", "a", "sechmadachte", "do", "dot\u00e9t", "in", "com\u1e61uidigud"]
-    sga_key: [[5, "sga-84247059-n"], [9, "sga-81659516-n"]]
+    sga_key: [[5, "sga-84247059-n"], [9, "sga-81287314-n"]]
     text: is ari is fri sa sechmadachte do dechuid in comsuidigud
     tokens: [[0, 2], [3, 6], [7, 9], [10, 13], [14, 16], [17, 29], [30, 32], [33, 40], [41, 43], [44, 55]]
     upos: ["AUX", "ADP", "AUX", "ADP", "DET", "ADJ", "PART", "VERB", "DET", "NOUN"]
@@ -26323,7 +26318,7 @@ FDw4:
 2NQ4:
     feats: ["Abbr=Yes", "Case=Nom|Gender=Masc|Number=Sing|PronType=Art", "Case=Nom|Number=Sing", "AdpType=Prep|Definite=Ind", "Case=Acc|Definite=Def|Number=Sing", "Case=Acc|Number=Sing"]
     lemma: [".i.", "in", "com\u1e61uidigud", "fri", "cach", "aimser"]
-    sga_key: [[2, "sga-81659516-n"]]
+    sga_key: [[2, "sga-81287314-n"]]
     text: .i. in comsuidigud fri cach naimsir
     tokens: [[0, 3], [4, 6], [7, 18], [19, 22], [23, 27], [28, 35]]
     upos: ["ADV", "DET", "NOUN", "ADP", "DET", "NOUN"]
@@ -26344,7 +26339,7 @@ Q9RX:
 +dIf:
     feats: ["Abbr=Yes", "Case=Nom|Number=Sing", "AdpType=Prep|Definite=Ind", "Case=Acc|Definite=Def|Number=Sing", "Case=Acc|Number=Sing"]
     lemma: [".i.", "com\u1e61uidigud", "fri", "cach", "aimser"]
-    sga_key: [[1, "sga-81659516-n"]]
+    sga_key: [[1, "sga-81287314-n"]]
     text: .i. comsuidigud fri cach naimsir
     tokens: [[0, 3], [4, 15], [16, 19], [20, 24], [25, 32]]
     upos: ["ADV", "NOUN", "ADP", "DET", "NOUN"]
@@ -26420,7 +26415,7 @@ Ki3I:
 LYao:
     feats: ["Abbr=Yes", "Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop", "AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs", "Polarity=Neg", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act", "Case=Nom|Number=Sing", "AdpType=Prep|Definite=Ind", "Case=Acc|Number=Sing", "", "Mood=Ind|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop", "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing", "", "Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop", "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing", "Case=Nom|Number=Sing", "AdpType=Prep|Definite=Ind", "Case=Acc|Gender=Fem|Number=Sing|PronType=Ana", "", "Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbType=Cop", "Case=Nom|Number=Sing", "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing", "Case=Nom|Number=Sing", "Case=Gen|Number=Sing"]
     lemma: [".i.", "is", "ar", "n\u00ed", "dot\u00e9t", "com\u1e61uidigud", "fri", "ranngab\u00e1l", "\u00f3re", "is", "coibnestae", "do", "br\u00edathar", "ar", "is", "loor", "com\u1e61uidigud", "fri", "suide", "ar", "is", "com\u1e61uidigud", "etarscarthae", "com\u1e61uidigud", "ranngab\u00e1l"]
-    sga_key: [[5, "sga-81659516-n"], [7, "sga-87546268-n"], [10, "sga-81762366-s"], [12, "sga-82734458-n"]]
+    sga_key: [[5, "sga-81659516-n;sga-81287314-n"], [7, "sga-87546268-n"], [10, "sga-81762366-s"], [12, "sga-82734458-n"]]
     text: ".i. is airi ni ta\xE9t comsuidigud fri rangab\xE1il huare as coibnesta do brethir\
       \ ar is lour comsuidigud fri suidi air bid comsuidigud etarscartha comsuidigud rangab\xE1\
       lae"
@@ -27085,7 +27080,7 @@ Iozo:
 /8v6:
     feats: ["Abbr=Yes", "NumType=Card", "Case=Nom|Number=Plur", "", "NumType=Card", "Case=Nom|Number=Plur", "Case=Nom|Degree=Pos|Gender=Neut|Number=Plur", "AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs", "Gender=Masc,Neut|Number=Sing|Person=3|PronType=Emp", "NumType=Card", "Case=Nom|Number=Plur", "", "Foreign=Yes"]
     lemma: [".i.", "ocht", "delb", "ocus", "ocht", "gn\u00e9", "cen\u00e9lach", "i", "som", "s\u00e9", "tairm\u1e1forcend", "immurgu", "_"]
-    sga_key: [[2, "sga-81886174-n"], [10, "sga-88890230-n"]]
+    sga_key: [[2, "sga-81886174-n"]]
     text: ".i. oct \u1E45delb\xE6 \u204A oct \u1E45gn\xE9 cen\xE9lcha and som s\xE9 tarmmorcenn\
       \ immurgu reliqua"
     tokens: [[0, 3], [4, 7], [8, 14], [15, 16], [17, 20], [21, 25], [26, 34], [35, 38], [39, 42], [43, 45], [46, 57], [58, 65], [66, 73]]
@@ -27097,7 +27092,6 @@ Iozo:
 vtYQ:
     feats: ["Abbr=Yes", "Case=Nom|Number=Sing", "Case=Gen|Number=Sing", "", "Polarity=Neg", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act", "Case=Acc|Number=Plur", "Case=Nom|Gender=Neut|Number=Sing|PronType=Art", "PartType=Dct", "PronType=Dem"]
     lemma: [".i.", "ailigud", "gne", "ocus", "n\u00ed", "ilaigidir", "tairm\u1e1forcend", "a", "\u00ed", "so"]
-    sga_key: [[6, "sga-88890230-n"]]
     text: ".i. ailigid gnei \u204A n\xED hilaigedar tairmmoircniu a n\xED siu"
     tokens: [[0, 3], [4, 11], [12, 16], [17, 18], [19, 21], [22, 32], [33, 46], [47, 48], [49, 51], [52, 55]]
     upos: ["ADV", "NOUN", "NOUN", "CCONJ", "PART", "VERB", "NOUN", "DET", "PART", "PART"]
@@ -27372,7 +27366,7 @@ MCmE:
 WTnc:
     feats: ["Abbr=Yes", "Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop", "AdpType=Prep|Definite=Def", "Case=Dat|Gender=Fem|Number=Sing|PronType=Art", "Case=Dat|Number=Sing", "PartType=Vb", "Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Pres|Voice=Pass", "Case=Acc|Gender=Neut|Number=Sing|PronType=Art", "Case=Acc|Number=Sing", "PronType=Dem", "Abbr=Yes", "Case=Nom|Number=Sing", "", "Case=Nom|Number=Sing", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes"]
     lemma: [".i.", "is", "i", "in", "ranngab\u00e1l", "ad", "adc\u00ed", "a", "d\u00e9de", "sin", ".i.", "gn\u00edm", "ocus", "c\u00e9sad", "_", "_", "_", "_", "_", "_", "_", "_", "_", "_"]
-    sga_key: [[4, "sga-87546268-n"], [13, "sga-87456353-n"]]
+    sga_key: [[4, "sga-87546268-n"], [13, "sga-81155862-a"]]
     text: ".i. is i nd ranngabail ad rodarcar a nd\xE9de sin .i. gn\xEDm \u204A c\xE9sad quia\
       \ fuit iuror apud antiquos ut inante dicit in participio"
     tokens: [[0, 3], [4, 6], [7, 8], [9, 11], [12, 22], [23, 25], [26, 34], [35, 36], [37, 42], [43, 46], [47, 50], [51, 55], [56, 57], [58, 63], [64, 68], [69, 73], [74, 79], [80, 84], [85, 93], [94, 96], [97, 103], [104, 109], [110, 112], [113, 123]]
@@ -27697,7 +27691,7 @@ dwaK:
 kosa:
     feats: ["Abbr=Yes", "Case=Nom|Number=Sing", "Case=Gen|Number=Sing", "", "Case=Gen|Number=Sing", "AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs"]
     lemma: [".i.", "ciall", "c\u00e9sad", "ocus", "gn\u00edm", "i"]
-    sga_key: [[2, "sga-87456353-n"], [4, "sga-86218389-n"]]
+    sga_key: [[2, "sga-81155862-a"], [4, "sga-87977433-a"]]
     text: ".i. ciall ch\xE9sto \u204A gnima and"
     tokens: [[0, 3], [4, 9], [10, 16], [17, 18], [19, 24], [25, 28]]
     upos: ["ADV", "NOUN", "NOUN", "CCONJ", "NOUN", "ADP"]
@@ -29649,7 +29643,7 @@ b34c:
 3KaJ:
     feats: ["AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing", "Case=Dat|Degree=Pos|Number=Sing", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing", "PartType=Vb", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act", "Case=Nom|Degree=Pos|Number=Sing", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing", "Case=Dat|Degree=Pos|Number=Sing", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing", "Case=Gen|Number=Sing", "", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing", "Case=Dat|Degree=Pos|Number=Sing", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing", "Case=Gen|Number=Sing", "Foreign=Yes", "PartType=Vb", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act", "Case=Nom|Degree=Pos|Number=Sing", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing", "Case=Dat|Degree=Pos|Number=Sing", "Case=Acc|Gender=Fem|Number=Sing|PronType=Art", "Case=Acc|Number=Sing", "PartType=Vb", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass", "Case=Nom|Number=Sing", "AdpType=Prep|Definite=Ind|Gender=Fem|Number=Sing|Person=3|PronType=Prs", "", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing", "Case=Dat|Degree=Pos|Number=Sing", "Case=Acc|Gender=Fem|Number=Sing|PronType=Art", "Case=Acc|Number=Sing", "PartType=Vb", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass", "Case=Nom|Number=Sing", "AdpType=Prep|Definite=Ind|Gender=Fem|Number=Sing|Person=3|PronType=Prs"]
     lemma: ["\u00f3", "ranngab\u00e1l", "frecndairc", "i", "c\u00e9sad", "sechmo", "sechmoella", "d\u00eduscartach", "\u00f3", "ranngab\u00e1l", "frecndairc", "i", "delb", "c\u00e9sad", "ocus", "\u00f3", "ranngab\u00e1l", "sechmadachte", "i", "delb", "gn\u00edm", "_", "sechmo", "sechmoella", "coitchenn", "\u00f3", "ranngab\u00e1l", "sechmadachte", "in", "tan", "ar", "arbeir", "gn\u00edm", "a", "ocus", "\u00f3", "ranngab\u00e1l", "frecndairc", "in", "tan", "ar", "arbeir", "c\u00e9sad", "a"]
-    sga_key: [[1, "sga-87546268-n"], [2, "sga-85007864-a"], [4, "sga-87456353-n;sga-82477077-n"], [20, "sga-86218389-n;sga-88556240-n"], [24, "sga-83199480-s"]]
+    sga_key: [[1, "sga-87546268-n"], [2, "sga-85007864-a"], [4, "sga-81155862-a;sga-82477077-n"], [20, "sga-87977433-a;sga-88556240-n"], [24, "sga-83199480-s"]]
     text: "h\xF3 ranngab\xE1il frecndairc hi cesad sechmo ella diuscartach h\xF3 ranngab\xE1\
       il frec\u1E45dairc i ndeilb chesto \u204A ho rangab\xE1il sechmadachti i ndeilb\
       \ gnimo Et sechmo ella coitchen h\xF3 rangab\xE1il \u1E61echmadachti in tan ara\
@@ -29781,7 +29775,7 @@ rgW1/:
 FxR1:
     feats: ["Abbr=Yes", "Polarity=Neg", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act", "Case=Nom|Number=Sing", "AdpType=Prep|Definite=Ind|Number=Plur|Person=3|PronType=Prs", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes"]
     lemma: [".i.", "n\u00ed", "dot\u00e9t", "com\u1e61uidigud", "fri", "_", "_", "_", "_", "_"]
-    sga_key: [[3, "sga-81659516-n"]]
+    sga_key: [[3, "sga-81287314-n"]]
     text: ".i. n\xED taet chomsuidigud friu in nominativo nisi in paucis"
     tokens: [[0, 3], [4, 6], [7, 11], [12, 24], [25, 29], [30, 32], [33, 43], [44, 48], [49, 51], [52, 58]]
     upos: ["ADV", "PART", "VERB", "NOUN", "ADP", "X", "X", "X", "X", "X"]
@@ -30420,7 +30414,7 @@ IBV6:
 tsGc:
     feats: ["Abbr=Yes", "Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop", "Gender=Neut|Number=Sing|Person=3|PronType=Prs", "PartType=Vb", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act", "Gender=Masc,Neut|Number=Sing|Person=3|PronType=Emp", "Foreign=Yes", "PronType=Int", "AdpType=Prep|Definite=Ind", "Mood=Ind|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Plur", "Case=Dat|Degree=Pos|Gender=Masc|Number=Plur", "Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Pass", "", "Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop", "Case=Nom|Number=Sing", "Case=Gen|Gender=Masc|Number=Sing|PronType=Art", "Case=Gen|Number=Sing", "Case=Gen|Gender=Neut|Number=Sing|PronType=Art", "Case=Gen|Number=Sing", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act", "AdpType=Prep|Definite=Ind|Number=Plur|Person=3|PronType=Prs", "PronType=Int", "AdpType=Prep|Definite=Ind|PronType=Rel", "Polarity=Neg", "Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass", "Foreign=Yes", "Case=Nom|Degree=Pos|Gender=Neut|Number=Sing", "AdpType=Prep|Definite=Ind", "Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs", "Case=Dat|Number=Sing", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing"]
     lemma: [".i.", "is", "ed", "\u00edarmi", "\u00edarmifoich", "som", "_", "c\u00eda", "ar", "is", "\u00f3", "tuisel", "ildae", "d\u00ed\u1e61ruthaigidir", "acht", "is", "ciall", "in", "ildatu", "a", "atrab", "att\u00e1", "i", "c\u00eda", "ar", "n\u00e1", "aricc", "_", "aittrebthach", "do", "a", "slond", "i", "\u00faathad"]
-    sga_key: [[11, "sga-87443575-n"], [20, "sga-81618529-n"], [28, "sga-89057725-n"], [33, "sga-86730063-n"]]
+    sga_key: [[11, "sga-87443575-n"], [20, "sga-81618529-n"], [28, "sga-86287358-a"], [33, "sga-86730063-n"]]
     text: ".i. ni ed iarma foich som h\xEDc cid ar \u1E45did hua thuislib ildaib disruthaigedar\
       \ acht is ciall ind ildatad ind atraib file inddib cid ar na airecht pronomen naitrebthach\
       \ di a \u1E61lund i nothuth"
@@ -30487,7 +30481,7 @@ Gv/K:
 gXEZ:
     feats: ["Abbr=Yes", "Case=Nom|Degree=Pos|Number=Sing", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act", "Foreign=Yes"]
     lemma: [".i.", "aittrebthach", "co", "articol", "att\u00e1", "_"]
-    sga_key: [[1, "sga-89057725-n"], [4, "sga-89295043-v"]]
+    sga_key: [[1, "sga-86287358-a"], [4, "sga-89295043-v"]]
     text: ".i. aitrebthach co nartucol fil h\xEDc"
     tokens: [[0, 3], [4, 15], [16, 18], [19, 27], [28, 31], [32, 35]]
     upos: ["ADV", "ADJ", "ADP", "NOUN", "VERB", "X"]
@@ -30977,7 +30971,7 @@ qmST:
 OuT1:
     feats: ["Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act", "Case=Nom|Gender=Neut|Number=Plur|PronType=Art", "Foreign=Yes", "Case=Nom|Degree=Pos|Gender=Neut|Number=Plur", "Case=Acc|Number=Sing", "Case=Gen|Number=Sing", "Case=Gen|Degree=Pos|Gender=Neut|Number=Sing", "Case=Gen|Gender=Masc|Number=Sing|PronType=Art", "Case=Gen|Number=Sing", "", "Case=Acc|Gender=Fem|Number=Sing|PronType=Art", "Case=Acc|Number=Sing", "PartType=Vb", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act", "Number=Sing|Person=1|PronType=Emp", "Foreign=Yes", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act", "Case=Nom|Gender=Masc|Number=Sing|PronType=Art", "PronType=Dem", "Number=Sing|Person=1|Poss=Yes|PronType=Prs", "Case=Acc|Number=Sing", "Case=Acc|Degree=Pos|Gender=Neut|Number=Sing", "", "PartType=Vb", "Number=Sing|Person=1|PronClass=A|PronType=Prs", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act", "", "PartType=Vb", "Number=Sing|Person=1|PronClass=A|PronType=Prs", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act", "", "Gender=Neut|Number=Sing|Person=3|Polarity=Neg|PronType=Prs|VerbType=Cop", "Case=Nom|Number=Sing", "Number=Sing|Person=1|Poss=Yes|PronType=Prs", "Foreign=Yes", "Case=Nom|Degree=Pos|Gender=Neut|Number=Sing", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing", "Foreign=Yes", "Case=Nom|Gender=Fem|Number=Sing|PronType=Art", "PartType=Dct", "PartType=Vb", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act", "Foreign=Yes", "Foreign=Yes", "Abbr=Yes", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing", "Case=Nom|Gender=Fem|Number=Sing|PronType=Art", "PartType=Dct", "PartType=Vb", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act", "Foreign=Yes", "", "Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop", "Case=Nom|Number=Sing", "Case=Nom|Number=Sing", "Abbr=Yes", "Number=Sing|Person=1|Poss=Yes|PronType=Prs", "Abbr=Yes", "Foreign=Yes", "PartType=Vb", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act", "Gender=Masc,Neut|Number=Sing|Person=3|PronType=Emp", "Foreign=Yes", "Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop", "Foreign=Yes", "Case=Dat|Number=Sing", "Foreign=Yes", "AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs", "AdpType=Prep|Definite=Ind", "Foreign=Yes", "Mood=Ind|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes"]
     lemma: ["gaibid", "a", "_", "aittrebthach", "engraic", "ainm", "d\u00edles", "in", "aitrebthaid", "ar", "in", "tan", "as", "asbeir", "sa", "_", "engraicigidir", "in", "sin", "mo", "ainm", "d\u00edles", "ocus", "no", "m", "r\u00e9laid", "ocus", "no", "m", "etargnaigidir", "co", "n\u00e1ch_3", "\u00e9icen", "mo", "_", "d\u00edles", "do", "epert", "a", "leth", "_", "in", "\u00ed", "ad", "adtreba", "_", "_", ".i.", "a", "rann", "in", "\u00ed", "ad", "adtreba", "_", "_", "_", "_", "engraicigidir", "_", "ocus", "is", "aicned", "engracaiged", ".i.", "mo", ".i.", "_", "as", "asbeir", "som", "_", "is", "_", "ainm", "_", "for", "do", "_", "is", "_", "_", "_", "_"]
-    sga_key: [[3, "sga-89057725-n"], [5, "sga-86939996-n"], [6, "sga-86652407-a"], [13, "sga-86941814-v"]]
+    sga_key: [[3, "sga-86287358-a"], [5, "sga-86939996-n"], [6, "sga-86652407-a"], [13, "sga-86941814-v"]]
     text: "Gaibit inna pronomina aittrebthacha engraic anmae d\xEDlis ind aitrebthado ar in\
       \ tan as \u1E41biur sa meus engraicigidir in sin mo ainm d\xEDles \u204A no m r\xE9\
       la \u204A no m etargnigedar co naich \xE1eicen mo nomen d\xEDles do eipirt a lleith\
@@ -31064,7 +31058,7 @@ XDi3:
 GKp8:
     feats: ["AdpType=Prep|Definite=Def", "Case=Acc|Gender=Fem|Number=Sing|PronType=Art", "Case=Acc|Number=Sing", "Case=Gen|Gender=Masc|Number=Sing|PronType=Art", "Case=Gen|Degree=Pos|Gender=Masc|Number=Sing", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass", "Case=Nom|Gender=Masc|Number=Sing|PronType=Art", "Case=Nom|Number=Sing", "Case=Gen|Gender=Masc|Number=Sing|PronType=Art", "Case=Gen|Degree=Pos|Number=Sing"]
     lemma: ["tre", "in", "genitiu", "in", "c\u00e9tnaide", "r\u00e9laid", "in", "intliucht", "in", "aittrebthach"]
-    sga_key: [[2, "sga-89057725-n"], [4, "sga-87831006-s"], [7, "sga-80785130-n"], [9, "sga-89057725-n"]]
+    sga_key: [[2, "sga-89057725-n"], [4, "sga-87831006-s"], [7, "sga-80785130-n"], [9, "sga-86287358-a"]]
     text: "tre sin genitin in ch\xE9tnidi reltair int int\u1E61liucht ind aitrebthaig"
     tokens: [[0, 3], [4, 7], [8, 15], [16, 18], [19, 27], [28, 35], [36, 39], [40, 50], [51, 54], [55, 66]]
     upos: ["ADP", "DET", "NOUN", "DET", "ADJ", "VERB", "DET", "NOUN", "DET", "ADJ"]
@@ -31172,7 +31166,7 @@ IJnS:
 YNJH:
     feats: ["Abbr=Yes", "AdpType=Prep|Definite=Ind", "Case=Gen|Gender=Neut|Number=Sing|PronType=Art", "Case=Gen|Number=Sing", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing"]
     lemma: [".i.", "deg", "a", "ainmmnid", "\u00f3", "com\u1e61uidigud"]
-    sga_key: [[3, "sga-89033525-a"], [5, "sga-81659516-n"]]
+    sga_key: [[3, "sga-89033525-a"], [5, "sga-81287314-n"]]
     text: ".i. deg ind ainmnedo h\xF3 chomsuidigud"
     tokens: [[0, 3], [4, 7], [8, 11], [12, 20], [21, 23], [24, 36]]
     upos: ["ADV", "ADP", "DET", "NOUN", "ADP", "NOUN"]
@@ -31203,7 +31197,7 @@ eozp:
 Aub4:
     feats: ["Abbr=Yes", "Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop", "Case=Nom|Number=Sing", "AdpType=Prep|Definite=Ind", "Case=Acc|Number=Sing"]
     lemma: [".i.", "is", "com\u1e61uidigud", "fri", "tobarthaid"]
-    sga_key: [[2, "sga-81659516-n"], [4, "sga-87167098-n"]]
+    sga_key: [[2, "sga-81287314-n"], [4, "sga-87167098-n"]]
     text: ".i. n\xED comsuidigud fri tobarthid"
     tokens: [[0, 3], [4, 6], [7, 18], [19, 22], [23, 32]]
     upos: ["ADV", "AUX", "NOUN", "ADP", "NOUN"]
@@ -31519,7 +31513,7 @@ oZxc:
 2Q+G:
     feats: ["Abbr=Yes", "AdpType=Prep|Definite=Ind", "Case=Acc|Number=Sing", "Case=Gen|Number=Sing"]
     lemma: [".i.", "ar", "cosmailius", "tairm\u1e1forcend"]
-    sga_key: [[2, "sga-80577178-n"], [3, "sga-88890230-n"]]
+    sga_key: [[2, "sga-80577178-n"]]
     text: .i. ar chosmailius tarmorcin
     tokens: [[0, 3], [4, 6], [7, 18], [19, 28]]
     upos: ["ADV", "ADP", "NOUN", "NOUN"]
@@ -32888,7 +32882,7 @@ OPL0:
 WSVS:
     feats: ["Abbr=Yes", "Case=Nom|Number=Sing", "Case=Gen|Number=Sing", "AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing"]
     lemma: [".i.", "ciall", "c\u00e9sad", "i", "do", "gr\u00e9s"]
-    sga_key: [[2, "sga-87456353-n"]]
+    sga_key: [[2, "sga-81155862-a"]]
     text: ".i. ciall ch\xE9sta and do gres"
     tokens: [[0, 3], [4, 9], [10, 16], [17, 20], [21, 23], [24, 28]]
     upos: ["ADV", "NOUN", "NOUN", "ADP", "ADP", "NOUN"]
@@ -32983,7 +32977,7 @@ mNFp:
 hePq:
     feats: ["", "Abbr=Yes", "Case=Nom|Number=Sing", "Case=Gen|Degree=Pos|Number=Sing"]
     lemma: ["n\u00f3", ".i.", "genitiu", "aittrebthach"]
-    sga_key: [[2, "sga-89057725-n"], [3, "sga-89057725-n"]]
+    sga_key: [[2, "sga-89057725-n"], [3, "sga-86287358-a"]]
     text: "\u026B .i. genitiu aitrebthaig"
     tokens: [[0, 1], [2, 5], [6, 13], [14, 25]]
     upos: ["CCONJ", "ADV", "NOUN", "ADJ"]
@@ -33005,7 +32999,7 @@ hePq:
 wECf:
     feats: ["Case=Nom|Number=Sing", "Case=Gen|Degree=Pos|Number=Sing"]
     lemma: ["genitiu", "aittrebthach"]
-    sga_key: [[0, "sga-89057725-n"], [1, "sga-89057725-n"]]
+    sga_key: [[0, "sga-89057725-n"], [1, "sga-86287358-a"]]
     text: genitiu aitrebthaig
     tokens: [[0, 7], [8, 19]]
     upos: ["NOUN", "ADJ"]
@@ -33027,7 +33021,7 @@ yejt:
 4dxe:
     feats: ["Case=Nom|Number=Sing", "Case=Gen|Degree=Pos|Number=Sing", "Abbr=Yes", "Foreign=Yes", "Abbr=Yes", "Case=Nom|Gender=Masc|Number=Sing|PronType=Art", "Number=Sing|Person=3|Poss=Yes|PronType=Prs", "AdpType=Prep|Definite=Ind", "Case=Dat|Gender=Neut|Number=Sing|PronType=Ana"]
     lemma: ["genitiu", "aittrebthach", ".i.", "_", ".i.", "in", "a\u00ed", "fo", "suide"]
-    sga_key: [[0, "sga-89057725-n"], [1, "sga-89057725-n"]]
+    sga_key: [[0, "sga-89057725-n"], [1, "sga-86287358-a"]]
     text: "genitiu aitrebthaig .i. sui .i. ind \xE1i fo \u1E61odin"
     tokens: [[0, 7], [8, 19], [20, 23], [24, 27], [28, 31], [32, 35], [36, 38], [39, 41], [42, 47]]
     upos: ["NOUN", "ADJ", "ADV", "X", "ADV", "DET", "PRON", "ADP", "PRON"]
@@ -33896,7 +33890,7 @@ OVmE:
 XSu4:
     feats: ["Abbr=Yes", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing", "", "Case=Dat|Number=Sing"]
     lemma: [".i.", "i", "comaisnd\u00eds", "ocus", "com\u1e61uidigud"]
-    sga_key: [[2, "sga-82023118-n"], [4, "sga-81659516-n"]]
+    sga_key: [[2, "sga-82023118-n"], [4, "sga-81287314-n"]]
     text: ".i. hi comais\u1E45d\xE9is \u204A chomsuidigud"
     tokens: [[0, 3], [4, 6], [7, 18], [19, 20], [21, 33]]
     upos: ["ADV", "ADP", "NOUN", "CCONJ", "NOUN"]
@@ -34136,7 +34130,7 @@ KaT5:
 34A7:
     feats: ["Abbr=Yes", "Foreign=Yes", "Foreign=Yes", "Abbr=Yes", "", "PartType=Vb", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act", "Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs", "Case=Nom|Number=Sing", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing", "AdpType=Prep|Definite=Ind", "Case=Acc|Number=Plur", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes"]
     lemma: [".i.", "_", "_", ".i.", "ar", "do", "doecmaing", "a", "buith", "i", "com\u1e61uidigud", "i", "remthechtas", "fri", "ainm", "_", "_", "_", "_", "_", "_"]
-    sga_key: [[10, "sga-81659516-n"], [14, "sga-84788963-n"]]
+    sga_key: [[10, "sga-81287314-n"], [14, "sga-84788963-n"]]
     text: ".i. carentibus casu .i. air t ecmai\u1E45g a buith hi comsuidigud hi remthechtas\
       \ fri anman ut ante dixit nequis siquis reliqua"
     tokens: [[0, 3], [4, 14], [15, 19], [20, 23], [24, 27], [28, 29], [30, 37], [38, 39], [40, 45], [46, 48], [49, 60], [61, 63], [64, 75], [76, 79], [80, 85], [86, 88], [89, 93], [94, 99], [100, 106], [107, 113], [114, 121]]
@@ -34472,7 +34466,7 @@ CXA3:
 9CQ1:
     feats: ["Abbr=Yes", "Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop", "AdpType=Prep|Definite=Ind|Number=Plur|Person=3|PronType=Prs", "Number=Plur|Person=3|PronType=Emp", "Case=Nom|Gender=Masc|Number=Sing|PronType=Art", "Case=Nom|Number=Sing", "", "Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop", "AdpType=Prep|Definite=Ind", "Case=Acc|Number=Sing", "Case=Gen|Gender=Fem|Number=Plur|PronType=Art", "Case=Gen|Number=Plur", "Case=Acc|Gender=Neut|Number=Sing|PronType=Ana", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes", "Foreign=Yes"]
     lemma: [".i.", "is", "de", "som", "in", "com\u1e61uidigud", "ocus", "is", "tre", "immaircidetu", "in", "br\u00edathar", "side", "_", "_", "_", "_", "_", "_", "_", "_"]
-    sga_key: [[5, "sga-81659516-n"], [11, "sga-82734458-n"]]
+    sga_key: [[5, "sga-81287314-n"], [11, "sga-82734458-n"]]
     text: ".i. in dib sem in comsuidigud \u204A is tri immaircidetaid inna \u1E41briathar s\xF3\
       n ut frango fregi fractus effringo effregi effractus reliqua"
     tokens: [[0, 3], [4, 6], [7, 10], [11, 14], [15, 17], [18, 29], [30, 31], [32, 34], [35, 38], [39, 53], [54, 58], [59, 68], [69, 72], [73, 75], [76, 82], [83, 88], [89, 96], [97, 105], [106, 113], [114, 123], [124, 131]]
@@ -34829,7 +34823,7 @@ KKF1:
 KLSB:
     feats: ["Abbr=Yes", "Case=Nom|Number=Sing", "AdpType=Prep|Definite=Ind", "Foreign=Yes", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing", "Case=Nom|Number=Sing", "AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing"]
     lemma: [".i.", "aicsenugud", "i", "_", "i", "comaisnd\u00eds", "aidbliugud", "i", "i", "com\u1e61uidigud"]
-    sga_key: [[9, "sga-81659516-n"]]
+    sga_key: [[9, "sga-81287314-n"]]
     text: ".i. aicsenogud in de hi comas\u1E45d\xEDs aidbligod and hi comsuidigud"
     tokens: [[0, 3], [4, 14], [15, 17], [18, 20], [21, 23], [24, 33], [34, 43], [44, 47], [48, 50], [51, 62]]
     upos: ["ADV", "NOUN", "ADP", "X", "ADP", "NOUN", "NOUN", "ADP", "ADP", "NOUN"]
@@ -34860,7 +34854,7 @@ xwTo:
 0Sbt:
     feats: ["Abbr=Yes", "Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs", "Case=Nom|Number=Sing", "Gender=Masc,Neut|Number=Sing|Person=3|PronType=Emp", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing", "Foreign=Yes", "Foreign=Yes"]
     lemma: [".i.", "a", "buith", "som", "i", "com\u1e61uidigud", "_", "_"]
-    sga_key: [[5, "sga-81659516-n"]]
+    sga_key: [[5, "sga-81287314-n"]]
     text: .i. a buit sem hi comsuidigud ante adverbium
     tokens: [[0, 3], [4, 5], [6, 10], [11, 14], [15, 17], [18, 29], [30, 34], [35, 44]]
     upos: ["ADV", "PRON", "NOUN", "PRON", "ADP", "NOUN", "X", "X"]
@@ -35221,7 +35215,7 @@ uNNb:
 +MUz:
     feats: ["Abbr=Yes", "Foreign=Yes", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing"]
     lemma: [".i.", "_", "i", "com\u1e61uidigud"]
-    sga_key: [[3, "sga-81659516-n"]]
+    sga_key: [[3, "sga-81287314-n"]]
     text: .i. con hi comsuidigud
     tokens: [[0, 3], [4, 7], [8, 10], [11, 22]]
     upos: ["ADV", "X", "ADP", "NOUN"]
@@ -35262,7 +35256,7 @@ R5yl:
 qean:
     feats: ["Abbr=Yes", "", "PartType=Vb", "Gender=Neut|Number=Sing|Person=3|PronClass=C|PronType=Prs", "Mood=Ind|Number=Sing|PartType=Aug|Person=1|Tense=Past|Voice=Act", "Mood=Ind|Number=Sing|Person=3|Polarity=Neg|PronType=Rel|Tense=Pres|VerbType=Cop", "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing", "Foreign=Yes", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing", "", "Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop", "Foreign=Yes", "Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act", "AdpType=Prep|Definite=Ind", "Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs", "Case=Acc|Number=Sing"]
     lemma: [".i.", "c\u00eda", "as", "id_2", "asbeir", "is", "gn\u00e1th", "_", "i", "com\u1e61uidigud", "acht", "is", "_", "att\u00e1", "tar", "a", "\u00e9is"]
-    sga_key: [[4, "sga-84005320-v"], [9, "sga-81659516-n"]]
+    sga_key: [[4, "sga-84005320-v"], [9, "sga-81287314-n"]]
     text: ".i. ci as id ruburt nand gn\xE1th cum hi comsuidigud acht is con bis tar a h\xE9\
       si"
     tokens: [[0, 3], [4, 6], [7, 9], [10, 12], [13, 19], [20, 24], [25, 30], [31, 34], [35, 37], [38, 49], [50, 54], [55, 57], [58, 61], [62, 65], [66, 69], [70, 71], [72, 76]]
@@ -35407,7 +35401,7 @@ kGv+:
 gIPn:
     feats: ["Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing"]
     lemma: ["is", "i", "com\u1e61uidigud"]
-    sga_key: [[2, "sga-81659516-n"]]
+    sga_key: [[2, "sga-81287314-n"]]
     text: "n\xEDb\xED hi comsuidigud"
     tokens: [[0, 4], [5, 7], [8, 19]]
     upos: ["AUX", "ADP", "NOUN"]
@@ -35826,7 +35820,7 @@ ukNm:
 lbrn:
     feats: ["", "", "Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop", "AdpType=Prep|Definite=Ind", "Case=Dat|Number=Sing", "Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop", "Foreign=Yes", "Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act", "AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs", "AdpType=Prep|Definite=Ind", "Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs", "Case=Dat|Number=Sing", "Gender=Masc,Neut|Number=Sing|Person=3|PronType=Emp", "AdpType=Prep|Definite=Ind", "Case=Dat|Gender=Neut|Number=Sing|PronType=Ana"]
     lemma: ["ar", "m\u00e1", "is", "i", "com\u1e61uidigud", "is", "_", "att\u00e1", "i", "i", "a", "loc", "som", "i", "suide"]
-    sga_key: [[4, "sga-81659516-n"], [11, "sga-89071008-n"]]
+    sga_key: [[4, "sga-81287314-n"], [11, "sga-89071008-n"]]
     text: "ar ma d h\xED comsuidigud is con b\xEDs and in na luc som hi suidiu"
     tokens: [[0, 2], [3, 5], [6, 7], [8, 10], [11, 22], [23, 25], [26, 29], [30, 33], [34, 37], [38, 40], [41, 43], [44, 47], [48, 51], [52, 54], [55, 61]]
     upos: ["SCONJ", "SCONJ", "AUX", "ADP", "NOUN", "AUX", "X", "VERB", "ADP", "ADP", "PRON", "NOUN", "PRON", "ADP", "PRON"]

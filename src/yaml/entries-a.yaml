@@ -75,9 +75,13 @@ aitherrechtaigthe:
     - id: 'aitherrechtaigthe%1:10:00::'
       synset: 86697922-n
 aittrebthach:
+  a:
+    sense:
+    - id: 'aittrebthach%3:01:00::'
+      synset: 86287358-a
   n:
     sense:
-    - id: 'aittrebthach%1:10:00::'
+    - id: 'aittrebthach%1:10:01::'
       synset: 89057725-n
 amal:
   r:
