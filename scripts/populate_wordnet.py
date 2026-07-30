@@ -69,28 +69,41 @@ def load_corrections(csv_path):
         }
 
 
-def load_accepted_rows(xlsx_path, corrections):
-    """Rows accepted outright (both flags 1), plus rejected rows covered by
-    `corrections`, with the corrected sense key substituted in. Returns
-    (rows, correction_count)."""
+def load_sense_key_map(xlsx_path, corrections):
+    """Map (lemma, original_sense_key) -> effective_sense_key for every xlsx
+    row that ends up accepted, either outright (both flags 1, where the
+    effective key is just the original one) or via `corrections` (where
+    it's the corrected key). Also used by scripts/annotate_corpus_senses.py
+    to resolve a WSD prediction's *original* sense key back to the one
+    actually imported into the wordnet."""
     wb = openpyxl.load_workbook(xlsx_path, data_only=True)
     ws = wb.active
-    rows = []
+    mapping = {}
     matched_corrections = set()
     for lemma, sense_key, _definition, _freq, correct_translation, correct_definition, _notes in ws.iter_rows(
         min_row=2, values_only=True
     ):
         if correct_translation == 1 and correct_definition == 1:
-            rows.append((lemma, sense_key))
+            mapping[(lemma, sense_key)] = sense_key
         elif (lemma, sense_key) in corrections:
-            rows.append((lemma, corrections[(lemma, sense_key)]))
+            mapping[(lemma, sense_key)] = corrections[(lemma, sense_key)]
             matched_corrections.add((lemma, sense_key))
 
     unmatched = corrections.keys() - matched_corrections
     for lemma, sense_key in sorted(unmatched):
         print(f"WARNING: correction for {lemma!r} {sense_key!r} did not match any xlsx row", file=sys.stderr)
 
-    return rows, len(matched_corrections)
+    return mapping
+
+
+def load_accepted_rows(xlsx_path, corrections):
+    """Rows accepted outright (both flags 1), plus rejected rows covered by
+    `corrections`, with the corrected sense key substituted in. Returns
+    (rows, correction_count)."""
+    mapping = load_sense_key_map(xlsx_path, corrections)
+    rows = [(lemma, effective_sense_key) for (lemma, _original), effective_sense_key in mapping.items()]
+    correction_count = sum(1 for (_lemma, original), effective in mapping.items() if effective != original)
+    return rows, correction_count
 
 
 def resolve_sense(con, sense_key):
