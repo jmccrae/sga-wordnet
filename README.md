@@ -24,10 +24,11 @@ Editor](https://github.com/jmccrae/ewe).
 
 ## Repository layout
 
-- `data/` — working/derived data (e.g. the UD corpus in CoNLL-U format).
-- `assets/` — source corpus files: alignments (`.align`), CoNLL-U parses,
-  English translations (`.en`), Old Irish/English sentence pairs
-  (`.en-ga`), and sense-disambiguation output (`.senses`, `.results.csv`).
+- `data/` — working/derived data: the UD corpus in CoNLL-U format,
+  alignments (`.align`), Old Irish/English sentence pairs (`.en-ga`),
+  sense-disambiguation output (`.senses`, `.results_AD.xlsx`), the Teanga
+  corpus (`.teanga.yaml`), and the various review CSVs
+  (`sense_corrections.csv`, `pos_corrections.csv`, `priority_concepts.csv`).
 - `main.py` — entry point for the pipeline.
 - `src/yaml/` — the wordnet itself, in the same per-lexfile YAML layout as
   [english-wordnet's `src/yaml/`](https://github.com/globalwordnet/english-wordnet/tree/main/src/yaml)
@@ -52,7 +53,8 @@ Editor](https://github.com/jmccrae/ewe).
   used both as the logo and as the source of `theme.css`'s palette - the
   flag's dark green (Connacht's field, `#003d07`) as the primary colour,
   its gold (Ulster's field and the charges throughout) as the accent.
-  Kept separate from `assets/`, which is corpus source data, not branding.
+  Kept separate from `data/`, which is corpus source/derived data, not
+  branding.
 
 ## Pipeline scripts
 
