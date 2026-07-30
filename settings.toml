@@ -6,6 +6,7 @@
 # paths keep working.
 database = "wordnet.db"
 wordnet_source = "src/yaml"
+corpus_source = "data/sga_incomplete.teanga.yaml"
 logo = "branding/four-provinces-flag.svg"
 theme = "branding/theme.css"
 id_prefix = "sga"

@@ -39,11 +39,12 @@ Editor](https://github.com/jmccrae/ewe).
   new synsets to it.
 - `settings.toml` — configuration for the [EWE Wordnet
   Editor](https://github.com/jmccrae/ewe); paths inside it (`wordnet_source
-  = "src/yaml"`) are relative to this file, so the repo can be opened
-  directly from EWE's desktop app "Open Wordnet Folder" picker, or served
-  with `dx serve` from a checkout of `ewe_dioxus` pointed at this
-  directory. `wordnet.db`/`corpus.db`, the databases EWE builds from
-  `src/yaml/`, are git-ignored and rebuilt locally on first run.
+  = "src/yaml"`, `corpus_source = "data/sga_incomplete.teanga.yaml"`) are
+  relative to this file, so the repo can be opened directly from EWE's
+  desktop app "Open Wordnet Folder" picker, or served with `dx serve` from
+  a checkout of `ewe_dioxus` pointed at this directory. `wordnet.db`/
+  `corpus.db`, the databases EWE builds from `src/yaml/`/`corpus_source`,
+  are git-ignored and rebuilt locally on first run.
 - `branding/` — EWE's `logo`/`theme` for this project: the [Four
   Provinces Flag](https://commons.wikimedia.org/wiki/File:Four_Provinces_Flag.svg)
   (© [Caomhan27](https://commons.wikimedia.org/wiki/User:Caomhan27),
@@ -93,6 +94,20 @@ Editor](https://github.com/jmccrae/ewe).
   automaton script to `--script-out` for review. Relations (hypernym,
   etc.) aren't carried over yet, since this only imports a sparse subset
   of English WordNet's synsets.
+- `scripts/annotate_corpus_senses.py` — run after `populate_wordnet.py
+  --apply`. Adds a `sga_key` layer to `data/sga_incomplete.teanga.yaml`
+  (overwritten in place by default) so EWE's corpus concordance view can
+  show where each synset occurs. `data/sga_incomplete.senses` records,
+  per sentence, every English content word's WSD candidates (its top
+  candidate is what `results_AD.xlsx`'s Sense Key column records);
+  `data/sga_incomplete.align`'s fast_align output locates the Old Irish
+  token each one corresponds to; running that word's proposed sense
+  through the same accepted/corrected mapping `populate_wordnet.py` uses,
+  then matching its English synset's `ili` against `src/yaml/`'s own
+  synsets, gives the resulting project synset id to tag that token with.
+  Tags are written as sparse `[index, "sga-<synset id>"]` pairs (teanga's
+  `element` layer type - see the script's docstring for why a dense
+  one-entry-per-token layer doesn't work here).
 
 ## Development
 
