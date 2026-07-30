@@ -1,18 +1,1 @@
-80626763-v:
-  definition:
-  - have, hold, have got — have or possess, either in a concrete or an abstract sense
-  ili: i32770
-  members:
-  - techtaid
-  partOfSpeech: v
-  similar:
-  - 87022866-v
-85146580-v:
-  definition:
-  - have, possess, own — have ownership or possession of
-  ili: i32775
-  members:
-  - adtreba
-  partOfSpeech: v
-  similar:
-  - 87022866-v
+{}

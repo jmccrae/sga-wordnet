@@ -1,17 +1,1 @@
-olc:
-  a:
-    sense:
-    - id: 'olc%3:00:00::'
-      synset: 87378976-a
-ord:
-  n:
-    sense:
-    - id: 'ord%1:14:00::'
-      synset: 82235376-n
-oín:
-  a:
-    sense:
-    - id: 'oín%3:00:00::'
-      synset: 88080213-a
-    - id: 'oín%3:00:01::'
-      synset: 86133132-a
+{}

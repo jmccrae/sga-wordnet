@@ -4,13 +4,15 @@ data/sga_incomplete.results_AD.xlsx holds WSD candidates (Old Irish lemma,
 English WordNet sense key, definition) reviewed by an annotator, with
 "Correct Translation?" / "Correct Definition?" 0/1 columns. This script
 keeps rows where both are accepted, plus any row whose (lemma, sense key)
-appears in data/sense_corrections.csv - a manually curated list of rejected
-rows where the annotator's notes made clear the translation was right but
-the WSD system picked the wrong sense of that word; those rows are
-substituted with the corrected sense key from that file instead of being
-dropped. It then resolves each sense key to its English synset (via a local
-`wn` library database - see https://github.com/goodmami/wn), and builds an
-EWE automaton script (https://github.com/jmccrae/ewe) that:
+appears in data/sense_corrections.csv - a manually curated list of
+(lemma, sense key) -> corrected sense key overrides, whether that row was
+originally rejected (the annotator's notes made clear the translation was
+right but the WSD system picked the wrong sense) or was accepted outright
+but later found to have the wrong part of speech for how the word is
+actually used (see scripts/check_sense_pos.py). It then resolves each
+sense key to its English synset (via a local `wn` library database - see
+https://github.com/goodmami/wn), and builds an EWE automaton script
+(https://github.com/jmccrae/ewe) that:
 
   - creates a new synset per accepted English sense (same lexfile and
     part of speech) with the Old Irish lemma(s) as members - multiple
@@ -73,7 +75,11 @@ def load_sense_key_map(xlsx_path, corrections):
     """Map (lemma, original_sense_key) -> effective_sense_key for every xlsx
     row that ends up accepted, either outright (both flags 1, where the
     effective key is just the original one) or via `corrections` (where
-    it's the corrected key). Also used by scripts/annotate_corpus_senses.py
+    it's the corrected key). `corrections` takes precedence even over an
+    outright-accepted row - e.g. scripts/pos_corrections.csv-style fixes
+    can redirect a row that was never rejected in the first place, when it
+    just turns out to have the wrong part of speech for how the Old Irish
+    word is actually used. Also used by scripts/annotate_corpus_senses.py
     to resolve a WSD prediction's *original* sense key back to the one
     actually imported into the wordnet."""
     wb = openpyxl.load_workbook(xlsx_path, data_only=True)
@@ -83,11 +89,11 @@ def load_sense_key_map(xlsx_path, corrections):
     for lemma, sense_key, _definition, _freq, correct_translation, correct_definition, _notes in ws.iter_rows(
         min_row=2, values_only=True
     ):
-        if correct_translation == 1 and correct_definition == 1:
-            mapping[(lemma, sense_key)] = sense_key
-        elif (lemma, sense_key) in corrections:
+        if (lemma, sense_key) in corrections:
             mapping[(lemma, sense_key)] = corrections[(lemma, sense_key)]
             matched_corrections.add((lemma, sense_key))
+        elif correct_translation == 1 and correct_definition == 1:
+            mapping[(lemma, sense_key)] = sense_key
 
     unmatched = corrections.keys() - matched_corrections
     for lemma, sense_key in sorted(unmatched):
