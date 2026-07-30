@@ -85,6 +85,8 @@
   members:
   - sain
   partOfSpeech: s
+  similar:
+  - 88780467-a
 84550353-s:
   definition:
   - regular — conforming to a standard or pattern
@@ -145,6 +147,8 @@
   - frecndairc
   partOfSpeech: a
 86652407-a:
+  attribute:
+  - 89225372-n
   definition:
   - proper — marked by suitability or rightness or appropriateness
   ili: i10311
@@ -233,6 +237,8 @@
   members:
   - aile
   partOfSpeech: a
+  similar:
+  - 83880759-s
 89091813-a:
   definition:
   - true — consistent with fact or reality; not false

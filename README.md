@@ -92,8 +92,17 @@ Editor](https://github.com/jmccrae/ewe).
   Pass `--apply --ewe-bin <path to a built ewe_cli>` to actually run it
   against `--wordnet-dir` (default `.`); otherwise it just writes the
   automaton script to `--script-out` for review. Relations (hypernym,
-  etc.) aren't carried over yet, since this only imports a sparse subset
-  of English WordNet's synsets.
+  etc.) between the *English* synsets aren't carried over here, since this
+  only imports a sparse subset of English WordNet's synsets and most
+  relation targets don't exist in this wordnet yet - see
+  `scripts/link_existing_synsets.py` for the ones that do.
+- `scripts/link_existing_synsets.py` — run after `populate_wordnet.py
+  --apply`. English WordNet relations (hypernym, attribute, similar, also)
+  where *both* endpoints already have an Old Irish synset here (matched
+  via `ili`, same as `annotate_corpus_senses.py`) can be added for free,
+  no new translation needed - this finds them and generates an
+  `add_relation` automaton script, same `--apply`/`--ewe-bin`/
+  `--wordnet-dir`/dry-run-by-default shape as `populate_wordnet.py`.
 - `scripts/annotate_corpus_senses.py` — run after `populate_wordnet.py
   --apply`. Adds a `sga_key` layer to `data/sga_incomplete.teanga.yaml`
   (overwritten in place by default) so EWE's corpus concordance view can

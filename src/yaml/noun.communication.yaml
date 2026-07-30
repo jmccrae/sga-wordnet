@@ -23,6 +23,8 @@
 80686488-n:
   definition:
   - derivative — (linguistics) a word that is derived from another word
+  hypernym:
+  - 81092558-n
   ili: i69555
   members:
   - díṡruthigthe
@@ -61,6 +63,8 @@
   definition:
   - letter, alphabetic character, letter of the alphabet — the conventional characters
     of the alphabet used to represent speech
+  hypernym:
+  - 80006726-n
   ili: i72381
   members:
   - liter
@@ -76,6 +80,8 @@
   definition:
   - neuter — a gender that refers chiefly (but not exclusively) to inanimate objects
     (neither masculine nor feminine)
+  hypernym:
+  - 89860995-n
   ili: i69738
   members:
   - neutur
@@ -105,6 +111,8 @@
 84685879-n:
   definition:
   - consonant — a letter of the alphabet standing for a spoken consonant
+  hypernym:
+  - 81890503-n
   ili: i74052
   members:
   - conson
@@ -129,6 +137,8 @@
   definition:
   - diminutive — a word that is formed with a suffix (such as -let or -kin) to indicate
     smallness
+  hypernym:
+  - 81092558-n
   ili: i69556
   members:
   - dígabthach
@@ -153,6 +163,8 @@
   definition:
   - masculine — a gender that refers chiefly (but not exclusively) to males or to
     objects classified as male
+  hypernym:
+  - 89860995-n
   ili: i69737
   members:
   - mascul
@@ -170,6 +182,8 @@
   - patronym, patronymic — a family name derived from name of your father or a paternal
     ancestor (especially with an affix (such as -son in English or O'- in Irish) added
     to the name of your father or a paternal ancestor)
+  hypernym:
+  - 86939996-n
   ili: i69768
   members:
   - aitherrechtaigthe
@@ -185,6 +199,8 @@
   definition:
   - diphthong — a vowel sound that starts near the articulatory position for one vowel
     and moves toward the position for another
+  hypernym:
+  - 88626435-n
   ili: i74033
   members:
   - déḟogur
@@ -224,6 +240,8 @@
 87143287-n:
   definition:
   - primitive — a word serving as the basis for inflected or derived forms
+  hypernym:
+  - 81092558-n
   ili: i69583
   members:
   - cétnaide
@@ -256,6 +274,8 @@
   definition:
   - participial, participle — a non-finite form of the verb; in English it is used
     adjectivally and to form compound tenses
+  hypernym:
+  - 82734458-n
   ili: i69745
   members:
   - ranngabál
@@ -271,6 +291,8 @@
   definition:
   - subject case, nominative, nominative case — the category of nouns serving as the
     grammatical subject of a verb
+  hypernym:
+  - 87443575-n
   ili: i69647
   members:
   - ainmmnid

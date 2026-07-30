@@ -49,6 +49,8 @@
 83136937-n:
   definition:
   - end — a final part or section
+  hypernym:
+  - 89910511-n
   ili: i67714
   members:
   - deired
@@ -73,6 +75,8 @@
 86634966-n:
   definition:
   - beginning — the first part or section of something
+  hypernym:
+  - 89910511-n
   ili: i67712
   members:
   - tosach
@@ -109,6 +113,8 @@
 89726303-n:
   definition:
   - element, ingredient, component, constituent, factor — an abstract part of something
+  hypernym:
+  - 89910511-n
   ili: i67716
   members:
   - dúil
