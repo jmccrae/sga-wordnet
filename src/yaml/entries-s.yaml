@@ -12,6 +12,11 @@ sainred:
       synset: 85966327-n
     - id: 'sainred%1:07:01::'
       synset: 84937696-n
+saíthar:
+  n:
+    sense:
+    - id: 'saíthar%1:04:00::'
+      synset: 86982352-n
 sechmadachte:
   n:
     sense:
@@ -39,6 +44,11 @@ sluindid:
       synset: 82949802-v
     - id: 'sluindid%2:32:01::'
       synset: 80902494-v
+smúained:
+  n:
+    sense:
+    - id: 'smúained%1:09:00::'
+      synset: 81586762-n
 son:
   n:
     sense:
@@ -46,8 +56,18 @@ son:
       synset: 81092558-n
     - id: 'son%1:07:01::'
       synset: 87849671-n
+sreth:
+  n:
+    sense:
+    - id: 'sreth%1:14:00::'
+      synset: 87947427-n
 superlait:
   n:
     sense:
     - id: 'superlait%1:10:00::'
       synset: 82524886-n
+sóid:
+  v:
+    sense:
+    - id: 'sóid%2:30:00::'
+      synset: 80000309-v

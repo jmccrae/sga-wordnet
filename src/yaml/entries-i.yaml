@@ -3,11 +3,21 @@ ilar:
     sense:
     - id: 'ilar%1:10:00::'
       synset: 80259077-n
+immacaldaim:
+  n:
+    sense:
+    - id: 'immacaldaim%1:03:00::'
+      synset: 80644807-n
 imḟognam:
   n:
     sense:
     - id: 'imḟognam%1:10:00::'
       synset: 87030202-n
+imḟolang:
+  n:
+    sense:
+    - id: 'imḟolang%1:03:00::'
+      synset: 81975763-n
 inchosc:
   v:
     sense:
@@ -49,6 +59,8 @@ insce:
     sense:
     - id: 'insce%1:10:00::'
       synset: 86617844-n
+    - id: 'insce%1:10:01::'
+      synset: 88868896-n
 intliucht:
   n:
     sense:

@@ -16,6 +16,11 @@ rann:
       synset: 89910511-n
     - id: 'rann%1:09:04::'
       synset: 86759983-n
+rann insce:
+  n:
+    sense:
+    - id: 'rann_insce%1:10:00::'
+      synset: 82625947-n
 ranngabál:
   n:
     sense:
@@ -31,6 +36,18 @@ remṡuidigud:
     sense:
     - id: 'remṡuidigud%1:10:00::'
       synset: 88734992-n
+rád:
+  n:
+    sense:
+    - id: 'rád%1:10:00::'
+      synset: 88868896-n
+rét:
+  n:
+    sense:
+    - id: 'rét%1:03:00::'
+      synset: 87663116-n
+    - id: 'rét%1:03:01::'
+      synset: 85046098-n
 ríagolda:
   s:
     sense:

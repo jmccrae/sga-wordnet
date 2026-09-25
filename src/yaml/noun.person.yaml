@@ -1,3 +1,20 @@
+80752096-n:
+  definition:
+  - child, kid — a human offspring (son or daughter) of any age
+  ili: i88965
+  members:
+  - lenab
+  - noídiu
+  - tuistiu
+  partOfSpeech: n
+81452106-n:
+  definition:
+  - issue, offspring, progeny — the immediate descendants of a person
+  ili: i91712
+  members:
+  - clann
+  - ciniud
+  partOfSpeech: n
 82479076-n:
   definition:
   - girl, daughter — a female human offspring
@@ -21,6 +38,23 @@
   ili: i86570
   members:
   - día
+  partOfSpeech: n
+85523759-n:
+  definition:
+  - doer, actor, worker — a person who acts and gets things done
+  ili: i88069
+  members:
+  - gnía
+  - gníthid
+  partOfSpeech: n
+86919753-n:
+  definition:
+  - relation, relative — a person related by blood or marriage
+  ili: i90856
+  members:
+  - coibdelach
+  - coibne
+  - comḟíalus
   partOfSpeech: n
 89280411-n:
   definition:

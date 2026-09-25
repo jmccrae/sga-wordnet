@@ -18,3 +18,22 @@ neutur:
     sense:
     - id: 'neutur%1:10:00::'
       synset: 82042014-n
+not:
+  n:
+    sense:
+    - id: 'not%1:10:00::'
+      synset: 85646258-n
+    - id: 'not%1:10:01::'
+      synset: 84651096-n
+noídiu:
+  n:
+    sense:
+    - id: 'noídiu%1:18:00::'
+      synset: 80752096-n
+ní:
+  n:
+    sense:
+    - id: 'ní%1:03:00::'
+      synset: 87663116-n
+    - id: 'ní%1:03:01::'
+      synset: 85046098-n

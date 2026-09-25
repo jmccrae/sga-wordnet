@@ -1,8 +1,20 @@
+oipred:
+  n:
+    sense:
+    - id: 'oipred%1:04:00::'
+      synset: 80293708-n
+    - id: 'oipred%1:09:01::'
+      synset: 81450780-n
 olc:
   a:
     sense:
     - id: 'olc%3:00:00::'
       synset: 87378976-a
+opar:
+  n:
+    sense:
+    - id: 'opar%1:04:00::'
+      synset: 86982352-n
 ord:
   n:
     sense:

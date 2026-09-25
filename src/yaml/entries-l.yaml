@@ -3,6 +3,16 @@ lainne:
     sense:
     - id: 'lainne%1:12:00::'
       synset: 81763401-n
+lenab:
+  n:
+    sense:
+    - id: 'lenab%1:18:00::'
+      synset: 80752096-n
+leth:
+  n:
+    sense:
+    - id: 'leth%1:15:00::'
+      synset: 81779714-n
 liter:
   n:
     sense:
@@ -17,6 +27,20 @@ loc:
       synset: 89071008-n
     - id: 'loc%1:15:02::'
       synset: 84095545-n
+    - id: 'loc%1:03:03::'
+      synset: 89502279-n
+    - id: 'loc%1:15:04::'
+      synset: 82967009-n
+lubair:
+  n:
+    sense:
+    - id: 'lubair%1:04:00::'
+      synset: 86982352-n
+luct:
+  n:
+    sense:
+    - id: 'luct%1:09:00::'
+      synset: 84303570-n
 léigend:
   v:
     sense:

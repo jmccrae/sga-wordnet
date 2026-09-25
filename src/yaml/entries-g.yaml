@@ -8,6 +8,11 @@ gerind:
     sense:
     - id: 'gerind%1:10:00::'
       synset: 85409528-n
+gnía:
+  n:
+    sense:
+    - id: 'gnía%1:18:00::'
+      synset: 85523759-n
 gním:
   n:
     sense:
@@ -15,6 +20,20 @@ gním:
       synset: 88556240-n
     - id: 'gním%1:04:01::'
       synset: 89795394-n
+    - id: 'gním%1:03:02::'
+      synset: 81266292-n
+    - id: 'gním%1:04:03::'
+      synset: 80293708-n
+gnímrad:
+  n:
+    sense:
+    - id: 'gnímrad%1:04:00::'
+      synset: 86982352-n
+gníthid:
+  n:
+    sense:
+    - id: 'gníthid%1:18:00::'
+      synset: 85523759-n
 gnúis:
   n:
     sense:

@@ -5,12 +5,32 @@
   members:
   - ainm
   partOfSpeech: n
+82226985-n:
+  definition:
+  - condition, status — a state at a particular time
+  ili: i110109
+  members:
+  - bal
+  - alt
+  partOfSpeech: n
 82477077-n:
   definition:
   - Passion, Passion of Christ — the suffering of Jesus at the Crucifixion
   ili: i112227
   members:
   - césad
+  partOfSpeech: n
+86747513-n:
+  definition:
+  - psychological condition, psychological state, mental condition, mental state —
+    (psychology) a mental condition in which the qualities of a state are relatively
+    constant even though the state itself may be dynamic
+  ili: i112538
+  members:
+  - '*bal ingnai'
+  - '*bal menman'
+  - '*alt ingnai'
+  - '*alt menman'
   partOfSpeech: n
 88556240-n:
   definition:

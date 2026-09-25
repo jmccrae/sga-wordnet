@@ -1,3 +1,10 @@
+bal:
+  n:
+    sense:
+    - id: 'bal%1:03:00::'
+      synset: 86163603-n
+    - id: 'bal%1:26:01::'
+      synset: 82226985-n
 barr:
   n:
     sense:
@@ -17,8 +24,30 @@ beus:
     sense:
     - id: 'beus%4:02:00::'
       synset: 86379405-r
+biad:
+  n:
+    sense:
+    - id: 'biad%1:03:00::'
+      synset: 83348516-n
+    - id: 'biad%1:13:01::'
+      synset: 86173573-n
+bruig:
+  n:
+    sense:
+    - id: 'bruig%1:15:00::'
+      synset: 81779714-n
 bríathar:
   n:
     sense:
     - id: 'bríathar%1:10:00::'
       synset: 82734458-n
+béo:
+  n:
+    sense:
+    - id: 'béo%1:03:00::'
+      synset: 85504953-n
+bést:
+  n:
+    sense:
+    - id: 'bést%1:03:00::'
+      synset: 80717417-n

@@ -1,5 +1,20 @@
+engnae:
+  n:
+    sense:
+    - id: 'engnae%1:03:00::'
+      synset: 84643561-n
 epert:
   n:
     sense:
     - id: 'epert%1:10:00::'
       synset: 81092558-n
+ernail:
+  n:
+    sense:
+    - id: 'ernail%1:14:00::'
+      synset: 85298405-n
+eulas:
+  n:
+    sense:
+    - id: 'eulas%1:09:00::'
+      synset: 88128664-n

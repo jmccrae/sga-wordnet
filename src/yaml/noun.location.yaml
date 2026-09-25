@@ -5,6 +5,23 @@
   members:
   - loc
   partOfSpeech: n
+81779714-n:
+  definition:
+  - region — a large indefinite location on the surface of the Earth
+  ili: i82339
+  members:
+  - leth
+  - tóib
+  - bruig
+  partOfSpeech: n
+82967009-n:
+  definition:
+  - point — the precise location of something; a spatially limited location
+  ili: i82287
+  members:
+  - áitt
+  - loc
+  partOfSpeech: n
 84095545-n:
   definition:
   - spot, place, topographic point — a point located with respect to surface features

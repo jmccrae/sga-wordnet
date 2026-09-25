@@ -1,9 +1,229 @@
+80028781-n:
+  definition:
+  - animate thing, living thing — a living (or once living) entity
+  ili: i35552
+  members:
+  - '*ní béo'
+  - '*dúil béodae'
+  partOfSpeech: n
+80644807-n:
+  definition:
+  - communication — something that is communicated by or to or between people or groups
+  ili: i35593
+  members:
+  - medar
+  - immacaldaim
+  partOfSpeech: n
+80717417-n:
+  definition:
+  - beast, brute, animal, animate being, fauna, creature — a living organism characterized
+    by voluntary movement
+  ili: i35563
+  members:
+  - anmandae
+  - ainmide
+  - bést
+  partOfSpeech: n
+80851068-n:
+  definition:
+  - process, physical process — a sustained phenomenon or one marked by gradual changes
+    through a series of states
+  ili: i35587
+  members:
+  - airopair
+  - '*conar'
+  partOfSpeech: n
+81266292-n:
+  definition:
+  - human action, human activity, deed, act — something that people do or cause to
+    happen
+  ili: i35588
+  members:
+  - gním
+  partOfSpeech: n
+81312087-n:
+  definition:
+  - psychological feature — a feature of the mental life of a living organism
+  ili: i35574
+  members:
+  - '*airde ningnai'
+  partOfSpeech: n
 81618529-n:
   definition:
   - possession — anything owned or possessed
   ili: i35591
   members:
   - atrab
+  partOfSpeech: n
+81645044-n:
+  definition:
+  - unit, whole — an assemblage of parts that is regarded as a single entity
+  ili: i35550
+  members:
+  - unáir
+  - óg
+  partOfSpeech: n
+81867588-n:
+  definition:
+  - natural object — an object occurring naturally; not made by man
+  ili: i35566
+  members:
+  - '*colnide aicnetae'
+  partOfSpeech: n
+81975763-n:
+  definition:
+  - cause, causal agency, causal agent — any entity that produces an effect or is
+    responsible for events or results
+  ili: i35561
+  members:
+  - adbar
+  - fochunn
+  - imḟolang
+  partOfSpeech: n
+82624428-n:
+  definition:
+  - feeling — the experiencing of affective and emotional states
+  ili: i35579
+  members:
+  - cétbaid
+  partOfSpeech: n
+83348516-n:
+  definition:
+  - food, nutrient — any substance that can be metabolized by an animal to give energy
+    and build tissue
+  ili: i35570
+  members:
+  - biad
+  partOfSpeech: n
+83505619-n:
+  definition:
+  - substance — a particular kind or species of matter with uniform properties
+  ili: i35568
+  members:
+  - aicde
+  - folad
+  partOfSpeech: n
+83853491-n:
+  definition:
+  - attribute — an abstraction belonging to or characteristic of an entity
+  ili: i35577
+  members:
+  - airde
+  - aiste
+  partOfSpeech: n
+84080689-n:
+  definition:
+  - measure, amount, quantity — how much there is or how many there are of something
+    that you can quantify
+  ili: i35594
+  members:
+  - áram
+  - méit
+  partOfSpeech: n
+84154477-n:
+  definition:
+  - relation — an abstraction belonging to or characteristic of two entities or parts
+    together
+  ili: i35590
+  members:
+  - '*comairde'
+  - '*comaiste'
+  - '*comcháil'
+  - '*coibdelach'
+  partOfSpeech: n
+84643561-n:
+  definition:
+  - cognition, noesis, knowledge — the psychological result of perception and learning
+    and reasoning
+  ili: i35575
+  members:
+  - engnae
+  partOfSpeech: n
+84675829-n:
+  definition:
+  - object, physical object — a tangible and visible entity; an entity that can cast
+    a shadow
+  ili: i35549
+  members:
+  - colnide
+  partOfSpeech: n
+85034651-n:
+  definition:
+  - matter — that which has mass and occupies space
+  ili: i35569
+  members:
+  - adbar
+  partOfSpeech: n
+85046098-n:
+  definition:
+  - thing — a separate and self-contained entity
+  ili: i35548
+  members:
+  - ní
+  - rét
+  partOfSpeech: n
+85215298-n:
+  definition:
+  - abstraction, abstract entity — a general concept formed by extracting common features
+    from specific examples
+  ili: i35547
+  members:
+  - '*dúil tainde'
+  partOfSpeech: n
+85504953-n:
+  definition:
+  - being, organism — a living thing that has (or can develop) the ability to act
+    or function independently
+  ili: i35553
+  members:
+  - béo
+  partOfSpeech: n
+86163603-n:
+  definition:
+  - state — the way something is with respect to its main attributes
+  ili: i35578
+  members:
+  - bal
+  - alt
+  partOfSpeech: n
+87242000-n:
+  definition:
+  - event — something that happens at a given place and time
+  ili: i35586
+  members:
+  - airisiu
+  partOfSpeech: n
+87248112-n:
+  definition:
+  - physical entity — an entity that has physical existence
+  ili: i35546
+  members:
+  - '*dúil adbarda'
+  partOfSpeech: n
+87353277-n:
+  definition:
+  - artefact, artifact — a man-made object taken as a whole
+  ili: i35572
+  members:
+  - dénta
+  - '*rét dénta'
+  partOfSpeech: n
+87408038-n:
+  definition:
+  - grouping, group — any number of entities (members) considered as a unit
+  ili: i35589
+  members:
+  - díglaim
+  partOfSpeech: n
+87663116-n:
+  definition:
+  - entity — that which is perceived or known or inferred to have its own distinct
+    existence (living or nonliving)
+  ili: i35545
+  members:
+  - dúil
+  - ní
+  - rét
   partOfSpeech: n
 89251292-n:
   definition:
@@ -13,6 +233,23 @@
   ili: i35562
   members:
   - persan
+  partOfSpeech: n
+89502279-n:
+  definition:
+  - location — a point or extent in space; a point or extent in space
+  ili: i35580
+  members:
+  - áitt
+  - loc
+  partOfSpeech: n
+89941866-n:
+  definition:
+  - time — the continuum of experience in which events pass from the future through
+    the present to the past
+  ili: i35582
+  members:
+  - amm
+  - '*úain'
   partOfSpeech: n
 89948552-n:
   definition:

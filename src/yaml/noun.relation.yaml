@@ -1,3 +1,10 @@
+81003377-n:
+  definition:
+  - grammatical relation — a linguistic relation established by grammar
+  ili: i109409
+  members:
+  - '*coibdelach grammatic'
+  partOfSpeech: n
 82023118-n:
   definition:
   - apposition — a grammatical relation between a word and a noun phrase that follows
@@ -26,6 +33,13 @@
   ili: i109447
   members:
   - díall
+  partOfSpeech: n
+85374322-n:
+  definition:
+  - linguistic relation — a relation between linguistic forms or constituents
+  ili: i109410
+  members:
+  - '*coibdelach tengad'
   partOfSpeech: n
 86958274-n:
   definition:

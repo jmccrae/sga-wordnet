@@ -13,6 +13,18 @@ mascul:
     sense:
     - id: 'mascul%1:10:00::'
       synset: 86331880-n
+medar:
+  n:
+    sense:
+    - id: 'medar%1:03:00::'
+      synset: 80644807-n
+    - id: 'medar%1:10:01::'
+      synset: 89330100-n
+menma:
+  n:
+    sense:
+    - id: 'menma%1:09:00::'
+      synset: 89159375-n
 mod:
   n:
     sense:
@@ -28,3 +40,9 @@ méit:
     sense:
     - id: 'méit%1:07:00::'
       synset: 85941576-n
+    - id: 'méit%1:03:01::'
+      synset: 84080689-n
+    - id: 'méit%1:07:02::'
+      synset: 81819714-n
+    - id: 'méit%1:07:03::'
+      synset: 86647021-n

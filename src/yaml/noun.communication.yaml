@@ -20,6 +20,23 @@
   members:
   - ilar
   partOfSpeech: n
+80344628-n:
+  definition:
+  - open-class word, content word — a word to which an independent meaning can be
+    assigned
+  ili: i69552
+  members:
+  - '*bríathar bríghe'
+  partOfSpeech: n
+80866675-n:
+  definition:
+  - signal, sign, signaling, signalling — any nonverbal action or gesture that encodes
+    a message
+  ili: i72174
+  members:
+  - cosmart
+  - comarde
+  partOfSpeech: n
 80982440-n:
   definition:
   - aspiration — a manner of articulation involving an audible release of breath
@@ -92,12 +109,28 @@
   members:
   - superlait
   partOfSpeech: n
+82625947-n:
+  definition:
+  - part of speech, form class, word class — one of the traditional categories of
+    words intended to reflect their functions in a grammatical context
+  ili: i69680
+  members:
+  - rann insce
+  partOfSpeech: n
 82734458-n:
   definition:
   - verb — the word class that serves as the predicate of a sentence
   ili: i69683
   members:
   - bríathar
+  partOfSpeech: n
+83027826-n:
+  definition:
+  - oblique, oblique case — any grammatical case other than the nominative
+  ili: i69648
+  members:
+  - camm
+  - camthuisel
   partOfSpeech: n
 83160390-n:
   definition:
@@ -106,6 +139,30 @@
   ili: i69690
   members:
   - ainm
+  partOfSpeech: n
+83575217-n:
+  definition:
+  - adjective — a word that expresses an attribute of something
+  ili: i69702
+  members:
+  - adiacht
+  partOfSpeech: n
+83653665-n:
+  definition:
+  - major form class — any of the major parts of speech of traditional grammar
+  ili: i69681
+  members:
+  - '*prímrann insce'
+  partOfSpeech: n
+84651096-n:
+  definition:
+  - printed symbol, written symbol — a written or printed symbol
+  ili: i72321
+  members:
+  - not
+  - comarde
+  - figair
+  - '*not scríbind'
   partOfSpeech: n
 84685879-n:
   definition:
@@ -131,6 +188,14 @@
   ili: i71415
   members:
   - foillsigud
+  partOfSpeech: n
+85005967-n:
+  definition:
+  - grammatical category, syntactic category — (grammar) a category of words having
+    the same grammatical properties
+  ili: i69637
+  members:
+  - '*ernail grammatic'
   partOfSpeech: n
 85087606-n:
   definition:
@@ -158,6 +223,27 @@
   members:
   - gerind
   partOfSpeech: n
+85646258-n:
+  definition:
+  - symbol — an arbitrary sign (written or printed) that has acquired a conventional
+    significance
+  ili: i72261
+  members:
+  - not
+  - comarde
+  - figair
+  partOfSpeech: n
+85924383-n:
+  definition:
+  - form, signifier, descriptor, word form — the phonological or orthographic sound
+    or appearance of a word that can be used to describe or identify something
+  ili: i69559
+  members:
+  - forgnúis
+  - delb
+  - cruth
+  - figair
+  partOfSpeech: n
 86331880-n:
   definition:
   - masculine — a gender that refers chiefly (but not exclusively) to males or to
@@ -175,6 +261,14 @@
   ili: i74022
   members:
   - insce
+  partOfSpeech: n
+86651989-n:
+  definition:
+  - language unit, linguistic unit — one of the natural units into which linguistic
+    messages can be analyzed
+  ili: i69533
+  members:
+  - '*unáir tengad'
   partOfSpeech: n
 86697922-n:
   definition:
@@ -277,6 +371,13 @@
   members:
   - tuisel
   partOfSpeech: n
+87450274-n:
+  definition:
+  - adverb — a word that modifies something other than a noun
+  ili: i69709
+  members:
+  - dobríathar
+  partOfSpeech: n
 87546268-n:
   definition:
   - participial, participle — a non-finite form of the verb; in English it is used
@@ -294,12 +395,28 @@
   members:
   - fers
   partOfSpeech: n
+87834809-n:
+  definition:
+  - phone, sound, speech sound — (phonetics) an individual sound unit of speech without
+    concern as to whether or not it is a phoneme of some language
+  ili: i74027
+  members:
+  - fogur
+  partOfSpeech: n
 87894795-n:
   definition:
   - croak, croaking — a harsh hoarse utterance (as of a frog)
   ili: i74103
   members:
   - grácad
+  partOfSpeech: n
+88439721-n:
+  definition:
+  - content, substance, subject matter, message — content communicating a message;
+    what something is about
+  ili: i71140
+  members:
+  - argumeint
   partOfSpeech: n
 88482043-n:
   definition:
@@ -337,6 +454,30 @@
   members:
   - remṡuidigud
   partOfSpeech: n
+88845743-n:
+  definition:
+  - substantive — any word or group of words functioning as a noun
+  ili: i69606
+  members:
+  - ainm
+  partOfSpeech: n
+88868896-n:
+  definition:
+  - statement — a message that is stated or declared; a communication (oral or written)
+    setting forth particulars or facts etc
+  ili: i71833
+  members:
+  - insce
+  - rád
+  partOfSpeech: n
+88881491-n:
+  definition:
+  - function word, closed-class word — a word that is uninflected and serves a grammatical
+    function but has little identifiable meaning
+  ili: i69561
+  members:
+  - '*bríathar fedma'
+  partOfSpeech: n
 88921522-n:
   definition:
   - accent, accent mark — a diacritical mark used to indicate stress or placed above
@@ -351,6 +492,13 @@
   ili: i69651
   members:
   - genitiu
+  partOfSpeech: n
+89330100-n:
+  definition:
+  - auditory communication — communication that relies on hearing
+  ili: i74021
+  members:
+  - medar
   partOfSpeech: n
 89466722-n:
   definition:

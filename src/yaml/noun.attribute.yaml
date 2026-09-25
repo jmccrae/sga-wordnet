@@ -5,6 +5,14 @@
   members:
   - cosmailius
   partOfSpeech: n
+80979221-n:
+  definition:
+  - quality — an essential and distinguishing attribute of something or someone
+  ili: i61871
+  members:
+  - cáil
+  - aiste
+  partOfSpeech: n
 81287314-n:
   definition:
   - composition, composing — the spatial property resulting from the arrangement of
@@ -19,6 +27,13 @@
   ili: i63432
   members:
   - nert
+  partOfSpeech: n
+81819714-n:
+  definition:
+  - magnitude — the property of relative size or extent (whether large or small)
+  ili: i63747
+  members:
+  - méit
   partOfSpeech: n
 82489845-n:
   definition:
@@ -71,6 +86,13 @@
   members:
   - méit
   partOfSpeech: n
+86647021-n:
+  definition:
+  - amount — the relative magnitude of something with reference to a criterion
+  ili: i63839
+  members:
+  - méit
+  partOfSpeech: n
 87849671-n:
   definition:
   - sound — the particular auditory effect produced by a given cause
@@ -116,4 +138,18 @@
   ili: i62729
   members:
   - dílse
+  partOfSpeech: n
+89282369-n:
+  definition:
+  - property — a basic or essential property shared by all members of a class
+  ili: i62823
+  members:
+  - cáil
+  partOfSpeech: n
+89372624-n:
+  definition:
+  - trait — a distinguishing feature of your personal nature
+  ili: i61343
+  members:
+  - cáil
   partOfSpeech: n

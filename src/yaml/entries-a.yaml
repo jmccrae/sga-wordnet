@@ -5,11 +5,23 @@ accomol:
       synset: 87993082-n
     - id: 'accomol%1:14:01::'
       synset: 83059103-n
+adbar:
+  n:
+    sense:
+    - id: 'adbar%1:03:00::'
+      synset: 81975763-n
+    - id: 'adbar%1:03:01::'
+      synset: 85034651-n
 adcomla:
   v:
     sense:
     - id: 'adcomla%2:35:00::'
       synset: 88506063-v
+adiacht:
+  n:
+    sense:
+    - id: 'adiacht%1:10:00::'
+      synset: 83575217-n
 adtreba:
   v:
     sense:
@@ -25,6 +37,11 @@ aiccent:
     sense:
     - id: 'aiccent%1:10:00::'
       synset: 88921522-n
+aicde:
+  n:
+    sense:
+    - id: 'aicde%1:03:00::'
+      synset: 83505619-n
 aicned:
   n:
     sense:
@@ -55,16 +72,49 @@ ainm:
       synset: 81937208-n
     - id: 'ainm%1:10:03::'
       synset: 83160390-n
+    - id: 'ainm%1:10:04::'
+      synset: 88845743-n
+ainmide:
+  n:
+    sense:
+    - id: 'ainmide%1:03:00::'
+      synset: 80717417-n
 ainmmnid:
   n:
     sense:
     - id: 'ainmmnid%1:10:00::'
       synset: 88482043-n
+airde:
+  n:
+    sense:
+    - id: 'airde%1:03:00::'
+      synset: 83853491-n
 airdíxa:
   a:
     sense:
     - id: 'airdíxa%3:00:00::'
       synset: 88067839-a
+airisiu:
+  n:
+    sense:
+    - id: 'airisiu%1:03:00::'
+      synset: 87242000-n
+airopair:
+  n:
+    sense:
+    - id: 'airopair%1:03:00::'
+      synset: 80851068-n
+    - id: 'airopair%1:09:01::'
+      synset: 81450780-n
+aiste:
+  n:
+    sense:
+    - id: 'aiste%1:03:00::'
+      synset: 83853491-n
+    - id: 'aiste%1:07:01::'
+      synset: 80979221-n
+    - id: 'aiste%1:09:02::'
+      synset: 89602844-n
 aitherrechtaigthe:
   n:
     sense:
@@ -75,16 +125,38 @@ aittrebthach:
     sense:
     - id: 'aittrebthach%3:01:00::'
       synset: 86287358-a
+alt:
+  n:
+    sense:
+    - id: 'alt%1:03:00::'
+      synset: 86163603-n
+    - id: 'alt%1:26:01::'
+      synset: 82226985-n
 amal:
   r:
     sense:
     - id: 'amal%4:02:00::'
       synset: 85135742-r
+amm:
+  n:
+    sense:
+    - id: 'amm%1:03:00::'
+      synset: 89941866-n
+anmandae:
+  n:
+    sense:
+    - id: 'anmandae%1:03:00::'
+      synset: 80717417-n
 ar:
   r:
     sense:
     - id: 'ar%4:02:00::'
       synset: 83067314-r
+argumeint:
+  n:
+    sense:
+    - id: 'argumeint%1:10:00::'
+      synset: 88439721-n
 aricc:
   v:
     sense:

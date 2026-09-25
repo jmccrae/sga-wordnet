@@ -1,8 +1,176 @@
+'*adbar dúr':
+  n:
+    sense:
+    - id: '*adbar_dúr%1:27:00::'
+      synset: 80452638-n
+'*airde ningnai':
+  n:
+    sense:
+    - id: '*airde_ningnai%1:03:00::'
+      synset: 81312087-n
+'*airopair menman':
+  n:
+    sense:
+    - id: '*airopair_menman%1:09:00::'
+      synset: 81450780-n
+'*alt ingnai':
+  n:
+    sense:
+    - id: '*alt_ingnai%1:26:00::'
+      synset: 86747513-n
+'*alt menman':
+  n:
+    sense:
+    - id: '*alt_menman%1:09:00::'
+      synset: 89159375-n
+    - id: '*alt_menman%1:26:01::'
+      synset: 86747513-n
+'*bal ingnai':
+  n:
+    sense:
+    - id: '*bal_ingnai%1:26:00::'
+      synset: 86747513-n
+'*bal menman':
+  n:
+    sense:
+    - id: '*bal_menman%1:09:00::'
+      synset: 89159375-n
+    - id: '*bal_menman%1:26:01::'
+      synset: 86747513-n
+'*bríathar bríghe':
+  n:
+    sense:
+    - id: '*bríathar_bríghe%1:10:00::'
+      synset: 80344628-n
+'*bríathar fedma':
+  n:
+    sense:
+    - id: '*bríathar_fedma%1:10:00::'
+      synset: 88881491-n
+'*coibdelach':
+  n:
+    sense:
+    - id: '*coibdelach%1:03:00::'
+      synset: 84154477-n
+'*coibdelach grammatic':
+  n:
+    sense:
+    - id: '*coibdelach_grammatic%1:24:00::'
+      synset: 81003377-n
+'*coibdelach tengad':
+  n:
+    sense:
+    - id: '*coibdelach_tengad%1:24:00::'
+      synset: 85374322-n
+'*colnide aicnetae':
+  n:
+    sense:
+    - id: '*colnide_aicnetae%1:03:00::'
+      synset: 81867588-n
+'*colnide menman':
+  n:
+    sense:
+    - id: '*colnide_menman%1:09:00::'
+      synset: 84303570-n
+'*comairde':
+  n:
+    sense:
+    - id: '*comairde%1:03:00::'
+      synset: 84154477-n
+'*comaiste':
+  n:
+    sense:
+    - id: '*comaiste%1:03:00::'
+      synset: 84154477-n
+'*comcháil':
+  n:
+    sense:
+    - id: '*comcháil%1:03:00::'
+      synset: 84154477-n
+'*conar':
+  n:
+    sense:
+    - id: '*conar%1:03:00::'
+      synset: 80851068-n
+    - id: '*conar%1:09:01::'
+      synset: 81450780-n
+'*dúil adbarda':
+  n:
+    sense:
+    - id: '*dúil_adbarda%1:03:00::'
+      synset: 87248112-n
+'*dúil béodae':
+  n:
+    sense:
+    - id: '*dúil_béodae%1:03:00::'
+      synset: 80028781-n
+'*dúil tainde':
+  n:
+    sense:
+    - id: '*dúil_tainde%1:03:00::'
+      synset: 85215298-n
+'*ernail grammatic':
+  n:
+    sense:
+    - id: '*ernail_grammatic%1:10:00::'
+      synset: 85005967-n
+'*luct menman':
+  n:
+    sense:
+    - id: '*luct_menman%1:09:00::'
+      synset: 84303570-n
+'*méit a cumscugud':
+  v:
+    sense:
+    - id: '*méit_a_cumscugud%2:30:00::'
+      synset: 83664205-v
+'*méit a soud':
+  v:
+    sense:
+    - id: '*méit_a_soud%2:30:00::'
+      synset: 83664205-v
+'*not scríbind':
+  n:
+    sense:
+    - id: '*not_scríbind%1:10:00::'
+      synset: 84651096-n
+'*ní béo':
+  n:
+    sense:
+    - id: '*ní_béo%1:03:00::'
+      synset: 80028781-n
+'*prímrann insce':
+  n:
+    sense:
+    - id: '*prímrann_insce%1:10:00::'
+      synset: 83653665-n
+'*rét dénta':
+  n:
+    sense:
+    - id: '*rét_dénta%1:03:00::'
+      synset: 87353277-n
+'*unáir tengad':
+  n:
+    sense:
+    - id: '*unáir_tengad%1:10:00::'
+      synset: 86651989-n
+'*úain':
+  n:
+    sense:
+    - id: '*úain%1:03:00::'
+      synset: 89941866-n
 áirem:
   n:
     sense:
     - id: 'áirem%1:23:00::'
       synset: 81852294-n
+áitt:
+  n:
+    sense:
+    - id: 'áitt%1:03:00::'
+      synset: 89502279-n
+    - id: 'áitt%1:15:01::'
+      synset: 82967009-n
 ám:
   r:
     sense:
@@ -13,6 +181,8 @@
     sense:
     - id: 'áram%1:23:00::'
       synset: 81852294-n
+    - id: 'áram%1:03:01::'
+      synset: 84080689-n
 éicen:
   n:
     sense:
@@ -34,6 +204,10 @@
     - id: 'íth%1:13:00::'
       synset: 84699239-n
 óg:
+  n:
+    sense:
+    - id: 'óg%1:03:01::'
+      synset: 81645044-n
   s:
     sense:
     - id: óg%5:00:00:???:00

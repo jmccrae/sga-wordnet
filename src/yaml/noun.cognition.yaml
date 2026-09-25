@@ -16,6 +16,26 @@
   - cíall
   - inne
   partOfSpeech: n
+81450780-n:
+  definition:
+  - operation, process, cognitive operation, cognitive process, mental process — (psychology)
+    the performance of some composite cognitive activity; an operation that affects
+    mental contents
+  ili: i66873
+  members:
+  - oipred
+  - airopair
+  - '*conar'
+  - '*airopair menman'
+  partOfSpeech: n
+81586762-n:
+  definition:
+  - idea, thought — the content of cognition; the main thing you are thinking about
+  ili: i67535
+  members:
+  - coicell
+  - smúained
+  partOfSpeech: n
 81886174-n:
   definition:
   - pattern, form, shape — a perceptual structure
@@ -48,6 +68,16 @@
   members:
   - deired
   partOfSpeech: n
+84303570-n:
+  definition:
+  - content, cognitive content, mental object — the sum or range of what has been
+    perceived, discovered, or learned
+  ili: i67409
+  members:
+  - luct
+  - '*luct menman'
+  - '*colnide menman'
+  partOfSpeech: n
 85087478-n:
   definition:
   - distinction, differentiation — a discrimination between things as different and
@@ -56,6 +86,14 @@
   members:
   - fodail
   - dechor
+  partOfSpeech: n
+85625817-n:
+  definition:
+  - conception, concept, construct — an abstract or general idea inferred or derived
+    from specific instances
+  ili: i67543
+  members:
+  - compert
   partOfSpeech: n
 85966327-n:
   definition:
@@ -88,6 +126,14 @@
   members:
   - rann
   partOfSpeech: n
+88128664-n:
+  definition:
+  - information — knowledge acquired through study or experience or instruction
+  ili: i67447
+  members:
+  - eulas
+  - fis
+  partOfSpeech: n
 88307027-n:
   definition:
   - doubt, doubtfulness, dubiousness, uncertainty, incertitude, dubiety — the state
@@ -96,12 +142,30 @@
   members:
   - inderbus
   partOfSpeech: n
+89159375-n:
+  definition:
+  - state of mind, cognitive state — the state of a person's cognitive processes
+  ili: i66713
+  members:
+  - menma
+  - '*bal menman'
+  - '*alt menman'
+  partOfSpeech: n
 89321446-n:
   definition:
   - species — a specific kind of something
   ili: i67588
   members:
   - gnúis
+  partOfSpeech: n
+89602844-n:
+  definition:
+  - property, dimension, attribute — a construct whereby objects or individuals can
+    be distinguished
+  ili: i67611
+  members:
+  - cáil
+  - aiste
   partOfSpeech: n
 89726303-n:
   definition:

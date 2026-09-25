@@ -3,16 +3,35 @@ fers:
     sense:
     - id: 'fers%1:10:00::'
       synset: 87796683-n
+figair:
+  n:
+    sense:
+    - id: 'figair%1:10:00::'
+      synset: 85646258-n
+    - id: 'figair%1:10:01::'
+      synset: 84651096-n
+    - id: 'figair%1:10:02::'
+      synset: 85924383-n
 fili:
   n:
     sense:
     - id: 'fili%1:18:00::'
       synset: 89280411-n
+fis:
+  n:
+    sense:
+    - id: 'fis%1:09:00::'
+      synset: 88128664-n
 fochslaid:
   n:
     sense:
     - id: 'fochslaid%1:10:00::'
       synset: 82397685-n
+fochunn:
+  n:
+    sense:
+    - id: 'fochunn%1:03:00::'
+      synset: 81975763-n
 fodail:
   n:
     sense:
@@ -23,6 +42,8 @@ fogur:
     sense:
     - id: 'fogur%1:07:00::'
       synset: 87849671-n
+    - id: 'fogur%1:10:01::'
+      synset: 87834809-n
 foillsigud:
   n:
     sense:
@@ -35,6 +56,8 @@ folad:
       synset: 89948552-n
     - id: 'folad%1:09:01::'
       synset: 80785130-n
+    - id: 'folad%1:03:02::'
+      synset: 83505619-n
 follus:
   a:
     sense:
@@ -45,6 +68,8 @@ forgnúis:
     sense:
     - id: 'forgnúis%1:09:00::'
       synset: 81886174-n
+    - id: 'forgnúis%1:10:01::'
+      synset: 85924383-n
 fot:
   n:
     sense:

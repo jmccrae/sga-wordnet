@@ -50,6 +50,11 @@ tuisel:
     sense:
     - id: 'tuisel%1:10:00::'
       synset: 87443575-n
+tuistiu:
+  n:
+    sense:
+    - id: 'tuistiu%1:18:00::'
+      synset: 80752096-n
 tánaise:
   s:
     sense:
@@ -60,6 +65,11 @@ téit:
     sense:
     - id: 'téit%2:42:00::'
       synset: 86414182-v
+tóib:
+  n:
+    sense:
+    - id: 'tóib%1:15:00::'
+      synset: 81779714-n
 tórand:
   n:
     sense:

@@ -1,3 +1,11 @@
+80293708-n:
+  definition:
+  - activity — any specific behavior
+  ili: i37550
+  members:
+  - gním
+  - oipred
+  partOfSpeech: n
 81659516-n:
   definition:
   - composition, penning, authorship, writing — the act of creating written works
@@ -11,6 +19,16 @@
   ili: i36163
   members:
   - coindelg
+  partOfSpeech: n
+86982352-n:
+  definition:
+  - work — activity directed toward making or doing something
+  ili: i38422
+  members:
+  - opar
+  - saíthar
+  - gnímrad
+  - lubair
   partOfSpeech: n
 89071008-n:
   definition:
