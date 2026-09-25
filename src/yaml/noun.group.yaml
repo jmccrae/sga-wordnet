@@ -2,6 +2,8 @@
   definition:
   - order, ordering, ordination — logical or comprehensible arrangement of separate
     elements
+  hypernym:
+  - 87947427-n
   ili: i81500
   members:
   - ord
@@ -10,6 +12,8 @@
   definition:
   - combination — a collection of things that have been combined; an assemblage of
     separate parts or qualities
+  hypernym:
+  - 89420360-n
   ili: i79172
   members:
   - accomol
@@ -17,6 +21,8 @@
 85298405-n:
   definition:
   - class, family, category — a collection of things sharing a common attribute
+  hypernym:
+  - 89420360-n
   ili: i79319
   members:
   - ernail
@@ -24,6 +30,8 @@
 85367387-n:
   definition:
   - pair — two people considered as a unit
+  hypernym:
+  - 87408038-n
   ili: i79228
   members:
   - déde
@@ -32,6 +40,8 @@
   definition:
   - arrangement — an orderly grouping (of things or persons) considered as a unit;
     the result of arranging
+  hypernym:
+  - 87408038-n
   ili: i79043
   members:
   - sreth
@@ -40,6 +50,8 @@
   definition:
   - assemblage, accumulation, aggregation, collection — several things grouped together
     or considered as a whole
+  hypernym:
+  - 87408038-n
   ili: i79104
   members:
   - comthinól
@@ -48,6 +60,8 @@
 89533822-n:
   definition:
   - race — people who are believed to belong to the same genetic stock
+  hypernym:
+  - 87408038-n
   ili: i79189
   members:
   - cenél

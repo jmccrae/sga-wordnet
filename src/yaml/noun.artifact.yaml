@@ -1,6 +1,8 @@
 83143235-n:
   definition:
   - helmet — armor plate that protects the head
+  hypernym:
+  - 87353277-n
   ili: i54769
   members:
   - barr
@@ -8,6 +10,8 @@
 85064914-n:
   definition:
   - part, portion — something less than the whole of a human artifact
+  hypernym:
+  - 84675829-n
   ili: i57017
   members:
   - rann

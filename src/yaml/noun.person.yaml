@@ -1,6 +1,8 @@
 80752096-n:
   definition:
   - child, kid — a human offspring (son or daughter) of any age
+  hypernym:
+  - 81452106-n
   ili: i88965
   members:
   - lenab
@@ -10,6 +12,8 @@
 81452106-n:
   definition:
   - issue, offspring, progeny — the immediate descendants of a person
+  hypernym:
+  - 86919753-n
   ili: i91712
   members:
   - clann
@@ -18,6 +22,9 @@
 82479076-n:
   definition:
   - girl, daughter — a female human offspring
+  hypernym:
+  - 80752096-n
+  - 89251292-n
   ili: i89398
   members:
   - ingen
@@ -26,6 +33,8 @@
   definition:
   - female parent, mother — a woman who has given birth to a child (also used as a
     term of address to your mother)
+  hypernym:
+  - 86919753-n
   ili: i91462
   members:
   - máthair
@@ -35,6 +44,8 @@
   - god, divinity, immortal, deity — any supernatural being worshipped as controlling
     some part of the world or some aspect of life or who is the personification of
     a force
+  hypernym:
+  - 84303570-n
   ili: i86570
   members:
   - día
@@ -42,6 +53,9 @@
 85523759-n:
   definition:
   - doer, actor, worker — a person who acts and gets things done
+  hypernym:
+  - 81975763-n
+  - 89251292-n
   ili: i88069
   members:
   - gnía
@@ -50,6 +64,8 @@
 86919753-n:
   definition:
   - relation, relative — a person related by blood or marriage
+  hypernym:
+  - 89251292-n
   ili: i90856
   members:
   - coibdelach
@@ -59,6 +75,8 @@
 89280411-n:
   definition:
   - poet — a writer of poems (the term is usually reserved for writers of good poetry)
+  hypernym:
+  - 85523759-n
   ili: i92096
   members:
   - fili
@@ -66,6 +84,9 @@
 89954573-n:
   definition:
   - son, boy — a male human offspring
+  hypernym:
+  - 80752096-n
+  - 89251292-n
   ili: i93143
   members:
   - macc

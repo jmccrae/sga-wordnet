@@ -2,6 +2,8 @@
   definition:
   - law, natural law — a rule or body of rules of conduct inherent in human nature
     and essential to or binding upon human society
+  hypernym:
+  - 85625817-n
   ili: i67725
   members:
   - dliged
@@ -9,6 +11,8 @@
 80785130-n:
   definition:
   - substance, meaning — the idea that is intended
+  hypernym:
+  - 81586762-n
   ili: i67944
   members:
   - intliucht
@@ -21,6 +25,8 @@
   - operation, process, cognitive operation, cognitive process, mental process — (psychology)
     the performance of some composite cognitive activity; an operation that affects
     mental contents
+  hypernym:
+  - 84643561-n
   ili: i66873
   members:
   - oipred
@@ -31,6 +37,8 @@
 81586762-n:
   definition:
   - idea, thought — the content of cognition; the main thing you are thinking about
+  hypernym:
+  - 84303570-n
   ili: i67535
   members:
   - coicell
@@ -39,6 +47,8 @@
 81886174-n:
   definition:
   - pattern, form, shape — a perceptual structure
+  hypernym:
+  - 84643561-n
   ili: i67998
   members:
   - delb
@@ -48,6 +58,8 @@
   definition:
   - character, quality, lineament — a characteristic property that defines the apparent
     individual nature of something
+  hypernym:
+  - 89602844-n
   ili: i67612
   members:
   - inne
@@ -55,6 +67,8 @@
 83081164-n:
   definition:
   - sense — a general conscious awareness
+  hypernym:
+  - 81450780-n
   ili: i66751
   members:
   - cíall
@@ -72,6 +86,8 @@
   definition:
   - content, cognitive content, mental object — the sum or range of what has been
     perceived, discovered, or learned
+  hypernym:
+  - 84643561-n
   ili: i67409
   members:
   - luct
@@ -82,6 +98,8 @@
   definition:
   - distinction, differentiation — a discrimination between things as different and
     distinct on the basis of their characteristics or attributes
+  hypernym:
+  - 81450780-n
   ili: i67111
   members:
   - fodail
@@ -91,6 +109,8 @@
   definition:
   - conception, concept, construct — an abstract or general idea inferred or derived
     from specific instances
+  hypernym:
+  - 81586762-n
   ili: i67543
   members:
   - compert
@@ -99,6 +119,8 @@
   definition:
   - peculiarity, distinctive feature, distinguishing characteristic — an odd or unusual
     characteristic
+  hypernym:
+  - 89602844-n
   ili: i67624
   members:
   - sainred
@@ -115,6 +137,8 @@
 86742092-n:
   definition:
   - model, example — a representative form or pattern
+  hypernym:
+  - 84303570-n
   ili: i68036
   members:
   - desimrecht
@@ -122,6 +146,8 @@
 86759983-n:
   definition:
   - part — that which concerns a person with regard to a particular role or situation
+  hypernym:
+  - 89159375-n
   ili: i66724
   members:
   - rann
@@ -129,6 +155,8 @@
 88128664-n:
   definition:
   - information — knowledge acquired through study or experience or instruction
+  hypernym:
+  - 84643561-n
   ili: i67447
   members:
   - eulas
@@ -138,6 +166,8 @@
   definition:
   - doubt, doubtfulness, dubiousness, uncertainty, incertitude, dubiety — the state
     of being unsure of something
+  hypernym:
+  - 89159375-n
   ili: i66857
   members:
   - inderbus
@@ -145,6 +175,8 @@
 89159375-n:
   definition:
   - state of mind, cognitive state — the state of a person's cognitive processes
+  hypernym:
+  - 86747513-n
   ili: i66713
   members:
   - menma
@@ -154,6 +186,8 @@
 89321446-n:
   definition:
   - species — a specific kind of something
+  hypernym:
+  - 85625817-n
   ili: i67588
   members:
   - gnúis
@@ -162,6 +196,8 @@
   definition:
   - property, dimension, attribute — a construct whereby objects or individuals can
     be distinguished
+  hypernym:
+  - 85625817-n
   ili: i67611
   members:
   - cáil
@@ -180,6 +216,8 @@
   definition:
   - section, part, division — one of the portions into which something is regarded
     as divided and which together constitute a whole
+  hypernym:
+  - 85625817-n
   ili: i67711
   members:
   - rann

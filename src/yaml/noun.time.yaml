@@ -1,6 +1,8 @@
 84836960-n:
   definition:
   - time, clock time — a reading of a point in time as given by a clock
+  hypernym:
+  - 88128664-n
   ili: i116704
   members:
   - aimser
@@ -8,6 +10,8 @@
 85687796-n:
   definition:
   - time — an indefinite period (usually marked by specific attributes or activities)
+  hypernym:
+  - 84080689-n
   ili: i116667
   members:
   - aimser
@@ -15,6 +19,8 @@
 89962756-n:
   definition:
   - time — a suitable moment
+  hypernym:
+  - 84080689-n
   ili: i117361
   members:
   - aimser

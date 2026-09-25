@@ -1,6 +1,8 @@
 86659954-n:
   definition:
   - person — a human body (usually including the clothing)
+  hypernym:
+  - 81867588-n
   ili: i64384
   members:
   - persan

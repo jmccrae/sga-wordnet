@@ -1,6 +1,8 @@
 80921094-n:
   definition:
   - place — a general vicinity
+  hypernym:
+  - 81779714-n
   ili: i82372
   members:
   - loc
@@ -8,6 +10,8 @@
 81779714-n:
   definition:
   - region — a large indefinite location on the surface of the Earth
+  hypernym:
+  - 89502279-n
   ili: i82339
   members:
   - leth
@@ -17,6 +21,8 @@
 82967009-n:
   definition:
   - point — the precise location of something; a spatially limited location
+  hypernym:
+  - 89502279-n
   ili: i82287
   members:
   - áitt
@@ -26,6 +32,8 @@
   definition:
   - spot, place, topographic point — a point located with respect to surface features
     of some region
+  hypernym:
+  - 82967009-n
   ili: i82501
   members:
   - loc
@@ -34,6 +42,8 @@
   definition:
   - urban center, city, metropolis — a large and densely populated urban area; may
     include several independent administrative districts
+  hypernym:
+  - 81779714-n
   ili: i81847
   members:
   - cathair

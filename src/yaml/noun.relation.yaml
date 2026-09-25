@@ -1,6 +1,8 @@
 81003377-n:
   definition:
   - grammatical relation — a linguistic relation established by grammar
+  hypernym:
+  - 85374322-n
   ili: i109409
   members:
   - '*coibdelach grammatic'
@@ -8,6 +10,8 @@
 82023118-n:
   definition:
   - apposition — a grammatical relation between a word and a noun phrase that follows
+  hypernym:
+  - 81003377-n
   ili: i109433
   members:
   - comaisndís
@@ -15,6 +19,8 @@
 83248279-n:
   definition:
   - comparison — relation based on similarities and differences
+  hypernym:
+  - 84154477-n
   ili: i109728
   members:
   - coindelg
@@ -22,6 +28,8 @@
 84247059-n:
   definition:
   - preterit, preterite — a term formerly used to refer to the simple past tense
+  hypernym:
+  - 85005967-n
   ili: i109461
   members:
   - sechmadachte
@@ -30,6 +38,8 @@
   definition:
   - declension — the inflection of nouns and pronouns and adjectives in Indo-European
     languages
+  hypernym:
+  - 81003377-n
   ili: i109447
   members:
   - díall
@@ -37,6 +47,8 @@
 85374322-n:
   definition:
   - linguistic relation — a relation between linguistic forms or constituents
+  hypernym:
+  - 84154477-n
   ili: i109410
   members:
   - '*coibdelach tengad'
@@ -45,6 +57,8 @@
   definition:
   - change — a relational difference between states; especially between states before
     and after some event
+  hypernym:
+  - 84154477-n
   ili: i109756
   members:
   - cumscugud
@@ -53,6 +67,8 @@
   definition:
   - passive, passive voice — the voice used to indicate that the grammatical subject
     of the verb is the recipient (not the source) of the action denoted by the verb
+  hypernym:
+  - 81003377-n
   ili: i109444
   members:
   - césad
@@ -61,6 +77,8 @@
   definition:
   - part, portion, component, constituent, component part — something determined in
     relation to something that includes it
+  hypernym:
+  - 84154477-n
   ili: i109475
   members:
   - rann

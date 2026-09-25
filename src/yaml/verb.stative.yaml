@@ -2,6 +2,8 @@
   definition:
   - stop, finish, terminate, cease, end — have an end, in a temporal, spatial, or
     quantitative sense; either spatial or metaphorical
+  hypernym:
+  - 80000309-v
   ili: i34724
   members:
   - téit
@@ -9,6 +11,8 @@
 87022866-v:
   definition:
   - have, feature — have as a feature
+  hypernym:
+  - 80626763-v
   ili: i34822
   members:
   - techtaid
@@ -19,6 +23,8 @@
 88372326-v:
   definition:
   - stand out, surpass, excel — distinguish oneself
+  hypernym:
+  - 80000309-v
   ili: i35030
   members:
   - doróscai

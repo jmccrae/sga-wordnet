@@ -1,6 +1,8 @@
 80293708-n:
   definition:
   - activity — any specific behavior
+  hypernym:
+  - 81266292-n
   ili: i37550
   members:
   - gním
@@ -9,6 +11,8 @@
 81659516-n:
   definition:
   - composition, penning, authorship, writing — the act of creating written works
+  hypernym:
+  - 80293708-n
   ili: i40296
   members:
   - comṡuidigud
@@ -16,6 +20,8 @@
 85147029-n:
   definition:
   - comparison, comparing — the act of examining resemblances
+  hypernym:
+  - 86982352-n
   ili: i36163
   members:
   - coindelg
@@ -23,6 +29,8 @@
 86982352-n:
   definition:
   - work — activity directed toward making or doing something
+  hypernym:
+  - 80293708-n
   ili: i38422
   members:
   - opar
@@ -34,6 +42,8 @@
   definition:
   - position, stead, place, lieu — the post or function properly or customarily occupied
     or served by another
+  hypernym:
+  - 86982352-n
   ili: i39225
   members:
   - loc
@@ -41,6 +51,8 @@
 89328654-n:
   definition:
   - addition — the act of adding one thing to another
+  hypernym:
+  - 89795394-n
   ili: i37324
   members:
   - tormach
@@ -48,6 +60,8 @@
 89795394-n:
   definition:
   - action — something done (usually as opposed to something said)
+  hypernym:
+  - 81266292-n
   ili: i35610
   members:
   - gním

@@ -2,6 +2,8 @@
   definition:
   - character, graph, grapheme, graphic symbol — a written symbol that is used to
     represent speech
+  hypernym:
+  - 84651096-n
   ili: i72328
   members:
   - cárachtar
@@ -9,6 +11,8 @@
 80179898-n:
   definition:
   - syllable — a unit of spoken language larger than a phoneme
+  hypernym:
+  - 86651989-n
   ili: i69613
   members:
   - sillab
@@ -16,6 +20,8 @@
 80259077-n:
   definition:
   - plural, plural form — the form of a word that is used to denote more than one
+  hypernym:
+  - 85924383-n
   ili: i69585
   members:
   - ilar
@@ -24,6 +30,8 @@
   definition:
   - open-class word, content word — a word to which an independent meaning can be
     assigned
+  hypernym:
+  - 81092558-n
   ili: i69552
   members:
   - '*bríathar bríghe'
@@ -32,6 +40,8 @@
   definition:
   - signal, sign, signaling, signalling — any nonverbal action or gesture that encodes
     a message
+  hypernym:
+  - 80644807-n
   ili: i72174
   members:
   - cosmart
@@ -40,6 +50,8 @@
 80982440-n:
   definition:
   - aspiration — a manner of articulation involving an audible release of breath
+  hypernym:
+  - 89330100-n
   ili: i74060
   members:
   - tinfed
@@ -47,6 +59,8 @@
 81092558-n:
   definition:
   - word — a unit of language that native speakers can identify
+  hypernym:
+  - 86651989-n
   ili: i69544
   members:
   - son
@@ -55,6 +69,8 @@
 81424377-n:
   definition:
   - definition — a concise explanation of the meaning of a word or phrase or symbol
+  hypernym:
+  - 88868896-n
   ili: i71937
   members:
   - érchoiliud
@@ -63,6 +79,8 @@
 81706051-n:
   definition:
   - consonant — a speech sound that is not a vowel
+  hypernym:
+  - 87834809-n
   ili: i74051
   members:
   - conson
@@ -80,6 +98,9 @@
 81991571-n:
   definition:
   - comparative, comparative degree — the comparative form of an adjective or adverb
+  hypernym:
+  - 83575217-n
+  - 87450274-n
   ili: i69707
   members:
   - comparit
@@ -98,6 +119,8 @@
   definition:
   - ablative, ablative case — the case indicating the agent in passive sentences or
     the instrument or manner or place of the action described by the verb
+  hypernym:
+  - 83027826-n
   ili: i69654
   members:
   - fochslaid
@@ -105,6 +128,9 @@
 82524886-n:
   definition:
   - superlative, superlative degree — the superlative form of an adjective or adverb
+  hypernym:
+  - 83575217-n
+  - 87450274-n
   ili: i69708
   members:
   - superlait
@@ -113,6 +139,8 @@
   definition:
   - part of speech, form class, word class — one of the traditional categories of
     words intended to reflect their functions in a grammatical context
+  hypernym:
+  - 85005967-n
   ili: i69680
   members:
   - rann insce
@@ -120,6 +148,8 @@
 82734458-n:
   definition:
   - verb — the word class that serves as the predicate of a sentence
+  hypernym:
+  - 83653665-n
   ili: i69683
   members:
   - bríathar
@@ -127,6 +157,8 @@
 83027826-n:
   definition:
   - oblique, oblique case — any grammatical case other than the nominative
+  hypernym:
+  - 87443575-n
   ili: i69648
   members:
   - camm
@@ -136,6 +168,9 @@
   definition:
   - noun — a content word that can be used to refer to a person, place, thing, quality,
     or action
+  hypernym:
+  - 80344628-n
+  - 88845743-n
   ili: i69690
   members:
   - ainm
@@ -143,6 +178,8 @@
 83575217-n:
   definition:
   - adjective — a word that expresses an attribute of something
+  hypernym:
+  - 80344628-n
   ili: i69702
   members:
   - adiacht
@@ -150,6 +187,8 @@
 83653665-n:
   definition:
   - major form class — any of the major parts of speech of traditional grammar
+  hypernym:
+  - 82625947-n
   ili: i69681
   members:
   - '*prímrann insce'
@@ -157,6 +196,8 @@
 84651096-n:
   definition:
   - printed symbol, written symbol — a written or printed symbol
+  hypernym:
+  - 85646258-n
   ili: i72321
   members:
   - not
@@ -177,6 +218,8 @@
   definition:
   - noun — the word class that can serve as the subject or object of a verb, the object
     of a preposition, or in apposition
+  hypernym:
+  - 83653665-n
   ili: i69682
   members:
   - ainm
@@ -185,6 +228,8 @@
   definition:
   - monstrance, demonstration — proof by a process of argument or a series of proposition
     proving an asserted conclusion
+  hypernym:
+  - 80644807-n
   ili: i71415
   members:
   - foillsigud
@@ -193,6 +238,8 @@
   definition:
   - grammatical category, syntactic category — (grammar) a category of words having
     the same grammatical properties
+  hypernym:
+  - 85298405-n
   ili: i69637
   members:
   - '*ernail grammatic'
@@ -211,6 +258,8 @@
   definition:
   - conjunction, connective, conjunctive, continuative — an uninflected function word
     that serves to conjoin words or phrases or clauses or sentences
+  hypernym:
+  - 88881491-n
   ili: i69721
   members:
   - comaccomol
@@ -219,6 +268,8 @@
   definition:
   - gerund — a noun formed from a verb (such as the `-ing' form of an English verb
     when used as a noun)
+  hypernym:
+  - 83160390-n
   ili: i69684
   members:
   - gerind
@@ -227,6 +278,8 @@
   definition:
   - symbol — an arbitrary sign (written or printed) that has acquired a conventional
     significance
+  hypernym:
+  - 80866675-n
   ili: i72261
   members:
   - not
@@ -237,6 +290,8 @@
   definition:
   - form, signifier, descriptor, word form — the phonological or orthographic sound
     or appearance of a word that can be used to describe or identify something
+  hypernym:
+  - 81092558-n
   ili: i69559
   members:
   - forgnúis
@@ -258,6 +313,8 @@
   definition:
   - speech, speech communication, spoken communication, spoken language, oral communication,
     language, voice communication — (language) communication by word of mouth
+  hypernym:
+  - 89330100-n
   ili: i74022
   members:
   - insce
@@ -266,6 +323,8 @@
   definition:
   - language unit, linguistic unit — one of the natural units into which linguistic
     messages can be analyzed
+  hypernym:
+  - 89475268-n
   ili: i69533
   members:
   - '*unáir tengad'
@@ -284,6 +343,8 @@
 86730063-n:
   definition:
   - singular, singular form — the form of a word that is used to denote a singleton
+  hypernym:
+  - 85924383-n
   ili: i69586
   members:
   - úathad
@@ -302,6 +363,8 @@
   definition:
   - import, significance, signification, meaning — the message that is intended or
     expressed or signified
+  hypernym:
+  - 88439721-n
   ili: i71150
   members:
   - inne
@@ -310,6 +373,8 @@
 86939996-n:
   definition:
   - name — a language unit by which a person or thing is known
+  hypernym:
+  - 86651989-n
   ili: i69761
   members:
   - ainm
@@ -318,6 +383,9 @@
   definition:
   - positive, positive degree — the primary form of an adjective or adverb; denotes
     a quality without qualification, comparison, or relation to increase or diminution
+  hypernym:
+  - 83575217-n
+  - 87450274-n
   ili: i69706
   members:
   - posit
@@ -326,6 +394,9 @@
   definition:
   - construction, expression, grammatical construction — a group of words that form
     a constituent of a sentence and are considered as a single unit
+  hypernym:
+  - 80644807-n
+  - 82235376-n
   ili: i69660
   members:
   - imḟognam
@@ -343,6 +414,8 @@
   definition:
   - dative, dative case — the category of nouns serving as the indirect object of
     a verb
+  hypernym:
+  - 83027826-n
   ili: i69650
   members:
   - tobarthaid
@@ -351,6 +424,8 @@
   definition:
   - resolution, solution, answer, result, solvent — a statement that solves a problem
     or explains how to solve the problem
+  hypernym:
+  - 88868896-n
   ili: i71933
   members:
   - frecrae
@@ -359,6 +434,8 @@
   definition:
   - Greek, Hellenic, Hellenic language — the Hellenic branch of the Indo-European
     family of languages
+  hypernym:
+  - 80644807-n
   ili: i73283
   members:
   - gréc
@@ -367,6 +444,8 @@
   definition:
   - case, grammatical case — nouns or pronouns or adjectives (often marked by inflection)
     related in some way to other words in a sentence
+  hypernym:
+  - 85005967-n
   ili: i69646
   members:
   - tuisel
@@ -374,6 +453,8 @@
 87450274-n:
   definition:
   - adverb — a word that modifies something other than a noun
+  hypernym:
+  - 80344628-n
   ili: i69709
   members:
   - dobríathar
@@ -391,6 +472,8 @@
 87796683-n:
   definition:
   - verse, verse line — a line of metrical text
+  hypernym:
+  - 80644807-n
   ili: i70038
   members:
   - fers
@@ -399,6 +482,8 @@
   definition:
   - phone, sound, speech sound — (phonetics) an individual sound unit of speech without
     concern as to whether or not it is a phoneme of some language
+  hypernym:
+  - 86651989-n
   ili: i74027
   members:
   - fogur
@@ -406,6 +491,8 @@
 87894795-n:
   definition:
   - croak, croaking — a harsh hoarse utterance (as of a frog)
+  hypernym:
+  - 89330100-n
   ili: i74103
   members:
   - grácad
@@ -414,6 +501,8 @@
   definition:
   - content, substance, subject matter, message — content communicating a message;
     what something is about
+  hypernym:
+  - 80644807-n
   ili: i71140
   members:
   - argumeint
@@ -433,6 +522,8 @@
   - person — a grammatical category used in the classification of pronouns, possessive
     determiners, and verb forms according to whether they indicate the speaker, the
     addressee, or a third party
+  hypernym:
+  - 85005967-n
   ili: i69726
   members:
   - persan
@@ -440,6 +531,8 @@
 88626435-n:
   definition:
   - vowel, vowel sound — a speech sound made with the vocal tract open
+  hypernym:
+  - 87834809-n
   ili: i74034
   members:
   - guthaigthe
@@ -450,6 +543,8 @@
   - preposition — a function word that combines with a noun or pronoun or noun phrase
     to form a prepositional phrase that can have an adverbial or adjectival relation
     to some other word
+  hypernym:
+  - 88881491-n
   ili: i69717
   members:
   - remṡuidigud
@@ -457,6 +552,8 @@
 88845743-n:
   definition:
   - substantive — any word or group of words functioning as a noun
+  hypernym:
+  - 81092558-n
   ili: i69606
   members:
   - ainm
@@ -465,6 +562,8 @@
   definition:
   - statement — a message that is stated or declared; a communication (oral or written)
     setting forth particulars or facts etc
+  hypernym:
+  - 88439721-n
   ili: i71833
   members:
   - insce
@@ -474,6 +573,8 @@
   definition:
   - function word, closed-class word — a word that is uninflected and serves a grammatical
     function but has little identifiable meaning
+  hypernym:
+  - 81092558-n
   ili: i69561
   members:
   - '*bríathar fedma'
@@ -482,6 +583,8 @@
   definition:
   - accent, accent mark — a diacritical mark used to indicate stress or placed above
     a vowel to indicate a special pronunciation
+  hypernym:
+  - 84651096-n
   ili: i72344
   members:
   - aiccent
@@ -489,6 +592,8 @@
 89057725-n:
   definition:
   - genitive, genitive case, possessive, possessive case — the case expressing ownership
+  hypernym:
+  - 83027826-n
   ili: i69651
   members:
   - genitiu
@@ -496,6 +601,8 @@
 89330100-n:
   definition:
   - auditory communication — communication that relies on hearing
+  hypernym:
+  - 80644807-n
   ili: i74021
   members:
   - medar
@@ -503,6 +610,8 @@
 89466722-n:
   definition:
   - adverb — the word class that qualifies verbs or clauses
+  hypernym:
+  - 83653665-n
   ili: i69689
   members:
   - dobríathar
@@ -513,6 +622,8 @@
     the agreement between nouns and pronouns and adjectives; in some languages it
     is quite arbitrary but in Indo-European languages it is usually based on sex or
     animateness
+  hypernym:
+  - 85005967-n
   ili: i69735
   members:
   - cenél

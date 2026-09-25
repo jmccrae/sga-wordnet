@@ -1,6 +1,8 @@
 81937208-n:
   definition:
   - name — a person's reputation
+  hypernym:
+  - 86163603-n
   ili: i112885
   members:
   - ainm
@@ -8,6 +10,8 @@
 82226985-n:
   definition:
   - condition, status — a state at a particular time
+  hypernym:
+  - 86163603-n
   ili: i110109
   members:
   - bal
@@ -16,6 +20,8 @@
 82477077-n:
   definition:
   - Passion, Passion of Christ — the suffering of Jesus at the Crucifixion
+  hypernym:
+  - 88128664-n
   ili: i112227
   members:
   - césad
@@ -25,6 +31,8 @@
   - psychological condition, psychological state, mental condition, mental state —
     (psychology) a mental condition in which the qualities of a state are relatively
     constant even though the state itself may be dynamic
+  hypernym:
+  - 82226985-n
   ili: i112538
   members:
   - '*bal ingnai'
@@ -35,6 +43,8 @@
 88556240-n:
   definition:
   - action, activeness, activity — the state of being active
+  hypernym:
+  - 86163603-n
   ili: i110542
   members:
   - gním

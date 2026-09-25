@@ -10,6 +10,8 @@
 83664205-v:
   definition:
   - change magnitude — change in size or magnitude
+  hypernym:
+  - 80000309-v
   ili: i22558
   members:
   - '*méit a cumscugud'
@@ -18,6 +20,8 @@
 89915078-v:
   definition:
   - increase — become bigger or greater in amount
+  hypernym:
+  - 83664205-v
   ili: i22491
   members:
   - doformaig

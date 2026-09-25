@@ -1,6 +1,8 @@
 80028781-n:
   definition:
   - animate thing, living thing — a living (or once living) entity
+  hypernym:
+  - 81645044-n
   ili: i35552
   members:
   - '*ní béo'
@@ -9,6 +11,8 @@
 80644807-n:
   definition:
   - communication — something that is communicated by or to or between people or groups
+  hypernym:
+  - 85215298-n
   ili: i35593
   members:
   - medar
@@ -18,6 +22,8 @@
   definition:
   - beast, brute, animal, animate being, fauna, creature — a living organism characterized
     by voluntary movement
+  hypernym:
+  - 85504953-n
   ili: i35563
   members:
   - anmandae
@@ -28,6 +34,8 @@
   definition:
   - process, physical process — a sustained phenomenon or one marked by gradual changes
     through a series of states
+  hypernym:
+  - 87248112-n
   ili: i35587
   members:
   - airopair
@@ -37,6 +45,8 @@
   definition:
   - human action, human activity, deed, act — something that people do or cause to
     happen
+  hypernym:
+  - 87242000-n
   ili: i35588
   members:
   - gním
@@ -44,6 +54,8 @@
 81312087-n:
   definition:
   - psychological feature — a feature of the mental life of a living organism
+  hypernym:
+  - 85215298-n
   ili: i35574
   members:
   - '*airde ningnai'
@@ -51,6 +63,8 @@
 81618529-n:
   definition:
   - possession — anything owned or possessed
+  hypernym:
+  - 84154477-n
   ili: i35591
   members:
   - atrab
@@ -58,6 +72,8 @@
 81645044-n:
   definition:
   - unit, whole — an assemblage of parts that is regarded as a single entity
+  hypernym:
+  - 84675829-n
   ili: i35550
   members:
   - unáir
@@ -66,6 +82,8 @@
 81867588-n:
   definition:
   - natural object — an object occurring naturally; not made by man
+  hypernym:
+  - 81645044-n
   ili: i35566
   members:
   - '*colnide aicnetae'
@@ -74,6 +92,8 @@
   definition:
   - cause, causal agency, causal agent — any entity that produces an effect or is
     responsible for events or results
+  hypernym:
+  - 87248112-n
   ili: i35561
   members:
   - adbar
@@ -83,6 +103,8 @@
 82624428-n:
   definition:
   - feeling — the experiencing of affective and emotional states
+  hypernym:
+  - 86163603-n
   ili: i35579
   members:
   - cétbaid
@@ -91,6 +113,9 @@
   definition:
   - food, nutrient — any substance that can be metabolized by an animal to give energy
     and build tissue
+  hypernym:
+  - 83505619-n
+  - 86173573-n
   ili: i35570
   members:
   - biad
@@ -98,6 +123,8 @@
 83505619-n:
   definition:
   - substance — a particular kind or species of matter with uniform properties
+  hypernym:
+  - 85034651-n
   ili: i35568
   members:
   - aicde
@@ -106,6 +133,8 @@
 83853491-n:
   definition:
   - attribute — an abstraction belonging to or characteristic of an entity
+  hypernym:
+  - 85215298-n
   ili: i35577
   members:
   - airde
@@ -115,6 +144,8 @@
   definition:
   - measure, amount, quantity — how much there is or how many there are of something
     that you can quantify
+  hypernym:
+  - 85215298-n
   ili: i35594
   members:
   - áram
@@ -124,6 +155,8 @@
   definition:
   - relation — an abstraction belonging to or characteristic of two entities or parts
     together
+  hypernym:
+  - 85215298-n
   ili: i35590
   members:
   - '*comairde'
@@ -135,6 +168,8 @@
   definition:
   - cognition, noesis, knowledge — the psychological result of perception and learning
     and reasoning
+  hypernym:
+  - 81312087-n
   ili: i35575
   members:
   - engnae
@@ -143,6 +178,8 @@
   definition:
   - object, physical object — a tangible and visible entity; an entity that can cast
     a shadow
+  hypernym:
+  - 87248112-n
   ili: i35549
   members:
   - colnide
@@ -150,6 +187,8 @@
 85034651-n:
   definition:
   - matter — that which has mass and occupies space
+  hypernym:
+  - 87248112-n
   ili: i35569
   members:
   - adbar
@@ -157,6 +196,8 @@
 85046098-n:
   definition:
   - thing — a separate and self-contained entity
+  hypernym:
+  - 87248112-n
   ili: i35548
   members:
   - ní
@@ -166,6 +207,8 @@
   definition:
   - abstraction, abstract entity — a general concept formed by extracting common features
     from specific examples
+  hypernym:
+  - 87663116-n
   ili: i35547
   members:
   - '*dúil tainde'
@@ -174,6 +217,9 @@
   definition:
   - being, organism — a living thing that has (or can develop) the ability to act
     or function independently
+  hypernym:
+  - 80028781-n
+  - 81975763-n
   ili: i35553
   members:
   - béo
@@ -181,6 +227,8 @@
 86163603-n:
   definition:
   - state — the way something is with respect to its main attributes
+  hypernym:
+  - 83853491-n
   ili: i35578
   members:
   - bal
@@ -189,6 +237,9 @@
 87242000-n:
   definition:
   - event — something that happens at a given place and time
+  hypernym:
+  - 85215298-n
+  - 81312087-n
   ili: i35586
   members:
   - airisiu
@@ -196,6 +247,8 @@
 87248112-n:
   definition:
   - physical entity — an entity that has physical existence
+  hypernym:
+  - 87663116-n
   ili: i35546
   members:
   - '*dúil adbarda'
@@ -203,6 +256,8 @@
 87353277-n:
   definition:
   - artefact, artifact — a man-made object taken as a whole
+  hypernym:
+  - 81645044-n
   ili: i35572
   members:
   - dénta
@@ -211,6 +266,8 @@
 87408038-n:
   definition:
   - grouping, group — any number of entities (members) considered as a unit
+  hypernym:
+  - 85215298-n
   ili: i35589
   members:
   - díglaim
@@ -230,6 +287,9 @@
   - 'soul, individual, somebody, someone, person, mortal — a human being; person,
     singular, assertive existential pronoun; pronoun, person, singular; quantifier:
     assertive existential'
+  hypernym:
+  - 85504953-n
+  - 81975763-n
   ili: i35562
   members:
   - persan
@@ -237,6 +297,8 @@
 89502279-n:
   definition:
   - location — a point or extent in space; a point or extent in space
+  hypernym:
+  - 84675829-n
   ili: i35580
   members:
   - áitt
@@ -246,6 +308,8 @@
   definition:
   - time — the continuum of experience in which events pass from the future through
     the present to the past
+  hypernym:
+  - 83853491-n
   ili: i35582
   members:
   - amm
@@ -256,6 +320,7 @@
   - substance — the real physical matter of which a person or thing consists
   hypernym:
   - 89475268-n
+  - 85034651-n
   ili: i35567
   members:
   - folad

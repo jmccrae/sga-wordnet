@@ -1,6 +1,8 @@
 80577178-n:
   definition:
   - similarity — the quality of being similar
+  hypernym:
+  - 80979221-n
   ili: i61954
   members:
   - cosmailius
@@ -8,6 +10,8 @@
 80979221-n:
   definition:
   - quality — an essential and distinguishing attribute of something or someone
+  hypernym:
+  - 83853491-n
   ili: i61871
   members:
   - cáil
@@ -17,6 +21,8 @@
   definition:
   - composition, composing — the spatial property resulting from the arrangement of
     parts in relation to each other and to the whole
+  hypernym:
+  - 84154477-n
   ili: i63671
   members:
   - comṡuidigud
@@ -24,6 +30,8 @@
 81532433-n:
   definition:
   - strength — the property of being physically or mentally strong
+  hypernym:
+  - 89282369-n
   ili: i63432
   members:
   - nert
@@ -31,6 +39,8 @@
 81819714-n:
   definition:
   - magnitude — the property of relative size or extent (whether large or small)
+  hypernym:
+  - 89282369-n
   ili: i63747
   members:
   - méit
@@ -39,6 +49,8 @@
   definition:
   - specialness, particularity — the quality of being particular and pertaining to
     a specific case or instance
+  hypernym:
+  - 80979221-n
   ili: i62045
   members:
   - randatu
@@ -46,6 +58,8 @@
 82559804-n:
   definition:
   - nature — the essential qualities or characteristics by which something is recognized
+  hypernym:
+  - 80979221-n
   ili: i61872
   members:
   - aicned
@@ -53,6 +67,8 @@
 82954869-n:
   definition:
   - style, fashion, way, manner, mode — how something is done or how it happens
+  hypernym:
+  - 89282369-n
   ili: i62886
   members:
   - mod
@@ -60,6 +76,8 @@
 84077027-n:
   definition:
   - difference — the quality of being unlike or dissimilar
+  hypernym:
+  - 80979221-n
   ili: i61982
   members:
   - dechor
@@ -67,6 +85,8 @@
 84173747-n:
   definition:
   - power, powerfulness — possession of controlling influence
+  hypernym:
+  - 80979221-n
   ili: i64253
   members:
   - cumachtae
@@ -75,6 +95,8 @@
   definition:
   - peculiarity, speciality, specialness, specialty, distinctiveness — a distinguishing
     trait
+  hypernym:
+  - 89372624-n
   ili: i62050
   members:
   - sainred
@@ -82,6 +104,8 @@
 85941576-n:
   definition:
   - quantity — an adequate or large amount
+  hypernym:
+  - 86647021-n
   ili: i63843
   members:
   - méit
@@ -89,6 +113,8 @@
 86647021-n:
   definition:
   - amount — the relative magnitude of something with reference to a criterion
+  hypernym:
+  - 81819714-n
   ili: i63839
   members:
   - méit
@@ -96,6 +122,8 @@
 87849671-n:
   definition:
   - sound — the particular auditory effect produced by a given cause
+  hypernym:
+  - 89282369-n
   ili: i63177
   members:
   - fogur
@@ -104,6 +132,8 @@
 88014072-n:
   definition:
   - length, duration — continuance in time
+  hypernym:
+  - 89282369-n
   ili: i63542
   members:
   - fot
@@ -112,6 +142,8 @@
   definition:
   - figure, number — the property possessed by a sum or total or indefinite quantity
     of units or individuals
+  hypernym:
+  - 86647021-n
   ili: i63904
   members:
   - lín
@@ -119,6 +151,8 @@
 88616102-n:
   definition:
   - caliber, calibre, quality — a degree or grade of excellence or worth
+  hypernym:
+  - 89282369-n
   ili: i61878
   members:
   - inne
@@ -135,6 +169,8 @@
 89225372-n:
   definition:
   - properness, propriety, correctitude — correct or appropriate behavior
+  hypernym:
+  - 89372624-n
   ili: i62729
   members:
   - dílse
@@ -142,6 +178,8 @@
 89282369-n:
   definition:
   - property — a basic or essential property shared by all members of a class
+  hypernym:
+  - 83853491-n
   ili: i62823
   members:
   - cáil
@@ -149,6 +187,8 @@
 89372624-n:
   definition:
   - trait — a distinguishing feature of your personal nature
+  hypernym:
+  - 83853491-n
   ili: i61343
   members:
   - cáil

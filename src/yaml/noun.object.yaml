@@ -1,6 +1,8 @@
 81800671-n:
   definition:
   - part, piece — a portion of a natural object
+  hypernym:
+  - 85046098-n
   ili: i85946
   members:
   - rann
@@ -8,6 +10,8 @@
 89830465-n:
   definition:
   - requirement, requisite, necessary, necessity, essential — anything indispensable
+  hypernym:
+  - 85046098-n
   ili: i85851
   members:
   - éicen
