@@ -46,15 +46,19 @@ Editor](https://github.com/jmccrae/ewe).
   a checkout of `ewe_dioxus` pointed at this directory. `wordnet.db`/
   `corpus.db`, the databases EWE builds from `src/yaml/`/`corpus_source`,
   are git-ignored and rebuilt locally on first run.
-- `branding/` — EWE's `logo`/`theme` for this project: the [Four
-  Provinces Flag](https://commons.wikimedia.org/wiki/File:Four_Provinces_Flag.svg)
+- `branding/` — EWE's `logo` for this project: the [Four Provinces
+  Flag](https://commons.wikimedia.org/wiki/File:Four_Provinces_Flag.svg)
   (© [Caomhan27](https://commons.wikimedia.org/wiki/User:Caomhan27),
-  [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)),
-  used both as the logo and as the source of `theme.css`'s palette - the
-  flag's dark green (Leinster's field, `#003d07`) as the primary colour,
-  its gold (Ulster's field and the charges throughout) as the accent.
-  Kept separate from `data/`, which is corpus source/derived data, not
-  branding.
+  [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)).
+  The rest of the theming (colours/fonts) is the `[theme]` table in
+  `settings.toml` rather than a file here - EWE dropped per-project
+  `theme.css` files in favour of typed CSS custom-property overrides on
+  top of its own bundled defaults (jmccrae/ewe#45); `settings.toml` sets
+  the flag's dark green (Leinster's field, `#003d07`) as the primary
+  colour, its gold (Ulster's field and the charges throughout) as the
+  accent, and Uncial Antiqua - the hand used to write Old Irish in
+  manuscripts like the Book of Kells - as the heading font. Kept separate
+  from `data/`, which is corpus source/derived data, not branding.
 
 ## Pipeline scripts
 
