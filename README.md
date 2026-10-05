@@ -28,7 +28,8 @@ Editor](https://github.com/jmccrae/ewe).
   alignments (`.align`), Old Irish/English sentence pairs (`.en-ga`),
   sense-disambiguation output (`.senses`, `.results_AD.xlsx`), the Teanga
   corpus (`.teanga.yaml`), and the various review CSVs
-  (`sense_corrections.csv`, `pos_corrections.csv`, `priority_concepts.csv`).
+  (`sense_corrections.csv`, `pos_corrections.csv`, `priority_concepts.csv`,
+  `OI_Combined.review.csv` and its `OI_Combined.corrections.csv`).
 - `main.py` — entry point for the pipeline.
 - `src/yaml/` — the wordnet itself, in the same per-lexfile YAML layout as
   [english-wordnet's `src/yaml/`](https://github.com/globalwordnet/english-wordnet/tree/main/src/yaml)
@@ -123,6 +124,20 @@ Editor](https://github.com/jmccrae/ewe).
   Tags are written as sparse `[index, "sga-<synset id>"]` pairs (teanga's
   `element` layer type - see the script's docstring for why a dense
   one-entry-per-token layer doesn't work here).
+- `scripts/import_review.py` — imports `data/OI_Combined.review.csv`,
+  a second batch of WSD candidates reviewed in PR #4 with the same
+  accept/reject columns as `results_AD.xlsx`. `data/OI_Combined.corrections.csv`
+  records how the reviewer's notes were acted on, keyed on (lemma, sense
+  key): a `corrected_lemma` fixes a lemma the upstream MWE handling got
+  wrong (repeated preverbs such as `for forcongair`, stray `_` tokens,
+  emphatic pronouns or neighbouring words pulled in); a
+  `corrected_sense_key` redirects the row to a better-fitting English
+  WordNet sense, or `-` drops it; repeating a key adds extra senses.
+  English synsets that already have an Old Irish counterpart here
+  (matched via `ili`) get the lemma added with `add_entry` instead of a
+  duplicate synset. Same `--apply`/`--ewe-bin`/`--wordnet-dir` shape as
+  `populate_wordnet.py`; run `link_existing_synsets.py` and
+  `link_transitive_hypernyms.py` afterwards.
 - `scripts/priority_concepts.py` — read-only report, `data/
   priority_concepts.csv`, ranking which English synsets to translate next
   to grow the link structure rather than just the synset count. Two
