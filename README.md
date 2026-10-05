@@ -47,16 +47,15 @@ Editor](https://github.com/jmccrae/ewe).
   a checkout of `ewe_dioxus` pointed at this directory. `wordnet.db`/
   `corpus.db`, the databases EWE builds from `src/yaml/`/`corpus_source`,
   are git-ignored and rebuilt locally on first run.
-- `branding/` — EWE's `logo` for this project: the [Four Provinces
-  Flag](https://commons.wikimedia.org/wiki/File:Four_Provinces_Flag.svg)
-  (© [Caomhan27](https://commons.wikimedia.org/wiki/User:Caomhan27),
-  [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)).
+- `branding/` — EWE's `logo` for this project: a half-uncial *g* (Roman
+  Uncial Modern, from [Wikimedia
+  Commons](https://commons.wikimedia.org/wiki/File:Half-uncial,_g,_Roman_Uncial_Modern.svg))
+  on a ribbon in the theme's dark green.
   The rest of the theming (colours/fonts) is the `[theme]` table in
   `settings.toml` rather than a file here - EWE dropped per-project
   `theme.css` files in favour of typed CSS custom-property overrides on
   top of its own bundled defaults (jmccrae/ewe#45); `settings.toml` sets
-  the flag's dark green (Leinster's field, `#003d07`) as the primary
-  colour, its gold (Ulster's field and the charges throughout) as the
+  dark green (`#003d07`) as the primary colour, gold as the
   accent, and Uncial Antiqua - the hand used to write Old Irish in
   manuscripts like the Book of Kells - as the heading font. Kept separate
   from `data/`, which is corpus source/derived data, not branding.
@@ -181,4 +180,4 @@ uv run main.py
 The wordnet is released under the [Creative Commons Attribution 4.0
 International](https://creativecommons.org/licenses/by/4.0/) license (see
 `LICENSE`), the same license as the Open English Wordnet it extends. The
-logo in `branding/` has its own license, given above.
+logo in `branding/` is a separate asset; see its source above.

@@ -7,7 +7,7 @@
 database = "wordnet.db"
 wordnet_source = "src/yaml"
 corpus_source = "data/sga_incomplete.teanga.yaml"
-logo = "branding/four-provinces-flag.svg"
+logo = "branding/oldirishwn-logo.svg"
 id_prefix = "sga"
 project_name = "Old Irish Wordnet"
 tagline = "A wordnet for Old Irish (sga), extended from the Open English Wordnet"
@@ -17,8 +17,8 @@ base_url = "https://goidelc.teanga.io/"
 
 # EWE no longer supports a per-project theme.css (see jmccrae/ewe#45) - restyling is now this
 # [theme] table of CSS custom-property overrides on top of the app's own bundled defaults.
-# primary/accent are the Four Provinces Flag's dark green (Leinster's field) and gold (Ulster's
-# field and the charges throughout); font_heading picks Uncial Antiqua - the hand used to write
+# primary/accent are the logo's dark green and a gold (both originally from the Four Provinces
+# Flag); font_heading picks Uncial Antiqua - the hand used to write
 # Old Irish in manuscripts like the Book of Kells - over the bundled default heading font, and
 # font_heading_weight avoids synthetic bold on its single (400) weight. Requires
 # jmccrae/ewe#53 (bundling Uncial Antiqua as a selectable font_heading) to be merged, or
