@@ -1,6 +1,8 @@
 80679888-v:
   definition:
   - arrive, get, come — reach a destination; arrive by movement or progress
+  hypernym:
+  - 89147749-v
   ili: i31766
   members:
   - dotét
@@ -8,6 +10,8 @@
 81630947-v:
   definition:
   - bring, convey, take — take something or somebody with oneself somewhere
+  hypernym:
+  - 82807350-v
   ili: i32134
   members:
   - beirid
@@ -16,6 +20,8 @@
   definition:
   - come, come up — move toward, travel toward something or somebody or approach something
     or somebody
+  hypernym:
+  - 89147749-v
   ili: i30956
   members:
   - dotét
@@ -23,6 +29,8 @@
 87419774-v:
   definition:
   - follow — to travel behind, go after, come after
+  hypernym:
+  - 89147749-v
   ili: i31731
   members:
   - sechithir
@@ -30,6 +38,8 @@
 88815744-v:
   definition:
   - send, direct — cause to go somewhere
+  hypernym:
+  - 82807350-v
   ili: i31486
   members:
   - foídid

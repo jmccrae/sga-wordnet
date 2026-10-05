@@ -1,6 +1,8 @@
 80139515-v:
   definition:
   - differ — be different
+  hypernym:
+  - 80000309-v
   ili: i34997
   members:
   - dechraigidir
@@ -8,6 +10,9 @@
 80257304-v:
   definition:
   - remain — be left; of persons, questions, problems, results, evidence, etc.
+  hypernym:
+  - 89277815-v
+  - 89295043-v
   ili: i34860
   members:
   - dofúarat
@@ -23,6 +28,8 @@
 81496297-v:
   definition:
   - populate, dwell, live, inhabit — be an inhabitant of or reside in
+  hypernym:
+  - 87847657-v
   ili: i34919
   members:
   - adtreba
@@ -30,6 +37,8 @@
 82713876-v:
   definition:
   - begin, start — have a beginning, in a temporal, spatial, or evaluative sense
+  hypernym:
+  - 80000309-v
   ili: i34719
   members:
   - doinscanna
@@ -37,6 +46,8 @@
 84155581-v:
   definition:
   - follow — be next
+  hypernym:
+  - 87847657-v
   ili: i35267
   members:
   - doíarmorat
@@ -44,6 +55,8 @@
 84355095-v:
   definition:
   - incorporate, contain, comprise — include or contain; have as a component
+  hypernym:
+  - 80626763-v
   ili: i34820
   members:
   - congaib
@@ -51,6 +64,8 @@
 85562732-v:
   definition:
   - exceed, transcend, surpass — be greater in scope or size than some standard
+  hypernym:
+  - 81056370-v
   ili: i35012
   members:
   - asingaib
@@ -58,6 +73,8 @@
 85962572-v:
   definition:
   - possess — have as an attribute, knowledge, or skill
+  hypernym:
+  - 87022866-v
   ili: i34832
   members:
   - adtreba
@@ -89,6 +106,8 @@
   definition:
   - originate, arise, rise, develop, uprise, spring up, grow — come into existence;
     take on form or shape
+  hypernym:
+  - 80000309-v
   ili: i34794
   members:
   - gainithir
@@ -96,6 +115,8 @@
 87817232-v:
   definition:
   - deserve, merit — be worthy or deserving
+  hypernym:
+  - 89277815-v
   ili: i34899
   members:
   - adroilli
@@ -103,6 +124,8 @@
 87847657-v:
   definition:
   - be — occupy a certain position or area; be somewhere
+  hypernym:
+  - 89295043-v
   ili: i34943
   members:
   - attá
@@ -112,6 +135,7 @@
   - stand out, surpass, excel — distinguish oneself
   hypernym:
   - 80000309-v
+  - 80139515-v
   ili: i35030
   members:
   - doróscai
@@ -120,6 +144,8 @@
   definition:
   - continue, uphold, carry on, bear on, preserve — keep or maintain in unaltered
     condition; cause to remain or last
+  hypernym:
+  - 89147749-v
   ili: i35058
   members:
   - forcomai

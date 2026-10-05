@@ -1,6 +1,9 @@
 80360709-n:
   definition:
   - killer, slayer — someone who causes the death of a person or animal
+  hypernym:
+  - 85523759-n
+  - 89251292-n
   ili: i90845
   members:
   - oircnid
@@ -21,6 +24,8 @@
   definition:
   - soul, psyche — the immaterial part of a person; the actuating cause of an individual
     life
+  hypernym:
+  - 81975763-n
   ili: i93161
   members:
   - anim
@@ -28,6 +33,9 @@
 80989107-n:
   definition:
   - slave — a person who is owned by someone
+  hypernym:
+  - 85523759-n
+  - 89251292-n
   ili: i93053
   members:
   - mug
@@ -35,6 +43,8 @@
 81292478-n:
   definition:
   - male child, boy — a youthful male person
+  hypernym:
+  - 89251292-n
   ili: i91171
   members:
   - macc
@@ -52,6 +62,8 @@
 82432851-n:
   definition:
   - sinner, evildoer — a person who sins (without repenting)
+  hypernym:
+  - 85523759-n
   ili: i93006
   members:
   - pecthach
@@ -69,6 +81,8 @@
 82583182-n:
   definition:
   - citizen — a native or naturalized member of a state or other political community
+  hypernym:
+  - 85523759-n
   ili: i88995
   members:
   - cathrar
@@ -77,6 +91,9 @@
   definition:
   - inhabitant, habitant, dweller, denizen, indweller — a person who inhabits a particular
     place
+  hypernym:
+  - 85523759-n
+  - 89251292-n
   ili: i87216
   members:
   - aitrebthaid
@@ -84,6 +101,10 @@
 82981057-n:
   definition:
   - sister, sis — a female person who has the same parents as another person
+  hypernym:
+  - 85523759-n
+  - 86919753-n
+  - 89251292-n
   ili: i93018
   members:
   - siur
@@ -91,6 +112,8 @@
 83783926-n:
   definition:
   - teacher, instructor — a person whose occupation is teaching
+  hypernym:
+  - 85523759-n
   ili: i93557
   members:
   - forcetlid
@@ -98,6 +121,8 @@
 84051754-n:
   definition:
   - steward — someone who manages property or other affairs for someone else
+  hypernym:
+  - 85523759-n
   ili: i93315
   members:
   - rechtaire
@@ -115,6 +140,9 @@
 84554817-n:
   definition:
   - lover — a person who loves someone or is loved by someone
+  hypernym:
+  - 85523759-n
+  - 89251292-n
   ili: i87222
   members:
   - sercaid
@@ -123,6 +151,8 @@
   definition:
   - scholar, scholarly person, bookman — a learned person; someone who by long study
     has gained mastery in one or more disciplines
+  hypernym:
+  - 85523759-n
   ili: i92752
   members:
   - fisid
@@ -134,6 +164,7 @@
     a force
   hypernym:
   - 84303570-n
+  - 82055471-n
   ili: i86570
   members:
   - día
@@ -141,6 +172,8 @@
 85190976-n:
   definition:
   - man, adult male — an adult person who is male (as opposed to a woman)
+  hypernym:
+  - 89251292-n
   ili: i91182
   members:
   - fer
@@ -149,6 +182,8 @@
   definition:
   - resident, occupant, occupier — someone who lives at a particular place for a prolonged
     period or who was born there
+  hypernym:
+  - 82791085-n
   ili: i92542
   members:
   - aitrebthaid
@@ -156,6 +191,8 @@
 85516215-n:
   definition:
   - senator — a member of a senate
+  hypernym:
+  - 85523759-n
   ili: i92868
   members:
   - senatóir
@@ -175,6 +212,9 @@
   definition:
   - debtor, debitor — a person who owes a creditor; someone who has the obligation
     of paying a debt
+  hypernym:
+  - 85523759-n
+  - 89251292-n
   ili: i89429
   members:
   - féchem
@@ -182,6 +222,8 @@
 85876304-n:
   definition:
   - angel — spiritual being attendant upon God
+  hypernym:
+  - 82055471-n
   ili: i86786
   members:
   - aingel
@@ -189,6 +231,8 @@
 86489904-n:
   definition:
   - goddess — a female deity
+  hypernym:
+  - 85014995-n
   ili: i86767
   members:
   - ben día
@@ -198,6 +242,9 @@
   - acolyte — someone who assists a priest or minister in a liturgical service; a
     cleric ordained in the highest of the minor orders in the Roman Catholic Church
     but not in the Anglican Church or the Eastern Orthodox Churches
+  hypernym:
+  - 85523759-n
+  - 86163603-n
   ili: i88059
   members:
   - caindleóir
@@ -205,6 +252,8 @@
 86604904-n:
   definition:
   - bachelor, unmarried man — a man who has never been married
+  hypernym:
+  - 85190976-n
   ili: i88393
   members:
   - oentam
@@ -213,6 +262,8 @@
   definition:
   - writer, author — writes (books or stories or articles or the like) professionally
     (for pay)
+  hypernym:
+  - 85523759-n
   ili: i94200
   members:
   - litrid
@@ -220,6 +271,9 @@
 86884345-n:
   definition:
   - brother, blood brother — a male with the same parents as someone else
+  hypernym:
+  - 85190976-n
+  - 86919753-n
   ili: i88708
   members:
   - bráthair
@@ -238,6 +292,8 @@
 87162063-n:
   definition:
   - grandson — a male grandchild
+  hypernym:
+  - 81452106-n
   ili: i90293
   members:
   - aue
@@ -245,6 +301,9 @@
 87264171-n:
   definition:
   - friend — a person you know well and regard with affection and trust
+  hypernym:
+  - 85523759-n
+  - 89251292-n
   ili: i90098
   members:
   - carae
@@ -252,6 +311,8 @@
 87400575-n:
   definition:
   - superior — the head of a religious community
+  hypernym:
+  - 85523759-n
   ili: i93442
   members:
   - airchinnech
@@ -259,6 +320,8 @@
 87632579-n:
   definition:
   - squinter, squint-eye — a person with strabismus
+  hypernym:
+  - 89251292-n
   ili: i93253
   members:
   - camm derc
@@ -267,6 +330,8 @@
   definition:
   - father, male parent, begetter — a male parent (also used as a term of address
     to your father)
+  hypernym:
+  - 86919753-n
   ili: i89901
   members:
   - athair
@@ -275,6 +340,9 @@
   definition:
   - priest — a clergyman in Christian churches who has the authority to perform or
     administer various religious rites; one of the Holy Orders
+  hypernym:
+  - 85523759-n
+  - 86163603-n
   ili: i92229
   members:
   - sacart
@@ -282,6 +350,8 @@
 88158727-n:
   definition:
   - rider — a traveler who actively rides an animal (as a horse or camel)
+  hypernym:
+  - 85523759-n
   ili: i92575
   members:
   - óinechaid
@@ -289,6 +359,8 @@
 88280822-n:
   definition:
   - soldier — an enlisted man or woman who serves in an army
+  hypernym:
+  - 85523759-n
   ili: i93136
   members:
   - míl
@@ -298,6 +370,7 @@
   - poet — a writer of poems (the term is usually reserved for writers of good poetry)
   hypernym:
   - 85523759-n
+  - 86750599-n
   ili: i92096
   members:
   - fili
@@ -305,6 +378,8 @@
 89749138-n:
   definition:
   - simpleton, simple — a person lacking intelligence or common sense
+  hypernym:
+  - 89251292-n
   ili: i93004
   members:
   - báeth

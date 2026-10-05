@@ -10,6 +10,8 @@
 81411458-n:
   definition:
   - midst, thick — the location of something surrounded by other things
+  hypernym:
+  - 89502279-n
   ili: i82113
   members:
   - medón
@@ -28,6 +30,8 @@
 82089450-n:
   definition:
   - position, place — the particular portion of space occupied by something
+  hypernym:
+  - 82967009-n
   ili: i82294
   members:
   - suidiugud
@@ -35,6 +39,8 @@
 82183170-n:
   definition:
   - country, state, land — the territory occupied by a nation
+  hypernym:
+  - 81779714-n
   ili: i81888
   members:
   - tír
@@ -43,6 +49,8 @@
   definition:
   - beginning, origin, root, rootage, source — the place where something begins, where
     it springs into being
+  hypernym:
+  - 82967009-n
   ili: i81759
   members:
   - bunad
@@ -61,6 +69,8 @@
   definition:
   - boundary, bound, bounds — the line or plane indicating the limit or extent of
     something
+  hypernym:
+  - 89502279-n
   ili: i81782
   members:
   - crích

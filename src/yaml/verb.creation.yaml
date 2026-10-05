@@ -1,6 +1,8 @@
 80231966-v:
   definition:
   - generate, bring forth — produce, create
+  hypernym:
+  - 89220023-v
   ili: i29894
   members:
   - dofuisim
@@ -17,6 +19,8 @@
 82248794-v:
   definition:
   - construct, build, make — make by combining materials and parts
+  hypernym:
+  - 89220023-v
   ili: i30008
   members:
   - conutaing
@@ -24,6 +28,8 @@
 82874814-v:
   definition:
   - imitate, copy, simulate — reproduce someone's behavior or looks
+  hypernym:
+  - 89220023-v
   ili: i30449
   members:
   - insamlathar
@@ -32,6 +38,9 @@
   definition:
   - carry through, accomplish, execute, carry out, action, fulfill, fulfil — put in
     effect
+  hypernym:
+  - 82807350-v
+  - 88847701-v
   ili: i29944
   members:
   - comalnaithir
@@ -40,6 +49,8 @@
   definition:
   - invent, contrive, devise, excogitate, formulate, forge — come up with (an idea,
     plan, explanation, theory, or principle) after a mental effort
+  hypernym:
+  - 89220023-v
   ili: i29911
   members:
   - aricc
@@ -47,6 +58,8 @@
 84856094-v:
   definition:
   - write — mark or trace words or symbols on a surface
+  hypernym:
+  - 82807350-v
   ili: i30198
   members:
   - scríbaid
@@ -54,6 +67,8 @@
 85160243-v:
   definition:
   - destroy, destruct — do away with, cause the destruction or undoing of
+  hypernym:
+  - 82807350-v
   ili: i29858
   members:
   - conscara
@@ -61,6 +76,8 @@
 87994595-v:
   definition:
   - write, compose, pen, indite — produce a literary work
+  hypernym:
+  - 89220023-v
   ili: i30237
   members:
   - scríbaid
@@ -68,6 +85,8 @@
 88847701-v:
   definition:
   - cause, do, make — give rise to; cause to happen or occur, not always intentionally
+  hypernym:
+  - 89220023-v
   ili: i29966
   members:
   - fofera
@@ -76,6 +95,8 @@
 89220023-v:
   definition:
   - make, create — make or cause to be or to become
+  hypernym:
+  - 89147749-v
   ili: i29849
   members:
   - dogní

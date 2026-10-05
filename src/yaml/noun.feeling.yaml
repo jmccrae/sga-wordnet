@@ -1,6 +1,8 @@
 80925220-n:
   definition:
   - desire — the feeling that accompanies an unsatisfied state
+  hypernym:
+  - 82624428-n
   ili: i76067
   members:
   - accobur
@@ -19,6 +21,8 @@
   definition:
   - consolation, solace, solacement — the comfort you feel when consoled in times
     of disappointment
+  hypernym:
+  - 82624428-n
   ili: i76117
   members:
   - dídnad

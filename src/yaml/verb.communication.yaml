@@ -2,6 +2,8 @@
   definition:
   - inflect — change the form of a word in accordance as required by the grammatical
     rules of the language
+  hypernym:
+  - 80000309-v
   ili: i26499
   members:
   - fillid
@@ -9,6 +11,8 @@
 80585418-v:
   definition:
   - promise — promise to undertake or give
+  hypernym:
+  - 82668847-v
   ili: i26041
   members:
   - doairngir
@@ -16,6 +20,8 @@
 80902494-v:
   definition:
   - express, show, evince — give expression to
+  hypernym:
+  - 89147749-v
   ili: i26321
   members:
   - sluindid
@@ -24,6 +30,8 @@
 81472192-v:
   definition:
   - preach, prophesy — deliver a sermon
+  hypernym:
+  - 88844957-v
   ili: i25794
   members:
   - pridchid
@@ -31,6 +39,8 @@
 82636562-v:
   definition:
   - order, prescribe, dictate — issue commands or orders for
+  hypernym:
+  - 89147749-v
   ili: i25433
   members:
   - forcongair
@@ -38,6 +48,8 @@
 82638814-v:
   definition:
   - mention, advert, bring up, cite, name, refer — make reference to
+  hypernym:
+  - 89147749-v
   ili: i26697
   members:
   - asbeir
@@ -45,6 +57,8 @@
 82668847-v:
   definition:
   - declare — state emphatically and authoritatively
+  hypernym:
+  - 87002822-v
   ili: i26635
   members:
   - asbeir
@@ -52,6 +66,8 @@
 82949802-v:
   definition:
   - stand for, mean, intend, signify — denote or connote
+  hypernym:
+  - 89147749-v
   ili: i26268
   members:
   - slond
@@ -63,6 +79,8 @@
 83380632-v:
   definition:
   - consecrate, bless, hallow, sanctify — render holy by means of religious rites
+  hypernym:
+  - 82668847-v
   ili: i25960
   members:
   - noíbaid
@@ -70,6 +88,8 @@
 83445470-v:
   definition:
   - define — give a definition for the meaning of a word
+  hypernym:
+  - 89147749-v
   ili: i26382
   members:
   - cinnid
@@ -77,6 +97,8 @@
 83672666-v:
   definition:
   - ask, inquire, enquire — address a question to and expect an answer from
+  hypernym:
+  - 89147749-v
   ili: i26103
   members:
   - immcomairc
@@ -84,6 +106,8 @@
 84005320-v:
   definition:
   - say, allege, aver — report or maintain
+  hypernym:
+  - 89147749-v
   ili: i26659
   members:
   - asbeir
@@ -91,6 +115,8 @@
 85784188-v:
   definition:
   - say, suppose — express a supposition
+  hypernym:
+  - 89147749-v
   ili: i26199
   members:
   - asbeir
@@ -98,6 +124,8 @@
 86208867-v:
   definition:
   - denote — be a sign or indication of
+  hypernym:
+  - 89147749-v
   ili: i26269
   members:
   - sluindid
@@ -106,6 +134,8 @@
   definition:
   - say, articulate, sound out, pronounce, enounce, enunciate — speak, pronounce,
     or utter in a certain way
+  hypernym:
+  - 89147749-v
   ili: i26483
   members:
   - asbeir
@@ -123,6 +153,8 @@
 87182628-v:
   definition:
   - name, call, know as, be known as — assign a specified (usually proper) name to
+  hypernym:
+  - 89147749-v
   ili: i26719
   members:
   - asbeir
@@ -130,6 +162,8 @@
 87880758-v:
   definition:
   - write — communicate or express by writing
+  hypernym:
+  - 89147749-v
   ili: i26548
   members:
   - scríbaid
@@ -137,6 +171,8 @@
 88224505-v:
   definition:
   - decline — inflect for number, gender, case, etc.
+  hypernym:
+  - 80171514-v
   ili: i26501
   members:
   - doella
@@ -144,6 +180,8 @@
 88231033-v:
   definition:
   - promise, assure — make a promise or commitment
+  hypernym:
+  - 82668847-v
   ili: i26040
   members:
   - doairngir
@@ -151,6 +189,8 @@
 88745763-v:
   definition:
   - pray — address a deity, a prophet, a saint or an object of worship; say a prayer
+  hypernym:
+  - 89147749-v
   ili: i25495
   members:
   - guidid
@@ -158,6 +198,8 @@
 88844957-v:
   definition:
   - teach, learn, instruct — impart skills or knowledge to
+  hypernym:
+  - 89147749-v
   ili: i25800
   members:
   - forcain

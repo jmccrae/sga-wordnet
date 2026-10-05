@@ -2,6 +2,8 @@
   definition:
   - supplant, replace, supersede, supervene upon — take the place or move into the
     position of
+  hypernym:
+  - 89295043-v
   ili: i33773
   members:
   - engraicigidir
@@ -9,14 +11,20 @@
 83620634-v:
   definition:
   - happen — chance to be or do something, without intention or causation
+  hypernym:
+  - 85085899-v
   ili: i34654
   members:
   - doecmaing
   partOfSpeech: v
+  similar:
+  - 87775167-v
 83899427-v:
   definition:
   - divide, split, split up, separate, dissever, carve up — separate into parts or
     portions
+  hypernym:
+  - 80000309-v
   ili: i34058
   members:
   - fodáli
@@ -24,6 +32,8 @@
 84480034-v:
   definition:
   - salvage, salve, relieve, save — save from ruin, destruction, or harm
+  hypernym:
+  - 89147749-v
   ili: i34449
   members:
   - íccaid
@@ -31,6 +41,8 @@
 87087397-v:
   definition:
   - deceive, lead on, delude, cozen — be false to; be dishonest with
+  hypernym:
+  - 89147749-v
   ili: i34563
   members:
   - dogaítha
@@ -38,6 +50,8 @@
 87848353-v:
   definition:
   - make, do — engage in
+  hypernym:
+  - 89147749-v
   ili: i34493
   members:
   - dogní
@@ -46,6 +60,8 @@
 89065716-v:
   definition:
   - dare — to be courageous enough to try or do something
+  hypernym:
+  - 89147749-v
   ili: i34423
   members:
   - rolaimethar

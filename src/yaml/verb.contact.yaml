@@ -2,6 +2,8 @@
   definition:
   - search, seek, look for — try to locate or discover, or try to establish the existence
     of
+  hypernym:
+  - 89147749-v
   ili: i28263
   members:
   - íarmifoich
@@ -9,6 +11,8 @@
 84589581-v:
   definition:
   - smear, blur, smudge, smutch — make a smudge on; soil by smudging
+  hypernym:
+  - 89147749-v
   ili: i27900
   members:
   - foslig
@@ -16,6 +20,8 @@
 87634577-v:
   definition:
   - wash, launder — cleanse with a cleaning agent, such as soap, and water
+  hypernym:
+  - 82807350-v
   ili: i29407
   members:
   - dofonaig
@@ -24,6 +30,8 @@
 88016007-v:
   definition:
   - set, place, pose, position, put, lay — put into a certain place or abstract location
+  hypernym:
+  - 82807350-v
   ili: i29197
   members:
   - dobeir
@@ -33,6 +41,8 @@
 88506063-v:
   definition:
   - join — cause to become joined or linked
+  hypernym:
+  - 89147749-v
   ili: i28152
   members:
   - adcomla

@@ -1,4 +1,6 @@
 80048888-a:
+  attribute:
+  - 85629167-n
   definition:
   - similar, alike, like — having the same or similar characteristics
   ili: i7696
@@ -56,6 +58,8 @@
   - deithbir
   partOfSpeech: a
 80979787-a:
+  also:
+  - 88441032-a
   definition:
   - dark — (used of color) having a dark hue
   ili: i2320
@@ -69,7 +73,11 @@
   members:
   - cotarsnae
   partOfSpeech: s
+  similar:
+  - 82674462-a
 81160873-a:
+  also:
+  - 89212012-a
   definition:
   - easy — posing no difficulty; requiring little effort
   ili: i4147
@@ -83,6 +91,8 @@
   members:
   - il
   partOfSpeech: s
+  similar:
+  - 88034512-a
 81284145-s:
   definition:
   - animal, carnal, fleshly, sensual — marked by the appetites and passions of the
@@ -129,6 +139,8 @@
   - nóib
   partOfSpeech: a
 82219612-a:
+  attribute:
+  - 81532433-n
   definition:
   - strong — having strength or power greater than average or expected
   ili: i12857
@@ -144,13 +156,21 @@
   - tánaise
   partOfSpeech: s
 82674462-a:
+  attribute:
+  - 84077027-n
   definition:
   - different — unlike in nature or quality or form or degree
   ili: i11325
   members:
   - sain
   partOfSpeech: a
+  similar:
+  - 81056278-s
 82684193-a:
+  also:
+  - 86702727-a
+  attribute:
+  - 83771050-n
   definition:
   - whole — including all components without exception; being one unit or constituting
     the full amount or extent or duration; complete
@@ -158,6 +178,8 @@
   members:
   - uile
   partOfSpeech: a
+  similar:
+  - 89427292-s
 82720354-s:
   definition:
   - certain — definite but not specified or identified
@@ -181,6 +203,8 @@
   - díṡruthigthe
   partOfSpeech: s
 83037356-a:
+  attribute:
+  - 85496712-n
   definition:
   - perfect — being complete of its kind and without defect or blemish
   ili: i9602
@@ -242,6 +266,8 @@
   similar:
   - 88780467-a
 83913622-a:
+  also:
+  - 85023959-a
   definition:
   - like, similar — resembling or similar; having the same or some of the same characteristics;
     often used in combination
@@ -257,6 +283,8 @@
   - ard
   partOfSpeech: a
 84438837-a:
+  also:
+  - 87553185-a
   definition:
   - little, slight — (quantifier used with mass nouns) small in quantity or degree;
     not much or almost none or (with `a') at least some
@@ -294,6 +322,8 @@
   - frecndairc
   partOfSpeech: a
 85023959-a:
+  also:
+  - 83913622-a
   definition:
   - same — closely similar or comparable in kind or quality or quantity or degree
   ili: i11316
@@ -353,6 +383,9 @@
   - frecndairc
   partOfSpeech: a
 86325197-a:
+  also:
+  - 86652407-a
+  - 89091813-a
   definition:
   - correct, right — free from error; especially conforming to fact or truth
   ili: i3513
@@ -367,6 +400,8 @@
   - lainn
   partOfSpeech: a
 86652407-a:
+  also:
+  - 86325197-a
   attribute:
   - 89225372-n
   definition:
@@ -376,6 +411,8 @@
   - díles
   partOfSpeech: a
 86702727-a:
+  also:
+  - 82684193-a
   definition:
   - complete — having every necessary or normal part or component or step
   ili: i2921
@@ -405,6 +442,8 @@
   - ildae
   partOfSpeech: a
 87005865-a:
+  attribute:
+  - 85663906-n
   definition:
   - free — not limited or hampered; not under compulsion or restraint
   ili: i5818
@@ -443,6 +482,8 @@
   - loor
   partOfSpeech: s
 87553185-a:
+  also:
+  - 84438837-a
   definition:
   - less — (comparative of `little' usually used with mass nouns) a quantifier meaning
     not as great in amount or degree
@@ -481,6 +522,8 @@
   members:
   - il
   partOfSpeech: a
+  similar:
+  - 81243737-s
 88067839-a:
   definition:
   - long — (of speech sounds or syllables) of relatively long duration
@@ -489,6 +532,10 @@
   - airdíxa
   partOfSpeech: a
 88070441-a:
+  also:
+  - 88733271-a
+  attribute:
+  - 80979221-n
   definition:
   - good — having desirable or positive qualities especially those suitable for a
     thing specified
@@ -507,6 +554,8 @@
   - inunn
   partOfSpeech: a
 88157406-a:
+  also:
+  - 89291192-a
   definition:
   - common — having no special distinction or quality; widely known or commonly encountered;
     average or ordinary or usual
@@ -515,6 +564,8 @@
   - coitchenn
   partOfSpeech: a
 88441032-a:
+  also:
+  - 80979787-a
   definition:
   - black — being of the achromatic color of maximum darkness; having little or no
     hue owing to absorption of almost all incident light
@@ -558,6 +609,10 @@
   - díles
   partOfSpeech: s
 88733271-a:
+  also:
+  - 88070441-a
+  attribute:
+  - 81348025-n
   definition:
   - good — morally admirable
   ili: i6195
@@ -582,6 +637,8 @@
   - becc
   partOfSpeech: a
 89091813-a:
+  also:
+  - 86325197-a
   definition:
   - true — consistent with fact or reality; not false
   ili: i13638
@@ -589,6 +646,8 @@
   - fír
   partOfSpeech: a
 89212012-a:
+  also:
+  - 81160873-a
   definition:
   - simple — having few parts; not complex or complicated or involved
   ili: i11962
@@ -596,6 +655,8 @@
   - díuit
   partOfSpeech: a
 89291192-a:
+  also:
+  - 88157406-a
   definition:
   - usual — occurring or encountered or experienced or observed frequently or in accordance
     with regular practice or procedure
@@ -611,6 +672,8 @@
   members:
   - óg
   partOfSpeech: s
+  similar:
+  - 82684193-a
 89597842-a:
   definition:
   - ready — completely prepared or in condition for immediate action or use or progress
@@ -635,6 +698,8 @@
   - cuitbedach
   partOfSpeech: s
 89980474-a:
+  attribute:
+  - 88317509-n
   definition:
   - general — applying to all or most members of a category or group
   ili: i6058

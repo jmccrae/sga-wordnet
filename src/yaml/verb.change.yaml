@@ -2,6 +2,8 @@
   definition:
   - change — undergo a change; become different in essence; losing one's or its original
     nature
+  hypernym:
+  - 89147749-v
   ili: i22325
   members:
   - conoscaigi
@@ -13,6 +15,8 @@
     in one's chips, buy the farm, conk, give-up the ghost, drop dead, pop off, choke,
     croak, snuff it — pass from physical life and lose all bodily attributes and functions
     necessary to sustain life
+  hypernym:
+  - 80000309-v
   ili: i23529
   members:
   - atbaill
@@ -20,6 +24,8 @@
 82339519-v:
   definition:
   - pollute, foul, contaminate — make impure
+  hypernym:
+  - 82807350-v
   ili: i24173
   members:
   - aslena
@@ -27,6 +33,8 @@
 82807350-v:
   definition:
   - change, alter, modify — cause to change; make different; cause a transformation
+  hypernym:
+  - 89147749-v
   ili: i22389
   members:
   - conoscaigi
@@ -34,6 +42,8 @@
 83030768-v:
   definition:
   - increase — make bigger or more
+  hypernym:
+  - 82807350-v
   ili: i22474
   members:
   - doformaig
@@ -41,6 +51,8 @@
 83261153-v:
   definition:
   - decrease, diminish, lessen, fall — decrease in size, extent, or range
+  hypernym:
+  - 83664205-v
   ili: i22469
   members:
   - seircid
@@ -58,6 +70,8 @@
 84692791-v:
   definition:
   - fall — pass suddenly and passively into a state of body or mind
+  hypernym:
+  - 80000309-v
   ili: i22451
   members:
   - dotuit
@@ -74,6 +88,8 @@
   definition:
   - add — make an addition (to); join or combine or unite with others; increase the
     quality, quantity, size or scope of
+  hypernym:
+  - 89915078-v
   ili: i22623
   members:
   - doformaig
@@ -83,13 +99,19 @@
   definition:
   - happen, befall, bechance — happen, occur, or be the case in the course of events
     or by chance
+  hypernym:
+  - 85085899-v
   ili: i23459
   members:
   - doecmaing
   partOfSpeech: v
+  similar:
+  - 83620634-v
 88644498-v:
   definition:
   - derive — obtain from a particular source
+  hypernym:
+  - 89915078-v
   ili: i22977
   members:
   - díṡruthaigidir
@@ -97,6 +119,8 @@
 89084398-v:
   definition:
   - compound, combine — put or add together
+  hypernym:
+  - 85346357-v
   ili: i22685
   members:
   - consuidigedar

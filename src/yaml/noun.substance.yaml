@@ -10,6 +10,8 @@
 82145061-n:
   definition:
   - ink — a liquid used for printing or writing or drawing
+  hypernym:
+  - 89948552-n
   ili: i115490
   members:
   - dub
@@ -18,6 +20,9 @@
   definition:
   - fat — a soft greasy substance occurring in organic tissue and consisting of a
     mixture of lipids (mostly triglycerides)
+  hypernym:
+  - 85046098-n
+  - 89948552-n
   ili: i115175
   members:
   - loan
@@ -26,6 +31,8 @@
   definition:
   - chaff, husk, shuck, stalk, straw, stubble — material consisting of seed coverings
     and small pieces of stem or leaves that have been separated from the seeds
+  hypernym:
+  - 89948552-n
   ili: i114845
   members:
   - cáith

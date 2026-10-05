@@ -2,6 +2,8 @@
   definition:
   - derivation — (descriptive linguistics) the process whereby new words are formed
     from existing words or bases by affixation
+  hypernym:
+  - 80851068-n
   ili: i107484
   members:
   - díṡruthigud
@@ -9,6 +11,8 @@
 82566946-n:
   definition:
   - ellipsis, eclipsis — omission or suppression of parts of words or sentences
+  hypernym:
+  - 80851068-n
   ili: i107540
   members:
   - airchrae
@@ -25,6 +29,8 @@
 83417917-n:
   definition:
   - doubling — increase by a factor of two
+  hypernym:
+  - 80851068-n
   ili: i107518
   members:
   - emnad
@@ -32,6 +38,8 @@
 83875899-n:
   definition:
   - syneresis, synaeresis — the contraction of two vowels into a diphthong
+  hypernym:
+  - 80851068-n
   ili: i107993
   members:
   - com dlúthad
@@ -40,6 +48,8 @@
   definition:
   - elision — omission of a sound between two words (usually a vowel and the end of
     one word or the beginning of the next)
+  hypernym:
+  - 80851068-n
   ili: i107539
   members:
   - tóbae

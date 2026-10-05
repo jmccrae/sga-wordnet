@@ -1,6 +1,8 @@
 80312255-v:
   definition:
   - love — have a great affection or liking for
+  hypernym:
+  - 89147749-v
   ili: i30611
   members:
   - caraid
@@ -9,6 +11,8 @@
   definition:
   - wish, care, like — to hope, to desire or to prefer to have something, or to do
     something
+  hypernym:
+  - 89147749-v
   ili: i30849
   members:
   - dofuthraccair
@@ -17,6 +21,8 @@
   definition:
   - arouse, elicit, enkindle, kindle, evoke, fire, raise, provoke — call forth (emotions,
     feelings, and responses)
+  hypernym:
+  - 89220023-v
   ili: i30543
   members:
   - dodúrig

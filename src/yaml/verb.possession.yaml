@@ -11,6 +11,8 @@
 80766191-v:
   definition:
   - give — transfer possession of something concrete or abstract to somebody
+  hypernym:
+  - 82807350-v
   ili: i32755
   members:
   - dobeir
@@ -18,6 +20,8 @@
 80821015-v:
   definition:
   - find, happen, chance, bump, encounter — come upon, as if by accident; meet with
+  hypernym:
+  - 89147749-v
   ili: i32979
   members:
   - aricc
@@ -25,6 +29,8 @@
 82191862-v:
   definition:
   - receive, have — get something; come into possession of
+  hypernym:
+  - 89147749-v
   ili: i32799
   members:
   - arfoím
@@ -32,6 +38,8 @@
 82935786-v:
   definition:
   - confer, bestow — present
+  hypernym:
+  - 80766191-v
   ili: i33049
   members:
   - dobeir
@@ -50,6 +58,8 @@
 85504556-v:
   definition:
   - give — convey or reveal information
+  hypernym:
+  - 87002822-v
   ili: i32920
   members:
   - dobeir
@@ -57,6 +67,8 @@
 86309643-v:
   definition:
   - keep, hold on — retain possession of
+  hypernym:
+  - 80626763-v
   ili: i32766
   members:
   - forcomai

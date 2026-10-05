@@ -1,6 +1,8 @@
 81141882-n:
   definition:
   - lamb — young sheep
+  hypernym:
+  - 80717417-n
   ili: i48296
   members:
   - dínu
@@ -8,6 +10,8 @@
 84383522-n:
   definition:
   - swine — stout-bodied short-legged omnivorous animals
+  hypernym:
+  - 80717417-n
   ili: i48197
   members:
   - mucc
@@ -15,6 +19,8 @@
 85567530-n:
   definition:
   - nanny, nanny-goat, she-goat — female goat
+  hypernym:
+  - 80717417-n
   ili: i48328
   members:
   - eirp

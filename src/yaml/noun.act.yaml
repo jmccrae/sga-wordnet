@@ -12,6 +12,8 @@
   definition:
   - confession — (Roman Catholic Church) the act of a penitent disclosing his sinfulness
     before a priest in the sacrament of penance in the hope of absolution
+  hypernym:
+  - 80293708-n
   ili: i40847
   members:
   - coibse
@@ -19,6 +21,8 @@
 80466992-n:
   definition:
   - reception, receipt — the act of receiving
+  hypernym:
+  - 81266292-n
   ili: i35877
   members:
   - airitiu
@@ -27,6 +31,8 @@
   definition:
   - correction, rectification — the act of offering an improvement to replace a mistake;
     setting right
+  hypernym:
+  - 89795394-n
   ili: i36756
   members:
   - cocart
@@ -34,6 +40,8 @@
 81120595-n:
   definition:
   - evil, immorality, wickedness, iniquity — morally objectionable behavior
+  hypernym:
+  - 80293708-n
   ili: i39353
   members:
   - olc
@@ -51,6 +59,8 @@
   definition:
   - punishment, penalty, penalization, penalisation — the act of punishing, or the
     infliction of a penalty
+  hypernym:
+  - 89795394-n
   ili: i41479
   members:
   - dígal
@@ -58,6 +68,8 @@
 82749052-n:
   definition:
   - kiss, buss, osculation — the act of caressing with the lips (or an instance thereof)
+  hypernym:
+  - 81266292-n
   ili: i36142
   members:
   - póc
@@ -65,6 +77,8 @@
 83528414-n:
   definition:
   - rest, ease, repose, relaxation — freedom from activity (work or strain or responsibility)
+  hypernym:
+  - 81266292-n
   ili: i40987
   members:
   - cumsanad
@@ -73,6 +87,8 @@
   definition:
   - juxtaposition, apposition, collocation — the act of positioning close together
     (or side by side)
+  hypernym:
+  - 80293708-n
   ili: i40920
   members:
   - comaisndís
@@ -80,6 +96,8 @@
 84294454-n:
   definition:
   - completion, culmination, closing, windup, mop up — a concluding action
+  hypernym:
+  - 89795394-n
   ili: i36514
   members:
   - forbae
@@ -87,6 +105,8 @@
 84433864-n:
   definition:
   - invention — the act of inventing
+  hypernym:
+  - 80293708-n
   ili: i40347
   members:
   - airec
@@ -94,6 +114,8 @@
 84910614-n:
   definition:
   - shortening — act of decreasing in length
+  hypernym:
+  - 89795394-n
   ili: i37296
   members:
   - timorcon
@@ -111,6 +133,8 @@
   definition:
   - measurement, measuring, measure, mensuration — the act or process of assigning
     numbers to phenomena according to a rule
+  hypernym:
+  - 80293708-n
   ili: i40622
   members:
   - tomus
@@ -118,6 +142,8 @@
 85474157-n:
   definition:
   - teaching, instruction, pedagogy — the profession of a teacher
+  hypernym:
+  - 80293708-n
   ili: i40057
   members:
   - forcetal
@@ -127,6 +153,8 @@
   - breathing, external respiration, respiration, ventilation — the bodily process
     of inhalation and exhalation; the process of taking in oxygen from inhaled air
     and releasing carbon dioxide by exhalation
+  hypernym:
+  - 80851068-n
   ili: i39773
   members:
   - tinfed
@@ -134,6 +162,8 @@
 86393212-n:
   definition:
   - formation, shaping — the act of fabricating something in a particular shape
+  hypernym:
+  - 80293708-n
   ili: i40270
   members:
   - cruthugud
@@ -141,6 +171,8 @@
 86933702-n:
   definition:
   - tolerance — the act of tolerating something
+  hypernym:
+  - 89795394-n
   ili: i41027
   members:
   - foditiu
@@ -149,6 +181,8 @@
   definition:
   - demonstration, manifestation — a public display of group feelings (usually of
     a political nature)
+  hypernym:
+  - 89795394-n
   ili: i41573
   members:
   - foillsigud
@@ -169,6 +203,8 @@
 87095000-n:
   definition:
   - alternation — successive change from one thing or state to another and back again
+  hypernym:
+  - 80293708-n
   ili: i40695
   members:
   - ailidetu
@@ -176,6 +212,8 @@
 87575869-n:
   definition:
   - separation — the act of dividing or disconnecting
+  hypernym:
+  - 89795394-n
   ili: i37420
   members:
   - etarscarad
@@ -183,6 +221,8 @@
 87647377-n:
   definition:
   - circumcision — the act of circumcising; surgical removal of the foreskin of males
+  hypernym:
+  - 87575869-n
   ili: i37483
   members:
   - imdibe
@@ -191,6 +231,8 @@
   definition:
   - attachment, adherence, adhesion — faithful support for a cause or political party
     or religion
+  hypernym:
+  - 80293708-n
   ili: i41741
   members:
   - attoíbed
@@ -198,6 +240,8 @@
 88175979-n:
   definition:
   - passage, transition — the act of passing from one state or place to the next
+  hypernym:
+  - 89795394-n
   ili: i36463
   members:
   - tairmthecht
@@ -207,6 +251,8 @@
   definition:
   - sin, sinning — an act that is regarded by theologians as a transgression of God's
     will
+  hypernym:
+  - 80293708-n
   ili: i39414
   members:
   - peccad
@@ -214,6 +260,8 @@
 88289372-n:
   definition:
   - worship — the activity of worshipping
+  hypernym:
+  - 80293708-n
   ili: i40790
   members:
   - adrad
@@ -222,6 +270,8 @@
   definition:
   - redemption, salvation — (theology) the act of delivering from sin or saving from
     evil
+  hypernym:
+  - 81266292-n
   ili: i35898
   members:
   - ícc
@@ -229,6 +279,8 @@
 88857531-n:
   definition:
   - possession, ownership — the act of having and controlling property
+  hypernym:
+  - 80293708-n
   ili: i39659
   members:
   - atrab
@@ -238,6 +290,8 @@
   - vengeance, retribution, payback — the act of taking revenge (harming someone in
     retaliation for something harmful that they have done) especially in the next
     life
+  hypernym:
+  - 89795394-n
   ili: i41868
   members:
   - dígal
@@ -258,6 +312,8 @@
   definition:
   - mix, commixture, admixture, mixture, intermixture, mixing — the act of mixing
     together
+  hypernym:
+  - 89795394-n
   ili: i37405
   members:
   - cummasc
@@ -274,6 +330,8 @@
 89564137-n:
   definition:
   - custom, usage, usance — accepted or habitual practice
+  hypernym:
+  - 80293708-n
   ili: i37573
   members:
   - bés

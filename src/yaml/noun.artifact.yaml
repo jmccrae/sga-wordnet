@@ -1,6 +1,8 @@
 80858914-n:
   definition:
   - shelter — a structure that provides privacy and protection from danger
+  hypernym:
+  - 87353277-n
   ili: i58783
   members:
   - dítiu
@@ -8,6 +10,8 @@
 82118563-n:
   definition:
   - net — a trap made of netting to catch fish or birds or insects
+  hypernym:
+  - 87353277-n
   ili: i56569
   members:
   - lín
@@ -16,6 +20,8 @@
   definition:
   - weapon, arm, weapon system — any instrument or instrumentality used in fighting
     or hunting
+  hypernym:
+  - 87353277-n
   ili: i61038
   members:
   - arm
@@ -23,6 +29,8 @@
 83122893-n:
   definition:
   - basket, handbasket — a container that is usually woven and has handles
+  hypernym:
+  - 87353277-n
   ili: i50522
   members:
   - clíab
@@ -40,6 +48,9 @@
   definition:
   - handkerchief, hankie, hanky, hankey — a square piece of cloth used for wiping
     the eyes or nose or as a costume accessory
+  hypernym:
+  - 85064914-n
+  - 87353277-n
   ili: i54611
   members:
   - lam bratt
@@ -47,6 +58,8 @@
 83251667-n:
   definition:
   - piece, part — an item that is an instance of some type
+  hypernym:
+  - 81645044-n
   ili: i57250
   members:
   - rann
@@ -55,6 +68,9 @@
   definition:
   - sail, canvas, canvass, sheet — a large piece of fabric (usually canvas fabric)
     by means of which wind is used to propel a sailing vessel
+  hypernym:
+  - 85064914-n
+  - 87353277-n
   ili: i58403
   members:
   - séol
@@ -62,6 +78,8 @@
 84531795-n:
   definition:
   - house — a dwelling that serves as living quarters for one or more families
+  hypernym:
+  - 87353277-n
   ili: i54960
   members:
   - tegdais
@@ -80,6 +98,8 @@
   definition:
   - shackle, bond, hamper, trammel — a restraint that confines or restricts freedom
     (especially something used to tie down or restrain a prisoner)
+  hypernym:
+  - 87353277-n
   ili: i58722
   members:
   - cuimrech
@@ -87,6 +107,8 @@
 85734525-n:
   definition:
   - kitchen — a room equipped for preparing meals
+  hypernym:
+  - 87353277-n
   ili: i55397
   members:
   - cucann
@@ -95,6 +117,8 @@
   definition:
   - sickle, reaping hook, reap hook — an edge tool for cutting grass or crops; has
     a curved blade and a short handle
+  hypernym:
+  - 87353277-n
   ili: i58901
   members:
   - bacc
@@ -102,6 +126,8 @@
 86883593-n:
   definition:
   - ax, axe — an edge tool with a heavy bladed head mounted across a handle
+  hypernym:
+  - 87353277-n
   ili: i50301
   members:
   - biáil
@@ -109,6 +135,8 @@
 87726871-n:
   definition:
   - tub, vat — a large open vessel for holding or storing liquids
+  hypernym:
+  - 87353277-n
   ili: i60613
   members:
   - lóthar
@@ -125,6 +153,8 @@
 88144665-n:
   definition:
   - roof — a protective covering that covers or forms the top of a building
+  hypernym:
+  - 87353277-n
   ili: i58260
   members:
   - druimmchlae
@@ -133,6 +163,8 @@
 89451188-n:
   definition:
   - art, fine art — the products of human creativity; works of art collectively
+  hypernym:
+  - 87353277-n
   ili: i50178
   members:
   - dán

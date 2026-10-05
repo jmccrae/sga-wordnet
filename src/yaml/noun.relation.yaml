@@ -1,6 +1,8 @@
 80578425-n:
   definition:
   - paradigm — systematic arrangement of all the inflected forms of a word
+  hypernym:
+  - 81003377-n
   ili: i109448
   members:
   - delb
@@ -37,6 +39,7 @@
   - preterit, preterite — a term formerly used to refer to the simple past tense
   hypernym:
   - 85005967-n
+  - 87107245-n
   ili: i109461
   members:
   - sechmadachte
@@ -84,6 +87,8 @@
   definition:
   - connection, connexion, connectedness — a relation between things or events (as
     in the case of one causing the other or sharing features with it)
+  hypernym:
+  - 84154477-n
   ili: i109383
   members:
   - accomol

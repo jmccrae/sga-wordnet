@@ -2,6 +2,11 @@
   definition:
   - alcohol, alcoholic drink, alcoholic beverage, intoxicant, inebriant — a liquor
     or brew containing alcohol as the active agent
+  hypernym:
+  - 81975763-n
+  - 83348516-n
+  - 83505619-n
+  - 89948552-n
   ili: i78673
   members:
   - linn
@@ -19,6 +24,8 @@
   definition:
   - salt, table salt, common salt — white crystalline form of especially sodium chloride
     used to season and preserve food
+  hypernym:
+  - 83348516-n
   ili: i78175
   members:
   - salann
@@ -46,6 +53,8 @@
 88802907-n:
   definition:
   - pottage — a stew of vegetables and (sometimes) meat
+  hypernym:
+  - 83348516-n
   ili: i76645
   members:
   - íth

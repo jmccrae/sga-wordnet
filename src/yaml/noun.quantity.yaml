@@ -12,6 +12,8 @@
   definition:
   - couple, pair, twosome, twain, brace, span, yoke, couplet, distich, duo, duet,
     dyad, duad — two items of the same kind
+  hypernym:
+  - 81852294-n
   ili: i109099
   members:
   - días
@@ -20,6 +22,8 @@
   definition:
   - ounce, troy ounce, apothecaries' ounce — a unit of apothecary weight equal to
     480 grains or one twelfth of a troy pound
+  hypernym:
+  - 84080689-n
   ili: i108969
   members:
   - ungae
@@ -27,6 +31,8 @@
 89412744-n:
   definition:
   - one-half, half — one of two equal parts of a divisible whole
+  hypernym:
+  - 81852294-n
   ili: i109054
   members:
   - leth

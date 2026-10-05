@@ -2,6 +2,8 @@
   definition:
   - land, ground, soil — material in the top layer of the surface of the earth in
     which plants can grow (especially with reference to its quality or use)
+  hypernym:
+  - 84675829-n
   ili: i85675
   members:
   - tír
@@ -9,6 +11,8 @@
 80803010-n:
   definition:
   - rock, stone — a lump or mass of hard consolidated mineral matter
+  hypernym:
+  - 81867588-n
   ili: i86083
   members:
   - lía
@@ -16,6 +20,8 @@
 80988205-n:
   definition:
   - river — a large natural stream of water (larger than a creek)
+  hypernym:
+  - 85046098-n
   ili: i86078
   members:
   - sruth
@@ -23,6 +29,8 @@
 81096136-n:
   definition:
   - constellation — a configuration of stars as seen from the earth
+  hypernym:
+  - 81867588-n
   ili: i85252
   members:
   - rind
@@ -39,6 +47,9 @@
 84304662-n:
   definition:
   - forest, woodland, timberland, timber — land that is covered with trees and shrubs
+  hypernym:
+  - 84675829-n
+  - 87408038-n
   ili: i85418
   members:
   - caill
@@ -47,6 +58,8 @@
   definition:
   - ember, coal — a hot fragment of wood or coal that is left from a fire and is glowing
     or smoldering
+  hypernym:
+  - 81800671-n
   ili: i85361
   members:
   - richis
@@ -55,6 +68,8 @@
   definition:
   - sea — a division of an ocean or a large body of salt water partially enclosed
     by land
+  hypernym:
+  - 85046098-n
   ili: i86143
   members:
   - fairge

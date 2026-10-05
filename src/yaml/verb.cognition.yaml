@@ -1,6 +1,8 @@
 80152611-v:
   definition:
   - interpret, construe, see — make sense of; assign a meaning to
+  hypernym:
+  - 83866191-v
   ili: i24866
   members:
   - fogní
@@ -9,6 +11,8 @@
   definition:
   - distinguish, separate, differentiate, secern, secernate, severalize, severalise,
     tell, tell apart — mark as different
+  hypernym:
+  - 89147749-v
   ili: i24985
   members:
   - fodáli
@@ -16,6 +20,8 @@
 81282275-v:
   definition:
   - compare — examine and note the similarities or differences of
+  hypernym:
+  - 89879061-v
   ili: i24995
   members:
   - condelca
@@ -25,6 +31,8 @@
 81343755-v:
   definition:
   - recognize, recognise — perceive to be the same
+  hypernym:
+  - 89147749-v
   ili: i24811
   members:
   - asgnin
@@ -32,6 +40,8 @@
 81357454-v:
   definition:
   - believe — accept as true; take to be true
+  hypernym:
+  - 89147749-v
   ili: i25132
   members:
   - creitid
@@ -40,6 +50,8 @@
   definition:
   - abandon, forsake, desolate, desert — leave someone who needs or counts on you;
     leave in the lurch
+  hypernym:
+  - 82478184-v
   ili: i24827
   members:
   - doérig
@@ -48,6 +60,8 @@
   definition:
   - establish, prove, show, shew, demonstrate — establish the validity of something,
     as by an example, explanation or experiment
+  hypernym:
+  - 89147749-v
   ili: i25049
   members:
   - taidbsiu
@@ -55,6 +69,8 @@
 82478184-v:
   definition:
   - leave — go and leave behind, either intentionally or by neglect or forgetfulness
+  hypernym:
+  - 89147749-v
   ili: i24826
   members:
   - foácaib
@@ -62,6 +78,8 @@
 83523394-v:
   definition:
   - believe — follow a credo; have a faith; be a believer
+  hypernym:
+  - 81357454-v
   ili: i25137
   members:
   - creitid
@@ -69,6 +87,8 @@
 83866191-v:
   definition:
   - understand — know and comprehend the nature or meaning of
+  hypernym:
+  - 88683135-v
   ili: i24710
   members:
   - dobeir
@@ -78,6 +98,8 @@
   definition:
   - calculate, cipher, cypher, compute, work out, reckon, figure — make a mathematical
     calculation or computation
+  hypernym:
+  - 89147749-v
   ili: i24925
   members:
   - adrími
@@ -85,6 +107,8 @@
 84706651-v:
   definition:
   - read — interpret something that is written or printed
+  hypernym:
+  - 80152611-v
   ili: i24875
   members:
   - léigend
@@ -93,6 +117,8 @@
   definition:
   - assume, presume, take for granted — take to be the case or to be true; accept
     without verification or proof
+  hypernym:
+  - 89147749-v
   ili: i24905
   members:
   - arfoím
@@ -108,6 +134,8 @@
 89879061-v:
   definition:
   - think, believe, consider, conceive — judge or regard; look upon; judge
+  hypernym:
+  - 89147749-v
   ili: i25161
   members:
   - domoinethar

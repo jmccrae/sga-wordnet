@@ -1,6 +1,8 @@
 81416323-n:
   definition:
   - long time, age, years — a prolonged period of time
+  hypernym:
+  - 84080689-n
   ili: i117346
   members:
   - cían
@@ -8,6 +10,8 @@
 83028557-n:
   definition:
   - day — a point or period in time
+  hypernym:
+  - 85687796-n
   ili: i116670
   members:
   - lá
@@ -24,6 +28,8 @@
 85539345-n:
   definition:
   - day — a day assigned to a particular purpose or observance
+  hypernym:
+  - 84080689-n
   ili: i116868
   members:
   - lá
@@ -32,6 +38,8 @@
 85589361-n:
   definition:
   - middle — the point between the beginning and the end of a temporal period or process
+  hypernym:
+  - 84080689-n
   ili: i117476
   members:
   - medón
@@ -49,6 +57,8 @@
   definition:
   - day, twenty-four hours, twenty-four hour period, 24-hour interval, solar day,
     mean solar day — time for Earth to make a complete rotation on its axis
+  hypernym:
+  - 84080689-n
   ili: i116858
   members:
   - dia
@@ -59,6 +69,8 @@
   definition:
   - time — a period of time considered as a resource under your control and sufficient
     to accomplish something
+  hypernym:
+  - 84080689-n
   ili: i117493
   members:
   - aimser
@@ -66,6 +78,8 @@
 88798491-n:
   definition:
   - duration, continuance — the period of time during which something continues
+  hypernym:
+  - 84080689-n
   ili: i116723
   members:
   - aimserad

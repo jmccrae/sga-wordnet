@@ -11,6 +11,8 @@
 84218285-n:
   definition:
   - gift — something acquired without compensation
+  hypernym:
+  - 81618529-n
   ili: i106363
   members:
   - tindnacol
@@ -19,6 +21,8 @@
   definition:
   - share, portion, part, percentage — assets belonging to or due to or contributed
     by an individual person or group
+  hypernym:
+  - 81618529-n
   ili: i106484
   members:
   - cuit

@@ -1,6 +1,8 @@
 80001511-n:
   definition:
   - craft, craftsmanship, workmanship — skill in an occupation or trade
+  hypernym:
+  - 84643561-n
   ili: i66541
   members:
   - saírse
@@ -8,6 +10,8 @@
 80415856-n:
   definition:
   - compound — a whole formed by a union of two or more elements or parts
+  hypernym:
+  - 85625817-n
   ili: i67721
   members:
   - comṡuidigud
@@ -16,6 +20,8 @@
   definition:
   - kind, sort, form, variety — a category of things distinguished by some common
     characteristic or quality
+  hypernym:
+  - 85625817-n
   ili: i67559
   members:
   - cenélae
@@ -94,6 +100,8 @@
 82055471-n:
   definition:
   - belief — any cognitive content held as true
+  hypernym:
+  - 84303570-n
   ili: i68061
   members:
   - cretem
@@ -122,6 +130,9 @@
   definition:
   - religion, faith, religious belief — a strong belief in a supernatural power or
     powers that control human destiny
+  hypernym:
+  - 82055471-n
+  - 81348025-n
   ili: i68078
   members:
   - iress
@@ -129,6 +140,8 @@
 83387525-n:
   definition:
   - memory, remembering — the cognitive processes whereby past experience is remembered
+  hypernym:
+  - 81450780-n
   ili: i67169
   members:
   - foraithmet
@@ -137,6 +150,8 @@
   definition:
   - sense, sensation, sentience, sentiency, sensory faculty — the faculty through
     which the external world is apprehended
+  hypernym:
+  - 84643561-n
   ili: i66622
   members:
   - cíall
@@ -144,6 +159,8 @@
 83954240-n:
   definition:
   - reading — the cognitive process of understanding a written linguistic message
+  hypernym:
+  - 81450780-n
   ili: i67407
   members:
   - léigend
@@ -152,6 +169,8 @@
   definition:
   - Heaven — a place regarded by various beliefs as the abode of their deities; also
     a place where good people are believed to go after death
+  hypernym:
+  - 84643561-n
   ili: i66481
   members:
   - nem
@@ -172,6 +191,8 @@
   definition:
   - interpretation, reading, version — a mental representation of the meaning or significance
     of something
+  hypernym:
+  - 84303570-n
   ili: i67984
   members:
   - etercert
@@ -179,6 +200,8 @@
 84482533-n:
   definition:
   - rule, regulation — a principle or condition that customarily governs behavior
+  hypernym:
+  - 85625817-n
   ili: i67597
   members:
   - ríagol
@@ -187,6 +210,8 @@
   definition:
   - analogy — an inference that if things agree in some respects they probably agree
     in others
+  hypernym:
+  - 81450780-n
   ili: i67264
   members:
   - analach
@@ -243,6 +268,8 @@
 86754842-n:
   definition:
   - heart, bosom — the locus of feelings and intuitions
+  hypernym:
+  - 81586762-n
   ili: i67941
   members:
   - cride
@@ -259,6 +286,8 @@
 86847478-n:
   definition:
   - music, euphony — any agreeable (pleasing and harmonious) sounds
+  hypernym:
+  - 81450780-n
   ili: i66962
   members:
   - bindius
@@ -267,6 +296,8 @@
   definition:
   - Hell, perdition, Inferno, infernal region, nether region, pit — (Christianity)
     the abode of Satan and the forces of evil; where sinners suffer eternal punishment
+  hypernym:
+  - 84643561-n
   ili: i66491
   members:
   - ifern
@@ -285,6 +316,8 @@
   definition:
   - example, illustration, instance, representative — an item of information that
     is typical of a class or group
+  hypernym:
+  - 88128664-n
   ili: i67469
   members:
   - desimrecht
@@ -314,6 +347,8 @@
   definition:
   - mind, head, brain, psyche, nous — that which is responsible for one's thoughts,
     feelings, and conscious brain functions; the seat of the faculty of reason
+  hypernym:
+  - 84643561-n
   ili: i66397
   members:
   - menma
@@ -323,6 +358,7 @@
   - species — a specific kind of something
   hypernym:
   - 85625817-n
+  - 80707623-n
   ili: i67588
   members:
   - gnúis

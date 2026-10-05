@@ -1,6 +1,8 @@
 81672440-n:
   definition:
   - suffering, woe — misery resulting from affliction
+  hypernym:
+  - 86163603-n
   ili: i112938
   members:
   - fochith
@@ -27,6 +29,8 @@
 82353790-n:
   definition:
   - place, shoes — a particular situation
+  hypernym:
+  - 82226985-n
   ili: i110132
   members:
   - loc
@@ -36,6 +40,7 @@
   - Passion, Passion of Christ — the suffering of Jesus at the Crucifixion
   hypernym:
   - 88128664-n
+  - 83260941-n
   ili: i112227
   members:
   - césad
@@ -43,6 +48,8 @@
 82833728-n:
   definition:
   - rank — relative status
+  hypernym:
+  - 86163603-n
   ili: i112835
   members:
   - grád
@@ -50,6 +57,8 @@
 83260941-n:
   definition:
   - agony, suffering, excruciation — a state of acute pain
+  hypernym:
+  - 88128664-n
   ili: i112222
   members:
   - fochith
@@ -57,6 +66,8 @@
 83624399-n:
   definition:
   - nothingness, void, nullity, nihility — the state of nonexistence
+  hypernym:
+  - 86163603-n
   ili: i112976
   members:
   - nihelas
@@ -64,6 +75,8 @@
 83697406-n:
   definition:
   - being, beingness, existence, face of the earth — the state or fact of existing
+  hypernym:
+  - 86163603-n
   ili: i110269
   members:
   - buith
@@ -72,6 +85,8 @@
   definition:
   - integrity, unity, wholeness — an undivided or unbroken completeness or totality
     with nothing wanting
+  hypernym:
+  - 86163603-n
   ili: i113004
   members:
   - ógae
@@ -79,6 +94,8 @@
 84183122-n:
   definition:
   - light, illumination — a condition of spiritual awareness; divine illumination
+  hypernym:
+  - 82226985-n
   ili: i113545
   members:
   - soilse
@@ -87,6 +104,8 @@
   definition:
   - hangover, katzenjammer — disagreeable aftereffects from the use of drugs (especially
     alcohol)
+  hypernym:
+  - 82226985-n
   ili: i112929
   members:
   - laithirt
@@ -95,6 +114,8 @@
   definition:
   - perfection, flawlessness, ne plus ultra — the state of being without a flaw or
     defect
+  hypernym:
+  - 86163603-n
   ili: i112999
   members:
   - foirbthetu
@@ -103,6 +124,8 @@
   definition:
   - freedom — the condition of being free; the power to act or speak or think without
     externally imposed restraints
+  hypernym:
+  - 86163603-n
   ili: i110463
   members:
   - soíre
@@ -125,6 +148,8 @@
   definition:
   - life — the course of existence of an individual; the actions and events that occur
     in living
+  hypernym:
+  - 83697406-n
   ili: i110304
   members:
   - bethu
@@ -141,6 +166,8 @@
 88949882-n:
   definition:
   - glory, glorification — a state of high honor
+  hypernym:
+  - 86163603-n
   ili: i112876
   members:
   - inducbál
@@ -148,6 +175,8 @@
 88962572-n:
   definition:
   - thing — a special situation
+  hypernym:
+  - 86163603-n
   ili: i110218
   members:
   - rét
@@ -155,6 +184,8 @@
 89300110-n:
   definition:
   - need, demand — a condition requiring relief
+  hypernym:
+  - 82226985-n
   ili: i112940
   members:
   - éicen

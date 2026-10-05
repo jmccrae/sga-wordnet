@@ -2,6 +2,8 @@
   definition:
   - lip — either of two fleshy folds of tissue that surround the mouth and play a
     role in speaking
+  hypernym:
+  - 81800671-n
   ili: i64837
   members:
   - bél
@@ -10,6 +12,8 @@
   definition:
   - jaw — the part of the skull of a vertebrate that frames the mouth and holds the
     teeth
+  hypernym:
+  - 81800671-n
   ili: i66064
   members:
   - glaine
@@ -18,6 +22,8 @@
   definition:
   - blood — the fluid (red in vertebrates) that is pumped through the body by the
     heart and contains plasma, blood cells, and platelets
+  hypernym:
+  - 89948552-n
   ili: i65349
   members:
   - fuil
@@ -25,6 +31,8 @@
 84761508-n:
   definition:
   - lock — a strand or cluster of hair
+  hypernym:
+  - 81867588-n
   ili: i64582
   members:
   - gibnae
@@ -33,6 +41,9 @@
   definition:
   - skin, tegument, cutis — a natural protective body covering and site of the sense
     of touch
+  hypernym:
+  - 81800671-n
+  - 81867588-n
   ili: i64482
   members:
   - croicenn
@@ -41,6 +52,8 @@
   definition:
   - buttock, cheek — either of the two large fleshy masses of muscular tissue that
     form the human rump
+  hypernym:
+  - 81800671-n
   ili: i66133
   members:
   - cochae
@@ -50,6 +63,7 @@
   - person — a human body (usually including the clothing)
   hypernym:
   - 81867588-n
+  - 88820217-n
   ili: i64384
   members:
   - persan
@@ -57,6 +71,8 @@
 86711552-n:
   definition:
   - nail — horny plate covering and protecting part of the dorsal surface of the digits
+  hypernym:
+  - 81800671-n
   ili: i66246
   members:
   - ingen
@@ -65,6 +81,8 @@
   definition:
   - 'flesh — the soft tissue of the body of a vertebrate: mainly muscle tissue and
     fat'
+  hypernym:
+  - 81800671-n
   ili: i64648
   members:
   - colinn
@@ -74,6 +92,8 @@
   - knee, knee joint, human knee, articulatio genus, genu — hinge joint in the human
     leg connecting the tibia and fibula with the femur and protected in front by the
     patella
+  hypernym:
+  - 81800671-n
   ili: i66201
   members:
   - glún
@@ -82,6 +102,8 @@
   definition:
   - head, caput — the upper part of the human body or the front part of the body in
     animals; contains the face and brains
+  hypernym:
+  - 81800671-n
   ili: i66025
   members:
   - cenn
@@ -93,6 +115,8 @@
     of protein and carbohydrate and fat; synthesizes substances involved in the clotting
     of the blood; synthesizes vitamin A; detoxifies poisonous substances and breaks
     down worn-out erythrocytes
+  hypernym:
+  - 81800671-n
   ili: i65277
   members:
   - óa
@@ -101,6 +125,8 @@
   definition:
   - leg — a human limb; commonly used to refer to a whole limb but technically only
     the part of the limb between the knee and ankle
+  hypernym:
+  - 81800671-n
   ili: i66137
   members:
   - erochuir
@@ -109,6 +135,8 @@
   definition:
   - body, organic structure — the entire physical structure of an organism (an animal,
     plant, or human being)
+  hypernym:
+  - 81867588-n
   ili: i64381
   members:
   - corp
@@ -117,6 +145,8 @@
   definition:
   - spleen, lien — a large dark-red oval organ on the left side of the body between
     the stomach and the diaphragm; produces cells involved in immune responses
+  hypernym:
+  - 81800671-n
   ili: i64983
   members:
   - lúa líath

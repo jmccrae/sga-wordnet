@@ -1,6 +1,8 @@
 83707846-v:
   definition:
   - show — make visible or noticeable
+  hypernym:
+  - 82807350-v
   ili: i32440
   members:
   - foilsigidir
@@ -9,6 +11,8 @@
 84842723-v:
   definition:
   - suffer, endure — undergo or be subjected to
+  hypernym:
+  - 80000309-v
   ili: i32307
   members:
   - fodaim
@@ -17,6 +21,8 @@
   definition:
   - find, observe, discover, detect, notice — discover or determine the existence,
     presence, or fact of by perception with the eyes
+  hypernym:
+  - 89147749-v
   ili: i32526
   members:
   - aricc

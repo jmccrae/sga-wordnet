@@ -1,6 +1,8 @@
 81775241-n:
   definition:
   - corn — the dried grains or kernels or corn used as animal feed or ground for meal
+  hypernym:
+  - 86028983-n
   ili: i100971
   members:
   - ith
@@ -8,6 +10,8 @@
 82778974-n:
   definition:
   - fruit — the ripened reproductive body of a seed plant
+  hypernym:
+  - 81867588-n
   ili: i105676
   members:
   - torad
@@ -16,6 +20,8 @@
   definition:
   - tree — a tall perennial woody plant having a main trunk and branches forming a
     distinct elevated crown; includes both gymnosperms and angiosperms
+  hypernym:
+  - 89068816-n
   ili: i105570
   members:
   - crann
@@ -25,6 +31,8 @@
   definition:
   - hazelnut, hazel, hazelnut tree — any of several shrubs or small trees of the genus
     Corylus bearing edible nuts enclosed in a leafy husk
+  hypernym:
+  - 83206564-n
   ili: i101624
   members:
   - coll
@@ -33,6 +41,8 @@
   definition:
   - 'grain, caryopsis — dry seed-like fruit produced by the cereal grasses: e.g. wheat,
     barley, Indian corn'
+  hypernym:
+  - 82778974-n
   ili: i101035
   members:
   - ith

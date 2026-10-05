@@ -1,6 +1,8 @@
 80428126-n:
   definition:
   - shortness — the property of being of short temporal extent
+  hypernym:
+  - 88014072-n
   ili: i63549
   members:
   - gair
@@ -17,6 +19,8 @@
 80840996-n:
   definition:
   - modesty, modestness — freedom from vanity or conceit
+  hypernym:
+  - 89225372-n
   ili: i62742
   members:
   - féle
@@ -24,6 +28,8 @@
 80915795-n:
   definition:
   - conformity, conformance — correspondence in form or appearance
+  hypernym:
+  - 80979221-n
   ili: i61823
   members:
   - comdelb
@@ -52,6 +58,8 @@
 81348025-n:
   definition:
   - good, goodness — moral excellence or admirableness
+  hypernym:
+  - 80979221-n
   ili: i62472
   members:
   - maith
@@ -107,6 +115,8 @@
 82988524-n:
   definition:
   - diverseness, diversity, multifariousness, variety — noticeable heterogeneity
+  hypernym:
+  - 84077027-n
   ili: i61994
   members:
   - mrechtrad
@@ -116,6 +126,8 @@
   definition:
   - cheerfulness, cheer, sunniness, sunshine — the quality of being cheerful and dispelling
     gloom
+  hypernym:
+  - 83853491-n
   ili: i61411
   members:
   - sulbaire
@@ -123,6 +135,8 @@
 83588119-n:
   definition:
   - resemblance — similarity in appearance or external or superficial details
+  hypernym:
+  - 85629167-n
   ili: i61972
   members:
   - cosmailius
@@ -150,6 +164,10 @@
   definition:
   - length — the linear extent in space from one end to the other; the longest dimension
     of something that is fixed in place
+  hypernym:
+  - 81819714-n
+  - 84080689-n
+  - 89282369-n
   ili: i63940
   members:
   - fot
@@ -168,6 +186,8 @@
   definition:
   - likeness, alikeness, similitude — similarity in appearance or character or nature
     between persons or things
+  hypernym:
+  - 80577178-n
   ili: i61960
   members:
   - cosmailius
@@ -175,6 +195,8 @@
 85872350-n:
   definition:
   - humanness, humanity, manhood — the quality of being human
+  hypernym:
+  - 80979221-n
   ili: i61873
   members:
   - doínecht
@@ -192,6 +214,8 @@
   definition:
   - constitution, composition, physical composition, makeup, make-up — the way in
     which someone or something is composed
+  hypernym:
+  - 89282369-n
   ili: i62908
   members:
   - comṡuidigud
@@ -208,6 +232,8 @@
 86693725-n:
   definition:
   - moderation, moderateness — quality of being moderate and avoiding extremes
+  hypernym:
+  - 89282369-n
   ili: i63885
   members:
   - mesrugud
@@ -215,6 +241,8 @@
 87107549-n:
   definition:
   - righteousness — adhering to moral principles
+  hypernym:
+  - 80979221-n
   ili: i62355
   members:
   - fírinne
@@ -222,6 +250,8 @@
 87470626-n:
   definition:
   - force, forcefulness, strength — physical energy or intensity
+  hypernym:
+  - 89282369-n
   ili: i63463
   members:
   - nert
@@ -229,6 +259,8 @@
 87812825-n:
   definition:
   - oneness, unity — the quality of being united into one
+  hypernym:
+  - 80979221-n
   ili: i61952
   members:
   - oentu
@@ -255,6 +287,8 @@
 88317509-n:
   definition:
   - generality — the quality of being general or widespread or having general applicability
+  hypernym:
+  - 80979221-n
   ili: i62052
   members:
   - cenélche
@@ -282,6 +316,8 @@
 88858179-n:
   definition:
   - profit, gain — the advantageous quality of being beneficial
+  hypernym:
+  - 80979221-n
   ili: i64085
   members:
   - torbae
@@ -298,6 +334,8 @@
 89071911-n:
   definition:
   - simplicity, simpleness — the quality of being simple or uncompounded
+  hypernym:
+  - 80979221-n
   ili: i62060
   members:
   - díuitius
