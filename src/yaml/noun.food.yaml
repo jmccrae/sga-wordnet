@@ -1,3 +1,11 @@
+80131426-n:
+  definition:
+  - alcohol, alcoholic drink, alcoholic beverage, intoxicant, inebriant — a liquor
+    or brew containing alcohol as the active agent
+  ili: i78673
+  members:
+  - linn
+  partOfSpeech: n
 81525755-n:
   definition:
   - corn, edible corn — ears of corn that can be prepared and served for human food
@@ -6,6 +14,14 @@
   ili: i77660
   members:
   - ith
+  partOfSpeech: n
+83341291-n:
+  definition:
+  - salt, table salt, common salt — white crystalline form of especially sodium chloride
+    used to season and preserve food
+  ili: i78175
+  members:
+  - salann
   partOfSpeech: n
 84699239-n:
   definition:
@@ -26,4 +42,11 @@
   ili: i76470
   members:
   - biad
+  partOfSpeech: n
+88802907-n:
+  definition:
+  - pottage — a stew of vegetables and (sometimes) meat
+  ili: i76645
+  members:
+  - íth
   partOfSpeech: n

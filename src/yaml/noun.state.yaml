@@ -1,3 +1,10 @@
+81672440-n:
+  definition:
+  - suffering, woe — misery resulting from affliction
+  ili: i112938
+  members:
+  - fochith
+  partOfSpeech: n
 81937208-n:
   definition:
   - name — a person's reputation
@@ -17,6 +24,13 @@
   - bal
   - alt
   partOfSpeech: n
+82353790-n:
+  definition:
+  - place, shoes — a particular situation
+  ili: i110132
+  members:
+  - loc
+  partOfSpeech: n
 82477077-n:
   definition:
   - Passion, Passion of Christ — the suffering of Jesus at the Crucifixion
@@ -25,6 +39,73 @@
   ili: i112227
   members:
   - césad
+  partOfSpeech: n
+82833728-n:
+  definition:
+  - rank — relative status
+  ili: i112835
+  members:
+  - grád
+  partOfSpeech: n
+83260941-n:
+  definition:
+  - agony, suffering, excruciation — a state of acute pain
+  ili: i112222
+  members:
+  - fochith
+  partOfSpeech: n
+83624399-n:
+  definition:
+  - nothingness, void, nullity, nihility — the state of nonexistence
+  ili: i112976
+  members:
+  - nihelas
+  partOfSpeech: n
+83697406-n:
+  definition:
+  - being, beingness, existence, face of the earth — the state or fact of existing
+  ili: i110269
+  members:
+  - buith
+  partOfSpeech: n
+83771050-n:
+  definition:
+  - integrity, unity, wholeness — an undivided or unbroken completeness or totality
+    with nothing wanting
+  ili: i113004
+  members:
+  - ógae
+  partOfSpeech: n
+84183122-n:
+  definition:
+  - light, illumination — a condition of spiritual awareness; divine illumination
+  ili: i113545
+  members:
+  - soilse
+  partOfSpeech: n
+84765263-n:
+  definition:
+  - hangover, katzenjammer — disagreeable aftereffects from the use of drugs (especially
+    alcohol)
+  ili: i112929
+  members:
+  - laithirt
+  partOfSpeech: n
+85496712-n:
+  definition:
+  - perfection, flawlessness, ne plus ultra — the state of being without a flaw or
+    defect
+  ili: i112999
+  members:
+  - foirbthetu
+  partOfSpeech: n
+85663906-n:
+  definition:
+  - freedom — the condition of being free; the power to act or speak or think without
+    externally imposed restraints
+  ili: i110463
+  members:
+  - soíre
   partOfSpeech: n
 86747513-n:
   definition:
@@ -40,6 +121,14 @@
   - '*alt ingnai'
   - '*alt menman'
   partOfSpeech: n
+87134707-n:
+  definition:
+  - life — the course of existence of an individual; the actions and events that occur
+    in living
+  ili: i110304
+  members:
+  - bethu
+  partOfSpeech: n
 88556240-n:
   definition:
   - action, activeness, activity — the state of being active
@@ -48,4 +137,25 @@
   ili: i110542
   members:
   - gním
+  partOfSpeech: n
+88949882-n:
+  definition:
+  - glory, glorification — a state of high honor
+  ili: i112876
+  members:
+  - inducbál
+  partOfSpeech: n
+88962572-n:
+  definition:
+  - thing — a special situation
+  ili: i110218
+  members:
+  - rét
+  partOfSpeech: n
+89300110-n:
+  definition:
+  - need, demand — a condition requiring relief
+  ili: i112940
+  members:
+  - éicen
   partOfSpeech: n

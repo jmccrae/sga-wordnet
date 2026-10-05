@@ -1,3 +1,17 @@
+81416323-n:
+  definition:
+  - long time, age, years — a prolonged period of time
+  ili: i117346
+  members:
+  - cían
+  partOfSpeech: n
+83028557-n:
+  definition:
+  - day — a point or period in time
+  ili: i116670
+  members:
+  - lá
+  partOfSpeech: n
 84836960-n:
   definition:
   - time, clock time — a reading of a point in time as given by a clock
@@ -7,6 +21,21 @@
   members:
   - aimser
   partOfSpeech: n
+85539345-n:
+  definition:
+  - day — a day assigned to a particular purpose or observance
+  ili: i116868
+  members:
+  - lá
+  - laithe
+  partOfSpeech: n
+85589361-n:
+  definition:
+  - middle — the point between the beginning and the end of a temporal period or process
+  ili: i117476
+  members:
+  - medón
+  partOfSpeech: n
 85687796-n:
   definition:
   - time — an indefinite period (usually marked by specific attributes or activities)
@@ -15,6 +44,31 @@
   ili: i116667
   members:
   - aimser
+  partOfSpeech: n
+88030736-n:
+  definition:
+  - day, twenty-four hours, twenty-four hour period, 24-hour interval, solar day,
+    mean solar day — time for Earth to make a complete rotation on its axis
+  ili: i116858
+  members:
+  - dia
+  - laithe
+  - lá
+  partOfSpeech: n
+88702664-n:
+  definition:
+  - time — a period of time considered as a resource under your control and sufficient
+    to accomplish something
+  ili: i117493
+  members:
+  - aimser
+  partOfSpeech: n
+88798491-n:
+  definition:
+  - duration, continuance — the period of time during which something continues
+  ili: i116723
+  members:
+  - aimserad
   partOfSpeech: n
 89962756-n:
   definition:

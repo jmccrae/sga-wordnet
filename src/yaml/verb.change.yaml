@@ -7,6 +7,44 @@
   - conoscaigi
   - sóid
   partOfSpeech: v
+80546236-v:
+  definition:
+  - die, decease, perish, go, exit, pass away, expire, pass, kick the bucket, cash
+    in one's chips, buy the farm, conk, give-up the ghost, drop dead, pop off, choke,
+    croak, snuff it — pass from physical life and lose all bodily attributes and functions
+    necessary to sustain life
+  ili: i23529
+  members:
+  - atbaill
+  partOfSpeech: v
+82339519-v:
+  definition:
+  - pollute, foul, contaminate — make impure
+  ili: i24173
+  members:
+  - aslena
+  partOfSpeech: v
+82807350-v:
+  definition:
+  - change, alter, modify — cause to change; make different; cause a transformation
+  ili: i22389
+  members:
+  - conoscaigi
+  partOfSpeech: v
+83030768-v:
+  definition:
+  - increase — make bigger or more
+  ili: i22474
+  members:
+  - doformaig
+  partOfSpeech: v
+83261153-v:
+  definition:
+  - decrease, diminish, lessen, fall — decrease in size, extent, or range
+  ili: i22469
+  members:
+  - seircid
+  partOfSpeech: v
 83664205-v:
   definition:
   - change magnitude — change in size or magnitude
@@ -17,6 +55,52 @@
   - '*méit a cumscugud'
   - '*méit a soud'
   partOfSpeech: v
+84692791-v:
+  definition:
+  - fall — pass suddenly and passively into a state of body or mind
+  ili: i22451
+  members:
+  - dotuit
+  partOfSpeech: v
+85085899-v:
+  definition:
+  - happen, hap, go on, pass off, occur, pass, fall out, come about, take place —
+    come to pass
+  ili: i23435
+  members:
+  - doecmaing
+  partOfSpeech: v
+85346357-v:
+  definition:
+  - add — make an addition (to); join or combine or unite with others; increase the
+    quality, quantity, size or scope of
+  ili: i22623
+  members:
+  - doformaig
+  - adcomla
+  partOfSpeech: v
+87775167-v:
+  definition:
+  - happen, befall, bechance — happen, occur, or be the case in the course of events
+    or by chance
+  ili: i23459
+  members:
+  - doecmaing
+  partOfSpeech: v
+88644498-v:
+  definition:
+  - derive — obtain from a particular source
+  ili: i22977
+  members:
+  - díṡruthaigidir
+  partOfSpeech: v
+89084398-v:
+  definition:
+  - compound, combine — put or add together
+  ili: i22685
+  members:
+  - consuidigedar
+  partOfSpeech: v
 89915078-v:
   definition:
   - increase — become bigger or greater in amount
@@ -25,4 +109,5 @@
   ili: i22491
   members:
   - doformaig
+  - forbeir
   partOfSpeech: v

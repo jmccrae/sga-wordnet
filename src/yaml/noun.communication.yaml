@@ -36,6 +36,35 @@
   members:
   - '*bríathar bríghe'
   partOfSpeech: n
+80566016-n:
+  definition:
+  - Latin — any dialect of the language of ancient Rome
+  ili: i73198
+  members:
+  - laiten
+  partOfSpeech: n
+80660328-n:
+  definition:
+  - article — (grammar) a determiner that may indicate the specificity of reference
+    of a noun phrase
+  ili: i69714
+  members:
+  - articol
+  partOfSpeech: n
+80701339-n:
+  definition:
+  - compound word, compound — a word (as anthropology, kilocycle, builder) consisting
+    of any of various combinations of words, combining forms, or affixes.
+  members:
+  - comṡuidigud
+  partOfSpeech: n
+80720076-n:
+  definition:
+  - naming — the verbal act of naming
+  ili: i74661
+  members:
+  - ainmmnigud
+  partOfSpeech: n
 80866675-n:
   definition:
   - signal, sign, signaling, signalling — any nonverbal action or gesture that encodes
@@ -56,6 +85,14 @@
   members:
   - tinfed
   partOfSpeech: n
+80989358-n:
+  definition:
+  - sermon, discourse, preaching — an address of a religious nature (usually delivered
+    during a church service)
+  ili: i74738
+  members:
+  - precept
+  partOfSpeech: n
 81092558-n:
   definition:
   - word — a unit of language that native speakers can identify
@@ -65,6 +102,8 @@
   members:
   - son
   - epert
+  - guth
+  - bríathar
   partOfSpeech: n
 81424377-n:
   definition:
@@ -75,6 +114,38 @@
   members:
   - érchoiliud
   - cinniud
+  partOfSpeech: n
+81583883-n:
+  definition:
+  - spelling — forming words with letters according to the principles underlying accepted
+    usage
+  ili: i69869
+  members:
+  - litred
+  partOfSpeech: n
+81609913-n:
+  definition:
+  - stress, emphasis, accent — the relative prominence of a syllable or musical note
+    (especially with regard to stress or pitch)
+  ili: i73883
+  members:
+  - aiccent
+  partOfSpeech: n
+81635929-n:
+  definition:
+  - acute accent, acute, ague — a mark placed above a vowel to indicate pronunciation
+  ili: i72346
+  members:
+  - acuit
+  partOfSpeech: n
+81701406-n:
+  definition:
+  - number — the grammatical category for the forms of nouns and pronouns and verbs
+    that are used depending on the number of entities involved (singular or dual or
+    plural)
+  ili: i69725
+  members:
+  - áram
   partOfSpeech: n
 81706051-n:
   definition:
@@ -115,6 +186,23 @@
   members:
   - neutur
   partOfSpeech: n
+82074181-n:
+  definition:
+  - expression, verbal expression, verbalism — the communication (in speech or writing)
+    of your beliefs or opinions
+  ili: i74184
+  members:
+  - slond
+  partOfSpeech: n
+82175189-n:
+  definition:
+  - New Testament — the collection of books of the Gospels, Acts of the Apostles,
+    the Pauline and other epistles, and Revelation; composed soon after Christ's death;
+    the second half of the Christian Bible
+  ili: i70380
+  members:
+  - nuiednisse
+  partOfSpeech: n
 82397685-n:
   definition:
   - ablative, ablative case — the case indicating the agent in passive sentences or
@@ -124,6 +212,13 @@
   ili: i69654
   members:
   - fochslaid
+  partOfSpeech: n
+82460337-n:
+  definition:
+  - superlative — an exaggerated expression (usually of praise)
+  ili: i71664
+  members:
+  - superlait
   partOfSpeech: n
 82524886-n:
   definition:
@@ -154,6 +249,13 @@
   members:
   - bríathar
   partOfSpeech: n
+82910591-n:
+  definition:
+  - grave accent, grave — a mark (`) placed above a vowel to indicate pronunciation
+  ili: i72347
+  members:
+  - graif
+  partOfSpeech: n
 83027826-n:
   definition:
   - oblique, oblique case — any grammatical case other than the nominative
@@ -175,6 +277,13 @@
   members:
   - ainm
   partOfSpeech: n
+83206484-n:
+  definition:
+  - stroke — a mark made on a surface by a pen, pencil, or paintbrush
+  ili: i72214
+  members:
+  - flesc
+  partOfSpeech: n
 83575217-n:
   definition:
   - adjective — a word that expresses an attribute of something
@@ -192,6 +301,52 @@
   ili: i69681
   members:
   - '*prímrann insce'
+  partOfSpeech: n
+83737725-n:
+  definition:
+  - epanaphora, anaphora — repetition of a word or phrase at the beginning of successive
+    clauses
+  ili: i73971
+  members:
+  - atárcud
+  partOfSpeech: n
+83989319-n:
+  definition:
+  - text, textual matter — the words of something written
+  ili: i70058
+  members:
+  - testimin
+  partOfSpeech: n
+84112012-n:
+  definition:
+  - alphabet, ABC, ABC's, ABCs — a character set that includes letters and is used
+    to write a language
+  ili: i70607
+  members:
+  - abgitir
+  partOfSpeech: n
+84259651-n:
+  definition:
+  - answer, reply, response — a statement (either spoken or written) that is made
+    to reply to a question or request or criticism or accusation
+  ili: i71945
+  members:
+  - frecrae
+  partOfSpeech: n
+84423967-n:
+  definition:
+  - appellation, denomination, designation, appellative — identifying word or words
+    by which someone or something is called and classified or distinguished from others
+  ili: i69788
+  members:
+  - ainmmnigud
+  partOfSpeech: n
+84647083-n:
+  definition:
+  - gloss, rubric — an explanation or definition of an obscure word in a text
+  ili: i71935
+  members:
+  - glúas
   partOfSpeech: n
 84651096-n:
   definition:
@@ -244,6 +399,14 @@
   members:
   - '*ernail grammatic'
   partOfSpeech: n
+85077128-n:
+  definition:
+  - antepenult, antepenultima, antepenultimate — the 3rd syllable of a word counting
+    back from the end
+  ili: i69616
+  members:
+  - antepeneuilt
+  partOfSpeech: n
 85087606-n:
   definition:
   - diminutive — a word that is formed with a suffix (such as -let or -kin) to indicate
@@ -263,6 +426,7 @@
   ili: i69721
   members:
   - comaccomol
+  - accomol
   partOfSpeech: n
 85409528-n:
   definition:
@@ -286,6 +450,13 @@
   - comarde
   - figair
   partOfSpeech: n
+85884946-n:
+  definition:
+  - cause, reason, grounds — a justification for something existing or happening
+  ili: i71919
+  members:
+  - cóis
+  partOfSpeech: n
 85924383-n:
   definition:
   - form, signifier, descriptor, word form — the phonological or orthographic sound
@@ -299,6 +470,37 @@
   - cruth
   - figair
   partOfSpeech: n
+86012398-n:
+  definition:
+  - writing — letters or symbols that are written or imprinted on a surface to represent
+    the sounds or words of a language
+  ili: i69901
+  members:
+  - scríbend
+  partOfSpeech: n
+86031490-n:
+  definition:
+  - dieresis, diaeresis — a diacritical mark (two dots) placed over a vowel to indicate
+    that it does not form a diphthong with an adjacent vowel
+  members:
+  - indlach
+  partOfSpeech: n
+86145728-n:
+  definition:
+  - penult, penultima, penultimate — the next to last syllable in a word
+  ili: i69615
+  members:
+  - peneuilt
+  partOfSpeech: n
+86156433-n:
+  definition:
+  - postposition — (linguistics) the placing of one linguistic element after another
+    (as placing a modifier after the word that it modifies in a sentence or placing
+    an affix after the base to which it is attached)
+  ili: i70521
+  members:
+  - tíarmóracht
+  partOfSpeech: n
 86331880-n:
   definition:
   - masculine — a gender that refers chiefly (but not exclusively) to males or to
@@ -309,6 +511,14 @@
   members:
   - mascul
   partOfSpeech: n
+86458947-n:
+  definition:
+  - liquid — a frictionless continuant that is not a nasal consonant (especially `l'
+    and `r')
+  ili: i74076
+  members:
+  - lechdach
+  partOfSpeech: n
 86617844-n:
   definition:
   - speech, speech communication, spoken communication, spoken language, oral communication,
@@ -318,6 +528,13 @@
   ili: i74022
   members:
   - insce
+  partOfSpeech: n
+86651597-n:
+  definition:
+  - verb — a content word that denotes an action, occurrence, or state of existence
+  ili: i69699
+  members:
+  - bríathar
   partOfSpeech: n
 86651989-n:
   definition:
@@ -359,6 +576,23 @@
   members:
   - déḟogur
   partOfSpeech: n
+86863507-n:
+  definition:
+  - ultima — the last syllable in a word
+  ili: i69614
+  members:
+  - uilt
+  partOfSpeech: n
+86874665-n:
+  definition:
+  - sense, signified — the meaning of a word or expression; the way in which a word
+    or expression or situation can be interpreted
+  ili: i71154
+  members:
+  - cíall
+  - intliucht
+  - inne
+  partOfSpeech: n
 86881526-n:
   definition:
   - import, significance, signification, meaning — the message that is intended or
@@ -369,6 +603,8 @@
   members:
   - inne
   - tórand
+  - cíall
+  - intliucht
   partOfSpeech: n
 86939996-n:
   definition:
@@ -401,6 +637,13 @@
   members:
   - imḟognam
   partOfSpeech: n
+87107245-n:
+  definition:
+  - tense — a grammatical category of verbs used to express distinctions of time
+  ili: i69739
+  members:
+  - aimser
+  partOfSpeech: n
 87143287-n:
   definition:
   - primitive — a word serving as the basis for inflected or derived forms
@@ -419,6 +662,13 @@
   ili: i69650
   members:
   - tobarthaid
+  partOfSpeech: n
+87284935-n:
+  definition:
+  - suffix, postfix — an affix that is added at the end of the word
+  ili: i69634
+  members:
+  - fortórmach
   partOfSpeech: n
 87331769-n:
   definition:
@@ -440,6 +690,13 @@
   members:
   - gréc
   partOfSpeech: n
+87438694-n:
+  definition:
+  - praise, congratulations, kudos, extolment — an expression of approval and commendation
+  ili: i71660
+  members:
+  - molad
+  partOfSpeech: n
 87443575-n:
   definition:
   - case, grammatical case — nouns or pronouns or adjectives (often marked by inflection)
@@ -459,6 +716,21 @@
   members:
   - dobríathar
   partOfSpeech: n
+87451567-n:
+  definition:
+  - Gospel, Gospels, evangel — the four books in the New Testament (Matthew, Mark,
+    Luke, and John) that tell the story of Christ's life and teachings
+  ili: i70381
+  members:
+  - soiscélae
+  partOfSpeech: n
+87516741-n:
+  definition:
+  - testimony — an assertion offering firsthand authentication of a fact
+  ili: i71880
+  members:
+  - teist
+  partOfSpeech: n
 87546268-n:
   definition:
   - participial, participle — a non-finite form of the verb; in English it is used
@@ -468,6 +740,22 @@
   ili: i69745
   members:
   - ranngabál
+  partOfSpeech: n
+87546317-n:
+  definition:
+  - eloquence, fluency, smoothness — powerful and effective language
+  ili: i73831
+  members:
+  - sulbaire
+  partOfSpeech: n
+87636471-n:
+  definition:
+  - narrative, narration, story, tale — a message that tells the particulars of an
+    act or occurrence or course of events; presented in writing or drama or cinema
+    or as a radio or television program
+  ili: i74608
+  members:
+  - senchas
   partOfSpeech: n
 87796683-n:
   definition:
@@ -487,6 +775,8 @@
   ili: i74027
   members:
   - fogur
+  - son
+  - guth
   partOfSpeech: n
 87894795-n:
   definition:
@@ -496,6 +786,15 @@
   ili: i74103
   members:
   - grácad
+  partOfSpeech: n
+87982439-n:
+  definition:
+  - stop consonant, stop, occlusive, plosive consonant, plosive speech sound, plosive
+    — a consonant produced by stopping the flow of air at some point and suddenly
+    releasing it
+  ili: i74055
+  members:
+  - mút
   partOfSpeech: n
 88439721-n:
   definition:
@@ -538,6 +837,28 @@
   - guthaigthe
   - guttae
   partOfSpeech: n
+88646684-n:
+  definition:
+  - poem, verse form — a composition written in metrical feet forming rhythmical lines
+  ili: i69992
+  members:
+  - dán
+  partOfSpeech: n
+88664232-n:
+  definition:
+  - command, bid, bidding, dictation — an authoritative direction or instruction to
+    do something
+  ili: i74322
+  members:
+  - forngaire
+  partOfSpeech: n
+88732758-n:
+  definition:
+  - letter, missive — a written message addressed to a person or organization
+  ili: i71287
+  members:
+  - liter
+  partOfSpeech: n
 88734992-n:
   definition:
   - preposition — a function word that combines with a noun or pronoun or noun phrase
@@ -548,6 +869,21 @@
   ili: i69717
   members:
   - remṡuidigud
+  partOfSpeech: n
+88787094-n:
+  definition:
+  - book — a written work or composition that has been published (printed on pages
+    bound together)
+  ili: i70180
+  members:
+  - lebor
+  partOfSpeech: n
+88820779-n:
+  definition:
+  - proper noun, proper name — a noun that denotes a particular thing; usually capitalized
+  ili: i69695
+  members:
+  - ainm ṅdíles
   partOfSpeech: n
 88845743-n:
   definition:
@@ -598,6 +934,30 @@
   members:
   - genitiu
   partOfSpeech: n
+89127561-n:
+  definition:
+  - vocative, vocative case — the case (in some inflected languages) used when the
+    referent of the noun is being addressed
+  ili: i69653
+  members:
+  - togarthaid
+  partOfSpeech: n
+89220346-n:
+  definition:
+  - feminine — a gender that refers chiefly (but not exclusively) to females or to
+    objects classified as female
+  ili: i69736
+  members:
+  - femen
+  partOfSpeech: n
+89301137-n:
+  definition:
+  - rule, linguistic rule — (linguistics) a rule describing (or prescribing) a linguistic
+    practice
+  ili: i74822
+  members:
+  - ríagol
+  partOfSpeech: n
 89330100-n:
   definition:
   - auditory communication — communication that relies on hearing
@@ -616,6 +976,21 @@
   members:
   - dobríathar
   partOfSpeech: n
+89635677-n:
+  definition:
+  - ending, termination — the end of a word (a suffix or inflectional ending or final
+    morpheme)
+  ili: i69633
+  members:
+  - tairmḟorcend
+  partOfSpeech: n
+89847798-n:
+  definition:
+  - question, inquiry, enquiry, query, interrogation — an instance of questioning
+  ili: i74460
+  members:
+  - imchomarc
+  partOfSpeech: n
 89860995-n:
   definition:
   - gender, grammatical gender — a grammatical category in inflected languages governing
@@ -627,4 +1002,12 @@
   ili: i69735
   members:
   - cenél
+  partOfSpeech: n
+89899974-n:
+  definition:
+  - promise — a verbal commitment by one person to another agreeing to do (or not
+    to do) something in the future
+  ili: i74638
+  members:
+  - tairngire
   partOfSpeech: n

@@ -1,3 +1,18 @@
+peccad:
+  n:
+    sense:
+    - id: 'peccad%1:04:00::'
+      synset: 88240865-n
+pecthach:
+  n:
+    sense:
+    - id: 'pecthach%1:18:00::'
+      synset: 82432851-n
+peneuilt:
+  n:
+    sense:
+    - id: 'peneuilt%1:10:00::'
+      synset: 86145728-n
 persan:
   n:
     sense:
@@ -7,8 +22,28 @@ persan:
       synset: 86659954-n
     - id: 'persan%1:10:02::'
       synset: 88490498-n
+popul:
+  n:
+    sense:
+    - id: 'popul%1:14:00::'
+      synset: 82326633-n
 posit:
   n:
     sense:
     - id: 'posit%1:10:00::'
       synset: 87016430-n
+precept:
+  n:
+    sense:
+    - id: 'precept%1:10:00::'
+      synset: 80989358-n
+pridchid:
+  v:
+    sense:
+    - id: 'pridchid%2:32:00::'
+      synset: 81472192-v
+póc:
+  n:
+    sense:
+    - id: 'póc%1:04:00::'
+      synset: 82749052-n

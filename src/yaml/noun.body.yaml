@@ -1,3 +1,50 @@
+80015460-n:
+  definition:
+  - lip — either of two fleshy folds of tissue that surround the mouth and play a
+    role in speaking
+  ili: i64837
+  members:
+  - bél
+  partOfSpeech: n
+80230865-n:
+  definition:
+  - jaw — the part of the skull of a vertebrate that frames the mouth and holds the
+    teeth
+  ili: i66064
+  members:
+  - glaine
+  partOfSpeech: n
+84445433-n:
+  definition:
+  - blood — the fluid (red in vertebrates) that is pumped through the body by the
+    heart and contains plasma, blood cells, and platelets
+  ili: i65349
+  members:
+  - fuil
+  partOfSpeech: n
+84761508-n:
+  definition:
+  - lock — a strand or cluster of hair
+  ili: i64582
+  members:
+  - gibnae
+  partOfSpeech: n
+85991580-n:
+  definition:
+  - skin, tegument, cutis — a natural protective body covering and site of the sense
+    of touch
+  ili: i64482
+  members:
+  - croicenn
+  partOfSpeech: n
+86466983-n:
+  definition:
+  - buttock, cheek — either of the two large fleshy masses of muscular tissue that
+    form the human rump
+  ili: i66133
+  members:
+  - cochae
+  partOfSpeech: n
 86659954-n:
   definition:
   - person — a human body (usually including the clothing)
@@ -6,4 +53,71 @@
   ili: i64384
   members:
   - persan
+  partOfSpeech: n
+86711552-n:
+  definition:
+  - nail — horny plate covering and protecting part of the dorsal surface of the digits
+  ili: i66246
+  members:
+  - ingen
+  partOfSpeech: n
+86942631-n:
+  definition:
+  - 'flesh — the soft tissue of the body of a vertebrate: mainly muscle tissue and
+    fat'
+  ili: i64648
+  members:
+  - colinn
+  partOfSpeech: n
+87404896-n:
+  definition:
+  - knee, knee joint, human knee, articulatio genus, genu — hinge joint in the human
+    leg connecting the tibia and fibula with the femur and protected in front by the
+    patella
+  ili: i66201
+  members:
+  - glún
+  partOfSpeech: n
+87743699-n:
+  definition:
+  - head, caput — the upper part of the human body or the front part of the body in
+    animals; contains the face and brains
+  ili: i66025
+  members:
+  - cenn
+  partOfSpeech: n
+88504955-n:
+  definition:
+  - liver — large and complicated reddish-brown glandular organ located in the upper
+    right portion of the abdominal cavity; secretes bile and functions in metabolism
+    of protein and carbohydrate and fat; synthesizes substances involved in the clotting
+    of the blood; synthesizes vitamin A; detoxifies poisonous substances and breaks
+    down worn-out erythrocytes
+  ili: i65277
+  members:
+  - óa
+  partOfSpeech: n
+88705215-n:
+  definition:
+  - leg — a human limb; commonly used to refer to a whole limb but technically only
+    the part of the limb between the knee and ankle
+  ili: i66137
+  members:
+  - erochuir
+  partOfSpeech: n
+88820217-n:
+  definition:
+  - body, organic structure — the entire physical structure of an organism (an animal,
+    plant, or human being)
+  ili: i64381
+  members:
+  - corp
+  partOfSpeech: n
+89485722-n:
+  definition:
+  - spleen, lien — a large dark-red oval organ on the left side of the body between
+    the stomach and the diaphragm; produces cells involved in immune responses
+  ili: i64983
+  members:
+  - lúa líath
   partOfSpeech: n

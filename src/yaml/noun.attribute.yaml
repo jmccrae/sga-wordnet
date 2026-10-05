@@ -1,3 +1,10 @@
+80428126-n:
+  definition:
+  - shortness — the property of being of short temporal extent
+  ili: i63549
+  members:
+  - gair
+  partOfSpeech: n
 80577178-n:
   definition:
   - similarity — the quality of being similar
@@ -6,6 +13,20 @@
   ili: i61954
   members:
   - cosmailius
+  partOfSpeech: n
+80840996-n:
+  definition:
+  - modesty, modestness — freedom from vanity or conceit
+  ili: i62742
+  members:
+  - féle
+  partOfSpeech: n
+80915795-n:
+  definition:
+  - conformity, conformance — correspondence in form or appearance
+  ili: i61823
+  members:
+  - comdelb
   partOfSpeech: n
 80979221-n:
   definition:
@@ -16,6 +37,7 @@
   members:
   - cáil
   - aiste
+  - inne
   partOfSpeech: n
 81287314-n:
   definition:
@@ -26,6 +48,13 @@
   ili: i63671
   members:
   - comṡuidigud
+  partOfSpeech: n
+81348025-n:
+  definition:
+  - good, goodness — moral excellence or admirableness
+  ili: i62472
+  members:
+  - maith
   partOfSpeech: n
 81532433-n:
   definition:
@@ -63,6 +92,7 @@
   ili: i61872
   members:
   - aicned
+  - dúildetu
   partOfSpeech: n
 82954869-n:
   definition:
@@ -72,6 +102,30 @@
   ili: i62886
   members:
   - mod
+  - cruth
+  partOfSpeech: n
+82988524-n:
+  definition:
+  - diverseness, diversity, multifariousness, variety — noticeable heterogeneity
+  ili: i61994
+  members:
+  - mrechtrad
+  - écsamlus
+  partOfSpeech: n
+83128399-n:
+  definition:
+  - cheerfulness, cheer, sunniness, sunshine — the quality of being cheerful and dispelling
+    gloom
+  ili: i61411
+  members:
+  - sulbaire
+  partOfSpeech: n
+83588119-n:
+  definition:
+  - resemblance — similarity in appearance or external or superficial details
+  ili: i61972
+  members:
+  - cosmailius
   partOfSpeech: n
 84077027-n:
   definition:
@@ -90,6 +144,15 @@
   ili: i64253
   members:
   - cumachtae
+  - cumang
+  partOfSpeech: n
+84213008-n:
+  definition:
+  - length — the linear extent in space from one end to the other; the longest dimension
+    of something that is fixed in place
+  ili: i63940
+  members:
+  - fot
   partOfSpeech: n
 84937696-n:
   definition:
@@ -101,6 +164,21 @@
   members:
   - sainred
   partOfSpeech: n
+85629167-n:
+  definition:
+  - likeness, alikeness, similitude — similarity in appearance or character or nature
+    between persons or things
+  ili: i61960
+  members:
+  - cosmailius
+  partOfSpeech: n
+85872350-n:
+  definition:
+  - humanness, humanity, manhood — the quality of being human
+  ili: i61873
+  members:
+  - doínecht
+  partOfSpeech: n
 85941576-n:
   definition:
   - quantity — an adequate or large amount
@@ -110,6 +188,14 @@
   members:
   - méit
   partOfSpeech: n
+86634859-n:
+  definition:
+  - constitution, composition, physical composition, makeup, make-up — the way in
+    which someone or something is composed
+  ili: i62908
+  members:
+  - comṡuidigud
+  partOfSpeech: n
 86647021-n:
   definition:
   - amount — the relative magnitude of something with reference to a criterion
@@ -118,6 +204,34 @@
   ili: i63839
   members:
   - méit
+  partOfSpeech: n
+86693725-n:
+  definition:
+  - moderation, moderateness — quality of being moderate and avoiding extremes
+  ili: i63885
+  members:
+  - mesrugud
+  partOfSpeech: n
+87107549-n:
+  definition:
+  - righteousness — adhering to moral principles
+  ili: i62355
+  members:
+  - fírinne
+  partOfSpeech: n
+87470626-n:
+  definition:
+  - force, forcefulness, strength — physical energy or intensity
+  ili: i63463
+  members:
+  - nert
+  partOfSpeech: n
+87812825-n:
+  definition:
+  - oneness, unity — the quality of being united into one
+  ili: i61952
+  members:
+  - oentu
   partOfSpeech: n
 87849671-n:
   definition:
@@ -138,6 +252,13 @@
   members:
   - fot
   partOfSpeech: n
+88317509-n:
+  definition:
+  - generality — the quality of being general or widespread or having general applicability
+  ili: i62052
+  members:
+  - cenélche
+  partOfSpeech: n
 88536860-n:
   definition:
   - figure, number — the property possessed by a sum or total or indefinite quantity
@@ -147,6 +268,7 @@
   ili: i63904
   members:
   - lín
+  - áirem
   partOfSpeech: n
 88616102-n:
   definition:
@@ -157,6 +279,13 @@
   members:
   - inne
   partOfSpeech: n
+88858179-n:
+  definition:
+  - profit, gain — the advantageous quality of being beneficial
+  ili: i64085
+  members:
+  - torbae
+  partOfSpeech: n
 88914645-n:
   definition:
   - power, might, mightiness — physical strength
@@ -165,6 +294,13 @@
   ili: i63436
   members:
   - cumachtae
+  partOfSpeech: n
+89071911-n:
+  definition:
+  - simplicity, simpleness — the quality of being simple or uncompounded
+  ili: i62060
+  members:
+  - díuitius
   partOfSpeech: n
 89225372-n:
   definition:

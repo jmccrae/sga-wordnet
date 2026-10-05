@@ -3,11 +3,29 @@ macc:
     sense:
     - id: 'macc%1:18:00::'
       synset: 89954573-n
+    - id: 'macc%1:18:01::'
+      synset: 81292478-n
+machdad:
+  n:
+    sense:
+    - id: 'machdad%1:11:00::'
+      synset: 80780124-n
 maith:
   a:
     sense:
     - id: 'maith%3:00:00::'
       synset: 88733271-a
+    - id: 'maith%3:00:01::'
+      synset: 88070441-a
+  n:
+    sense:
+    - id: 'maith%1:07:02::'
+      synset: 81348025-n
+mall:
+  a:
+    sense:
+    - id: 'mall%3:00:00::'
+      synset: 81946301-a
 mascul:
   n:
     sense:
@@ -20,16 +38,70 @@ medar:
       synset: 80644807-n
     - id: 'medar%1:10:01::'
       synset: 89330100-n
+medón:
+  n:
+    sense:
+    - id: 'medón%1:28:00::'
+      synset: 85589361-n
+    - id: 'medón%1:15:01::'
+      synset: 81411458-n
+medóndae:
+  a:
+    sense:
+    - id: 'medóndae%3:00:00::'
+      synset: 87453341-a
 menma:
   n:
     sense:
     - id: 'menma%1:09:00::'
       synset: 89159375-n
+    - id: 'menma%1:09:01::'
+      synset: 89280551-n
+mesrugud:
+  n:
+    sense:
+    - id: 'mesrugud%1:07:00::'
+      synset: 86693725-n
 mod:
   n:
     sense:
     - id: 'mod%1:07:00::'
       synset: 82954869-n
+molad:
+  n:
+    sense:
+    - id: 'molad%1:10:00::'
+      synset: 87438694-n
+mrechtrad:
+  n:
+    sense:
+    - id: 'mrechtrad%1:07:00::'
+      synset: 82988524-n
+mucc:
+  n:
+    sense:
+    - id: 'mucc%1:05:00::'
+      synset: 84383522-n
+mug:
+  n:
+    sense:
+    - id: 'mug%1:18:00::'
+      synset: 80989107-n
+muinter:
+  n:
+    sense:
+    - id: 'muinter%1:14:00::'
+      synset: 88746937-n
+muir:
+  n:
+    sense:
+    - id: 'muir%1:17:00::'
+      synset: 87200862-n
+már:
+  s:
+    sense:
+    - id: már%5:00:00:???:00
+      synset: 80163161-s
 máthair:
   n:
     sense:
@@ -46,3 +118,18 @@ méit:
       synset: 81819714-n
     - id: 'méit%1:07:03::'
       synset: 86647021-n
+míl:
+  n:
+    sense:
+    - id: 'míl%1:18:00::'
+      synset: 88280822-n
+místae:
+  s:
+    sense:
+    - id: místae%5:00:00:???:00
+      synset: 87563551-s
+mút:
+  n:
+    sense:
+    - id: 'mút%1:10:00::'
+      synset: 87982439-n

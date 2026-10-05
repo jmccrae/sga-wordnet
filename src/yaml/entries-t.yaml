@@ -3,6 +3,31 @@ taidbsiu:
     sense:
     - id: 'taidbsiu%2:31:00::'
       synset: 81960504-v
+tairmthecht:
+  n:
+    sense:
+    - id: 'tairmthecht%1:04:00::'
+      synset: 88175979-n
+tairmthechtas:
+  n:
+    sense:
+    - id: 'tairmthechtas%1:04:00::'
+      synset: 88175979-n
+tairmḟorcend:
+  n:
+    sense:
+    - id: 'tairmḟorcend%1:10:00::'
+      synset: 89635677-n
+tairngire:
+  n:
+    sense:
+    - id: 'tairngire%1:10:00::'
+      synset: 89899974-n
+tech:
+  n:
+    sense:
+    - id: 'tech%1:06:00::'
+      synset: 84531795-n
 techtaid:
   v:
     sense:
@@ -10,26 +35,80 @@ techtaid:
       synset: 87022866-v
     - id: 'techtaid%2:40:01::'
       synset: 80626763-v
+    - id: 'techtaid%2:42:02::'
+      synset: 85962572-v
+tecmang:
+  n:
+    sense:
+    - id: 'tecmang%1:11:00::'
+      synset: 80172240-n
+tegdais:
+  n:
+    sense:
+    - id: 'tegdais%1:06:00::'
+      synset: 84531795-n
 teirt:
   s:
     sense:
     - id: teirt%5:00:00:???:00
       synset: 81827676-s
+teist:
+  n:
+    sense:
+    - id: 'teist%1:10:00::'
+      synset: 87516741-n
+testimin:
+  n:
+    sense:
+    - id: 'testimin%1:10:00::'
+      synset: 83989319-n
+timorcon:
+  n:
+    sense:
+    - id: 'timorcon%1:04:00::'
+      synset: 84910614-n
 timortae:
   a:
     sense:
     - id: 'timortae%3:00:00::'
       synset: 84949211-a
+tindnacol:
+  n:
+    sense:
+    - id: 'tindnacol%1:21:00::'
+      synset: 84218285-n
 tinfed:
   n:
     sense:
     - id: 'tinfed%1:10:00::'
       synset: 80982440-n
+    - id: 'tinfed%1:04:01::'
+      synset: 86228844-n
 tobarthaid:
   n:
     sense:
     - id: 'tobarthaid%1:10:00::'
       synset: 87167098-n
+togarthaid:
+  n:
+    sense:
+    - id: 'togarthaid%1:10:00::'
+      synset: 89127561-n
+tomus:
+  n:
+    sense:
+    - id: 'tomus%1:04:00::'
+      synset: 85473015-n
+torad:
+  n:
+    sense:
+    - id: 'torad%1:20:00::'
+      synset: 82778974-n
+torbae:
+  n:
+    sense:
+    - id: 'torbae%1:07:00::'
+      synset: 88858179-n
 tormach:
   n:
     sense:
@@ -40,11 +119,25 @@ tosach:
     sense:
     - id: 'tosach%1:09:00::'
       synset: 86634966-n
+    - id: 'tosach%1:11:01::'
+      synset: 81665085-n
+trebar:
+  a:
+    sense:
+    - id: 'trebar%3:00:00::'
+      synset: 80698935-a
 trá:
   r:
     sense:
     - id: 'trá%4:02:00::'
       synset: 86151269-r
+    - id: 'trá%4:02:01::'
+      synset: 84592924-r
+trén:
+  a:
+    sense:
+    - id: 'trén%3:00:00::'
+      synset: 82219612-a
 tuisel:
   n:
     sense:
@@ -65,6 +158,28 @@ téit:
     sense:
     - id: 'téit%2:42:00::'
       synset: 86414182-v
+tíarmóracht:
+  n:
+    sense:
+    - id: 'tíarmóracht%1:10:00::'
+      synset: 86156433-n
+tír:
+  n:
+    sense:
+    - id: 'tír%1:15:00::'
+      synset: 82183170-n
+    - id: 'tír%1:17:01::'
+      synset: 80187145-n
+tís:
+  r:
+    sense:
+    - id: 'tís%4:02:00::'
+      synset: 87740750-r
+tóbae:
+  n:
+    sense:
+    - id: 'tóbae%1:22:00::'
+      synset: 87265582-n
 tóib:
   n:
     sense:
@@ -75,3 +190,10 @@ tórand:
     sense:
     - id: 'tórand%1:10:00::'
       synset: 86881526-n
+    - id: 'tórand%1:25:01::'
+      synset: 85095499-n
+túas:
+  r:
+    sense:
+    - id: 'túas%4:02:00::'
+      synset: 83022925-r

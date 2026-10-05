@@ -7,6 +7,13 @@
   members:
   - loc
   partOfSpeech: n
+81411458-n:
+  definition:
+  - midst, thick — the location of something surrounded by other things
+  ili: i82113
+  members:
+  - medón
+  partOfSpeech: n
 81779714-n:
   definition:
   - region — a large indefinite location on the surface of the Earth
@@ -18,6 +25,28 @@
   - tóib
   - bruig
   partOfSpeech: n
+82089450-n:
+  definition:
+  - position, place — the particular portion of space occupied by something
+  ili: i82294
+  members:
+  - suidiugud
+  partOfSpeech: n
+82183170-n:
+  definition:
+  - country, state, land — the territory occupied by a nation
+  ili: i81888
+  members:
+  - tír
+  partOfSpeech: n
+82686585-n:
+  definition:
+  - beginning, origin, root, rootage, source — the place where something begins, where
+    it springs into being
+  ili: i81759
+  members:
+  - bunad
+  partOfSpeech: n
 82967009-n:
   definition:
   - point — the precise location of something; a spatially limited location
@@ -27,6 +56,14 @@
   members:
   - áitt
   - loc
+  partOfSpeech: n
+83283779-n:
+  definition:
+  - boundary, bound, bounds — the line or plane indicating the limit or extent of
+    something
+  ili: i81782
+  members:
+  - crích
   partOfSpeech: n
 84095545-n:
   definition:

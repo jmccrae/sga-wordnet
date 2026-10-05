@@ -1,9 +1,34 @@
+82966292-v:
+  definition:
+  - search, seek, look for — try to locate or discover, or try to establish the existence
+    of
+  ili: i28263
+  members:
+  - íarmifoich
+  partOfSpeech: v
+84589581-v:
+  definition:
+  - smear, blur, smudge, smutch — make a smudge on; soil by smudging
+  ili: i27900
+  members:
+  - foslig
+  partOfSpeech: v
+87634577-v:
+  definition:
+  - wash, launder — cleanse with a cleaning agent, such as soap, and water
+  ili: i29407
+  members:
+  - dofonaig
+  - folcaid
+  partOfSpeech: v
 88016007-v:
   definition:
   - set, place, pose, position, put, lay — put into a certain place or abstract location
   ili: i29197
   members:
   - dobeir
+  - suidigidir
+  - foceird
   partOfSpeech: v
 88506063-v:
   definition:

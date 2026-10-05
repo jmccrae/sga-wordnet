@@ -1,3 +1,49 @@
+80152611-v:
+  definition:
+  - interpret, construe, see — make sense of; assign a meaning to
+  ili: i24866
+  members:
+  - fogní
+  partOfSpeech: v
+81243704-v:
+  definition:
+  - distinguish, separate, differentiate, secern, secernate, severalize, severalise,
+    tell, tell apart — mark as different
+  ili: i24985
+  members:
+  - fodáli
+  partOfSpeech: v
+81282275-v:
+  definition:
+  - compare — examine and note the similarities or differences of
+  ili: i24995
+  members:
+  - condelca
+  - cosmailigidir
+  - samlaither
+  partOfSpeech: v
+81343755-v:
+  definition:
+  - recognize, recognise — perceive to be the same
+  ili: i24811
+  members:
+  - asgnin
+  partOfSpeech: v
+81357454-v:
+  definition:
+  - believe — accept as true; take to be true
+  ili: i25132
+  members:
+  - creitid
+  partOfSpeech: v
+81593321-v:
+  definition:
+  - abandon, forsake, desolate, desert — leave someone who needs or counts on you;
+    leave in the lurch
+  ili: i24827
+  members:
+  - doérig
+  partOfSpeech: v
 81960504-v:
   definition:
   - establish, prove, show, shew, demonstrate — establish the validity of something,
@@ -6,10 +52,63 @@
   members:
   - taidbsiu
   partOfSpeech: v
+82478184-v:
+  definition:
+  - leave — go and leave behind, either intentionally or by neglect or forgetfulness
+  ili: i24826
+  members:
+  - foácaib
+  partOfSpeech: v
+83523394-v:
+  definition:
+  - believe — follow a credo; have a faith; be a believer
+  ili: i25137
+  members:
+  - creitid
+  partOfSpeech: v
+83866191-v:
+  definition:
+  - understand — know and comprehend the nature or meaning of
+  ili: i24710
+  members:
+  - dobeir
+  - asgnin
+  partOfSpeech: v
+84467615-v:
+  definition:
+  - calculate, cipher, cypher, compute, work out, reckon, figure — make a mathematical
+    calculation or computation
+  ili: i24925
+  members:
+  - adrími
+  partOfSpeech: v
 84706651-v:
   definition:
   - read — interpret something that is written or printed
   ili: i24875
   members:
   - léigend
+  partOfSpeech: v
+84790345-v:
+  definition:
+  - assume, presume, take for granted — take to be the case or to be true; accept
+    without verification or proof
+  ili: i24905
+  members:
+  - arfoím
+  partOfSpeech: v
+88683135-v:
+  definition:
+  - know, cognize, cognise — be cognizant or aware of a fact or a specific piece of
+    information; possess knowledge or information about
+  ili: i24736
+  members:
+  - rofinnadar
+  partOfSpeech: v
+89879061-v:
+  definition:
+  - think, believe, consider, conceive — judge or regard; look upon; judge
+  ili: i25161
+  members:
+  - domoinethar
   partOfSpeech: v

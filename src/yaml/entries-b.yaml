@@ -1,3 +1,8 @@
+bacc:
+  n:
+    sense:
+    - id: 'bacc%1:06:00::'
+      synset: 86562545-n
 bal:
   n:
     sense:
@@ -15,10 +20,29 @@ becc:
     sense:
     - id: 'becc%3:00:01::'
       synset: 87553185-a
+    - id: 'becc%3:00:02::'
+      synset: 88923681-a
+    - id: 'becc%3:00:03::'
+      synset: 84438837-a
   s:
     sense:
     - id: becc%5:00:00:???:00
       synset: 81765892-s
+beirid:
+  v:
+    sense:
+    - id: 'beirid%2:38:00::'
+      synset: 81630947-v
+ben día:
+  n:
+    sense:
+    - id: 'ben_día%1:18:00::'
+      synset: 86489904-n
+bethu:
+  n:
+    sense:
+    - id: 'bethu%1:26:00::'
+      synset: 87134707-n
 beus:
   r:
     sense:
@@ -31,23 +55,84 @@ biad:
       synset: 83348516-n
     - id: 'biad%1:13:01::'
       synset: 86173573-n
+bindius:
+  n:
+    sense:
+    - id: 'bindius%1:09:00::'
+      synset: 86847478-n
+biáil:
+  n:
+    sense:
+    - id: 'biáil%1:06:00::'
+      synset: 86883593-n
 bruig:
   n:
     sense:
     - id: 'bruig%1:15:00::'
       synset: 81779714-n
+bráthair:
+  n:
+    sense:
+    - id: 'bráthair%1:18:00::'
+      synset: 86884345-n
 bríathar:
   n:
     sense:
     - id: 'bríathar%1:10:00::'
       synset: 82734458-n
+    - id: 'bríathar%1:10:01::'
+      synset: 81092558-n
+    - id: 'bríathar%1:10:02::'
+      synset: 86651597-n
+buide:
+  s:
+    sense:
+    - id: buide%5:00:00:???:00
+      synset: 86869743-s
+buith:
+  n:
+    sense:
+    - id: 'buith%1:26:00::'
+      synset: 83697406-n
+bunad:
+  n:
+    sense:
+    - id: 'bunad%1:15:00::'
+      synset: 82686585-n
+báeth:
+  n:
+    sense:
+    - id: 'báeth%1:18:00::'
+      synset: 89749138-n
+bás:
+  n:
+    sense:
+    - id: 'bás%1:19:00::'
+      synset: 81570204-n
+    - id: 'bás%1:11:01::'
+      synset: 86412617-n
+bél:
+  n:
+    sense:
+    - id: 'bél%1:08:00::'
+      synset: 80015460-n
 béo:
   n:
     sense:
     - id: 'béo%1:03:00::'
       synset: 85504953-n
+bés:
+  n:
+    sense:
+    - id: 'bés%1:04:00::'
+      synset: 89564137-n
 bést:
   n:
     sense:
     - id: 'bést%1:03:00::'
       synset: 80717417-n
+búaid:
+  n:
+    sense:
+    - id: 'búaid%1:11:00::'
+      synset: 89198809-n

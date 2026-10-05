@@ -1,8 +1,33 @@
+fairge:
+  n:
+    sense:
+    - id: 'fairge%1:17:00::'
+      synset: 87200862-n
+fecht:
+  n:
+    sense:
+    - id: 'fecht%1:11:00::'
+      synset: 89867029-n
+femen:
+  n:
+    sense:
+    - id: 'femen%1:10:00::'
+      synset: 89220346-n
+fer:
+  n:
+    sense:
+    - id: 'fer%1:18:00::'
+      synset: 85190976-n
 fers:
   n:
     sense:
     - id: 'fers%1:10:00::'
       synset: 87796683-n
+fid:
+  n:
+    sense:
+    - id: 'fid%1:20:00::'
+      synset: 83206564-n
 figair:
   n:
     sense:
@@ -17,11 +42,43 @@ fili:
     sense:
     - id: 'fili%1:18:00::'
       synset: 89280411-n
+fillid:
+  v:
+    sense:
+    - id: 'fillid%2:32:00::'
+      synset: 80171514-v
 fis:
   n:
     sense:
     - id: 'fis%1:09:00::'
       synset: 88128664-n
+fisid:
+  n:
+    sense:
+    - id: 'fisid%1:18:00::'
+      synset: 84705137-n
+flesc:
+  n:
+    sense:
+    - id: 'flesc%1:10:00::'
+      synset: 83206484-n
+foceird:
+  v:
+    sense:
+    - id: 'foceird%2:35:00::'
+      synset: 88016007-v
+fochith:
+  n:
+    sense:
+    - id: 'fochith%1:26:00::'
+      synset: 83260941-n
+    - id: 'fochith%1:26:01::'
+      synset: 81672440-n
+fochraic:
+  n:
+    sense:
+    - id: 'fochraic%1:11:00::'
+      synset: 81900791-n
 fochslaid:
   n:
     sense:
@@ -37,6 +94,33 @@ fodail:
     sense:
     - id: 'fodail%1:09:00::'
       synset: 85087478-n
+fodaim:
+  v:
+    sense:
+    - id: 'fodaim%2:39:00::'
+      synset: 84842723-v
+foditiu:
+  n:
+    sense:
+    - id: 'foditiu%1:04:00::'
+      synset: 86933702-n
+fodáli:
+  v:
+    sense:
+    - id: 'fodáli%2:31:00::'
+      synset: 81243704-v
+    - id: 'fodáli%2:41:01::'
+      synset: 83899427-v
+fofera:
+  v:
+    sense:
+    - id: 'fofera%2:36:00::'
+      synset: 88847701-v
+fogní:
+  v:
+    sense:
+    - id: 'fogní%2:31:00::'
+      synset: 80152611-v
 fogur:
   n:
     sense:
@@ -49,6 +133,23 @@ foillsigud:
     sense:
     - id: 'foillsigud%1:10:00::'
       synset: 84817857-n
+    - id: 'foillsigud%1:04:01::'
+      synset: 86939928-n
+foilsigidir:
+  v:
+    sense:
+    - id: 'foilsigidir%2:39:00::'
+      synset: 83707846-v
+foirbthe:
+  a:
+    sense:
+    - id: 'foirbthe%3:00:00::'
+      synset: 83037356-a
+foirbthetu:
+  n:
+    sense:
+    - id: 'foirbthetu%1:26:00::'
+      synset: 85496712-n
 folad:
   n:
     sense:
@@ -58,11 +159,77 @@ folad:
       synset: 80785130-n
     - id: 'folad%1:03:02::'
       synset: 83505619-n
+folcaid:
+  v:
+    sense:
+    - id: 'folcaid%2:35:00::'
+      synset: 87634577-v
 follus:
   a:
     sense:
     - id: 'follus%3:00:00::'
       synset: 83570020-a
+  s:
+    sense:
+    - id: follus%5:00:01:???:00
+      synset: 83310555-s
+foraithmet:
+  n:
+    sense:
+    - id: 'foraithmet%1:09:00::'
+      synset: 83387525-n
+forbae:
+  n:
+    sense:
+    - id: 'forbae%1:04:00::'
+      synset: 84294454-n
+forbart:
+  n:
+    sense:
+    - id: 'forbart%1:11:00::'
+      synset: 88477367-n
+forbeir:
+  v:
+    sense:
+    - id: 'forbeir%2:30:00::'
+      synset: 89915078-v
+forcain:
+  v:
+    sense:
+    - id: 'forcain%2:32:00::'
+      synset: 88844957-v
+forcenn:
+  n:
+    sense:
+    - id: 'forcenn%1:09:00::'
+      synset: 83136937-n
+forcetal:
+  n:
+    sense:
+    - id: 'forcetal%1:04:00::'
+      synset: 85474157-n
+forcetlid:
+  n:
+    sense:
+    - id: 'forcetlid%1:18:00::'
+      synset: 83783926-n
+forcomai:
+  v:
+    sense:
+    - id: 'forcomai%2:40:00::'
+      synset: 86309643-v
+    - id: 'forcomai%2:42:01::'
+      synset: 88684802-v
+forcongair:
+  v:
+    sense:
+    - id: 'forcongair%2:32:00::'
+      synset: 82636562-v
+fordingair:
+  v:
+    sense:
+    - id: 'fordingair%2:32:00::'
+      synset: 80902494-v
 forgnúis:
   n:
     sense:
@@ -70,11 +237,38 @@ forgnúis:
       synset: 81886174-n
     - id: 'forgnúis%1:10:01::'
       synset: 85924383-n
+forngaire:
+  n:
+    sense:
+    - id: 'forngaire%1:10:00::'
+      synset: 88664232-n
+fortórmach:
+  n:
+    sense:
+    - id: 'fortórmach%1:10:00::'
+      synset: 87284935-n
+foslig:
+  v:
+    sense:
+    - id: 'foslig%2:35:00::'
+      synset: 84589581-v
 fot:
   n:
     sense:
     - id: 'fot%1:07:00::'
       synset: 88014072-n
+    - id: 'fot%1:07:01::'
+      synset: 84213008-n
+foácaib:
+  v:
+    sense:
+    - id: 'foácaib%2:31:00::'
+      synset: 82478184-v
+foídid:
+  v:
+    sense:
+    - id: 'foídid%2:38:00::'
+      synset: 88815744-v
 frecndairc:
   a:
     sense:
@@ -87,8 +281,35 @@ frecrae:
     sense:
     - id: 'frecrae%1:10:00::'
       synset: 87331769-n
+    - id: 'frecrae%1:10:01::'
+      synset: 84259651-n
+fuil:
+  n:
+    sense:
+    - id: 'fuil%1:08:00::'
+      synset: 84445433-n
+féchem:
+  n:
+    sense:
+    - id: 'féchem%1:18:00::'
+      synset: 85616221-n
+féle:
+  n:
+    sense:
+    - id: 'féle%1:07:00::'
+      synset: 80840996-n
+fích:
+  n:
+    sense:
+    - id: 'fích%1:14:00::'
+      synset: 80399582-n
 fír:
   a:
     sense:
     - id: 'fír%3:00:00::'
       synset: 89091813-a
+fírinne:
+  n:
+    sense:
+    - id: 'fírinne%1:07:00::'
+      synset: 87107549-n

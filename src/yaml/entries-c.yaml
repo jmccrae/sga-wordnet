@@ -1,18 +1,58 @@
+caill:
+  n:
+    sense:
+    - id: 'caill%1:17:00::'
+      synset: 84304662-n
+caindleóir:
+  n:
+    sense:
+    - id: 'caindleóir%1:18:00::'
+      synset: 86534776-n
 camm:
   n:
     sense:
     - id: 'camm%1:10:00::'
       synset: 83027826-n
+camm derc:
+  n:
+    sense:
+    - id: 'camm_derc%1:18:00::'
+      synset: 87632579-n
 camthuisel:
   n:
     sense:
     - id: 'camthuisel%1:10:00::'
       synset: 83027826-n
+carae:
+  n:
+    sense:
+    - id: 'carae%1:18:00::'
+      synset: 87264171-n
+caraid:
+  v:
+    sense:
+    - id: 'caraid%2:37:00::'
+      synset: 80312255-v
 cathair:
   n:
     sense:
     - id: 'cathair%1:15:00::'
       synset: 87048819-n
+cathrar:
+  n:
+    sense:
+    - id: 'cathrar%1:18:00::'
+      synset: 82583182-n
+cedacht:
+  r:
+    sense:
+    - id: 'cedacht%4:02:00::'
+      synset: 84192411-r
+cenn:
+  n:
+    sense:
+    - id: 'cenn%1:08:00::'
+      synset: 87743699-n
 cenél:
   n:
     sense:
@@ -20,26 +60,68 @@ cenél:
       synset: 89533822-n
     - id: 'cenél%1:10:01::'
       synset: 89860995-n
+    - id: 'cenél%1:09:02::'
+      synset: 80707623-n
+cenélach:
+  a:
+    sense:
+    - id: 'cenélach%3:00:00::'
+      synset: 89980474-a
+cenélae:
+  n:
+    sense:
+    - id: 'cenélae%1:09:00::'
+      synset: 80707623-n
+cenélche:
+  n:
+    sense:
+    - id: 'cenélche%1:07:00::'
+      synset: 88317509-n
 ciniud:
   n:
     sense:
     - id: 'ciniud%1:18:00::'
       synset: 81452106-n
+cinnid:
+  v:
+    sense:
+    - id: 'cinnid%2:32:00::'
+      synset: 83445470-v
 cinniud:
   n:
     sense:
     - id: 'cinniud%1:10:00::'
       synset: 81424377-n
+cland:
+  n:
+    sense:
+    - id: 'cland%1:18:00::'
+      synset: 80752096-n
 clann:
   n:
     sense:
     - id: 'clann%1:18:00::'
       synset: 81452106-n
+clíab:
+  n:
+    sense:
+    - id: 'clíab%1:06:00::'
+      synset: 83122893-n
 co:
   r:
     sense:
     - id: 'co%4:02:00::'
       synset: 87655896-r
+cocart:
+  n:
+    sense:
+    - id: 'cocart%1:04:00::'
+      synset: 80776963-n
+cochae:
+  n:
+    sense:
+    - id: 'cochae%1:08:00::'
+      synset: 86466983-n
 coibdelach:
   n:
     sense:
@@ -55,6 +137,16 @@ coibnestae:
     sense:
     - id: coibnestae%5:00:00:???:00
       synset: 81762366-s
+coibnius:
+  n:
+    sense:
+    - id: 'coibnius%1:03:00::'
+      synset: 84154477-n
+coibse:
+  n:
+    sense:
+    - id: 'coibse%1:04:00::'
+      synset: 80360228-n
 coicell:
   n:
     sense:
@@ -68,17 +160,40 @@ coindelg:
     - id: 'coindelg%1:04:01::'
       synset: 85147029-n
 coitchenn:
+  a:
+    sense:
+    - id: 'coitchenn%3:00:02::'
+      synset: 88157406-a
   s:
     sense:
     - id: coitchenn%5:00:00:???:00
       synset: 88638420-s
     - id: coitchenn%5:00:01:???:00
       synset: 83199480-s
+colinn:
+  n:
+    sense:
+    - id: 'colinn%1:08:00::'
+      synset: 86942631-n
+coll:
+  n:
+    sense:
+    - id: 'coll%1:20:00::'
+      synset: 85037748-n
 colnide:
   n:
     sense:
     - id: 'colnide%1:03:00::'
       synset: 84675829-n
+  s:
+    sense:
+    - id: colnide%5:00:01:???:00
+      synset: 81284145-s
+com dlúthad:
+  n:
+    sense:
+    - id: 'com_dlúthad%1:22:00::'
+      synset: 83875899-n
 comaccomol:
   n:
     sense:
@@ -89,6 +204,13 @@ comaisndís:
     sense:
     - id: 'comaisndís%1:24:00::'
       synset: 82023118-n
+    - id: 'comaisndís%1:04:01::'
+      synset: 83718118-n
+comalnaithir:
+  v:
+    sense:
+    - id: 'comalnaithir%2:36:00::'
+      synset: 83936806-v
 comarde:
   n:
     sense:
@@ -98,6 +220,11 @@ comarde:
       synset: 85646258-n
     - id: 'comarde%1:10:02::'
       synset: 84651096-n
+comdelb:
+  n:
+    sense:
+    - id: 'comdelb%1:07:00::'
+      synset: 80915795-n
 comparit:
   n:
     sense:
@@ -108,11 +235,21 @@ compert:
     sense:
     - id: 'compert%1:09:00::'
       synset: 85625817-n
+comroircnech:
+  s:
+    sense:
+    - id: comroircnech%5:00:00:???:00
+      synset: 80733311-s
 comthinól:
   n:
     sense:
     - id: 'comthinól%1:14:00::'
       synset: 89420360-n
+comthód:
+  n:
+    sense:
+    - id: 'comthód%1:11:00::'
+      synset: 87730379-n
 comḟíalus:
   n:
     sense:
@@ -130,16 +267,39 @@ comṡuidigud:
       synset: 81287314-n
     - id: 'comṡuidigud%1:04:01::'
       synset: 81659516-n
+    - id: 'comṡuidigud%1:10:02::'
+      synset: 80701339-n
+    - id: 'comṡuidigud%1:09:03::'
+      synset: 80415856-n
+    - id: 'comṡuidigud%1:07:04::'
+      synset: 86634859-n
+condelca:
+  v:
+    sense:
+    - id: 'condelca%2:31:00::'
+      synset: 81282275-v
 congab:
   n:
     sense:
     - id: 'congab%1:14:00::'
       synset: 89420360-n
+congaib:
+  v:
+    sense:
+    - id: 'congaib%2:42:00::'
+      synset: 84355095-v
 conoscaigi:
   v:
     sense:
     - id: 'conoscaigi%2:30:00::'
       synset: 80000309-v
+    - id: 'conoscaigi%2:30:01::'
+      synset: 82807350-v
+conscara:
+  v:
+    sense:
+    - id: 'conscara%2:36:00::'
+      synset: 85160243-v
 conson:
   n:
     sense:
@@ -147,31 +307,118 @@ conson:
       synset: 84685879-n
     - id: 'conson%1:10:01::'
       synset: 81706051-n
+consuidigedar:
+  v:
+    sense:
+    - id: 'consuidigedar%2:30:00::'
+      synset: 89084398-v
+conutaing:
+  v:
+    sense:
+    - id: 'conutaing%2:36:00::'
+      synset: 82248794-v
+corp:
+  n:
+    sense:
+    - id: 'corp%1:08:00::'
+      synset: 88820217-n
 cosmail:
   a:
     sense:
     - id: 'cosmail%3:00:00::'
       synset: 80048888-a
+    - id: 'cosmail%3:00:01::'
+      synset: 83913622-a
+cosmailigidir:
+  v:
+    sense:
+    - id: 'cosmailigidir%2:31:00::'
+      synset: 81282275-v
 cosmailius:
   n:
     sense:
     - id: 'cosmailius%1:07:00::'
       synset: 80577178-n
+    - id: 'cosmailius%1:07:01::'
+      synset: 83588119-n
+    - id: 'cosmailius%1:07:02::'
+      synset: 85629167-n
 cosmart:
   n:
     sense:
     - id: 'cosmart%1:10:00::'
       synset: 80866675-n
+cotarsnae:
+  s:
+    sense:
+    - id: cotarsnae%5:00:00:???:00
+      synset: 81056278-s
+crann:
+  n:
+    sense:
+    - id: 'crann%1:20:00::'
+      synset: 83206564-n
+creitid:
+  v:
+    sense:
+    - id: 'creitid%2:31:00::'
+      synset: 81357454-v
+    - id: 'creitid%2:31:01::'
+      synset: 83523394-v
+cretem:
+  n:
+    sense:
+    - id: 'cretem%1:09:00::'
+      synset: 82055471-n
+cride:
+  n:
+    sense:
+    - id: 'cride%1:09:00::'
+      synset: 86754842-n
+croicenn:
+  n:
+    sense:
+    - id: 'croicenn%1:08:00::'
+      synset: 85991580-n
 cruth:
   n:
     sense:
     - id: 'cruth%1:10:00::'
       synset: 85924383-n
+    - id: 'cruth%1:07:01::'
+      synset: 82954869-n
+cruthugud:
+  n:
+    sense:
+    - id: 'cruthugud%1:04:00::'
+      synset: 86393212-n
+crích:
+  n:
+    sense:
+    - id: 'crích%1:15:00::'
+      synset: 83283779-n
 cucann:
   n:
     sense:
     - id: 'cucann%1:21:00::'
       synset: 83357246-n
+    - id: 'cucann%1:06:01::'
+      synset: 85734525-n
+cuimrech:
+  n:
+    sense:
+    - id: 'cuimrech%1:06:00::'
+      synset: 85270420-n
+cuit:
+  n:
+    sense:
+    - id: 'cuit%1:21:00::'
+      synset: 89918497-n
+cuitbedach:
+  s:
+    sense:
+    - id: cuitbedach%5:00:00:???:00
+      synset: 89820800-s
 cumachtae:
   n:
     sense:
@@ -179,16 +426,33 @@ cumachtae:
       synset: 84173747-n
     - id: 'cumachtae%1:07:01::'
       synset: 88914645-n
+cumang:
+  n:
+    sense:
+    - id: 'cumang%1:07:00::'
+      synset: 84173747-n
 cummae:
   a:
     sense:
     - id: 'cummae%3:00:00::'
       synset: 88080213-a
+cummasc:
+  n:
+    sense:
+    - id: 'cummasc%1:04:00::'
+      synset: 89297466-n
+cumsanad:
+  n:
+    sense:
+    - id: 'cumsanad%1:04:00::'
+      synset: 83528414-n
 cumscugud:
   n:
     sense:
     - id: 'cumscugud%1:24:00::'
       synset: 86958274-n
+    - id: 'cumscugud%1:11:01::'
+      synset: 83038766-n
 cáil:
   n:
     sense:
@@ -200,6 +464,11 @@ cáil:
       synset: 89372624-n
     - id: 'cáil%1:09:03::'
       synset: 89602844-n
+cáith:
+  n:
+    sense:
+    - id: 'cáith%1:27:00::'
+      synset: 85628654-n
 cárachtar:
   n:
     sense:
@@ -244,3 +513,24 @@ cíall:
       synset: 80785130-n
     - id: 'cíall%1:09:01::'
       synset: 83081164-n
+    - id: 'cíall%1:10:02::'
+      synset: 86881526-n
+    - id: 'cíall%1:10:03::'
+      synset: 86874665-n
+    - id: 'cíall%1:09:04::'
+      synset: 83674301-n
+cían:
+  n:
+    sense:
+    - id: 'cían%1:28:00::'
+      synset: 81416323-n
+cóir:
+  a:
+    sense:
+    - id: 'cóir%3:00:00::'
+      synset: 86325197-a
+cóis:
+  n:
+    sense:
+    - id: 'cóis%1:10:00::'
+      synset: 85884946-n

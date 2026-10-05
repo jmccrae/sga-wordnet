@@ -1,8 +1,33 @@
+eirp:
+  n:
+    sense:
+    - id: 'eirp%1:05:00::'
+      synset: 85567530-n
+emnad:
+  n:
+    sense:
+    - id: 'emnad%1:22:00::'
+      synset: 83417917-n
 engnae:
   n:
     sense:
     - id: 'engnae%1:03:00::'
       synset: 84643561-n
+engracus:
+  n:
+    sense:
+    - id: 'engracus%1:04:00::'
+      synset: 89071008-n
+engraic:
+  n:
+    sense:
+    - id: 'engraic%1:04:00::'
+      synset: 89071008-n
+engraicigidir:
+  v:
+    sense:
+    - id: 'engraicigidir%2:41:00::'
+      synset: 82889111-v
 epert:
   n:
     sense:
@@ -13,6 +38,26 @@ ernail:
     sense:
     - id: 'ernail%1:14:00::'
       synset: 85298405-n
+erochuir:
+  n:
+    sense:
+    - id: 'erochuir%1:08:00::'
+      synset: 88705215-n
+etargne:
+  n:
+    sense:
+    - id: 'etargne%1:03:00::'
+      synset: 84643561-n
+etarscarad:
+  n:
+    sense:
+    - id: 'etarscarad%1:04:00::'
+      synset: 87575869-n
+etercert:
+  n:
+    sense:
+    - id: 'etercert%1:09:00::'
+      synset: 84304616-n
 eulas:
   n:
     sense:

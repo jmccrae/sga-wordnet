@@ -1,9 +1,53 @@
+80171514-v:
+  definition:
+  - inflect — change the form of a word in accordance as required by the grammatical
+    rules of the language
+  ili: i26499
+  members:
+  - fillid
+  partOfSpeech: v
+80585418-v:
+  definition:
+  - promise — promise to undertake or give
+  ili: i26041
+  members:
+  - doairngir
+  partOfSpeech: v
 80902494-v:
   definition:
   - express, show, evince — give expression to
   ili: i26321
   members:
   - sluindid
+  - fordingair
+  partOfSpeech: v
+81472192-v:
+  definition:
+  - preach, prophesy — deliver a sermon
+  ili: i25794
+  members:
+  - pridchid
+  partOfSpeech: v
+82636562-v:
+  definition:
+  - order, prescribe, dictate — issue commands or orders for
+  ili: i25433
+  members:
+  - forcongair
+  partOfSpeech: v
+82638814-v:
+  definition:
+  - mention, advert, bring up, cite, name, refer — make reference to
+  ili: i26697
+  members:
+  - asbeir
+  partOfSpeech: v
+82668847-v:
+  definition:
+  - declare — state emphatically and authoritatively
+  ili: i26635
+  members:
+  - asbeir
   partOfSpeech: v
 82949802-v:
   definition:
@@ -15,6 +59,27 @@
   - dofoirndea
   - inchosc
   - sluindid
+  partOfSpeech: v
+83380632-v:
+  definition:
+  - consecrate, bless, hallow, sanctify — render holy by means of religious rites
+  ili: i25960
+  members:
+  - noíbaid
+  partOfSpeech: v
+83445470-v:
+  definition:
+  - define — give a definition for the meaning of a word
+  ili: i26382
+  members:
+  - cinnid
+  partOfSpeech: v
+83672666-v:
+  definition:
+  - ask, inquire, enquire — address a question to and expect an answer from
+  ili: i26103
+  members:
+  - immcomairc
   partOfSpeech: v
 84005320-v:
   definition:
@@ -29,6 +94,13 @@
   ili: i26199
   members:
   - asbeir
+  partOfSpeech: v
+86208867-v:
+  definition:
+  - denote — be a sign or indication of
+  ili: i26269
+  members:
+  - sluindid
   partOfSpeech: v
 86941814-v:
   definition:
@@ -46,4 +118,47 @@
   ili: i26632
   members:
   - asbeir
+  - ol
+  partOfSpeech: v
+87182628-v:
+  definition:
+  - name, call, know as, be known as — assign a specified (usually proper) name to
+  ili: i26719
+  members:
+  - asbeir
+  partOfSpeech: v
+87880758-v:
+  definition:
+  - write — communicate or express by writing
+  ili: i26548
+  members:
+  - scríbaid
+  partOfSpeech: v
+88224505-v:
+  definition:
+  - decline — inflect for number, gender, case, etc.
+  ili: i26501
+  members:
+  - doella
+  partOfSpeech: v
+88231033-v:
+  definition:
+  - promise, assure — make a promise or commitment
+  ili: i26040
+  members:
+  - doairngir
+  partOfSpeech: v
+88745763-v:
+  definition:
+  - pray — address a deity, a prophet, a saint or an object of worship; say a prayer
+  ili: i25495
+  members:
+  - guidid
+  partOfSpeech: v
+88844957-v:
+  definition:
+  - teach, learn, instruct — impart skills or knowledge to
+  ili: i25800
+  members:
+  - forcain
   partOfSpeech: v

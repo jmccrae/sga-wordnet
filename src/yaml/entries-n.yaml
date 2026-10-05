@@ -8,16 +8,33 @@ nathir:
     sense:
     - id: 'nathir%1:05:00::'
       synset: 88989637-n
+nem:
+  n:
+    sense:
+    - id: 'nem%1:09:00::'
+      synset: 84014212-n
+neph corpdae:
+  a:
+    sense:
+    - id: 'neph_corpdae%3:00:00::'
+      synset: 80780867-a
 nert:
   n:
     sense:
     - id: 'nert%1:07:00::'
       synset: 81532433-n
+    - id: 'nert%1:07:01::'
+      synset: 87470626-n
 neutur:
   n:
     sense:
     - id: 'neutur%1:10:00::'
       synset: 82042014-n
+nihelas:
+  n:
+    sense:
+    - id: 'nihelas%1:26:00::'
+      synset: 83624399-n
 not:
   n:
     sense:
@@ -25,11 +42,21 @@ not:
       synset: 85646258-n
     - id: 'not%1:10:01::'
       synset: 84651096-n
+noíbaid:
+  v:
+    sense:
+    - id: 'noíbaid%2:32:00::'
+      synset: 83380632-v
 noídiu:
   n:
     sense:
     - id: 'noídiu%1:18:00::'
       synset: 80752096-n
+nuiednisse:
+  n:
+    sense:
+    - id: 'nuiednisse%1:10:00::'
+      synset: 82175189-n
 ní:
   n:
     sense:
@@ -37,3 +64,8 @@ ní:
       synset: 87663116-n
     - id: 'ní%1:03:01::'
       synset: 85046098-n
+nóib:
+  a:
+    sense:
+    - id: 'nóib%3:00:00::'
+      synset: 82067339-a

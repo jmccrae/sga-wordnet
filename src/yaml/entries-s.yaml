@@ -1,4 +1,18 @@
+sacart:
+  n:
+    sense:
+    - id: 'sacart%1:18:00::'
+      synset: 87837531-n
+saer:
+  a:
+    sense:
+    - id: 'saer%3:00:00::'
+      synset: 87005865-a
 sain:
+  a:
+    sense:
+    - id: 'sain%3:00:02::'
+      synset: 82674462-a
   s:
     sense:
     - id: sain%5:00:00:???:00
@@ -12,27 +26,100 @@ sainred:
       synset: 85966327-n
     - id: 'sainred%1:07:01::'
       synset: 84937696-n
+sainredach:
+  s:
+    sense:
+    - id: sainredach%5:00:00:???:00
+      synset: 85068063-s
+salann:
+  n:
+    sense:
+    - id: 'salann%1:13:00::'
+      synset: 83341291-n
+samlaither:
+  v:
+    sense:
+    - id: 'samlaither%2:31:00::'
+      synset: 81282275-v
+saírse:
+  n:
+    sense:
+    - id: 'saírse%1:09:00::'
+      synset: 80001511-n
 saíthar:
   n:
     sense:
     - id: 'saíthar%1:04:00::'
       synset: 86982352-n
+scríbaid:
+  v:
+    sense:
+    - id: 'scríbaid%2:32:00::'
+      synset: 87880758-v
+    - id: 'scríbaid%2:36:01::'
+      synset: 84856094-v
+    - id: 'scríbaid%2:36:02::'
+      synset: 87994595-v
+scríbend:
+  n:
+    sense:
+    - id: 'scríbend%1:10:00::'
+      synset: 86012398-n
+sechithir:
+  v:
+    sense:
+    - id: 'sechithir%2:38:00::'
+      synset: 87419774-v
 sechmadachte:
   n:
     sense:
     - id: 'sechmadachte%1:24:00::'
       synset: 84247059-n
+sechtardae:
+  r:
+    sense:
+    - id: 'sechtardae%4:02:00::'
+      synset: 81858070-r
+seircid:
+  v:
+    sense:
+    - id: 'seircid%2:30:00::'
+      synset: 83261153-v
 sen:
   s:
     sense:
     - id: sen%5:00:00:???:00
       synset: 86128746-s
+senatóir:
+  n:
+    sense:
+    - id: 'senatóir%1:18:00::'
+      synset: 85516215-n
+senchas:
+  n:
+    sense:
+    - id: 'senchas%1:10:00::'
+      synset: 87636471-n
+sercaid:
+  n:
+    sense:
+    - id: 'sercaid%1:18:00::'
+      synset: 84554817-n
 sillab:
   n:
     sense:
     - id: 'sillab%1:10:00::'
       synset: 80179898-n
+siur:
+  n:
+    sense:
+    - id: 'siur%1:18:00::'
+      synset: 82981057-n
 slond:
+  n:
+    sense:
+    - id: 'slond%1:10:01::'
+      synset: 82074181-n
   v:
     sense:
     - id: 'slond%2:32:00::'
@@ -44,11 +131,33 @@ sluindid:
       synset: 82949802-v
     - id: 'sluindid%2:32:01::'
       synset: 80902494-v
+    - id: 'sluindid%2:32:02::'
+      synset: 86208867-v
 smúained:
   n:
     sense:
     - id: 'smúained%1:09:00::'
       synset: 81586762-n
+sochuide:
+  n:
+    sense:
+    - id: 'sochuide%1:14:00::'
+      synset: 85010154-n
+soilse:
+  n:
+    sense:
+    - id: 'soilse%1:26:00::'
+      synset: 84183122-n
+soiscélae:
+  n:
+    sense:
+    - id: 'soiscélae%1:10:00::'
+      synset: 87451567-n
+sommae:
+  a:
+    sense:
+    - id: 'sommae%3:00:00::'
+      synset: 88547990-a
 son:
   n:
     sense:
@@ -56,16 +165,66 @@ son:
       synset: 81092558-n
     - id: 'son%1:07:01::'
       synset: 87849671-n
+    - id: 'son%1:10:02::'
+      synset: 87834809-n
+soíre:
+  n:
+    sense:
+    - id: 'soíre%1:26:00::'
+      synset: 85663906-n
 sreth:
   n:
     sense:
     - id: 'sreth%1:14:00::'
       synset: 87947427-n
+    - id: 'sreth%1:14:01::'
+      synset: 83062723-n
+sruth:
+  n:
+    sense:
+    - id: 'sruth%1:17:00::'
+      synset: 80988205-n
+suidigidir:
+  v:
+    sense:
+    - id: 'suidigidir%2:35:00::'
+      synset: 88016007-v
+suidiugud:
+  n:
+    sense:
+    - id: 'suidiugud%1:15:00::'
+      synset: 82089450-n
+sulbaire:
+  n:
+    sense:
+    - id: 'sulbaire%1:10:00::'
+      synset: 87546317-n
+    - id: 'sulbaire%1:07:01::'
+      synset: 83128399-n
+sund:
+  r:
+    sense:
+    - id: 'sund%4:02:00::'
+      synset: 88461784-r
 superlait:
   n:
     sense:
     - id: 'superlait%1:10:00::'
       synset: 82524886-n
+    - id: 'superlait%1:10:01::'
+      synset: 82460337-n
+séol:
+  n:
+    sense:
+    - id: 'séol%1:06:00::'
+      synset: 83996228-n
+sís:
+  r:
+    sense:
+    - id: 'sís%4:02:00::'
+      synset: 87740750-r
+    - id: 'sís%4:02:01::'
+      synset: 88502420-r
 sóid:
   v:
     sense:

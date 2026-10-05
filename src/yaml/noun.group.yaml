@@ -1,3 +1,10 @@
+80399582-n:
+  definition:
+  - village, small town, settlement — a community of people smaller than a town
+  ili: i80343
+  members:
+  - fích
+  partOfSpeech: n
 82235376-n:
   definition:
   - order, ordering, ordination — logical or comprehensible arrangement of separate
@@ -7,6 +14,13 @@
   ili: i81500
   members:
   - ord
+  partOfSpeech: n
+82326633-n:
+  definition:
+  - people — (plural) any group of human beings (men or women or children) collectively
+  ili: i79059
+  members:
+  - popul
   partOfSpeech: n
 83059103-n:
   definition:
@@ -18,6 +32,35 @@
   members:
   - accomol
   partOfSpeech: n
+83062723-n:
+  definition:
+  - series — similar things placed in order or happening one after another
+  ili: i81504
+  members:
+  - sreth
+  partOfSpeech: n
+83666582-n:
+  definition:
+  - law, jurisprudence — the collection of rules imposed by authority
+  ili: i81481
+  members:
+  - dliged
+  - recht
+  partOfSpeech: n
+84553006-n:
+  definition:
+  - pair, brace — a set of two similar things considered as a unit
+  ili: i79244
+  members:
+  - déde
+  partOfSpeech: n
+85010154-n:
+  definition:
+  - multitude, throng, concourse — a large gathering of people
+  ili: i80142
+  members:
+  - sochuide
+  partOfSpeech: n
 85298405-n:
   definition:
   - class, family, category — a collection of things sharing a common attribute
@@ -26,6 +69,14 @@
   ili: i79319
   members:
   - ernail
+  partOfSpeech: n
+85356935-n:
+  definition:
+  - declension — a class of nouns or pronouns or adjectives in Indo-European languages
+    having the same (or very similar) inflectional forms
+  ili: i79371
+  members:
+  - díall
   partOfSpeech: n
 85367387-n:
   definition:
@@ -45,6 +96,27 @@
   ili: i79043
   members:
   - sreth
+  partOfSpeech: n
+88643414-n:
+  definition:
+  - tribe, folk — a social division of (usually preliterate) people
+  ili: i81104
+  members:
+  - aicme
+  partOfSpeech: n
+88746937-n:
+  definition:
+  - community — a group of people having a religion, ethnic, profession, or other
+    particular characteristic in common
+  members:
+  - muinter
+  partOfSpeech: n
+88999787-n:
+  definition:
+  - scrub, chaparral, bush — dense vegetation consisting of stunted trees or bushes
+  ili: i81464
+  members:
+  - dris
   partOfSpeech: n
 89420360-n:
   definition:

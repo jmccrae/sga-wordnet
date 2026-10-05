@@ -1,3 +1,10 @@
+80360709-n:
+  definition:
+  - killer, slayer — someone who causes the death of a person or animal
+  ili: i90845
+  members:
+  - oircnid
+  partOfSpeech: n
 80752096-n:
   definition:
   - child, kid — a human offspring (son or daughter) of any age
@@ -8,6 +15,29 @@
   - lenab
   - noídiu
   - tuistiu
+  - cland
+  partOfSpeech: n
+80957324-n:
+  definition:
+  - soul, psyche — the immaterial part of a person; the actuating cause of an individual
+    life
+  ili: i93161
+  members:
+  - anim
+  partOfSpeech: n
+80989107-n:
+  definition:
+  - slave — a person who is owned by someone
+  ili: i93053
+  members:
+  - mug
+  partOfSpeech: n
+81292478-n:
+  definition:
+  - male child, boy — a youthful male person
+  ili: i91171
+  members:
+  - macc
   partOfSpeech: n
 81452106-n:
   definition:
@@ -19,6 +49,13 @@
   - clann
   - ciniud
   partOfSpeech: n
+82432851-n:
+  definition:
+  - sinner, evildoer — a person who sins (without repenting)
+  ili: i93006
+  members:
+  - pecthach
+  partOfSpeech: n
 82479076-n:
   definition:
   - girl, daughter — a female human offspring
@@ -29,6 +66,42 @@
   members:
   - ingen
   partOfSpeech: n
+82583182-n:
+  definition:
+  - citizen — a native or naturalized member of a state or other political community
+  ili: i88995
+  members:
+  - cathrar
+  partOfSpeech: n
+82791085-n:
+  definition:
+  - inhabitant, habitant, dweller, denizen, indweller — a person who inhabits a particular
+    place
+  ili: i87216
+  members:
+  - aitrebthaid
+  partOfSpeech: n
+82981057-n:
+  definition:
+  - sister, sis — a female person who has the same parents as another person
+  ili: i93018
+  members:
+  - siur
+  partOfSpeech: n
+83783926-n:
+  definition:
+  - teacher, instructor — a person whose occupation is teaching
+  ili: i93557
+  members:
+  - forcetlid
+  partOfSpeech: n
+84051754-n:
+  definition:
+  - steward — someone who manages property or other affairs for someone else
+  ili: i93315
+  members:
+  - rechtaire
+  partOfSpeech: n
 84340213-n:
   definition:
   - female parent, mother — a woman who has given birth to a child (also used as a
@@ -38,6 +111,21 @@
   ili: i91462
   members:
   - máthair
+  partOfSpeech: n
+84554817-n:
+  definition:
+  - lover — a person who loves someone or is loved by someone
+  ili: i87222
+  members:
+  - sercaid
+  partOfSpeech: n
+84705137-n:
+  definition:
+  - scholar, scholarly person, bookman — a learned person; someone who by long study
+    has gained mastery in one or more disciplines
+  ili: i92752
+  members:
+  - fisid
   partOfSpeech: n
 85014995-n:
   definition:
@@ -50,6 +138,28 @@
   members:
   - día
   partOfSpeech: n
+85190976-n:
+  definition:
+  - man, adult male — an adult person who is male (as opposed to a woman)
+  ili: i91182
+  members:
+  - fer
+  partOfSpeech: n
+85503812-n:
+  definition:
+  - resident, occupant, occupier — someone who lives at a particular place for a prolonged
+    period or who was born there
+  ili: i92542
+  members:
+  - aitrebthaid
+  partOfSpeech: n
+85516215-n:
+  definition:
+  - senator — a member of a senate
+  ili: i92868
+  members:
+  - senatóir
+  partOfSpeech: n
 85523759-n:
   definition:
   - doer, actor, worker — a person who acts and gets things done
@@ -60,6 +170,59 @@
   members:
   - gnía
   - gníthid
+  partOfSpeech: n
+85616221-n:
+  definition:
+  - debtor, debitor — a person who owes a creditor; someone who has the obligation
+    of paying a debt
+  ili: i89429
+  members:
+  - féchem
+  partOfSpeech: n
+85876304-n:
+  definition:
+  - angel — spiritual being attendant upon God
+  ili: i86786
+  members:
+  - aingel
+  partOfSpeech: n
+86489904-n:
+  definition:
+  - goddess — a female deity
+  ili: i86767
+  members:
+  - ben día
+  partOfSpeech: n
+86534776-n:
+  definition:
+  - acolyte — someone who assists a priest or minister in a liturgical service; a
+    cleric ordained in the highest of the minor orders in the Roman Catholic Church
+    but not in the Anglican Church or the Eastern Orthodox Churches
+  ili: i88059
+  members:
+  - caindleóir
+  partOfSpeech: n
+86604904-n:
+  definition:
+  - bachelor, unmarried man — a man who has never been married
+  ili: i88393
+  members:
+  - oentam
+  partOfSpeech: n
+86750599-n:
+  definition:
+  - writer, author — writes (books or stories or articles or the like) professionally
+    (for pay)
+  ili: i94200
+  members:
+  - litrid
+  partOfSpeech: n
+86884345-n:
+  definition:
+  - brother, blood brother — a male with the same parents as someone else
+  ili: i88708
+  members:
+  - bráthair
   partOfSpeech: n
 86919753-n:
   definition:
@@ -72,6 +235,64 @@
   - coibne
   - comḟíalus
   partOfSpeech: n
+87162063-n:
+  definition:
+  - grandson — a male grandchild
+  ili: i90293
+  members:
+  - aue
+  partOfSpeech: n
+87264171-n:
+  definition:
+  - friend — a person you know well and regard with affection and trust
+  ili: i90098
+  members:
+  - carae
+  partOfSpeech: n
+87400575-n:
+  definition:
+  - superior — the head of a religious community
+  ili: i93442
+  members:
+  - airchinnech
+  partOfSpeech: n
+87632579-n:
+  definition:
+  - squinter, squint-eye — a person with strabismus
+  ili: i93253
+  members:
+  - camm derc
+  partOfSpeech: n
+87794459-n:
+  definition:
+  - father, male parent, begetter — a male parent (also used as a term of address
+    to your father)
+  ili: i89901
+  members:
+  - athair
+  partOfSpeech: n
+87837531-n:
+  definition:
+  - priest — a clergyman in Christian churches who has the authority to perform or
+    administer various religious rites; one of the Holy Orders
+  ili: i92229
+  members:
+  - sacart
+  partOfSpeech: n
+88158727-n:
+  definition:
+  - rider — a traveler who actively rides an animal (as a horse or camel)
+  ili: i92575
+  members:
+  - óinechaid
+  partOfSpeech: n
+88280822-n:
+  definition:
+  - soldier — an enlisted man or woman who serves in an army
+  ili: i93136
+  members:
+  - míl
+  partOfSpeech: n
 89280411-n:
   definition:
   - poet — a writer of poems (the term is usually reserved for writers of good poetry)
@@ -80,6 +301,13 @@
   ili: i92096
   members:
   - fili
+  partOfSpeech: n
+89749138-n:
+  definition:
+  - simpleton, simple — a person lacking intelligence or common sense
+  ili: i93004
+  members:
+  - báeth
   partOfSpeech: n
 89954573-n:
   definition:

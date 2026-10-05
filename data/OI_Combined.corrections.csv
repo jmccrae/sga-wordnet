@@ -1,0 +1,214 @@
+lemma,sense_key,corrected_lemma,corrected_sense_key,reason
+sechithir,comply%2:41:00::,,follow%2:38:00::,"means ""follow""/""pursue"", not ""comply"""
+dliged,rule%1:09:00::,,law%1:14:00::,"means ""law"" in the legal sense"
+mrechtrad,kind%1:09:00::,,-,"means ""variety""/""diversity"" - already covered by mrechtrad diverseness%1:07:00::"
+fis,cognition%1:03:00::,,information%1:09:00::,"""knowledge""/""information"", not the result of perception and reasoning"
+duine,man%1:18:00::,,person%1:03:00::,"means ""person"", not necessarily male"
+fisid,man%1:18:00::,,scholar%1:18:00::,"""learned person"", not necessarily male"
+már,greater%3:00:00::,,-,"not a comparative - ""great"" is already covered by már great%5:00:01:large:00"
+is,exist%2:42:00::,,-,copula; existence is expressed with the substantive verb
+cummasc,confusion%1:26:01::,,mixture%1:04:00::,"means ""mixing""/""mixture"""
+dotét,happen%2:30:00::,,come%2:38:00::,"means ""come"""
+randatu,part%1:24:00::,,particularity%1:07:00::,"technical grammatical term, ""particularity"""
+dliged,law%1:09:01::,,law%1:14:00::,"means ""law"" in the legal sense; natural-law definition is anachronistic"
+imḟognam,construction%1:04:00::,,construction%1:10:01::,"only attested as a grammatical construction"
+slond,meaning%1:10:00::,,expression%1:10:04::,"verbal noun ""expressing""/""mentioning""/""signifying"""
+gnúis,species%1:14:00::,,species%1:09:00::,"biological definition too modern; ""kind""/""form""/""species"""
+litred,letter%1:10:01::,,spelling%1:10:00::,"means ""spelling""/""lettering"""
+liter,letter%1:10:00::,,letter%1:10:00::,keep the epistle sense
+liter,letter%1:10:00::,,letter%1:10:01::,"reviewer note: more typically a letter of the alphabet"
+dasian,breathing%1:04:00::,,-,"technical term for rough breathing (spiritus asper), which has no English WordNet synset"
+rann,speech%1:10:00::,,-,"means ""part"" (from ""rann insce"", part of speech)"
+randatu,speech%1:10:00::,,-,"means ""particularity"" - see randatu part%1:24:00::"
+flesc,throw%1:11:00::,,stroke%1:10:01::,"means ""stroke""/""line"" (a written mark)"
+attá,be%2:42:03::,,-,definition describes the copula; attá is the substantive verb
+dano,indeed%4:02:03::,,therefore%4:02:00::,"""therefore""/""then""/""accordingly"" rather than ""indeed"""
+bindius,music%1:09:00::,,euphony%1:09:00::,"""euphony""/""melodiousness"" - same synset, euphony is its better English lemma"
+il,more%3:00:01::,,-,"not a comparative - ""many"" is already covered by il many%3:00:00::"
+creitid,think%2:31:01::,,believe%2:31:00::,"means ""believe"""
+attá,have%2:40:00::,,-,substantive verb does not mean 'have'
+is,have%2:40:00::,,-,copula does not mean 'have'
+cían,time%1:11:00::,,long_time%1:28:00::,"""a long time""/""a period"", not a single occasion"
+lechdach,liquid%1:27:04::,,liquid%1:10:00::,"grammatical (phonetic) sense of ""liquid"""
+aimserad,temporalty%1:21:00::,,duration%1:28:02::,"temporality as a period of time/duration"
+emid,entirely%4:02:02::,,-,"means ""as""/""such as""/""not only"""
+dofúarat,stay%2:30:00::,,remain%2:42:05::,"""remain"" in the sense ""be left over"""
+mút,mute%1:18:00::,,stop%1:10:00::,"grammatical ""mute"" (stop consonant)"
+atac,writer%1:18:00::,,-,"means ""an Attic"" (writer of Attic Greek), no matching synset"
+laiten,romance%3:01:00::,,latin%1:10:00::,"means Latin itself"
+tinfed,aspiration%1:07:00::,,aspiration%1:10:00::,"phonetic aspiration/breathing sense"
+tinfed,ambition%1:12:00::,,-,"means ""lenition""/""breathing"""
+mút,mute%1:06:00::,,stop%1:10:00::,"grammatical ""mute"" (stop consonant)"
+da_1 doíarmorat,follow%2:42:02::,doíarmorat,,infixed pronoun wrongly included in the lemma
+is,let%2:41:00::,,-,copula does not mean 'let'
+lín laiten,latin%3:01:00::,,-,"not a real MWE (from ""lín liter laitinde"")"
+aiccidit,accident%1:11:00::,,-,grammatical accident only - no matching synset
+tecmang,accident%1:11:00::,,accident%1:11:00::,"definition accepted - ""chance occurrence""/""happenstance"" (synset also has chance event, fortuity)"
+foilsigidir,attest%2:32:01::,,show%2:39:00::,"means ""show""/""reveal""/""be manifest"""
+aiccidit,accident%1:11:01::,,-,grammatical accident only - no matching synset
+folad,message%1:10:00::,,-,"means ""wealth""/""substance""/""property""/""meaning"", not a message"
+in incoisig,mean%2:32:03::,incoisig,,preverb wrongly repeated in the lemma
+do dofoirndea,mean%2:32:03::,dofoirndea,,"preverb wrongly repeated in the lemma; definition accepted as an extension of ""signify"""
+folad cétnae,same%3:00:02::,cétnae,,"only cétnae means ""same"""
+sluindid,carry%2:32:02::,,express%2:32:01::,"means ""express""/""signify""/""declare"""
+coibnius,affinity%1:07:01::,,relation%1:03:00::,"means ""relation"""
+tinfed,inhalation%1:04:00::,,breathing%1:04:00::,"can mean general breathing, not specifically inhaling"
+cenél,state%1:14:00::,,race%1:14:00::,"""race""/""nation""/""kindred"", not the modern nation state"
+asbeir,name%2:32:03::,,name%2:32:03::,keep
+asbeir,name%2:32:03::,,say%2:32:00::,"reviewer note: the most common translation, ""says"", was missing"
+seircid,become%2:30:00::,,diminish%2:30:00::,"means ""shrinks""/""diminishes"""
+emid,equally%4:02:01::,,-,"means ""as""/""such as""/""not only"""
+rann,parts%1:15:00::,,-,"means ""a part""/""a piece"", nothing to do with the local environment"
+ainm,stead%1:04:00::,,name%1:10:00::,"means ""name"" or ""noun"""
+fogur,sound%1:09:00::,,sound%1:07:00::,"the thing heard, not the sensation of hearing"
+fogur,audio%1:10:00::,,sound%1:07:00::,"just means ""sound"""
+oentu,integrity%1:26:00::,,unity%1:07:00::,"""oneness""/""unity"""
+foacomol,supplementation%1:04:00::,,-,"grammatical ""subjunction"" - no matching synset"
+airitiu,premise%1:10:00::,,reception%1:04:00::,"means ""receiving""/""accepting"""
+aricc,determine%2:32:00::,,-,"""come upon""/""find""/""devise"" - already covered by aricc find%2:40:02:: and invent%2:36:00::"
+anúas,above%4:02:00::,,-,"means ""from above""/""down""; ""above"" only in particular contexts"
+dofonaig,wash%2:29:00::,,wash%2:35:00::,does not necessarily mean washing the body
+folcaid,wash%2:29:00::,,wash%2:35:00::,does not necessarily mean washing the body
+do dodúrig,arouse%2:37:00::,dodúrig,,preverb wrongly repeated in the lemma
+lín,internet%1:06:00::,,net%1:06:02::,"""net"" as in a fishing net"
+mucc,hog%1:05:00::,,swine%1:05:00::,"can refer to wild pigs too"
+com aisndís,apposition%1:24:00::,comaisndís,,spurious space in the lemma
+bés,character%1:07:01::,,custom%1:04:00::,"means ""habit""/""custom""/""practice"""
+articol,article%1:10:00::,,article%1:10:01::,grammatical article
+már,much%3:00:00::,,-,"means ""great"" - already covered by már great%5:00:01:large:00"
+maith,better%3:00:00::,,good%3:00:01::,"not a comparative - means ""good"""
+césad,passion%1:12:00::,,passion%1:26:02::,the Passion of Christ
+adrími,calculate%2:31:03::,,calculate%2:31:00::,"""count""/""calculate"" numbers"
+dobeir,frame%2:32:00::,,-,"means ""give""/""place""/""bring"""
+folad,kernel%1:09:00::,,-,"means ""wealth""/""substance""/""property""/""meaning"""
+sain,particular%5:00:00:specific:00,,-,"""particular"" is too far; means ""different""/""special""/""peculiar"""
+tar éis,place%1:26:01::,,-,"from the MWE ""tar ési"" (""instead of""), not ""place"""
+muinter,family%1:14:02::,,community%1:14:03::,"""community""/""group"" with a common bond; ""household"" definition too modern"
+adiacht,adjective%3:00:00::,,adjective%1:10:00::,the part of speech
+trén,substantial%5:00:00:essential:00,,strong%3:00:00::,"means ""strong"""
+ainm díles,proper_noun%1:10:00::,ainm ṅdíles,,neuter noun nasalises the following word
+asgnin,acknowledge%2:31:09::,,recognize%2:31:00::,"means ""recognise""/""understand""/""know"""
+attoíbed,attachment%1:04:02::,,adherence%1:04:00::,"means ""adherence"" - same synset, adherence is its better English lemma"
+dobeir,yield%2:40:02::,,-,no attestation for this sense
+doecmaing _,happen%2:30:02::,doecmaing,,spurious underscore in the lemma
+aitherrechtaigthe _,patronymic%1:10:00::,aitherrechtaigthe,,spurious underscore in the lemma
+lá sin,day%1:28:01::,,-,"MWE meaning ""that day"""
+gainithir som,give_birth%2:29:00::,gainithir,arise%2:42:00::,"emphatic pronoun wrongly included in the lemma; means ""is born""/""arises"", not ""gives birth"""
+tairmḟorcend,termination%1:28:00::,,termination%1:10:00::,grammatical ending of a word
+bráthair athair,brother%1:18:00::,bráthair,,"athair (""father"") wrongly included in the lemma"
+athair,brother%1:18:00::,,father%1:18:00::,"means ""father"""
+ríagol,convention%1:09:00::,,rule%1:10:01::,"means ""rule"" (spelling or grammatical rules)"
+attá,come%2:42:04::,,-,substantive verb does not mean 'come'
+ilar neutur,plural%1:10:00::,ilar,,"neutur (""neuter"") wrongly included in the lemma"
+arm,arm%1:08:00::,,weapon%1:06:00::,"means ""weapon"", not a limb"
+adtreba,populate%2:42:00::,,inhabit%2:42:00::,"means ""inhabit""/""dwell in"" - same synset, inhabit is its better English lemma"
+dán,humanistic_discipline%1:09:00::,,poem%1:10:00::,"means ""gift""/""poem""/""skill"""
+bunad,beginning%1:15:00::,,origin%1:15:00::,"means ""origin"" - same synset, origin is its better English lemma"
+coll,hazel%1:07:00::,,hazel%1:20:01::,"the tree, not the colour"
+congaib,incorporate%2:42:00::,,contain%2:42:00::,"means ""include""/""contain"" - same synset, contain is its better English lemma"
+eirp,goat%1:05:00::,,nanny%1:05:00::,specifically a she-goat
+cenn,sake%1:07:00::,,-,"only in the MWE ""di/do chiunn"""
+con condelca,compare%2:31:00::,condelca,,preverb wrongly repeated in the lemma
+ifern,hell%1:15:01::,,hell%1:09:00::,specifically the Christian hell
+airchrae,verb%1:10:01::,,ellipsis%1:22:00::,"means ""failure""/""deficiency""/""ellipsis"""
+airchrae,participle%1:10:00::,,-,"means ""failure""/""deficiency""/""ellipsis"""
+doróscai de,surpass%2:33:00::,doróscai,,"""de"" wrongly included in the lemma"
+torbae,net_income%1:21:00::,,-,"too modern - ""profit"" already covered by torbae profit%1:07:00::"
+lán,full%5:00:00:nourished:00,,full%3:00:00::,"""full"", not ""nourished"""
+airdíxa,long%3:00:01::,,long%3:00:04::,refers to vowel length
+luib,plant%1:06:01::,,plant%1:03:00::,"plant as vegetation"
+ith,grain%1:17:00::,,grain%1:20:00::,"""grain""/""corn"", not any granular particle"
+dogní,make%2:30:00::,,make%2:36:00::,"""make"" in the sense of making/creating"
+ingen,nail%1:08:00::,,nail%1:08:00::,keep
+ingen,nail%1:08:00::,,daughter%1:18:00::,"reviewer note: the more common homonym ingen ""daughter""/""girl"" was missing"
+fochraic,wages%1:11:00::,,reward%1:11:00::,"""payment""/""reward"" - same synset, reward is its better English lemma"
+tír _,land%1:17:01::,tír,,spurious underscore in the lemma
+lóthar,bathtub%1:06:00::,,tub%1:06:00::,"""tub""/""trough"", not necessarily for bathing"
+consuidigedar,intensify%2:30:01::,,compound%2:30:00::,"means ""compound"""
+sochuide,battalion%1:23:00::,,multitude%1:14:00::,"a ""crowd""/""multitude"" of people"
+caill,wood%1:27:00::,,forest%1:17:00::,"a forest, not the material"
+druimmchlae,ceiling%1:06:00::,,roof%1:06:00::,"means ""roof""; the ceiling definition is anachronistic"
+druimmchlí,ceiling%1:06:00::,,roof%1:06:00::,"variant of druimmchlae, ""roof"""
+testimin,time_period%1:28:00::,,text%1:10:00::,"means ""text""/""testimony"""
+dia,today%1:28:00::,,day%1:28:00::,"means ""day"" (""today"" is the MWE i ndiu)"
+ad adcomla,join%2:35:01::,adcomla,,preverb wrongly repeated in the lemma
+tuisel,case%1:11:00::,,case%1:10:00::,grammatical case only
+dub,dark%3:00:02::,,dark%3:00:02::,keep
+dub,dark%3:00:02::,,black%3:00:01::,"reviewer note: the translation ""black"" was missing"
+díṡruthigud,derivation%1:09:00::,,derivation%1:22:00::,only attested for the derivation of words
+sacart,priest%1:18:01::,,priest%1:18:00::,"Christian priest (borrowed from Latin ""sacerdos"")"
+aiccent,accent%1:10:01::,,accent%1:10:00::,grammatical accent
+engraicigidir,assume%2:30:00::,,replace%2:41:00::,"""takes the place of"""
+tomus,bill%1:10:04::,,measurement%1:04:00::,"""measuring""/""weighing"""
+airchinnech,principal%1:18:00::,,superior%1:18:02::,"monastic office (""head""/""superior""), not a school principal"
+doadbat,prove%2:31:00::,,show%2:39:00::,"means ""show""/""demonstrate"""
+cuit,respect%1:09:00::,,share%1:21:00::,"means ""share""/""part""/""portion"""
+cucann,provision%1:10:00::,,provision%1:21:00::,a ration/supply of food
+aicned,nature%1:17:00::,,nature%1:07:02::,"the nature of something, its inherent quality or essence"
+dliged,law%1:10:00::,,law%1:14:00::,"a body of rules, not necessarily a physical document"
+déde,thing%1:10:00::,,pair%1:14:01::,"""two things""/""a pair"""
+linn,drink%1:13:04::,,alcohol%1:13:00::,"drink in the alcoholic sense, not a single serving"
+buith,beryllium%1:27:00::,,being%1:26:00::,"verbal noun of the substantive verb, ""being"""
+etarscarad,separation%1:11:00::,,separation%1:04:01::,"deliberate ""separating""/""dividing"""
+.i.,even%4:02:00::,,namely%4:02:00::,"abbreviation for ""i.e.""/""to wit""/""namely"""
+airdíxa,long%3:00:02::,,long%3:00:04::,refers to vowel length
+saírse,work%1:06:00::,,craftsmanship%1:09:00::,specifically craftsmanship or works of art
+fortórmach,addition%1:06:00::,,suffix%1:10:00::,something added to a word - a suffix
+nem,eden%1:15:00::,,heaven%1:09:00::,"means ""heaven"""
+coitchenn,common%5:00:00:informal:02,,-,"not specifically linguistic - ""common"" already covered by coitchenn common%3:00:01::"
+com dlúthad,syneresis%1:22:00::,,syneresis%1:22:01::,linguistic synaeresis (merging of two vowels)
+tóbae,conciseness%1:10:00::,,elision%1:22:00::,"means ""cutting""/""concision""/""elision"""
+cinnid,specify%2:42:00::,,define%2:32:00::,"means ""define""/""determine"", particularly a word"
+aicned,nature%1:18:00::,,nature%1:07:02::,"the nature of something, its inherent quality or essence"
+foditiu,endurance%1:07:00::,,tolerance%1:04:00::,"verbal noun, the ""enduring""/""bearing"" of something"
+dobeir,give%2:32:01::,,-,no attestation for this sense
+césad,passion%1:12:02::,,passive%1:24:00::,"the Passion of Christ, or the passive voice - not a strong emotion"
+dofuthraccair sa,wish%2:37:02::,dofuthraccair,,"emphatic pronoun ""sa"" wrongly included in the lemma"
+slond,expression%1:10:02::,,expression%1:10:04::,usually verbal communication
+gibnae,hair%1:08:00::,,lock%1:08:00::,"a ""lock""/""curl"" of hair"
+for forcongair,order%2:32:02::,forcongair,,preverb wrongly repeated in the lemma
+rolaimethar,make_bold%2:41:00::,,dare%2:41:01::,"means ""dare""/""be daring"""
+adcomla,associate%2:31:00::,,-,"means ""join""/""unite"" - already covered by adcomla join%2:35:01::"
+loc,place%1:09:00::,,location%1:03:00::,"a physical ""location""/""place""/""position"""
+aicsenugud,causality%1:24:00::,,-,"""giving a reason""/""providing an excuse"", not causality itself"
+immcomairc,ask%2:32:01::,,ask%2:32:04::,"""question""/""inquire"", not ""request"""
+foraithmet,remembrance%1:09:00::,,remembering%1:09:00::,"verbal noun - the act of remembering, not the ability"
+leth,part%1:09:02::,,-,"""part"" comes from rann in ""rann fo leith"""
+aitrebthaid,owner%1:18:02::,,occupant%1:18:00::,"""occupier of a premises"""
+césad,rage%1:26:02::,,-,not a strong emotion
+fogní,interpret%2:31:00::,,construe%2:31:00::,"means ""construe"" - same synset, construe is its better English lemma"
+foillsigthech,demonstrative%3:00:00::,,-,"only the grammatical sense of ""demonstrative"", which has no adjective synset"
+comaccomol,concurrence%1:07:00::,,conjunction%1:10:00::,a conjunction as a type of word
+locdatu,vicinity%1:15:00::,,location%1:03:00::,"""location""/""locality"""
+aiccent,stress%1:10:01::,,accent%1:10:00::,"always translated ""accent"" - same synset, accent is its better English lemma"
+nert,force%1:19:00::,,strength%1:07:00::,"""strength""; the physics definition is too modern"
+maith,thing%1:04:00::,,-,"means ""good"""
+camm,devious%5:00:00:indirect:02,,-,"means ""crooked""/""bent""; only used in MWEs in the corpus"
+cuimrech,alliance%1:24:00::,,bond%1:06:00::,"""bond""/""binding""/""fettering"", not an alliance"
+cenn,behalf%1:04:00::,,head%1:08:00::,"means ""head"" (""on behalf"" is the MWE dar cenn)"
+íarmifoich,search%2:35:00::,,seek%2:35:00::,"means ""seek"" - same synset, seek is its better English lemma"
+íccaid,salvage%2:41:00::,,save%2:41:01::,"means ""save""/""redeem"" - same synset, save is its better English lemma"
+cretem _,belief%1:09:00::,cretem,,spurious underscore in the lemma
+gním,works%1:04:00::,,-,"not plural or necessarily religious - ""work"" already covered by gním work%1:04:00::"
+colinn,human_body%1:08:00::,,flesh%1:08:02::,"means ""flesh"""
+colnide,animal%5:00:00:physical:00,,carnal%5:00:00:physical:00,"means ""carnal"" - same synset, carnal is its better English lemma"
+comalnaithir,carry_through%2:36:00::,,fulfil%2:36:00::,"means ""fulfil"" - same synset, fulfil is its better English lemma"
+tairngire,promise%1:09:00::,,promise%1:10:00::,"a statement of assurance or commitment"
+tairngire _,promise%1:09:00::,tairngire,promise%1:10:00::,"spurious underscore in the lemma; a statement of assurance or commitment"
+iressach,faithful%3:00:00::,,religious%3:00:00::,"""faithful"" specifically in a religious sense"
+is,send%2:38:01::,,-,copula does not mean 'send'
+precept,teaching%1:04:00::,,preaching%1:10:00::,"""preaching""/""teaching"" of religious material"
+precept,education%1:04:00::,,preaching%1:10:00::,"""preaching""/""teaching"" of religious material"
+for forcain,teach%2:32:00::,forcain,,preverb wrongly repeated in the lemma
+fochaid,agony%1:26:00::,fochith,,lemma as in the UD treebanks and Wb. website; definition accepted
+fochaid,suffering%1:26:01::,fochith,,lemma as in the UD treebanks and Wb. website
+is,look%2:39:01::,,-,copula does not mean 'look'
+caindleóir,candle%1:06:00::,,acolyte%1:18:00::,"""candle-bearer""/""acolyte"""
+caindleóir,carrier%1:18:03::,,acolyte%1:18:00::,"""candle-bearer""/""acolyte"""
+laithe,judgment_day%1:28:00::,,-,"only in an MWE such as ""dilaithiu brátho"""
+grád,order%1:10:03::,,rank%1:26:00::,"means ""grade""/""degree""/""rank"""
+airitiu,pickings%1:04:00::,,reception%1:04:00::,"means ""receiving""/""accepting"""
+doínecht,manhood%1:26:00::,,humanity%1:07:02::,"""being human"", not ""being male"""
+nuiednisse,testament%1:09:00::,,new_testament%1:10:00::,means the New Testament
+cumsanad do,remainder%1:24:00::,,-,"not a real MWE (preposition wrongly included) - duplicate of cumsanad remainder%1:24:00::"
+cumsanad,remainder%1:24:00::,,rest%1:04:00::,"means ""ceasing""/""rest""/""repose"""

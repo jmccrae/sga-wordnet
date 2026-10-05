@@ -1,3 +1,68 @@
+80139515-v:
+  definition:
+  - differ — be different
+  ili: i34997
+  members:
+  - dechraigidir
+  partOfSpeech: v
+80257304-v:
+  definition:
+  - remain — be left; of persons, questions, problems, results, evidence, etc.
+  ili: i34860
+  members:
+  - dofúarat
+  partOfSpeech: v
+81056370-v:
+  definition:
+  - be — be identical to; be someone or something
+  ili: i34756
+  members:
+  - is
+  - attá
+  partOfSpeech: v
+81496297-v:
+  definition:
+  - populate, dwell, live, inhabit — be an inhabitant of or reside in
+  ili: i34919
+  members:
+  - adtreba
+  partOfSpeech: v
+82713876-v:
+  definition:
+  - begin, start — have a beginning, in a temporal, spatial, or evaluative sense
+  ili: i34719
+  members:
+  - doinscanna
+  partOfSpeech: v
+84155581-v:
+  definition:
+  - follow — be next
+  ili: i35267
+  members:
+  - doíarmorat
+  partOfSpeech: v
+84355095-v:
+  definition:
+  - incorporate, contain, comprise — include or contain; have as a component
+  ili: i34820
+  members:
+  - congaib
+  partOfSpeech: v
+85562732-v:
+  definition:
+  - exceed, transcend, surpass — be greater in scope or size than some standard
+  ili: i35012
+  members:
+  - asingaib
+  partOfSpeech: v
+85962572-v:
+  definition:
+  - possess — have as an attribute, knowledge, or skill
+  ili: i34832
+  members:
+  - adtreba
+  - techtaid
+  partOfSpeech: v
 86414182-v:
   definition:
   - stop, finish, terminate, cease, end — have an end, in a temporal, spatial, or
@@ -20,6 +85,28 @@
   similar:
   - 80626763-v
   - 85146580-v
+87731682-v:
+  definition:
+  - originate, arise, rise, develop, uprise, spring up, grow — come into existence;
+    take on form or shape
+  ili: i34794
+  members:
+  - gainithir
+  partOfSpeech: v
+87817232-v:
+  definition:
+  - deserve, merit — be worthy or deserving
+  ili: i34899
+  members:
+  - adroilli
+  partOfSpeech: v
+87847657-v:
+  definition:
+  - be — occupy a certain position or area; be somewhere
+  ili: i34943
+  members:
+  - attá
+  partOfSpeech: v
 88372326-v:
   definition:
   - stand out, surpass, excel — distinguish oneself
@@ -28,6 +115,14 @@
   ili: i35030
   members:
   - doróscai
+  partOfSpeech: v
+88684802-v:
+  definition:
+  - continue, uphold, carry on, bear on, preserve — keep or maintain in unaltered
+    condition; cause to remain or last
+  ili: i35058
+  members:
+  - forcomai
   partOfSpeech: v
 89277815-v:
   definition:

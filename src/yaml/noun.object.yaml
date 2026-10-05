@@ -1,3 +1,32 @@
+80187145-n:
+  definition:
+  - land, ground, soil — material in the top layer of the surface of the earth in
+    which plants can grow (especially with reference to its quality or use)
+  ili: i85675
+  members:
+  - tír
+  partOfSpeech: n
+80803010-n:
+  definition:
+  - rock, stone — a lump or mass of hard consolidated mineral matter
+  ili: i86083
+  members:
+  - lía
+  partOfSpeech: n
+80988205-n:
+  definition:
+  - river — a large natural stream of water (larger than a creek)
+  ili: i86078
+  members:
+  - sruth
+  partOfSpeech: n
+81096136-n:
+  definition:
+  - constellation — a configuration of stars as seen from the earth
+  ili: i85252
+  members:
+  - rind
+  partOfSpeech: n
 81800671-n:
   definition:
   - part, piece — a portion of a natural object
@@ -6,6 +35,30 @@
   ili: i85946
   members:
   - rann
+  partOfSpeech: n
+84304662-n:
+  definition:
+  - forest, woodland, timberland, timber — land that is covered with trees and shrubs
+  ili: i85418
+  members:
+  - caill
+  partOfSpeech: n
+86793664-n:
+  definition:
+  - ember, coal — a hot fragment of wood or coal that is left from a fire and is glowing
+    or smoldering
+  ili: i85361
+  members:
+  - richis
+  partOfSpeech: n
+87200862-n:
+  definition:
+  - sea — a division of an ocean or a large body of salt water partially enclosed
+    by land
+  ili: i86143
+  members:
+  - fairge
+  - muir
   partOfSpeech: n
 89830465-n:
   definition:

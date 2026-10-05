@@ -1,3 +1,13 @@
+oentam:
+  n:
+    sense:
+    - id: 'oentam%1:18:00::'
+      synset: 86604904-n
+oentu:
+  n:
+    sense:
+    - id: 'oentu%1:07:00::'
+      synset: 87812825-n
 oipred:
   n:
     sense:
@@ -5,11 +15,25 @@ oipred:
       synset: 80293708-n
     - id: 'oipred%1:09:01::'
       synset: 81450780-n
+oircnid:
+  n:
+    sense:
+    - id: 'oircnid%1:18:00::'
+      synset: 80360709-n
+ol:
+  v:
+    sense:
+    - id: 'ol%2:32:00::'
+      synset: 87002822-v
 olc:
   a:
     sense:
     - id: 'olc%3:00:00::'
       synset: 87378976-a
+  n:
+    sense:
+    - id: 'olc%1:04:01::'
+      synset: 81120595-n
 opar:
   n:
     sense:

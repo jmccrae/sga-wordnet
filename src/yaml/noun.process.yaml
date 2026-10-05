@@ -1,3 +1,18 @@
+82050297-n:
+  definition:
+  - derivation — (descriptive linguistics) the process whereby new words are formed
+    from existing words or bases by affixation
+  ili: i107484
+  members:
+  - díṡruthigud
+  partOfSpeech: n
+82566946-n:
+  definition:
+  - ellipsis, eclipsis — omission or suppression of parts of words or sentences
+  ili: i107540
+  members:
+  - airchrae
+  partOfSpeech: n
 83033774-n:
   definition:
   - diminution, decline — change toward something smaller or lower
@@ -6,4 +21,26 @@
   ili: i107460
   members:
   - dígbál
+  partOfSpeech: n
+83417917-n:
+  definition:
+  - doubling — increase by a factor of two
+  ili: i107518
+  members:
+  - emnad
+  partOfSpeech: n
+83875899-n:
+  definition:
+  - syneresis, synaeresis — the contraction of two vowels into a diphthong
+  ili: i107993
+  members:
+  - com dlúthad
+  partOfSpeech: n
+87265582-n:
+  definition:
+  - elision — omission of a sound between two words (usually a vowel and the end of
+    one word or the beginning of the next)
+  ili: i107539
+  members:
+  - tóbae
   partOfSpeech: n

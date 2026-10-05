@@ -1,8 +1,45 @@
+lainn:
+  a:
+    sense:
+    - id: 'lainn%3:00:00::'
+      synset: 86470520-a
 lainne:
   n:
     sense:
     - id: 'lainne%1:12:00::'
       synset: 81763401-n
+laiten:
+  n:
+    sense:
+    - id: 'laiten%1:10:00::'
+      synset: 80566016-n
+laithe:
+  n:
+    sense:
+    - id: 'laithe%1:28:00::'
+      synset: 85539345-n
+    - id: 'laithe%1:28:01::'
+      synset: 88030736-n
+laithirt:
+  n:
+    sense:
+    - id: 'laithirt%1:26:00::'
+      synset: 84765263-n
+lam bratt:
+  n:
+    sense:
+    - id: 'lam_bratt%1:06:00::'
+      synset: 83205092-n
+lebor:
+  n:
+    sense:
+    - id: 'lebor%1:10:00::'
+      synset: 88787094-n
+lechdach:
+  n:
+    sense:
+    - id: 'lechdach%1:10:00::'
+      synset: 86458947-n
 lenab:
   n:
     sense:
@@ -13,11 +50,35 @@ leth:
     sense:
     - id: 'leth%1:15:00::'
       synset: 81779714-n
+    - id: 'leth%1:23:01::'
+      synset: 89412744-n
+linn:
+  n:
+    sense:
+    - id: 'linn%1:13:00::'
+      synset: 80131426-n
 liter:
   n:
     sense:
     - id: 'liter%1:10:00::'
       synset: 81890503-n
+    - id: 'liter%1:10:01::'
+      synset: 88732758-n
+litred:
+  n:
+    sense:
+    - id: 'litred%1:10:00::'
+      synset: 81583883-n
+litrid:
+  n:
+    sense:
+    - id: 'litrid%1:18:00::'
+      synset: 86750599-n
+loan:
+  n:
+    sense:
+    - id: 'loan%1:27:00::'
+      synset: 83077674-n
 loc:
   n:
     sense:
@@ -31,6 +92,18 @@ loc:
       synset: 89502279-n
     - id: 'loc%1:15:04::'
       synset: 82967009-n
+    - id: 'loc%1:26:05::'
+      synset: 82353790-n
+locdatu:
+  n:
+    sense:
+    - id: 'locdatu%1:03:00::'
+      synset: 89502279-n
+loor:
+  s:
+    sense:
+    - id: loor%5:00:00:???:00
+      synset: 87527017-s
 lubair:
   n:
     sense:
@@ -41,13 +114,53 @@ luct:
     sense:
     - id: 'luct%1:09:00::'
       synset: 84303570-n
+luib:
+  n:
+    sense:
+    - id: 'luib%1:03:00::'
+      synset: 89068816-n
+lá:
+  n:
+    sense:
+    - id: 'lá%1:28:00::'
+      synset: 85539345-n
+    - id: 'lá%1:28:01::'
+      synset: 88030736-n
+    - id: 'lá%1:28:02::'
+      synset: 83028557-n
+lán:
+  a:
+    sense:
+    - id: 'lán%3:00:00::'
+      synset: 88576953-a
 léigend:
+  n:
+    sense:
+    - id: 'léigend%1:09:01::'
+      synset: 83954240-n
   v:
     sense:
     - id: 'léigend%2:31:00::'
       synset: 84706651-v
+lía:
+  n:
+    sense:
+    - id: 'lía%1:17:00::'
+      synset: 80803010-n
 lín:
   n:
     sense:
     - id: 'lín%1:07:00::'
       synset: 88536860-n
+    - id: 'lín%1:06:01::'
+      synset: 82118563-n
+lóthar:
+  n:
+    sense:
+    - id: 'lóthar%1:06:00::'
+      synset: 87726871-n
+lúa líath:
+  n:
+    sense:
+    - id: 'lúa_líath%1:08:00::'
+      synset: 89485722-n

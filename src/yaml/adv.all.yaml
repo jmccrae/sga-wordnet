@@ -1,3 +1,11 @@
+80459895-r:
+  definition:
+  - then, so, and so — subsequently or soon afterward (often used as sentence connectors)
+  ili: i18890
+  members:
+  - dano
+  - didiu
+  partOfSpeech: r
 81006346-r:
   definition:
   - solely, only, alone, entirely, exclusively — without any others being included
@@ -6,6 +14,27 @@
   members:
   - nammá
   partOfSpeech: r
+81858070-r:
+  definition:
+  - externally — on or from the outside
+  ili: i19860
+  members:
+  - sechtardae
+  partOfSpeech: r
+82753164-r:
+  definition:
+  - namely, viz., that is to say, to wit, videlicet — as follows
+  ili: i19434
+  members:
+  - .i.
+  partOfSpeech: r
+83022925-r:
+  definition:
+  - above, supra — (in writing) at an earlier place
+  ili: i18622
+  members:
+  - túas
+  partOfSpeech: r
 83067314-r:
   definition:
   - so, hence, thence, therefore, thus — (used to introduce a logical conclusion)
@@ -13,6 +42,16 @@
   ili: i18390
   members:
   - ar
+  - dano
+  partOfSpeech: r
+84192411-r:
+  definition:
+  - however, nevertheless, withal, still, yet, all the same, even so, nonetheless,
+    notwithstanding, at the same time — despite anything to the contrary (usually
+    preceding a concession)
+  ili: i18298
+  members:
+  - cedacht
   partOfSpeech: r
 84592924-r:
   definition:
@@ -20,6 +59,8 @@
   ili: i18891
   members:
   - dano
+  - trá
+  - didiu
   partOfSpeech: r
 84727924-r:
   definition:
@@ -34,6 +75,14 @@
   ili: i18911
   members:
   - amal
+  - amein
+  partOfSpeech: r
+85720380-r:
+  definition:
+  - together — in contact with each other or in proximity
+  ili: i18884
+  members:
+  - immalle
   partOfSpeech: r
 86151269-r:
   definition:
@@ -52,6 +101,14 @@
   members:
   - beus
   partOfSpeech: r
+86651937-r:
+  definition:
+  - so — in such a condition or manner, especially as expressed or implied
+  ili: i19126
+  members:
+  - amal
+  - dano
+  partOfSpeech: r
 87612028-r:
   definition:
   - subsequently, after, afterward, afterwards, later, later on — happening at a time
@@ -59,6 +116,7 @@
   ili: i18505
   members:
   - íar
+  - íarum
   partOfSpeech: r
 87655896-r:
   definition:
@@ -66,6 +124,36 @@
   ili: i18894
   members:
   - co
+  partOfSpeech: r
+87740750-r:
+  definition:
+  - below, at a lower place, to a lower place, beneath — in or to a place that is
+    lower
+  ili: i18623
+  members:
+  - sís
+  - tís
+  partOfSpeech: r
+88461784-r:
+  definition:
+  - herein — in this place or thing or document
+  ili: i18826
+  members:
+  - sund
+  partOfSpeech: r
+88502420-r:
+  definition:
+  - below, infra — (in writing) at a later place
+  ili: i19938
+  members:
+  - sís
+  partOfSpeech: r
+88596021-r:
+  definition:
+  - verily — in truth; certainly
+  ili: i21569
+  members:
+  - ám
   partOfSpeech: r
 88714875-r:
   definition:

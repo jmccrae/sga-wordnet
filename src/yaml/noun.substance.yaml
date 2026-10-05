@@ -7,3 +7,26 @@
   members:
   - '*adbar dúr'
   partOfSpeech: n
+82145061-n:
+  definition:
+  - ink — a liquid used for printing or writing or drawing
+  ili: i115490
+  members:
+  - dub
+  partOfSpeech: n
+83077674-n:
+  definition:
+  - fat — a soft greasy substance occurring in organic tissue and consisting of a
+    mixture of lipids (mostly triglycerides)
+  ili: i115175
+  members:
+  - loan
+  partOfSpeech: n
+85628654-n:
+  definition:
+  - chaff, husk, shuck, stalk, straw, stubble — material consisting of seed coverings
+    and small pieces of stem or leaves that have been separated from the seeds
+  ili: i114845
+  members:
+  - cáith
+  partOfSpeech: n

@@ -5,12 +5,26 @@
   members:
   - afracdae
   partOfSpeech: a
+85978877-a:
+  definition:
+  - nominal — pertaining to a noun or to a word group that functions as a noun
+  ili: i15638
+  members:
+  - ainmmde
+  partOfSpeech: a
 86287358-a:
   definition:
   - possessive, genitive — serving to express or indicate possession
   ili: i16263
   members:
   - aittrebthach
+  partOfSpeech: a
+87148436-a:
+  definition:
+  - anaphoric — relating to anaphora
+  ili: i16751
+  members:
+  - atárcadach
   partOfSpeech: a
 88528725-a:
   definition:
@@ -19,4 +33,11 @@
   ili: i17254
   members:
   - grécde
+  partOfSpeech: a
+89439465-a:
+  definition:
+  - appellative — pertaining to or dealing with or used as a common noun
+  ili: i14698
+  members:
+  - doacaldmach
   partOfSpeech: a

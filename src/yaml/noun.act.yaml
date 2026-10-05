@@ -8,6 +8,36 @@
   - gním
   - oipred
   partOfSpeech: n
+80360228-n:
+  definition:
+  - confession — (Roman Catholic Church) the act of a penitent disclosing his sinfulness
+    before a priest in the sacrament of penance in the hope of absolution
+  ili: i40847
+  members:
+  - coibse
+  partOfSpeech: n
+80466992-n:
+  definition:
+  - reception, receipt — the act of receiving
+  ili: i35877
+  members:
+  - airitiu
+  partOfSpeech: n
+80776963-n:
+  definition:
+  - correction, rectification — the act of offering an improvement to replace a mistake;
+    setting right
+  ili: i36756
+  members:
+  - cocart
+  partOfSpeech: n
+81120595-n:
+  definition:
+  - evil, immorality, wickedness, iniquity — morally objectionable behavior
+  ili: i39353
+  members:
+  - olc
+  partOfSpeech: n
 81659516-n:
   definition:
   - composition, penning, authorship, writing — the act of creating written works
@@ -17,6 +47,57 @@
   members:
   - comṡuidigud
   partOfSpeech: n
+81687514-n:
+  definition:
+  - punishment, penalty, penalization, penalisation — the act of punishing, or the
+    infliction of a penalty
+  ili: i41479
+  members:
+  - dígal
+  partOfSpeech: n
+82749052-n:
+  definition:
+  - kiss, buss, osculation — the act of caressing with the lips (or an instance thereof)
+  ili: i36142
+  members:
+  - póc
+  partOfSpeech: n
+83528414-n:
+  definition:
+  - rest, ease, repose, relaxation — freedom from activity (work or strain or responsibility)
+  ili: i40987
+  members:
+  - cumsanad
+  partOfSpeech: n
+83718118-n:
+  definition:
+  - juxtaposition, apposition, collocation — the act of positioning close together
+    (or side by side)
+  ili: i40920
+  members:
+  - comaisndís
+  partOfSpeech: n
+84294454-n:
+  definition:
+  - completion, culmination, closing, windup, mop up — a concluding action
+  ili: i36514
+  members:
+  - forbae
+  partOfSpeech: n
+84433864-n:
+  definition:
+  - invention — the act of inventing
+  ili: i40347
+  members:
+  - airec
+  partOfSpeech: n
+84910614-n:
+  definition:
+  - shortening — act of decreasing in length
+  ili: i37296
+  members:
+  - timorcon
+  partOfSpeech: n
 85147029-n:
   definition:
   - comparison, comparing — the act of examining resemblances
@@ -25,6 +106,52 @@
   ili: i36163
   members:
   - coindelg
+  partOfSpeech: n
+85473015-n:
+  definition:
+  - measurement, measuring, measure, mensuration — the act or process of assigning
+    numbers to phenomena according to a rule
+  ili: i40622
+  members:
+  - tomus
+  partOfSpeech: n
+85474157-n:
+  definition:
+  - teaching, instruction, pedagogy — the profession of a teacher
+  ili: i40057
+  members:
+  - forcetal
+  partOfSpeech: n
+86228844-n:
+  definition:
+  - breathing, external respiration, respiration, ventilation — the bodily process
+    of inhalation and exhalation; the process of taking in oxygen from inhaled air
+    and releasing carbon dioxide by exhalation
+  ili: i39773
+  members:
+  - tinfed
+  partOfSpeech: n
+86393212-n:
+  definition:
+  - formation, shaping — the act of fabricating something in a particular shape
+  ili: i40270
+  members:
+  - cruthugud
+  partOfSpeech: n
+86933702-n:
+  definition:
+  - tolerance — the act of tolerating something
+  ili: i41027
+  members:
+  - foditiu
+  partOfSpeech: n
+86939928-n:
+  definition:
+  - demonstration, manifestation — a public display of group feelings (usually of
+    a political nature)
+  ili: i41573
+  members:
+  - foillsigud
   partOfSpeech: n
 86982352-n:
   definition:
@@ -37,6 +164,83 @@
   - saíthar
   - gnímrad
   - lubair
+  - gním
+  partOfSpeech: n
+87095000-n:
+  definition:
+  - alternation — successive change from one thing or state to another and back again
+  ili: i40695
+  members:
+  - ailidetu
+  partOfSpeech: n
+87575869-n:
+  definition:
+  - separation — the act of dividing or disconnecting
+  ili: i37420
+  members:
+  - etarscarad
+  partOfSpeech: n
+87647377-n:
+  definition:
+  - circumcision — the act of circumcising; surgical removal of the foreskin of males
+  ili: i37483
+  members:
+  - imdibe
+  partOfSpeech: n
+88137976-n:
+  definition:
+  - attachment, adherence, adhesion — faithful support for a cause or political party
+    or religion
+  ili: i41741
+  members:
+  - attoíbed
+  partOfSpeech: n
+88175979-n:
+  definition:
+  - passage, transition — the act of passing from one state or place to the next
+  ili: i36463
+  members:
+  - tairmthecht
+  - tairmthechtas
+  partOfSpeech: n
+88240865-n:
+  definition:
+  - sin, sinning — an act that is regarded by theologians as a transgression of God's
+    will
+  ili: i39414
+  members:
+  - peccad
+  partOfSpeech: n
+88289372-n:
+  definition:
+  - worship — the activity of worshipping
+  ili: i40790
+  members:
+  - adrad
+  partOfSpeech: n
+88362919-n:
+  definition:
+  - redemption, salvation — (theology) the act of delivering from sin or saving from
+    evil
+  ili: i35898
+  members:
+  - ícc
+  partOfSpeech: n
+88857531-n:
+  definition:
+  - possession, ownership — the act of having and controlling property
+  ili: i39659
+  members:
+  - atrab
+  partOfSpeech: n
+89033535-n:
+  definition:
+  - vengeance, retribution, payback — the act of taking revenge (harming someone in
+    retaliation for something harmful that they have done) especially in the next
+    life
+  ili: i41868
+  members:
+  - dígal
   partOfSpeech: n
 89071008-n:
   definition:
@@ -47,6 +251,16 @@
   ili: i39225
   members:
   - loc
+  - engracus
+  - engraic
+  partOfSpeech: n
+89297466-n:
+  definition:
+  - mix, commixture, admixture, mixture, intermixture, mixing — the act of mixing
+    together
+  ili: i37405
+  members:
+  - cummasc
   partOfSpeech: n
 89328654-n:
   definition:
@@ -56,6 +270,13 @@
   ili: i37324
   members:
   - tormach
+  partOfSpeech: n
+89564137-n:
+  definition:
+  - custom, usage, usance — accepted or habitual practice
+  ili: i37573
+  members:
+  - bés
   partOfSpeech: n
 89795394-n:
   definition:

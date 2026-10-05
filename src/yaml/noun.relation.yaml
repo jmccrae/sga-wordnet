@@ -1,3 +1,10 @@
+80578425-n:
+  definition:
+  - paradigm — systematic arrangement of all the inflected forms of a word
+  ili: i109448
+  members:
+  - delb
+  partOfSpeech: n
 81003377-n:
   definition:
   - grammatical relation — a linguistic relation established by grammar
@@ -72,6 +79,14 @@
   ili: i109444
   members:
   - césad
+  partOfSpeech: n
+87777049-n:
+  definition:
+  - connection, connexion, connectedness — a relation between things or events (as
+    in the case of one causing the other or sharing features with it)
+  ili: i109383
+  members:
+  - accomol
   partOfSpeech: n
 89475268-n:
   definition:

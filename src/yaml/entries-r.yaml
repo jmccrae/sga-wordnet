@@ -16,6 +16,8 @@ rann:
       synset: 89910511-n
     - id: 'rann%1:09:04::'
       synset: 86759983-n
+    - id: 'rann%1:06:05::'
+      synset: 83251667-n
 rann insce:
   n:
     sense:
@@ -31,16 +33,53 @@ re:
     sense:
     - id: 're%4:02:00::'
       synset: 84727924-r
+recht:
+  n:
+    sense:
+    - id: 'recht%1:14:00::'
+      synset: 83666582-n
+    - id: 'recht%1:09:01::'
+      synset: 80714279-n
+rechtaire:
+  n:
+    sense:
+    - id: 'rechtaire%1:18:00::'
+      synset: 84051754-n
 remṡuidigud:
   n:
     sense:
     - id: 'remṡuidigud%1:10:00::'
       synset: 88734992-n
+richis:
+  n:
+    sense:
+    - id: 'richis%1:17:00::'
+      synset: 86793664-n
+rind:
+  n:
+    sense:
+    - id: 'rind%1:17:00::'
+      synset: 81096136-n
+rofinnadar:
+  v:
+    sense:
+    - id: 'rofinnadar%2:31:00::'
+      synset: 88683135-v
+rolaimethar:
+  v:
+    sense:
+    - id: 'rolaimethar%2:41:00::'
+      synset: 89065716-v
 rád:
   n:
     sense:
     - id: 'rád%1:10:00::'
       synset: 88868896-n
+réid:
+  a:
+    sense:
+    - id: 'réid%3:00:00::'
+      synset: 81160873-a
 rét:
   n:
     sense:
@@ -48,7 +87,20 @@ rét:
       synset: 87663116-n
     - id: 'rét%1:03:01::'
       synset: 85046098-n
+    - id: 'rét%1:26:02::'
+      synset: 88962572-n
+ríagol:
+  n:
+    sense:
+    - id: 'ríagol%1:09:00::'
+      synset: 84482533-n
+    - id: 'ríagol%1:10:01::'
+      synset: 89301137-n
 ríagolda:
+  a:
+    sense:
+    - id: 'ríagolda%3:00:01::'
+      synset: 87286632-a
   s:
     sense:
     - id: ríagolda%5:00:00:???:00

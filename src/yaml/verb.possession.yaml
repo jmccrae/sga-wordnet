@@ -4,9 +4,38 @@
   ili: i32770
   members:
   - techtaid
+  - adtreba
   partOfSpeech: v
   similar:
   - 87022866-v
+80766191-v:
+  definition:
+  - give — transfer possession of something concrete or abstract to somebody
+  ili: i32755
+  members:
+  - dobeir
+  partOfSpeech: v
+80821015-v:
+  definition:
+  - find, happen, chance, bump, encounter — come upon, as if by accident; meet with
+  ili: i32979
+  members:
+  - aricc
+  partOfSpeech: v
+82191862-v:
+  definition:
+  - receive, have — get something; come into possession of
+  ili: i32799
+  members:
+  - arfoím
+  partOfSpeech: v
+82935786-v:
+  definition:
+  - confer, bestow — present
+  ili: i33049
+  members:
+  - dobeir
+  partOfSpeech: v
 85146580-v:
   definition:
   - have, possess, own — have ownership or possession of
@@ -18,3 +47,17 @@
   partOfSpeech: v
   similar:
   - 87022866-v
+85504556-v:
+  definition:
+  - give — convey or reveal information
+  ili: i32920
+  members:
+  - dobeir
+  partOfSpeech: v
+86309643-v:
+  definition:
+  - keep, hold on — retain possession of
+  ili: i32766
+  members:
+  - forcomai
+  partOfSpeech: v

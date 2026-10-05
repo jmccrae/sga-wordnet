@@ -163,6 +163,7 @@
   - '*comaiste'
   - '*comcháil'
   - '*coibdelach'
+  - coibnius
   partOfSpeech: n
 84643561-n:
   definition:
@@ -173,6 +174,7 @@
   ili: i35575
   members:
   - engnae
+  - etargne
   partOfSpeech: n
 84675829-n:
   definition:
@@ -282,6 +284,13 @@
   - ní
   - rét
   partOfSpeech: n
+89068816-n:
+  definition:
+  - plant, flora, plant life — (botany) a living organism lacking the power of locomotion
+  ili: i35564
+  members:
+  - luib
+  partOfSpeech: n
 89251292-n:
   definition:
   - 'soul, individual, somebody, someone, person, mortal — a human being; person,
@@ -293,6 +302,7 @@
   ili: i35562
   members:
   - persan
+  - duine
   partOfSpeech: n
 89502279-n:
   definition:
@@ -303,6 +313,7 @@
   members:
   - áitt
   - loc
+  - locdatu
   partOfSpeech: n
 89941866-n:
   definition:
@@ -314,6 +325,7 @@
   members:
   - amm
   - '*úain'
+  - aimser
   partOfSpeech: n
 89948552-n:
   definition:

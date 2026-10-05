@@ -1,13 +1,57 @@
+ifern:
+  n:
+    sense:
+    - id: 'ifern%1:09:00::'
+      synset: 87985611-n
+il:
+  a:
+    sense:
+    - id: 'il%3:00:00::'
+      synset: 88034512-a
+  s:
+    sense:
+    - id: il%5:00:01:???:00
+      synset: 81243737-s
 ilar:
   n:
     sense:
     - id: 'ilar%1:10:00::'
       synset: 80259077-n
+ildae:
+  a:
+    sense:
+    - id: 'ildae%3:00:00::'
+      synset: 87002668-a
+imchomarc:
+  n:
+    sense:
+    - id: 'imchomarc%1:10:00::'
+      synset: 89847798-n
+imdibe:
+  n:
+    sense:
+    - id: 'imdibe%1:04:00::'
+      synset: 87647377-n
 immacaldaim:
   n:
     sense:
     - id: 'immacaldaim%1:03:00::'
       synset: 80644807-n
+immalle:
+  r:
+    sense:
+    - id: 'immalle%4:02:00::'
+      synset: 85720380-r
+immcomairc:
+  v:
+    sense:
+    - id: 'immcomairc%2:32:00::'
+      synset: 83672666-v
+immfolngai:
+  v:
+    sense:
+    - id: 'immfolngai%2:36:00::'
+      synset: 88847701-v
 imḟognam:
   n:
     sense:
@@ -28,6 +72,11 @@ incoisig:
     sense:
     - id: 'incoisig%2:32:00::'
       synset: 82949802-v
+indas:
+  n:
+    sense:
+    - id: 'indas%1:09:00::'
+      synset: 80707623-n
 inderb:
   a:
     sense:
@@ -38,11 +87,28 @@ inderbus:
     sense:
     - id: 'inderbus%1:09:00::'
       synset: 88307027-n
+indlach:
+  n:
+    sense:
+    - id: 'indlach%1:10:00::'
+      synset: 86031490-n
+inducbál:
+  n:
+    sense:
+    - id: 'inducbál%1:26:00::'
+      synset: 88949882-n
 ingen:
   n:
     sense:
     - id: 'ingen%1:18:00::'
       synset: 82479076-n
+    - id: 'ingen%1:08:01::'
+      synset: 86711552-n
+inmedónach:
+  a:
+    sense:
+    - id: 'inmedónach%3:00:00::'
+      synset: 83710193-a
 inne:
   n:
     sense:
@@ -54,6 +120,15 @@ inne:
       synset: 88616102-n
     - id: 'inne%1:09:03::'
       synset: 82029779-n
+    - id: 'inne%1:10:04::'
+      synset: 86874665-n
+    - id: 'inne%1:07:05::'
+      synset: 80979221-n
+insamlathar:
+  v:
+    sense:
+    - id: 'insamlathar%2:36:00::'
+      synset: 82874814-v
 insce:
   n:
     sense:
@@ -66,18 +141,40 @@ intliucht:
     sense:
     - id: 'intliucht%1:09:00::'
       synset: 80785130-n
+    - id: 'intliucht%1:10:01::'
+      synset: 86881526-n
+    - id: 'intliucht%1:10:02::'
+      synset: 86874665-n
 inunn:
   a:
     sense:
     - id: 'inunn%3:00:00::'
       synset: 88080213-a
+    - id: 'inunn%3:00:01::'
+      synset: 85023959-a
+iress:
+  n:
+    sense:
+    - id: 'iress%1:09:00::'
+      synset: 83335635-n
+iressach:
+  a:
+    sense:
+    - id: 'iressach%3:00:00::'
+      synset: 87752792-a
 is:
   v:
     sense:
     - id: 'is%2:42:00::'
       synset: 89277815-v
+    - id: 'is%2:42:01::'
+      synset: 81056370-v
 ith:
   n:
     sense:
     - id: 'ith%1:13:00::'
       synset: 81525755-n
+    - id: 'ith%1:20:01::'
+      synset: 86028983-n
+    - id: 'ith%1:20:02::'
+      synset: 81775241-n

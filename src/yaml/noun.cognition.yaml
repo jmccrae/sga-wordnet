@@ -1,3 +1,28 @@
+80001511-n:
+  definition:
+  - craft, craftsmanship, workmanship — skill in an occupation or trade
+  ili: i66541
+  members:
+  - saírse
+  partOfSpeech: n
+80415856-n:
+  definition:
+  - compound — a whole formed by a union of two or more elements or parts
+  ili: i67721
+  members:
+  - comṡuidigud
+  partOfSpeech: n
+80707623-n:
+  definition:
+  - kind, sort, form, variety — a category of things distinguished by some common
+    characteristic or quality
+  ili: i67559
+  members:
+  - cenélae
+  - cenél
+  - gné
+  - indas
+  partOfSpeech: n
 80714279-n:
   definition:
   - law, natural law — a rule or body of rules of conduct inherent in human nature
@@ -7,6 +32,7 @@
   ili: i67725
   members:
   - dliged
+  - recht
   partOfSpeech: n
 80785130-n:
   definition:
@@ -53,6 +79,7 @@
   members:
   - delb
   - forgnúis
+  - gnúis
   partOfSpeech: n
 82029779-n:
   definition:
@@ -63,6 +90,13 @@
   ili: i67612
   members:
   - inne
+  partOfSpeech: n
+82055471-n:
+  definition:
+  - belief — any cognitive content held as true
+  ili: i68061
+  members:
+  - cretem
   partOfSpeech: n
 83081164-n:
   definition:
@@ -81,6 +115,46 @@
   ili: i67714
   members:
   - deired
+  - dead
+  - forcenn
+  partOfSpeech: n
+83335635-n:
+  definition:
+  - religion, faith, religious belief — a strong belief in a supernatural power or
+    powers that control human destiny
+  ili: i68078
+  members:
+  - iress
+  partOfSpeech: n
+83387525-n:
+  definition:
+  - memory, remembering — the cognitive processes whereby past experience is remembered
+  ili: i67169
+  members:
+  - foraithmet
+  partOfSpeech: n
+83674301-n:
+  definition:
+  - sense, sensation, sentience, sentiency, sensory faculty — the faculty through
+    which the external world is apprehended
+  ili: i66622
+  members:
+  - cíall
+  partOfSpeech: n
+83954240-n:
+  definition:
+  - reading — the cognitive process of understanding a written linguistic message
+  ili: i67407
+  members:
+  - léigend
+  partOfSpeech: n
+84014212-n:
+  definition:
+  - Heaven — a place regarded by various beliefs as the abode of their deities; also
+    a place where good people are believed to go after death
+  ili: i66481
+  members:
+  - nem
   partOfSpeech: n
 84303570-n:
   definition:
@@ -93,6 +167,29 @@
   - luct
   - '*luct menman'
   - '*colnide menman'
+  partOfSpeech: n
+84304616-n:
+  definition:
+  - interpretation, reading, version — a mental representation of the meaning or significance
+    of something
+  ili: i67984
+  members:
+  - etercert
+  partOfSpeech: n
+84482533-n:
+  definition:
+  - rule, regulation — a principle or condition that customarily governs behavior
+  ili: i67597
+  members:
+  - ríagol
+  partOfSpeech: n
+84743308-n:
+  definition:
+  - analogy — an inference that if things agree in some respects they probably agree
+    in others
+  ili: i67264
+  members:
+  - analach
   partOfSpeech: n
 85087478-n:
   definition:
@@ -143,6 +240,13 @@
   members:
   - desimrecht
   partOfSpeech: n
+86754842-n:
+  definition:
+  - heart, bosom — the locus of feelings and intuitions
+  ili: i67941
+  members:
+  - cride
+  partOfSpeech: n
 86759983-n:
   definition:
   - part — that which concerns a person with regard to a particular role or situation
@@ -151,6 +255,21 @@
   ili: i66724
   members:
   - rann
+  partOfSpeech: n
+86847478-n:
+  definition:
+  - music, euphony — any agreeable (pleasing and harmonious) sounds
+  ili: i66962
+  members:
+  - bindius
+  partOfSpeech: n
+87985611-n:
+  definition:
+  - Hell, perdition, Inferno, infernal region, nether region, pit — (Christianity)
+    the abode of Satan and the forces of evil; where sinners suffer eternal punishment
+  ili: i66491
+  members:
+  - ifern
   partOfSpeech: n
 88128664-n:
   definition:
@@ -161,6 +280,14 @@
   members:
   - eulas
   - fis
+  partOfSpeech: n
+88193664-n:
+  definition:
+  - example, illustration, instance, representative — an item of information that
+    is typical of a class or group
+  ili: i67469
+  members:
+  - desimrecht
   partOfSpeech: n
 88307027-n:
   definition:
@@ -182,6 +309,14 @@
   - menma
   - '*bal menman'
   - '*alt menman'
+  partOfSpeech: n
+89280551-n:
+  definition:
+  - mind, head, brain, psyche, nous — that which is responsible for one's thoughts,
+    feelings, and conscious brain functions; the seat of the faculty of reason
+  ili: i66397
+  members:
+  - menma
   partOfSpeech: n
 89321446-n:
   definition:

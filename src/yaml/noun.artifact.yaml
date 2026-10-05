@@ -1,3 +1,32 @@
+80858914-n:
+  definition:
+  - shelter — a structure that provides privacy and protection from danger
+  ili: i58783
+  members:
+  - dítiu
+  partOfSpeech: n
+82118563-n:
+  definition:
+  - net — a trap made of netting to catch fish or birds or insects
+  ili: i56569
+  members:
+  - lín
+  partOfSpeech: n
+82982330-n:
+  definition:
+  - weapon, arm, weapon system — any instrument or instrumentality used in fighting
+    or hunting
+  ili: i61038
+  members:
+  - arm
+  partOfSpeech: n
+83122893-n:
+  definition:
+  - basket, handbasket — a container that is usually woven and has handles
+  ili: i50522
+  members:
+  - clíab
+  partOfSpeech: n
 83143235-n:
   definition:
   - helmet — armor plate that protects the head
@@ -6,6 +35,37 @@
   ili: i54769
   members:
   - barr
+  partOfSpeech: n
+83205092-n:
+  definition:
+  - handkerchief, hankie, hanky, hankey — a square piece of cloth used for wiping
+    the eyes or nose or as a costume accessory
+  ili: i54611
+  members:
+  - lam bratt
+  partOfSpeech: n
+83251667-n:
+  definition:
+  - piece, part — an item that is an instance of some type
+  ili: i57250
+  members:
+  - rann
+  partOfSpeech: n
+83996228-n:
+  definition:
+  - sail, canvas, canvass, sheet — a large piece of fabric (usually canvas fabric)
+    by means of which wind is used to propel a sailing vessel
+  ili: i58403
+  members:
+  - séol
+  partOfSpeech: n
+84531795-n:
+  definition:
+  - house — a dwelling that serves as living quarters for one or more families
+  ili: i54960
+  members:
+  - tegdais
+  - tech
   partOfSpeech: n
 85064914-n:
   definition:
@@ -16,6 +76,43 @@
   members:
   - rann
   partOfSpeech: n
+85270420-n:
+  definition:
+  - shackle, bond, hamper, trammel — a restraint that confines or restricts freedom
+    (especially something used to tie down or restrain a prisoner)
+  ili: i58722
+  members:
+  - cuimrech
+  partOfSpeech: n
+85734525-n:
+  definition:
+  - kitchen — a room equipped for preparing meals
+  ili: i55397
+  members:
+  - cucann
+  partOfSpeech: n
+86562545-n:
+  definition:
+  - sickle, reaping hook, reap hook — an edge tool for cutting grass or crops; has
+    a curved blade and a short handle
+  ili: i58901
+  members:
+  - bacc
+  partOfSpeech: n
+86883593-n:
+  definition:
+  - ax, axe — an edge tool with a heavy bladed head mounted across a handle
+  ili: i50301
+  members:
+  - biáil
+  partOfSpeech: n
+87726871-n:
+  definition:
+  - tub, vat — a large open vessel for holding or storing liquids
+  ili: i60613
+  members:
+  - lóthar
+  partOfSpeech: n
 87993082-n:
   definition:
   - junction — the place where two or more things come together
@@ -24,4 +121,19 @@
   ili: i55315
   members:
   - accomol
+  partOfSpeech: n
+88144665-n:
+  definition:
+  - roof — a protective covering that covers or forms the top of a building
+  ili: i58260
+  members:
+  - druimmchlae
+  - druimmchlí
+  partOfSpeech: n
+89451188-n:
+  definition:
+  - art, fine art — the products of human creativity; works of art collectively
+  ili: i50178
+  members:
+  - dán
   partOfSpeech: n

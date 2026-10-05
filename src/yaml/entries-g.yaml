@@ -1,3 +1,13 @@
+gainithir:
+  v:
+    sense:
+    - id: 'gainithir%2:42:00::'
+      synset: 87731682-v
+gair:
+  n:
+    sense:
+    - id: 'gair%1:07:00::'
+      synset: 80428126-n
 genitiu:
   n:
     sense:
@@ -8,11 +18,53 @@ gerind:
     sense:
     - id: 'gerind%1:10:00::'
       synset: 85409528-n
+gibnae:
+  n:
+    sense:
+    - id: 'gibnae%1:08:00::'
+      synset: 84761508-n
+glaine:
+  n:
+    sense:
+    - id: 'glaine%1:08:00::'
+      synset: 80230865-n
+glan:
+  a:
+    sense:
+    - id: 'glan%3:00:00::'
+      synset: 80831511-a
+glúas:
+  n:
+    sense:
+    - id: 'glúas%1:10:00::'
+      synset: 84647083-n
+glún:
+  n:
+    sense:
+    - id: 'glún%1:08:00::'
+      synset: 87404896-n
+gnáth:
+  a:
+    sense:
+    - id: 'gnáth%3:00:00::'
+      synset: 89291192-a
+gné:
+  n:
+    sense:
+    - id: 'gné%1:09:00::'
+      synset: 80707623-n
 gnía:
   n:
     sense:
     - id: 'gnía%1:18:00::'
       synset: 85523759-n
+gníid:
+  v:
+    sense:
+    - id: 'gníid%2:41:00::'
+      synset: 87848353-v
+    - id: 'gníid%2:41:01::'
+      synset: 89147749-v
 gním:
   n:
     sense:
@@ -24,6 +76,8 @@ gním:
       synset: 81266292-n
     - id: 'gním%1:04:03::'
       synset: 80293708-n
+    - id: 'gním%1:04:04::'
+      synset: 86982352-n
 gnímrad:
   n:
     sense:
@@ -39,11 +93,23 @@ gnúis:
     sense:
     - id: 'gnúis%1:09:00::'
       synset: 89321446-n
+    - id: 'gnúis%1:09:01::'
+      synset: 81886174-n
+graif:
+  n:
+    sense:
+    - id: 'graif%1:10:00::'
+      synset: 82910591-n
 grácad:
   n:
     sense:
     - id: 'grácad%1:10:00::'
       synset: 87894795-n
+grád:
+  n:
+    sense:
+    - id: 'grád%1:26:00::'
+      synset: 82833728-n
 gréc:
   n:
     sense:
@@ -54,6 +120,18 @@ grécde:
     sense:
     - id: 'grécde%3:01:00::'
       synset: 88528725-a
+guidid:
+  v:
+    sense:
+    - id: 'guidid%2:32:00::'
+      synset: 88745763-v
+guth:
+  n:
+    sense:
+    - id: 'guth%1:10:00::'
+      synset: 81092558-n
+    - id: 'guth%1:10:01::'
+      synset: 87834809-n
 guthaigthe:
   n:
     sense:

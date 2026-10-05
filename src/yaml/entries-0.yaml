@@ -159,11 +159,18 @@
     sense:
     - id: '*úain%1:03:00::'
       synset: 89941866-n
+.i.:
+  r:
+    sense:
+    - id: '.i.%4:02:00::'
+      synset: 82753164-r
 áirem:
   n:
     sense:
     - id: 'áirem%1:23:00::'
       synset: 81852294-n
+    - id: 'áirem%1:07:01::'
+      synset: 88536860-n
 áitt:
   n:
     sense:
@@ -176,6 +183,8 @@
     sense:
     - id: 'ám%4:02:00::'
       synset: 88714875-r
+    - id: 'ám%4:02:01::'
+      synset: 88596021-r
 áram:
   n:
     sense:
@@ -183,27 +192,77 @@
       synset: 81852294-n
     - id: 'áram%1:03:01::'
       synset: 84080689-n
+    - id: 'áram%1:10:02::'
+      synset: 81701406-n
+écintech:
+  a:
+    sense:
+    - id: 'écintech%3:00:00::'
+      synset: 88691194-a
+écsamlus:
+  n:
+    sense:
+    - id: 'écsamlus%1:07:00::'
+      synset: 82988524-n
 éicen:
   n:
     sense:
     - id: 'éicen%1:17:00::'
       synset: 89830465-n
+    - id: 'éicen%1:26:01::'
+      synset: 89300110-n
 érchoiliud:
   n:
     sense:
     - id: 'érchoiliud%1:10:00::'
       synset: 81424377-n
+étig:
+  a:
+    sense:
+    - id: 'étig%3:00:00::'
+      synset: 84770391-a
 íar:
   r:
     sense:
     - id: 'íar%4:02:00::'
       synset: 87612028-r
+íarmifoich:
+  v:
+    sense:
+    - id: 'íarmifoich%2:35:00::'
+      synset: 82966292-v
+íarum:
+  r:
+    sense:
+    - id: 'íarum%4:02:00::'
+      synset: 87612028-r
+ícc:
+  n:
+    sense:
+    - id: 'ícc%1:04:00::'
+      synset: 88362919-n
+íccaid:
+  v:
+    sense:
+    - id: 'íccaid%2:41:00::'
+      synset: 84480034-v
 íth:
   n:
     sense:
     - id: 'íth%1:13:00::'
       synset: 84699239-n
+    - id: 'íth%1:13:01::'
+      synset: 88802907-n
+óa:
+  n:
+    sense:
+    - id: 'óa%1:08:00::'
+      synset: 88504955-n
 óg:
+  a:
+    sense:
+    - id: 'óg%3:00:02::'
+      synset: 86702727-a
   n:
     sense:
     - id: 'óg%1:03:01::'
@@ -212,11 +271,21 @@
     sense:
     - id: óg%5:00:00:???:00
       synset: 89427292-s
+ógae:
+  n:
+    sense:
+    - id: 'ógae%1:26:00::'
+      synset: 83771050-n
 óindae:
   a:
     sense:
     - id: 'óindae%3:00:00::'
       synset: 86133132-a
+óinechaid:
+  n:
+    sense:
+    - id: 'óinechaid%1:18:00::'
+      synset: 88158727-n
 úathad:
   n:
     sense:

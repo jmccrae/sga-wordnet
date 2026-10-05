@@ -1,3 +1,10 @@
+80231966-v:
+  definition:
+  - generate, bring forth — produce, create
+  ili: i29894
+  members:
+  - dofuisim
+  partOfSpeech: v
 81282983-v:
   definition:
   - make — make by shaping or bringing together constituents
@@ -6,6 +13,65 @@
   ili: i30005
   members:
   - dogní
+  partOfSpeech: v
+82248794-v:
+  definition:
+  - construct, build, make — make by combining materials and parts
+  ili: i30008
+  members:
+  - conutaing
+  partOfSpeech: v
+82874814-v:
+  definition:
+  - imitate, copy, simulate — reproduce someone's behavior or looks
+  ili: i30449
+  members:
+  - insamlathar
+  partOfSpeech: v
+83936806-v:
+  definition:
+  - carry through, accomplish, execute, carry out, action, fulfill, fulfil — put in
+    effect
+  ili: i29944
+  members:
+  - comalnaithir
+  partOfSpeech: v
+83969036-v:
+  definition:
+  - invent, contrive, devise, excogitate, formulate, forge — come up with (an idea,
+    plan, explanation, theory, or principle) after a mental effort
+  ili: i29911
+  members:
+  - aricc
+  partOfSpeech: v
+84856094-v:
+  definition:
+  - write — mark or trace words or symbols on a surface
+  ili: i30198
+  members:
+  - scríbaid
+  partOfSpeech: v
+85160243-v:
+  definition:
+  - destroy, destruct — do away with, cause the destruction or undoing of
+  ili: i29858
+  members:
+  - conscara
+  partOfSpeech: v
+87994595-v:
+  definition:
+  - write, compose, pen, indite — produce a literary work
+  ili: i30237
+  members:
+  - scríbaid
+  partOfSpeech: v
+88847701-v:
+  definition:
+  - cause, do, make — give rise to; cause to happen or occur, not always intentionally
+  ili: i29966
+  members:
+  - fofera
+  - immfolngai
   partOfSpeech: v
 89220023-v:
   definition:

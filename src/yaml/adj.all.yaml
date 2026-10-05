@@ -12,6 +12,85 @@
   members:
   - cétnae
   partOfSpeech: s
+80163161-s:
+  definition:
+  - great — relatively large in size or number or extent; larger than others of its
+    kind
+  ili: i7550
+  members:
+  - már
+  partOfSpeech: s
+80698935-a:
+  definition:
+  - prudent — careful and sensible; marked by sound judgment
+  ili: i10408
+  members:
+  - trebar
+  partOfSpeech: a
+80733311-s:
+  definition:
+  - erroneous — containing or characterized by error
+  ili: i3518
+  members:
+  - comroircnech
+  partOfSpeech: s
+80780867-a:
+  definition:
+  - incorporeal, immaterial — without material form or substance
+  ili: i3510
+  members:
+  - neph corpdae
+  partOfSpeech: a
+80831511-a:
+  definition:
+  - pure — free of extraneous elements of any kind
+  ili: i10448
+  members:
+  - glan
+  partOfSpeech: a
+80888062-a:
+  definition:
+  - reasonable, sensible — showing reason or sound judgment
+  ili: i10639
+  members:
+  - deithbir
+  partOfSpeech: a
+80979787-a:
+  definition:
+  - dark — (used of color) having a dark hue
+  ili: i2320
+  members:
+  - dub
+  partOfSpeech: a
+81056278-s:
+  definition:
+  - contrary — very opposed in nature or character or purpose
+  ili: i11328
+  members:
+  - cotarsnae
+  partOfSpeech: s
+81160873-a:
+  definition:
+  - easy — posing no difficulty; requiring little effort
+  ili: i4147
+  members:
+  - réid
+  partOfSpeech: a
+81243737-s:
+  definition:
+  - numerous, legion — amounting to a large indefinite number
+  ili: i8523
+  members:
+  - il
+  partOfSpeech: s
+81284145-s:
+  definition:
+  - animal, carnal, fleshly, sensual — marked by the appetites and passions of the
+    body
+  ili: i9760
+  members:
+  - colnide
+  partOfSpeech: s
 81762366-s:
   definition:
   - akin, kindred — similar in quality or character
@@ -35,6 +114,27 @@
   members:
   - teirt
   partOfSpeech: s
+81946301-a:
+  definition:
+  - slow — not moving quickly; taking a comparatively long time
+  ili: i5362
+  members:
+  - mall
+  partOfSpeech: a
+82067339-a:
+  definition:
+  - holy — belonging to or derived from or associated with a divine power
+  ili: i11268
+  members:
+  - nóib
+  partOfSpeech: a
+82219612-a:
+  definition:
+  - strong — having strength or power greater than average or expected
+  ili: i12857
+  members:
+  - trén
+  partOfSpeech: a
 82293685-s:
   definition:
   - second, 2d, 2nd — coming next after the first in position in space or time or
@@ -43,6 +143,21 @@
   members:
   - tánaise
   partOfSpeech: s
+82674462-a:
+  definition:
+  - different — unlike in nature or quality or form or degree
+  ili: i11325
+  members:
+  - sain
+  partOfSpeech: a
+82684193-a:
+  definition:
+  - whole — including all components without exception; being one unit or constituting
+    the full amount or extent or duration; complete
+  ili: i2893
+  members:
+  - uile
+  partOfSpeech: a
 82720354-s:
   definition:
   - certain — definite but not specified or identified
@@ -50,6 +165,14 @@
   members:
   - derb
   partOfSpeech: s
+82876015-a:
+  definition:
+  - patient — enduring trying circumstances with even temper or characterized by such
+    endurance
+  ili: i9529
+  members:
+  - ainmnetach
+  partOfSpeech: a
 83007569-s:
   definition:
   - derivative — resulting from or employing derivation
@@ -57,6 +180,20 @@
   members:
   - díṡruthigthe
   partOfSpeech: s
+83037356-a:
+  definition:
+  - perfect — being complete of its kind and without defect or blemish
+  ili: i9602
+  members:
+  - foirbthe
+  partOfSpeech: a
+83100646-a:
+  definition:
+  - permissible, allowable — that may be permitted especially as according to rule
+  ili: i9665
+  members:
+  - dílmain
+  partOfSpeech: a
 83199480-s:
   definition:
   - common, mutual — common to or shared by two or more parties
@@ -64,12 +201,36 @@
   members:
   - coitchenn
   partOfSpeech: s
+83310555-s:
+  definition:
+  - apparent, evident, manifest, palpable, patent, plain, unmistakable — clearly revealed
+    to the mind or the senses or judgment
+  ili: i8858
+  members:
+  - follus
+  partOfSpeech: s
+83509694-s:
+  definition:
+  - red, reddish, ruddy, blood-red, carmine, cerise, cherry, cherry-red, crimson,
+    ruby, ruby-red, scarlet — of a color at the end of the color spectrum (next to
+    orange); resembling the color of blood or cherries or tomatoes or rubies
+  ili: i2130
+  members:
+  - derg
+  partOfSpeech: s
 83570020-a:
   definition:
   - clear — readily apparent to the mind
   ili: i2425
   members:
   - follus
+  partOfSpeech: a
+83710193-a:
+  definition:
+  - interior — situated within or suitable for inside a building
+  ili: i5222
+  members:
+  - inmedónach
   partOfSpeech: a
 83880759-s:
   definition:
@@ -80,6 +241,29 @@
   partOfSpeech: s
   similar:
   - 88780467-a
+83913622-a:
+  definition:
+  - like, similar — resembling or similar; having the same or some of the same characteristics;
+    often used in combination
+  ili: i7691
+  members:
+  - cosmail
+  partOfSpeech: a
+84327853-a:
+  definition:
+  - tall — great in vertical dimension; high in stature
+  ili: i13205
+  members:
+  - ard
+  partOfSpeech: a
+84438837-a:
+  definition:
+  - little, slight — (quantifier used with mass nouns) small in quantity or degree;
+    not much or almost none or (with `a') at least some
+  ili: i8534
+  members:
+  - becc
+  partOfSpeech: a
 84550353-s:
   definition:
   - regular — conforming to a standard or pattern
@@ -87,6 +271,13 @@
   members:
   - ríagolda
   partOfSpeech: s
+84770391-a:
+  definition:
+  - ugly — displeasing to the senses
+  ili: i1212
+  members:
+  - étig
+  partOfSpeech: a
 84949211-a:
   definition:
   - short — of speech sounds or syllables of relatively short duration
@@ -101,6 +292,27 @@
   ili: i9499
   members:
   - frecndairc
+  partOfSpeech: a
+85023959-a:
+  definition:
+  - same — closely similar or comparable in kind or quality or quantity or degree
+  ili: i11316
+  members:
+  - inunn
+  partOfSpeech: a
+85068063-s:
+  definition:
+  - particular, peculiar, special — unique or specific to a person or thing or category
+  ili: i6071
+  members:
+  - sainredach
+  partOfSpeech: s
+85386698-a:
+  definition:
+  - certain — established beyond doubt or question; definitely known
+  ili: i1866
+  members:
+  - derb
   partOfSpeech: a
 85451944-s:
   definition:
@@ -140,6 +352,20 @@
   members:
   - frecndairc
   partOfSpeech: a
+86325197-a:
+  definition:
+  - correct, right — free from error; especially conforming to fact or truth
+  ili: i3513
+  members:
+  - cóir
+  partOfSpeech: a
+86470520-a:
+  definition:
+  - eager — having or showing keen interest or intense desire or impatient expectancy
+  ili: i4465
+  members:
+  - lainn
+  partOfSpeech: a
 86652407-a:
   attribute:
   - 89225372-n
@@ -149,12 +375,48 @@
   members:
   - díles
   partOfSpeech: a
+86702727-a:
+  definition:
+  - complete — having every necessary or normal part or component or step
+  ili: i2921
+  members:
+  - óg
+  partOfSpeech: a
+86869743-s:
+  definition:
+  - yellow, yellowish, xanthous — of the color intermediate between green and orange
+    in the color spectrum; of something resembling the color of an egg yolk
+  ili: i2170
+  members:
+  - buide
+  partOfSpeech: s
 86984615-a:
   definition:
   - compound — composed of more than one part
   ili: i11935
   members:
   - comṡuidigthe
+  partOfSpeech: a
+87002668-a:
+  definition:
+  - plural — grammatical number category referring to two or more items or units
+  ili: i11999
+  members:
+  - ildae
+  partOfSpeech: a
+87005865-a:
+  definition:
+  - free — not limited or hampered; not under compulsion or restraint
+  ili: i5818
+  members:
+  - saer
+  partOfSpeech: a
+87286632-a:
+  definition:
+  - regular — in accordance with fixed order or procedure or principle
+  ili: i10728
+  members:
+  - ríagolda
   partOfSpeech: a
 87378976-a:
   attribute:
@@ -164,7 +426,22 @@
   ili: i6173
   members:
   - olc
+  - droch
   partOfSpeech: a
+87453341-a:
+  definition:
+  - intermediate — lying between two extremes in time or space or state
+  ili: i5549
+  members:
+  - medóndae
+  partOfSpeech: a
+87527017-s:
+  definition:
+  - adequate, enough — sufficient for the purpose
+  ili: i12938
+  members:
+  - loor
+  partOfSpeech: s
 87553185-a:
   definition:
   - less — (comparative of `little' usually used with mass nouns) a quantifier meaning
@@ -172,6 +449,20 @@
   ili: i8537
   members:
   - becc
+  partOfSpeech: a
+87563551-s:
+  definition:
+  - monthly — of or occurring or payable every month
+  ili: i10790
+  members:
+  - místae
+  partOfSpeech: s
+87752792-a:
+  definition:
+  - religious — having or showing belief in and reverence for a deity
+  ili: i9783
+  members:
+  - iressach
   partOfSpeech: a
 87831006-s:
   definition:
@@ -181,12 +472,29 @@
   members:
   - cétnaide
   partOfSpeech: s
+88034512-a:
+  definition:
+  - many — a quantifier that can be used with count nouns and is often preceded by
+    `as' or `too' or `so' or `that'; amounting to a large but indefinite number; quantifier,
+    plural pronoun; quantifier, plural
+  ili: i8520
+  members:
+  - il
+  partOfSpeech: a
 88067839-a:
   definition:
   - long — (of speech sounds or syllables) of relatively long duration
   ili: i7893
   members:
   - airdíxa
+  partOfSpeech: a
+88070441-a:
+  definition:
+  - good — having desirable or positive qualities especially those suitable for a
+    thing specified
+  ili: i6163
+  members:
+  - maith
   partOfSpeech: a
 88080213-a:
   definition:
@@ -198,6 +506,36 @@
   - cummae
   - inunn
   partOfSpeech: a
+88157406-a:
+  definition:
+  - common — having no special distinction or quality; widely known or commonly encountered;
+    average or ordinary or usual
+  ili: i2739
+  members:
+  - coitchenn
+  partOfSpeech: a
+88441032-a:
+  definition:
+  - black — being of the achromatic color of maximum darkness; having little or no
+    hue owing to absorption of almost all incident light
+  ili: i2222
+  members:
+  - dub
+  partOfSpeech: a
+88547990-a:
+  definition:
+  - rich — possessing material wealth
+  ili: i11080
+  members:
+  - sommae
+  partOfSpeech: a
+88576953-a:
+  definition:
+  - full — containing as much or as many as is possible or normal
+  ili: i5947
+  members:
+  - lán
+  partOfSpeech: a
 88638420-s:
   definition:
   - usual, common — commonly encountered
@@ -205,6 +543,13 @@
   members:
   - coitchenn
   partOfSpeech: s
+88691194-a:
+  definition:
+  - indefinite — vague or not clearly defined or stated
+  ili: i3901
+  members:
+  - écintech
+  partOfSpeech: a
 88697422-s:
   definition:
   - proper — having all the qualities typical of the thing specified
@@ -228,6 +573,14 @@
   partOfSpeech: a
   similar:
   - 83880759-s
+88923681-a:
+  definition:
+  - small, little — limited or below average in number or quantity or magnitude or
+    extent
+  ili: i7579
+  members:
+  - becc
+  partOfSpeech: a
 89091813-a:
   definition:
   - true — consistent with fact or reality; not false
@@ -242,6 +595,14 @@
   members:
   - díuit
   partOfSpeech: a
+89291192-a:
+  definition:
+  - usual — occurring or encountered or experienced or observed frequently or in accordance
+    with regular practice or procedure
+  ili: i2753
+  members:
+  - gnáth
+  partOfSpeech: a
 89427292-s:
   definition:
   - intact, integral, entire — constituting the undiminished entirety; lacking nothing
@@ -250,6 +611,13 @@
   members:
   - óg
   partOfSpeech: s
+89597842-a:
+  definition:
+  - ready — completely prepared or in condition for immediate action or use or progress
+  ili: i10587
+  members:
+  - airlam
+  partOfSpeech: a
 89677527-s:
   definition:
   - primitive, archaic — little evolved from or characteristic of an earlier ancestral
@@ -258,3 +626,18 @@
   members:
   - cétnaide
   partOfSpeech: s
+89820800-s:
+  definition:
+  - absurd, cockeyed, derisory, idiotic, laughable, ludicrous, nonsensical, preposterous,
+    ridiculous — so unreasonable as to invite derision
+  ili: i14268
+  members:
+  - cuitbedach
+  partOfSpeech: s
+89980474-a:
+  definition:
+  - general — applying to all or most members of a category or group
+  ili: i6058
+  members:
+  - cenélach
+  partOfSpeech: a
