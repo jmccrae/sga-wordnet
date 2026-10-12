@@ -103,6 +103,8 @@ ilar neutur,plural%1:10:00::,ilar,,"neutur (""neuter"") wrongly included in the 
 arm,arm%1:08:00::,,weapon%1:06:00::,"means ""weapon"", not a limb"
 adtreba,populate%2:42:00::,,inhabit%2:42:00::,"means ""inhabit""/""dwell in"" - same synset, inhabit is its better English lemma"
 dán,humanistic_discipline%1:09:00::,,poem%1:10:00::,"means ""gift""/""poem""/""skill"""
+dán,humanistic_discipline%1:09:00::,,gift%1:09:00::,"means ""gift""/""poem""/""skill"" - reviewer asked for all three senses"
+dán,humanistic_discipline%1:09:00::,,skill%1:09:01::,"means ""gift""/""poem""/""skill"" - reviewer asked for all three senses"
 bunad,beginning%1:15:00::,,origin%1:15:00::,"means ""origin"" - same synset, origin is its better English lemma"
 coll,hazel%1:07:00::,,hazel%1:20:01::,"the tree, not the colour"
 congaib,incorporate%2:42:00::,,contain%2:42:00::,"means ""include""/""contain"" - same synset, contain is its better English lemma"
@@ -110,8 +112,8 @@ eirp,goat%1:05:00::,,nanny%1:05:00::,specifically a she-goat
 cenn,sake%1:07:00::,,-,"only in the MWE ""di/do chiunn"""
 con condelca,compare%2:31:00::,condelca,,preverb wrongly repeated in the lemma
 ifern,hell%1:15:01::,,hell%1:09:00::,specifically the Christian hell
-airchrae,verb%1:10:01::,,ellipsis%1:22:00::,"means ""failure""/""deficiency""/""ellipsis"""
-airchrae,participle%1:10:00::,,-,"means ""failure""/""deficiency""/""ellipsis"""
+airchrae,verb%1:10:01::,,ellipsis%1:22:00::,"most often translated ""ellipsis"" in the corpus (a deficiency in the text)"
+airchrae,participle%1:10:00::,,deficiency%1:26:00::,"base meaning ""deficiency"" (also translated ""want"" in the corpus)"
 doróscai de,surpass%2:33:00::,doróscai,,"""de"" wrongly included in the lemma"
 torbae,net_income%1:21:00::,,-,"too modern - ""profit"" already covered by torbae profit%1:07:00::"
 lán,full%5:00:00:nourished:00,,full%3:00:00::,"""full"", not ""nourished"""
@@ -130,6 +132,7 @@ caill,wood%1:27:00::,,forest%1:17:00::,"a forest, not the material"
 druimmchlae,ceiling%1:06:00::,,roof%1:06:00::,"means ""roof""; the ceiling definition is anachronistic"
 druimmchlí,ceiling%1:06:00::,,roof%1:06:00::,"variant of druimmchlae, ""roof"""
 testimin,time_period%1:28:00::,,text%1:10:00::,"means ""text""/""testimony"""
+testimin,time_period%1:28:00::,,testimony%1:10:02::,"""testimony"" (""something that serves as evidence"") is the primary Old Irish meaning (eDIL teistimin)"
 dia,today%1:28:00::,,day%1:28:00::,"means ""day"" (""today"" is the MWE i ndiu)"
 ad adcomla,join%2:35:01::,adcomla,,preverb wrongly repeated in the lemma
 tuisel,case%1:11:00::,,case%1:10:00::,grammatical case only
@@ -212,3 +215,4 @@ doínecht,manhood%1:26:00::,,humanity%1:07:02::,"""being human"", not ""being ma
 nuiednisse,testament%1:09:00::,,new_testament%1:10:00::,means the New Testament
 cumsanad do,remainder%1:24:00::,,-,"not a real MWE (preposition wrongly included) - duplicate of cumsanad remainder%1:24:00::"
 cumsanad,remainder%1:24:00::,,rest%1:04:00::,"means ""ceasing""/""rest""/""repose"""
+,,ben,woman%1:18:00::,"reviewer: ""ben"" (""woman"") was missing - addition, no review row"

@@ -113,6 +113,15 @@
   - guth
   - bríathar
   partOfSpeech: n
+81290684-n:
+  definition:
+  - testimony, testimonial — something that serves as evidence
+  hypernym:
+  - 80644807-n
+  ili: i71416
+  members:
+  - testimin
+  partOfSpeech: n
 81424377-n:
   definition:
   - definition — a concise explanation of the meaning of a word or phrase or symbol

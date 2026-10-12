@@ -33,6 +33,11 @@ beirid:
     sense:
     - id: 'beirid%2:38:00::'
       synset: 81630947-v
+ben:
+  n:
+    sense:
+    - id: 'ben%1:18:00::'
+      synset: 86537094-n
 ben día:
   n:
     sense:

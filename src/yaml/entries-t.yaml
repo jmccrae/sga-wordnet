@@ -62,6 +62,8 @@ testimin:
     sense:
     - id: 'testimin%1:10:00::'
       synset: 83989319-n
+    - id: 'testimin%1:10:01::'
+      synset: 81290684-n
 timorcon:
   n:
     sense:

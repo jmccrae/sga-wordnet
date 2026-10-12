@@ -193,6 +193,8 @@ airchrae:
     sense:
     - id: 'airchrae%1:22:00::'
       synset: 82566946-n
+    - id: 'airchrae%1:26:01::'
+      synset: 80492312-n
 airde:
   n:
     sense:

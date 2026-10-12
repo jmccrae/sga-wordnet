@@ -105,6 +105,7 @@
   - 85523759-n
   - 86919753-n
   - 89251292-n
+  - 86537094-n
   ili: i93018
   members:
   - siur
@@ -248,6 +249,16 @@
   ili: i88059
   members:
   - caindleóir
+  partOfSpeech: n
+86537094-n:
+  definition:
+  - woman, adult female — an adult female person (as opposed to a man)
+  hypernym:
+  - 85523759-n
+  - 89251292-n
+  ili: i94168
+  members:
+  - ben
   partOfSpeech: n
 86604904-n:
   definition:

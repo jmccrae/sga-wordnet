@@ -3,6 +3,7 @@
   - craft, craftsmanship, workmanship — skill in an occupation or trade
   hypernym:
   - 84643561-n
+  - 83142023-n
   ili: i66541
   members:
   - saírse
@@ -125,6 +126,16 @@
   - deired
   - dead
   - forcenn
+  partOfSpeech: n
+83142023-n:
+  definition:
+  - skill, accomplishment, acquirement, acquisition, attainment — an ability that
+    has been acquired by training
+  hypernym:
+  - 84643561-n
+  ili: i66539
+  members:
+  - dán
   partOfSpeech: n
 83335635-n:
   definition:
@@ -291,6 +302,15 @@
   ili: i66962
   members:
   - bindius
+  partOfSpeech: n
+87752385-n:
+  definition:
+  - endowment, gift, talent, natural endowment — natural abilities or qualities
+  hypernym:
+  - 84643561-n
+  ili: i66462
+  members:
+  - dán
   partOfSpeech: n
 87985611-n:
   definition:
