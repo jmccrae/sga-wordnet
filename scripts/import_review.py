@@ -18,13 +18,17 @@ curated reading of the annotator's notes, keyed on (lemma, sense_key):
   - a (lemma, sense_key) can appear more than once, each row adding one
     target - e.g. to keep the original sense *and* add one the annotator
     noted was missing.
+  - a row with blank lemma and sense_key is a standalone addition with no
+    review row behind it (e.g. a word the annotator noted was missing
+    entirely): corrected_lemma/corrected_sense_key are imported as-is.
 
 A correction overrides the annotator's flags either way: rejected rows can
 be rescued and accepted rows dropped or redirected.
 
 Unlike populate_wordnet.py, this runs against a wordnet that already has
 synsets, so each accepted English synset is matched (via ili, same join as
-scripts/annotate_corpus_senses.py) against src/yaml/ first: if it already
+scripts/annotate_corpus_senses.py, or via definition for the few English
+synsets with no ili) against src/yaml/ first: if it already
 has an Old Irish counterpart, any lemma not already a member is added to it
 with `add_entry`; otherwise a new synset is created exactly as
 populate_wordnet.py does (English lemmas prefixed to the definition, ili
@@ -46,7 +50,7 @@ from pathlib import Path
 import yaml
 
 sys.path.insert(0, str(Path(__file__).parent))
-from annotate_corpus_senses import load_synsets_by_ili
+from annotate_corpus_senses import DEFAULT_SYNSET_GLOBS, load_synsets_by_ili
 from populate_wordnet import DEFAULT_WN_DB, resolve_sense
 
 DEFAULT_REVIEW = "data/OI_Combined.review.csv"
@@ -55,22 +59,26 @@ DROP = "-"
 
 
 def load_corrections(csv_path):
-    """(lemma, sense_key) -> [(lemma, sense_key) target, ...]; an empty
-    list means the row is dropped."""
+    """(lemma, sense_key) -> [(lemma, sense_key) target, ...], where an
+    empty list means the row is dropped; plus the standalone additions."""
     corrections = OrderedDict()
+    additions = []
     with open(csv_path, newline="", encoding="utf-8") as f:
         for row in csv.DictReader(f):
+            if not row["lemma"] and not row["sense_key"]:
+                additions.append((row["corrected_lemma"], row["corrected_sense_key"]))
+                continue
             key = (row["lemma"], row["sense_key"])
             targets = corrections.setdefault(key, [])
             if row["corrected_sense_key"] == DROP:
                 continue
             targets.append((row["corrected_lemma"] or row["lemma"], row["corrected_sense_key"] or row["sense_key"]))
-    return corrections
+    return corrections, additions
 
 
-def load_accepted_rows(review_path, corrections):
-    """Effective (lemma, sense_key) rows, in review order and deduplicated,
-    plus the correction keys that matched no review row."""
+def load_accepted_rows(review_path, corrections, additions):
+    """Effective (lemma, sense_key) rows, in review order (then additions)
+    and deduplicated, plus the correction keys that matched no review row."""
     rows = []
     matched = set()
     with open(review_path, newline="", encoding="utf-8") as f:
@@ -86,6 +94,7 @@ def load_accepted_rows(review_path, corrections):
             for target in targets:
                 if target not in rows:
                     rows.append(target)
+    rows.extend(a for a in additions if a not in rows)
     return rows, corrections.keys() - matched
 
 
@@ -115,7 +124,21 @@ def build_groups(rows, con):
     return groups, unresolved
 
 
-def build_automaton(groups, synsets_by_ili):
+def load_synsets_by_definition(wordnet_dir):
+    """definition -> (synset id, member lemmas), for matching English synsets
+    that have no ili - otherwise a re-run would duplicate them."""
+    lookup = {}
+    yaml_dir = Path(wordnet_dir) / "src" / "yaml"
+    for pattern in DEFAULT_SYNSET_GLOBS:
+        for path in sorted(yaml_dir.glob(pattern)):
+            data = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
+            for synset_id, synset in data.items():
+                for definition in synset.get("definition", []):
+                    lookup[definition] = (synset_id, set(synset.get("members", [])))
+    return lookup
+
+
+def build_automaton(groups, synsets_by_ili, synsets_by_definition):
     """Returns (actions, new synset count, added entry count, already-present
     (lemma, synset id) pairs)."""
     actions = []
@@ -123,7 +146,10 @@ def build_automaton(groups, synsets_by_ili):
     added_entries = 0
     already_present = []
     for group in groups.values():
-        existing = synsets_by_ili.get(group["ili"]) if group["ili"] else None
+        if group["ili"]:
+            existing = synsets_by_ili.get(group["ili"])
+        else:
+            existing = synsets_by_definition.get(group["definition"])
         if existing is None:
             actions.append(
                 {
@@ -160,15 +186,16 @@ def main():
     parser.add_argument("--apply", action="store_true", help="Actually run the script through ewe_cli (default: only generate it)")
     args = parser.parse_args()
 
-    corrections = load_corrections(args.corrections)
-    rows, unmatched = load_accepted_rows(args.review, corrections)
+    corrections, additions = load_corrections(args.corrections)
+    rows, unmatched = load_accepted_rows(args.review, corrections, additions)
     for lemma, sense_key in sorted(unmatched):
         print(f"WARNING: correction for {lemma!r} {sense_key!r} did not match any review row", file=sys.stderr)
 
     con = sqlite3.connect(args.wn_db)
     groups, unresolved = build_groups(rows, con)
     synsets_by_ili = load_synsets_by_ili(args.wordnet_dir)
-    actions, new_synsets, added_entries, already_present = build_automaton(groups, synsets_by_ili)
+    synsets_by_definition = load_synsets_by_definition(args.wordnet_dir)
+    actions, new_synsets, added_entries, already_present = build_automaton(groups, synsets_by_ili, synsets_by_definition)
 
     with open(args.script_out, "w", encoding="utf-8") as f:
         yaml.safe_dump(actions, f, allow_unicode=True, sort_keys=False)
