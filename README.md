@@ -47,7 +47,7 @@ Editor](https://github.com/jmccrae/ewe).
   a checkout of `ewe_dioxus` pointed at this directory. `wordnet.db`/
   `corpus.db`, the databases EWE builds from `src/yaml/`/`corpus_source`,
   are git-ignored and rebuilt locally on first run.
-- `branding/` — EWE's `logo` for this project: a half-uncial *g* (Roman
+- `branding/` — EWE's `logo` and `favicon` for this project: a half-uncial *g* (Roman
   Uncial Modern, from [Wikimedia
   Commons](https://commons.wikimedia.org/wiki/File:Half-uncial,_g,_Roman_Uncial_Modern.svg))
   on a ribbon in the theme's dark green.
@@ -180,4 +180,4 @@ uv run main.py
 The wordnet is released under the [Creative Commons Attribution 4.0
 International](https://creativecommons.org/licenses/by/4.0/) license (see
 `LICENSE`), the same license as the Open English Wordnet it extends. The
-logo in `branding/` is a separate asset; see its source above.
+logo and favicon in `branding/` is a separate asset; see its source above.
