@@ -1,6 +1,6 @@
 # sga-wordnet
 
-A wordnet for Old Irish (ISO 639-3: `sga`), built with the [extend
+A wordnet for Old Irish (ISO 639-3: `sga`), built with the [expand
 method](https://globalwordnet.github.io/gwadoc/) from the [Open English
 Wordnet](https://github.com/globalwordnet/english-wordnet).
 
