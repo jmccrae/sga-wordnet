@@ -10,6 +10,20 @@ bal:
       synset: 86163603-n
     - id: 'bal%1:26:01::'
       synset: 82226985-n
+bal ingnai:
+  n:
+    reconstructed: true
+    sense:
+    - id: 'bal_ingnai%1:26:00::'
+      synset: 86747513-n
+bal menman:
+  n:
+    reconstructed: true
+    sense:
+    - id: 'bal_menman%1:09:00::'
+      synset: 89159375-n
+    - id: 'bal_menman%1:26:01::'
+      synset: 86747513-n
 barr:
   n:
     sense:
@@ -89,6 +103,18 @@ bríathar:
       synset: 81092558-n
     - id: 'bríathar%1:10:02::'
       synset: 86651597-n
+bríathar bríghe:
+  n:
+    reconstructed: true
+    sense:
+    - id: 'bríathar_bríghe%1:10:00::'
+      synset: 80344628-n
+bríathar fedma:
+  n:
+    reconstructed: true
+    sense:
+    - id: 'bríathar_fedma%1:10:00::'
+      synset: 88881491-n
 buide:
   s:
     sense:

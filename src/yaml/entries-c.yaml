@@ -127,6 +127,18 @@ coibdelach:
     sense:
     - id: 'coibdelach%1:18:00::'
       synset: 86919753-n
+coibdelach grammatic:
+  n:
+    reconstructed: true
+    sense:
+    - id: 'coibdelach_grammatic%1:24:00::'
+      synset: 81003377-n
+coibdelach tengad:
+  n:
+    reconstructed: true
+    sense:
+    - id: 'coibdelach_tengad%1:24:00::'
+      synset: 85374322-n
 coibne:
   n:
     sense:
@@ -189,6 +201,18 @@ colnide:
     sense:
     - id: colnide%5:00:01:???:00
       synset: 81284145-s
+colnide aicnetae:
+  n:
+    reconstructed: true
+    sense:
+    - id: 'colnide_aicnetae%1:03:00::'
+      synset: 81867588-n
+colnide menman:
+  n:
+    reconstructed: true
+    sense:
+    - id: 'colnide_menman%1:09:00::'
+      synset: 84303570-n
 com dlúthad:
   n:
     sense:
@@ -199,6 +223,12 @@ comaccomol:
     sense:
     - id: 'comaccomol%1:10:00::'
       synset: 85337901-n
+comairde:
+  n:
+    reconstructed: true
+    sense:
+    - id: 'comairde%1:03:00::'
+      synset: 84154477-n
 comaisndís:
   n:
     sense:
@@ -206,6 +236,12 @@ comaisndís:
       synset: 82023118-n
     - id: 'comaisndís%1:04:01::'
       synset: 83718118-n
+comaiste:
+  n:
+    reconstructed: true
+    sense:
+    - id: 'comaiste%1:03:00::'
+      synset: 84154477-n
 comalnaithir:
   v:
     sense:
@@ -220,6 +256,12 @@ comarde:
       synset: 85646258-n
     - id: 'comarde%1:10:02::'
       synset: 84651096-n
+comcháil:
+  n:
+    reconstructed: true
+    sense:
+    - id: 'comcháil%1:03:00::'
+      synset: 84154477-n
 comdelb:
   n:
     sense:
@@ -273,6 +315,14 @@ comṡuidigud:
       synset: 80415856-n
     - id: 'comṡuidigud%1:07:04::'
       synset: 86634859-n
+conar:
+  n:
+    reconstructed: true
+    sense:
+    - id: 'conar%1:03:00::'
+      synset: 80851068-n
+    - id: 'conar%1:09:01::'
+      synset: 81450780-n
 condelca:
   v:
     sense:

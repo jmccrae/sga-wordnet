@@ -64,8 +64,8 @@
   members:
   - oipred
   - airopair
-  - '*conar'
-  - '*airopair menman'
+  - conar
+  - airopair menman
   partOfSpeech: n
 81586762-n:
   definition:
@@ -195,8 +195,8 @@
   ili: i67409
   members:
   - luct
-  - '*luct menman'
-  - '*colnide menman'
+  - luct menman
+  - colnide menman
   partOfSpeech: n
 84304616-n:
   definition:
@@ -360,8 +360,8 @@
   ili: i66713
   members:
   - menma
-  - '*bal menman'
-  - '*alt menman'
+  - bal menman
+  - alt menman
   partOfSpeech: n
 89280551-n:
   definition:

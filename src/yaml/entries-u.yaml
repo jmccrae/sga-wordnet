@@ -18,3 +18,20 @@ unáir:
     sense:
     - id: 'unáir%1:03:00::'
       synset: 81645044-n
+unáir tengad:
+  n:
+    reconstructed: true
+    sense:
+    - id: 'unáir_tengad%1:10:00::'
+      synset: 86651989-n
+úain:
+  n:
+    reconstructed: true
+    sense:
+    - id: 'úain%1:03:00::'
+      synset: 89941866-n
+úathad:
+  n:
+    sense:
+    - id: 'úathad%1:10:01::'
+      synset: 86730063-n

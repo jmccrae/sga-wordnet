@@ -36,6 +36,12 @@ adbar:
       synset: 81975763-n
     - id: 'adbar%1:03:01::'
       synset: 85034651-n
+adbar dúr:
+  n:
+    reconstructed: true
+    sense:
+    - id: 'adbar_dúr%1:27:00::'
+      synset: 80452638-n
 adcomla:
   v:
     sense:
@@ -200,6 +206,12 @@ airde:
     sense:
     - id: 'airde%1:03:00::'
       synset: 83853491-n
+airde ningnai:
+  n:
+    reconstructed: true
+    sense:
+    - id: 'airde_ningnai%1:03:00::'
+      synset: 81312087-n
 airdíxa:
   a:
     sense:
@@ -231,6 +243,12 @@ airopair:
     - id: 'airopair%1:03:00::'
       synset: 80851068-n
     - id: 'airopair%1:09:01::'
+      synset: 81450780-n
+airopair menman:
+  n:
+    reconstructed: true
+    sense:
+    - id: 'airopair_menman%1:09:00::'
       synset: 81450780-n
 aiste:
   n:
@@ -265,6 +283,20 @@ alt:
       synset: 86163603-n
     - id: 'alt%1:26:01::'
       synset: 82226985-n
+alt ingnai:
+  n:
+    reconstructed: true
+    sense:
+    - id: 'alt_ingnai%1:26:00::'
+      synset: 86747513-n
+alt menman:
+  n:
+    reconstructed: true
+    sense:
+    - id: 'alt_menman%1:09:00::'
+      synset: 89159375-n
+    - id: 'alt_menman%1:26:01::'
+      synset: 86747513-n
 amal:
   r:
     sense:
@@ -428,3 +460,33 @@ aue:
     sense:
     - id: 'aue%1:18:00::'
       synset: 87162063-n
+áirem:
+  n:
+    sense:
+    - id: 'áirem%1:07:02::'
+      synset: 88536860-n
+    - id: 'áirem%1:23:03::'
+      synset: 81852294-n
+áitt:
+  n:
+    sense:
+    - id: 'áitt%1:03:02::'
+      synset: 89502279-n
+    - id: 'áitt%1:15:03::'
+      synset: 82967009-n
+ám:
+  r:
+    sense:
+    - id: 'ám%4:02:02::'
+      synset: 88596021-r
+    - id: 'ám%4:02:03::'
+      synset: 88714875-r
+áram:
+  n:
+    sense:
+    - id: 'áram%1:03:03::'
+      synset: 84080689-n
+    - id: 'áram%1:10:04::'
+      synset: 81701406-n
+    - id: 'áram%1:23:05::'
+      synset: 81852294-n

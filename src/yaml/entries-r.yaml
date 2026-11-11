@@ -89,6 +89,12 @@ rét:
       synset: 85046098-n
     - id: 'rét%1:26:02::'
       synset: 88962572-n
+rét dénta:
+  n:
+    reconstructed: true
+    sense:
+    - id: 'rét_dénta%1:03:00::'
+      synset: 87353277-n
 ríagol:
   n:
     sense:

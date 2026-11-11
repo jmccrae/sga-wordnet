@@ -137,6 +137,13 @@ Editor](https://github.com/jmccrae/ewe).
   duplicate synset. Same `--apply`/`--ewe-bin`/`--wordnet-dir` shape as
   `populate_wordnet.py`; run `link_existing_synsets.py` and
   `link_transitive_hypernyms.py` afterwards.
+- `scripts/migrate_reconstructed.py` — one-off migration (jmccrae/ewe#54)
+  from a literal `*` in the lemma to EWE's `reconstructed` flag on the
+  entry (WN-LMF 1.5 `Lemma/@reconstructed`; export with
+  `ewe-cli export xml --lmf-version 1.5`). The flag is per entry
+  (lemma + POS), so `*coibdelach` is left as it was: an attested
+  `coibdelach` already exists. Same `--apply`/`--ewe-bin`/`--wordnet-dir`
+  shape as `populate_wordnet.py`.
 - `scripts/priority_concepts.py` — read-only report, `data/
   priority_concepts.csv`, ranking which English synsets to translate next
   to grow the link structure rather than just the synset count. Two
