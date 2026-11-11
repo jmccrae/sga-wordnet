@@ -127,6 +127,8 @@ coibdelach:
     sense:
     - id: 'coibdelach%1:18:00::'
       synset: 86919753-n
+    - id: 'coibdelach%1:03:01::'
+      synset: 84154477-n
 coibdelach grammatic:
   n:
     reconstructed: true
