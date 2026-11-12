@@ -1,10 +1,21 @@
 uile:
   a:
+    form:
+    - huile
+    - huili
+    - huilib
+    - huiliu
+    - huilæ
+    - nuili
+    - nule
+    - uili
     sense:
     - id: 'uile%3:00:00::'
       synset: 82684193-a
 uilt:
   n:
+    form:
+    - nuilt
     sense:
     - id: 'uilt%1:10:00::'
       synset: 86863507-n
@@ -15,6 +26,8 @@ ungae:
       synset: 87773949-n
 unáir:
   n:
+    form:
+    - hunáir
     sense:
     - id: 'unáir%1:03:00::'
       synset: 81645044-n
@@ -32,6 +45,21 @@ unáir tengad:
       synset: 89941866-n
 úathad:
   n:
+    form:
+    - hodid
+    - hothad
+    - huathad
+    - huathaid
+    - huathath
+    - nothuth
+    - nóthud
+    - othad
+    - othud
+    - uathad
+    - uathaid
+    - uathataib
+    - uathath
+    - uathuth
     sense:
     - id: 'úathad%1:10:01::'
       synset: 86730063-n

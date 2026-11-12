@@ -1,19 +1,36 @@
 sacart:
   n:
+    form:
+    - sacardd
+    - sacartu
     sense:
     - id: 'sacart%1:18:00::'
       synset: 87837531-n
 saer:
   a:
+    form:
+    - soer
+    - soiriu
+    - sóer
     sense:
     - id: 'saer%3:00:00::'
       synset: 87005865-a
 sain:
   a:
+    form:
+    - saini
+    - sainib
+    - ṡain
+    - ṡaini
     sense:
     - id: 'sain%3:00:02::'
       synset: 82674462-a
   s:
+    form:
+    - saini
+    - sainib
+    - ṡain
+    - ṡaini
     sense:
     - id: sain%5:00:00:???:00
       synset: 83880759-s
@@ -21,6 +38,11 @@ sain:
       synset: 85451944-s
 sainred:
   n:
+    form:
+    - sainreth
+    - sainriud
+    - ṡainred
+    - ṡainriuth
     sense:
     - id: 'sainred%1:09:00::'
       synset: 85966327-n
@@ -38,21 +60,43 @@ salann:
       synset: 83341291-n
 samlaither:
   v:
+    form:
+    - Samlaid
+    - maltar
+    - rusamaltar
+    - samaltar
+    - samaltir
     sense:
     - id: 'samlaither%2:31:00::'
       synset: 81282275-v
 saírse:
   n:
+    form:
+    - sairse
+    - sáirse
+    - ṡáirsi
+    - ṡáirsiu
     sense:
     - id: 'saírse%1:09:00::'
       synset: 80001511-n
 saíthar:
   n:
+    form:
+    - saithir
     sense:
     - id: 'saíthar%1:04:00::'
       synset: 86982352-n
 scríbaid:
   v:
+    form:
+    - roscrib
+    - roscribad
+    - roscríb
+    - roscríbad
+    - scríbaimm
+    - scríbas
+    - scríbtair
+    - scríbthar
     sense:
     - id: 'scríbaid%2:32:00::'
       synset: 87880758-v
@@ -62,11 +106,25 @@ scríbaid:
       synset: 87994595-v
 scríbend:
   n:
+    form:
+    - scribend
+    - scribund
+    - scríbind
+    - scríbiunt
+    - scríbund
+    - scríbunt
     sense:
     - id: 'scríbend%1:10:00::'
       synset: 86012398-n
 sechithir:
   v:
+    form:
+    - rosechestar
+    - roṡechestar
+    - sechemmar
+    - sechitir
+    - seichem
+    - seichetar
     sense:
     - id: 'sechithir%2:38:00::'
       synset: 87419774-v
@@ -77,46 +135,81 @@ sechmadachte:
       synset: 84247059-n
 sechtardae:
   r:
+    form:
+    - ṡechtardaid
+    - ṡechtardid
     sense:
     - id: 'sechtardae%4:02:00::'
       synset: 81858070-r
 seircid:
   v:
+    form:
+    - roseircset
+    - sercim
     sense:
     - id: 'seircid%2:30:00::'
       synset: 83261153-v
 sen:
   s:
+    form:
+    - sinu
     sense:
     - id: sen%5:00:00:???:00
       synset: 86128746-s
 senatóir:
   n:
+    form:
+    - senátoir
     sense:
     - id: 'senatóir%1:18:00::'
       synset: 85516215-n
 senchas:
   n:
+    form:
+    - senchaissi
+    - senchassaib
     sense:
     - id: 'senchas%1:10:00::'
       synset: 87636471-n
 sercaid:
   n:
+    form:
+    - sercid
     sense:
     - id: 'sercaid%1:18:00::'
       synset: 84554817-n
 sillab:
   n:
+    form:
+    - sillaba
+    - sillabae
+    - sillabaib
+    - sillabe
+    - sillabæ
+    - sillaib
+    - syllab
+    - syllabe
+    - syllaib
+    - ṡillab
+    - ṡillabe
+    - ṡillaib
+    - ṡyllab
+    - ṡyllaib
     sense:
     - id: 'sillab%1:10:00::'
       synset: 80179898-n
 siur:
   n:
+    form:
+    - sethar
     sense:
     - id: 'siur%1:18:00::'
       synset: 82981057-n
 slond:
   n:
+    form:
+    - slund
+    - ṡlund
     sense:
     - id: 'slond%1:10:01::'
       synset: 82074181-n
@@ -126,6 +219,20 @@ slond:
       synset: 82949802-v
 sluindid:
   v:
+    form:
+    - rosluinter
+    - roṡluinter
+    - sluindes
+    - sluindess
+    - sluindi
+    - sluindit
+    - sluinditae
+    - sluindite
+    - sluindith
+    - sluindte
+    - sluintir
+    - ṡluindes
+    - ṡluindi
     sense:
     - id: 'sluindid%2:32:00::'
       synset: 82949802-v
@@ -140,26 +247,44 @@ smúained:
       synset: 81586762-n
 sochuide:
   n:
+    form:
+    - sochude
     sense:
     - id: 'sochuide%1:14:00::'
       synset: 85010154-n
 soilse:
   n:
+    form:
+    - soilsi
+    - ṡoilsi
     sense:
     - id: 'soilse%1:26:00::'
       synset: 84183122-n
 soiscélae:
   n:
+    form:
+    - soscele
+    - sosceli
+    - soscéli
     sense:
     - id: 'soiscélae%1:10:00::'
       synset: 87451567-n
 sommae:
   a:
+    form:
+    - somme
     sense:
     - id: 'sommae%3:00:00::'
       synset: 88547990-a
 son:
   n:
+    form:
+    - sonaib
+    - suin
+    - sun
+    - ṡon
+    - ṡuin
+    - ṡun
     sense:
     - id: 'son%1:10:00::'
       synset: 81092558-n
@@ -169,11 +294,17 @@ son:
       synset: 87834809-n
 soíre:
   n:
+    form:
+    - sóere
+    - sóire
     sense:
     - id: 'soíre%1:26:00::'
       synset: 85663906-n
 sreth:
   n:
+    form:
+    - sreith
+    - ssreith
     sense:
     - id: 'sreth%1:14:00::'
       synset: 87947427-n
@@ -181,21 +312,38 @@ sreth:
       synset: 83062723-n
 sruth:
   n:
+    form:
+    - srotha
+    - ṡrotho
+    - ṡruth
     sense:
     - id: 'sruth%1:17:00::'
       synset: 80988205-n
 suidigidir:
   v:
+    form:
+    - suidigthe
+    - suidigthir
+    - suidigtis
     sense:
     - id: 'suidigidir%2:35:00::'
       synset: 88016007-v
 suidiugud:
   n:
+    form:
+    - suidigthe
+    - suidigud
+    - suidiguth
+    - uidigthe
+    - ṡuidigud
     sense:
     - id: 'suidiugud%1:15:00::'
       synset: 82089450-n
 sulbaire:
   n:
+    form:
+    - sulbair
+    - sulbairi
     sense:
     - id: 'sulbaire%1:10:00::'
       synset: 87546317-n
@@ -203,11 +351,17 @@ sulbaire:
       synset: 83128399-n
 sund:
   r:
+    form:
+    - sunt
     sense:
     - id: 'sund%4:02:00::'
       synset: 88461784-r
 superlait:
   n:
+    form:
+    - superlati
+    - ṡuperlait
+    - ṡuperlati
     sense:
     - id: 'superlait%1:10:00::'
       synset: 82524886-n
@@ -215,11 +369,15 @@ superlait:
       synset: 82460337-n
 séol:
   n:
+    form:
+    - seol
     sense:
     - id: 'séol%1:06:00::'
       synset: 83996228-n
 sís:
   r:
+    form:
+    - sis
     sense:
     - id: 'sís%4:02:00::'
       synset: 87740750-r

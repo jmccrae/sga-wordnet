@@ -1,20 +1,40 @@
 peccad:
   n:
+    form:
+    - pecctha
+    - pecdæ
+    - pectha
+    - pecthe
     sense:
     - id: 'peccad%1:04:00::'
       synset: 88240865-n
 pecthach:
   n:
+    form:
+    - pecthachaib
+    - pecthachu
     sense:
     - id: 'pecthach%1:18:00::'
       synset: 82432851-n
 peneuilt:
   n:
+    form:
+    - péneuilt
     sense:
     - id: 'peneuilt%1:10:00::'
       synset: 86145728-n
 persan:
   n:
+    form:
+    - persa
+    - persain
+    - persana
+    - persanaib
+    - persin
+    - persine
+    - personaib
+    - persíne
+    - phersin
     sense:
     - id: 'persan%1:03:00::'
       synset: 89251292-n
@@ -24,21 +44,33 @@ persan:
       synset: 88490498-n
 popul:
   n:
+    form:
+    - phopul
     sense:
     - id: 'popul%1:14:00::'
       synset: 82326633-n
 posit:
   n:
+    form:
+    - positi
     sense:
     - id: 'posit%1:10:00::'
       synset: 87016430-n
 precept:
   n:
+    form:
+    - precepte
     sense:
     - id: 'precept%1:10:00::'
       synset: 80989358-n
 pridchid:
   v:
+    form:
+    - praidchas
+    - predchim
+    - pridched
+    - pridchimme
+    - ropridchad
     sense:
     - id: 'pridchid%2:32:00::'
       synset: 81472192-v
@@ -50,6 +82,8 @@ prímrann insce:
       synset: 83653665-n
 póc:
   n:
+    form:
+    - bóc
     sense:
     - id: 'póc%1:04:00::'
       synset: 82749052-n
