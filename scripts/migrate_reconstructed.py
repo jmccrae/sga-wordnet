@@ -21,6 +21,7 @@ from pathlib import Path
 
 import yaml
 
+
 def build_automaton(project_dir):
     """Return (actions, n_lemmas, skipped) for every starred lemma under project_dir/src/yaml."""
     wordnet_dir = project_dir / "src" / "yaml"
