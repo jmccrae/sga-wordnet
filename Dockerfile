@@ -21,7 +21,7 @@ COPY --from=ewe public ./public
 COPY settings.toml downloads.toml ./
 COPY branding branding
 COPY src/yaml src/yaml
-COPY data/sga_incomplete.teanga.yaml data/
+COPY data/OI_Combined.teanga.yaml data/
 RUN mkdir db && chown -R ewe:ewe /app
 USER ewe
 ENV IP=0.0.0.0 PORT=8080
