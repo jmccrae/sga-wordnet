@@ -1,19 +1,12 @@
 [project]
 name = "sga-wordnet"
 version = "0.1.0"
-description = "A wordnet for Old Irish, built by extension from Open English Wordnet"
+description = "A wordnet for Old Irish (dataset and release tooling)"
 readme = "README.md"
 requires-python = ">=3.11"
-dependencies = [
-    "conllu>=6.0.0",
-    "nltk>=3.10.0",
-    "openpyxl>=3.1.5",
-    "pyyaml>=6.0.3",
-    "teanga>=0.1.0",
-]
+dependencies = []
 
 [dependency-groups]
 dev = [
-    "pytest>=9.1.1",
     "ruff>=0.16.0",
 ]
