@@ -30,8 +30,10 @@ pipeline.
 | Path | Description |
 |---|---|
 | `src/yaml/` | The wordnet, in the YAML layout of the [English WordNet source](https://github.com/globalwordnet/english-wordnet/tree/main/src/yaml): `entries-*.yaml`, one file per lexicographer file (`noun.*`, `verb.*`, `adj.*`, `adv.*`) and `frames.yaml`. |
-| `data/sga_incomplete.conllu` | The source corpus, in CoNLL-U with English translations. |
-| `data/sga_incomplete.teanga.yaml` | The same corpus as [Teanga](https://github.com/teangaNLP/teanga) YAML, with tokens tagged by wordnet synset (`sga_key` layer). |
+| `data/OI_Combined.conllu` | The full source corpus, in CoNLL-U with English translations. |
+| `data/OI_Combined.wisteria.yaml` | WISTERIA's annotation of that corpus: word alignments to the English translation and the OEWN senses of the English words. |
+| `data/OI_Combined.teanga.yaml` | The corpus as [Teanga](https://github.com/teangaNLP/teanga) YAML, with tokens tagged by wordnet synset (`sga_key` layer), for EWE's concordance view. Built by `scripts/build_corpus.py`. |
+| `data/sga_incomplete.conllu` | The first, smaller release of the corpus that the first batch of candidates came from. |
 | `data/sga_incomplete.{align,en-ga}` | Word alignments (fast_align) and the Old Irish–English bitext they were computed from. |
 | `data/sga_incomplete.senses`, `data/sga_incomplete.results_AD.xlsx` | Word sense disambiguation candidates for the English side, with the annotator's verdicts. |
 | `data/sense_corrections.csv`, `data/pos_corrections.csv` | Manual corrections to the disambiguated senses and parts of speech. |
@@ -39,6 +41,22 @@ pipeline.
 | `data/priority_concepts.csv` | English synsets ranked by how useful they are to translate next. |
 | `downloads.toml` | The released versions of the wordnet. |
 | `settings.toml`, `branding/` | Configuration and branding for the [EWE](https://github.com/jmccrae/ewe) wordnet editor. |
+
+## Corpus
+
+`data/OI_Combined.teanga.yaml` is generated, so rebuild it after changing
+the wordnet's entries:
+
+```sh
+uv run scripts/build_corpus.py   # needs a `wn` database with OEWN (--wn-db, default ~/.wn_data/wn.db)
+```
+
+A token is tagged with one of its lemma's synsets when WISTERIA aligned it
+to an English word with that sense, or to an English word that is a member
+of exactly one of the candidate synsets, or when the lemma has a single
+synset of a matching part of speech. Lemmas left with no occurrence are
+then tagged with their first synset; the script prints those, and the
+entries that do not occur in the corpus at all.
 
 ## Using the data
 
