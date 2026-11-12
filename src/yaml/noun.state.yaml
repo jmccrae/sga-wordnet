@@ -148,10 +148,10 @@
   - 82226985-n
   ili: i112538
   members:
-  - '*bal ingnai'
-  - '*bal menman'
-  - '*alt ingnai'
-  - '*alt menman'
+  - bal ingnai
+  - bal menman
+  - alt ingnai
+  - alt menman
   partOfSpeech: n
 87134707-n:
   definition:

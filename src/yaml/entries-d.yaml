@@ -417,6 +417,24 @@ dúil:
       synset: 89726303-n
     - id: 'dúil%1:03:01::'
       synset: 87663116-n
+dúil adbarda:
+  n:
+    reconstructed: true
+    sense:
+    - id: 'dúil_adbarda%1:03:00::'
+      synset: 87248112-n
+dúil béodae:
+  n:
+    reconstructed: true
+    sense:
+    - id: 'dúil_béodae%1:03:00::'
+      synset: 80028781-n
+dúil tainde:
+  n:
+    reconstructed: true
+    sense:
+    - id: 'dúil_tainde%1:03:00::'
+      synset: 85215298-n
 dúildetu:
   n:
     sense:

@@ -38,6 +38,12 @@ ernail:
     sense:
     - id: 'ernail%1:14:00::'
       synset: 85298405-n
+ernail grammatic:
+  n:
+    reconstructed: true
+    sense:
+    - id: 'ernail_grammatic%1:10:00::'
+      synset: 85005967-n
 erochuir:
   n:
     sense:
@@ -63,3 +69,30 @@ eulas:
     sense:
     - id: 'eulas%1:09:00::'
       synset: 88128664-n
+écintech:
+  a:
+    sense:
+    - id: 'écintech%3:00:01::'
+      synset: 88691194-a
+écsamlus:
+  n:
+    sense:
+    - id: 'écsamlus%1:07:01::'
+      synset: 82988524-n
+éicen:
+  n:
+    sense:
+    - id: 'éicen%1:17:02::'
+      synset: 89830465-n
+    - id: 'éicen%1:26:03::'
+      synset: 89300110-n
+érchoiliud:
+  n:
+    sense:
+    - id: 'érchoiliud%1:10:01::'
+      synset: 81424377-n
+étig:
+  a:
+    sense:
+    - id: 'étig%3:00:01::'
+      synset: 84770391-a

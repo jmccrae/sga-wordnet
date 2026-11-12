@@ -1,7 +1,7 @@
 rank,synset_id,pos,lexfile,category,link_count,old_irish_lemmas,english_lemmas,definition
 1,oewn-00001740-n,n,noun.Tops,top_concept,123,"dúil, ní, rét",entity,that which is perceived or known or inferred to have its own distinct existence (living or nonliving)
 2,oewn-00002137-n,n,noun.Tops,top_concept,105,"*dúil tainde","abstraction, abstract entity",a general concept formed by extracting common features from specific examples
-3,oewn-00032220-n,n,noun.Tops,top_concept,30,"*comairde, *comaiste, *comcháil, *coibdelach",relation,an abstraction belonging to or characteristic of two entities or parts together
+3,oewn-00032220-n,n,noun.Tops,top_concept,30,"*comairde, *comaiste, *comcháil, coibdelach",relation,an abstraction belonging to or characteristic of two entities or parts together
 4,oewn-00024444-n,n,noun.Tops,top_concept,21,"airde, aiste",attribute,an abstraction belonging to or characteristic of an entity
 5,oewn-00001930-n,n,noun.Tops,top_concept,19,"*dúil adbarda",physical entity,an entity that has physical existence
 6,oewn-00031563-n,n,noun.Tops,top_concept,18,"díglaim","grouping, group",any number of entities (members) considered as a unit

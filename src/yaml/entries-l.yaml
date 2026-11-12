@@ -114,6 +114,12 @@ luct:
     sense:
     - id: 'luct%1:09:00::'
       synset: 84303570-n
+luct menman:
+  n:
+    reconstructed: true
+    sense:
+    - id: 'luct_menman%1:09:00::'
+      synset: 84303570-n
 luib:
   n:
     sense:
