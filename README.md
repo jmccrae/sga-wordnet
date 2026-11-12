@@ -6,7 +6,8 @@ ILI identifiers. Browse it at <https://goidelc.teanga.io/>.
 
 Each synset has the definition, part of speech and ILI of the OEWN synset it
 was derived from, with Old Irish lemmas as its members. Hypernym and other
-relations are included wherever both endpoints exist in the wordnet.
+relations are included wherever both endpoints exist in the wordnet. Lemmas that are reconstructed rather than attested are
+flagged with the `reconstructed` attribute (WN-LMF 1.5 `Lemma/@reconstructed`).
 
 ## Provenance
 
