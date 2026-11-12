@@ -6,7 +6,7 @@
 # paths keep working.
 database = "wordnet.db"
 wordnet_source = "src/yaml"
-corpus_source = "data/sga_incomplete.teanga.yaml"
+corpus_source = "data/OI_Combined.teanga.yaml"
 logo = "branding/oldirishwn-logo.svg"
 favicon = "branding/favicon.ico"
 id_prefix = "sga"
