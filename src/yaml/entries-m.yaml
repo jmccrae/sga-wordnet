@@ -118,6 +118,18 @@ méit:
       synset: 81819714-n
     - id: 'méit%1:07:03::'
       synset: 86647021-n
+méit a cumscugud:
+  v:
+    reconstructed: true
+    sense:
+    - id: 'méit_a_cumscugud%2:30:00::'
+      synset: 83664205-v
+méit a soud:
+  v:
+    reconstructed: true
+    sense:
+    - id: 'méit_a_soud%2:30:00::'
+      synset: 83664205-v
 míl:
   n:
     sense:

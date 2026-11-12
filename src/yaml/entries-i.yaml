@@ -178,3 +178,35 @@ ith:
       synset: 86028983-n
     - id: 'ith%1:20:02::'
       synset: 81775241-n
+íar:
+  r:
+    sense:
+    - id: 'íar%4:02:01::'
+      synset: 87612028-r
+íarmifoich:
+  v:
+    sense:
+    - id: 'íarmifoich%2:35:01::'
+      synset: 82966292-v
+íarum:
+  r:
+    sense:
+    - id: 'íarum%4:02:01::'
+      synset: 87612028-r
+ícc:
+  n:
+    sense:
+    - id: 'ícc%1:04:01::'
+      synset: 88362919-n
+íccaid:
+  v:
+    sense:
+    - id: 'íccaid%2:41:01::'
+      synset: 84480034-v
+íth:
+  n:
+    sense:
+    - id: 'íth%1:13:02::'
+      synset: 84699239-n
+    - id: 'íth%1:13:03::'
+      synset: 88802907-n

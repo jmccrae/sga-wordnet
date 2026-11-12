@@ -5,8 +5,8 @@
   - 81645044-n
   ili: i35552
   members:
-  - '*ní béo'
-  - '*dúil béodae'
+  - ní béo
+  - dúil béodae
   partOfSpeech: n
 80644807-n:
   definition:
@@ -39,7 +39,7 @@
   ili: i35587
   members:
   - airopair
-  - '*conar'
+  - conar
   partOfSpeech: n
 81266292-n:
   definition:
@@ -58,7 +58,7 @@
   - 85215298-n
   ili: i35574
   members:
-  - '*airde ningnai'
+  - airde ningnai
   partOfSpeech: n
 81618529-n:
   definition:
@@ -86,7 +86,7 @@
   - 81645044-n
   ili: i35566
   members:
-  - '*colnide aicnetae'
+  - colnide aicnetae
   partOfSpeech: n
 81975763-n:
   definition:
@@ -159,10 +159,10 @@
   - 85215298-n
   ili: i35590
   members:
-  - '*comairde'
-  - '*comaiste'
-  - '*comcháil'
-  - '*coibdelach'
+  - comairde
+  - comaiste
+  - comcháil
+  - coibdelach
   - coibnius
   partOfSpeech: n
 84643561-n:
@@ -213,7 +213,7 @@
   - 87663116-n
   ili: i35547
   members:
-  - '*dúil tainde'
+  - dúil tainde
   partOfSpeech: n
 85504953-n:
   definition:
@@ -253,7 +253,7 @@
   - 87663116-n
   ili: i35546
   members:
-  - '*dúil adbarda'
+  - dúil adbarda
   partOfSpeech: n
 87353277-n:
   definition:
@@ -263,7 +263,7 @@
   ili: i35572
   members:
   - dénta
-  - '*rét dénta'
+  - rét dénta
   partOfSpeech: n
 87408038-n:
   definition:
@@ -326,7 +326,7 @@
   ili: i35582
   members:
   - amm
-  - '*úain'
+  - úain
   - aimser
   partOfSpeech: n
 89948552-n:

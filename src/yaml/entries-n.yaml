@@ -42,6 +42,12 @@ not:
       synset: 85646258-n
     - id: 'not%1:10:01::'
       synset: 84651096-n
+not scríbind:
+  n:
+    reconstructed: true
+    sense:
+    - id: 'not_scríbind%1:10:00::'
+      synset: 84651096-n
 noíbaid:
   v:
     sense:
@@ -64,6 +70,12 @@ ní:
       synset: 87663116-n
     - id: 'ní%1:03:01::'
       synset: 85046098-n
+ní béo:
+  n:
+    reconstructed: true
+    sense:
+    - id: 'ní_béo%1:03:00::'
+      synset: 80028781-n
 nóib:
   a:
     sense:

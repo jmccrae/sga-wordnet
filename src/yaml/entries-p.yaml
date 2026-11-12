@@ -42,6 +42,12 @@ pridchid:
     sense:
     - id: 'pridchid%2:32:00::'
       synset: 81472192-v
+prímrann insce:
+  n:
+    reconstructed: true
+    sense:
+    - id: 'prímrann_insce%1:10:00::'
+      synset: 83653665-n
 póc:
   n:
     sense:
