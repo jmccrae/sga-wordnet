@@ -1,7 +1,5 @@
 bacc:
   n:
-    form:
-    - bocc
     sense:
     - id: 'bacc%1:06:00::'
       synset: 86562545-n
@@ -28,19 +26,11 @@ bal menman:
       synset: 86747513-n
 barr:
   n:
-    form:
-    - bairr
     sense:
     - id: 'barr%1:06:00::'
       synset: 83143235-n
 becc:
   a:
-    form:
-    - bec
-    - biuc
-    - biucc
-    - laigeniu
-    - laigiu
     sense:
     - id: 'becc%3:00:01::'
       synset: 87553185-a
@@ -49,29 +39,16 @@ becc:
     - id: 'becc%3:00:03::'
       synset: 84438837-a
   s:
-    form:
-    - bec
-    - biuc
-    - biucc
-    - laigeniu
-    - laigiu
     sense:
     - id: becc%5:00:00:???:00
       synset: 81765892-s
 beirid:
   v:
-    form:
-    - benair
-    - rohucad
-    - rucad
     sense:
     - id: 'beirid%2:38:00::'
       synset: 81630947-v
 ben:
   n:
-    form:
-    - ban
-    - bán
     sense:
     - id: 'ben%1:18:00::'
       synset: 86537094-n
@@ -87,8 +64,6 @@ bethu:
       synset: 87134707-n
 beus:
   r:
-    form:
-    - beos
     sense:
     - id: 'beus%4:02:00::'
       synset: 86379405-r
@@ -101,15 +76,11 @@ biad:
       synset: 86173573-n
 bindius:
   n:
-    form:
-    - bindiusa
     sense:
     - id: 'bindius%1:09:00::'
       synset: 86847478-n
 biáil:
   n:
-    form:
-    - biail
     sense:
     - id: 'biáil%1:06:00::'
       synset: 86883593-n
@@ -120,27 +91,11 @@ bruig:
       synset: 81779714-n
 bráthair:
   n:
-    form:
-    - brathair
-    - brathir
-    - bráthar
-    - bráthir
     sense:
     - id: 'bráthair%1:18:00::'
       synset: 86884345-n
 bríathar:
   n:
-    form:
-    - breithre
-    - brethir
-    - brethre
-    - briathar
-    - briathra
-    - briathraib
-    - bréthir
-    - mbriathar
-    - ṁbrethir
-    - ṁbriathar
     sense:
     - id: 'bríathar%1:10:00::'
       synset: 82734458-n
@@ -162,25 +117,16 @@ bríathar fedma:
       synset: 88881491-n
 buide:
   s:
-    form:
-    - buidi
     sense:
     - id: buide%5:00:00:???:00
       synset: 86869743-s
 buith:
   n:
-    form:
-    - buit
-    - buithe
-    - mbuith
-    - ṁbuithe
     sense:
     - id: 'buith%1:26:00::'
       synset: 83697406-n
 bunad:
   n:
-    form:
-    - bunud
     sense:
     - id: 'bunad%1:15:00::'
       synset: 82686585-n
@@ -191,8 +137,6 @@ báeth:
       synset: 89749138-n
 bás:
   n:
-    form:
-    - báis
     sense:
     - id: 'bás%1:19:00::'
       synset: 81570204-n
@@ -200,10 +144,6 @@ bás:
       synset: 86412617-n
 bél:
   n:
-    form:
-    - belaib
-    - beoil
-    - beulu
     sense:
     - id: 'bél%1:08:00::'
       synset: 80015460-n
@@ -214,26 +154,16 @@ béo:
       synset: 85504953-n
 bés:
   n:
-    form:
-    - bes
-    - besu
-    - bésu
     sense:
     - id: 'bés%1:04:00::'
       synset: 89564137-n
 bést:
   n:
-    form:
-    - best
     sense:
     - id: 'bést%1:03:00::'
       synset: 80717417-n
 búaid:
   n:
-    form:
-    - buad
-    - buaid
-    - buáid
     sense:
     - id: 'búaid%1:11:00::'
       synset: 89198809-n

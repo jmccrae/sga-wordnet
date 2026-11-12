@@ -1,23 +1,10 @@
 randatu:
   n:
-    form:
-    - randatad
-    - randatath
-    - randatid
-    - randdatu
-    - ranndato
     sense:
     - id: 'randatu%1:07:00::'
       synset: 82489845-n
 rann:
   n:
-    form:
-    - raine
-    - rainn
-    - rainne
-    - ranna
-    - rannaib
-    - rrainn
     sense:
     - id: 'rann%1:17:00::'
       synset: 81800671-n
@@ -38,17 +25,6 @@ rann insce:
       synset: 82625947-n
 ranngabál:
   n:
-    form:
-    - rangabala
-    - rangabáil
-    - rangabálae
-    - rangábal
-    - ranngabail
-    - ranngabal
-    - ranngabala
-    - ranngabáil
-    - ranngabála
-    - rrangabáil
     sense:
     - id: 'ranngabál%1:10:00::'
       synset: 87546268-n
@@ -71,49 +47,26 @@ rechtaire:
       synset: 84051754-n
 remṡuidigud:
   n:
-    form:
-    - remsuidigthe
-    - remsuidigthi
-    - remsuidigthib
-    - remsuidigud
-    - remṡuidi
-    - remṡuidigtheo
-    - remṡuidigthib
-    - rremṡuidigud
     sense:
     - id: 'remṡuidigud%1:10:00::'
       synset: 88734992-n
 richis:
   n:
-    form:
-    - richiss
     sense:
     - id: 'richis%1:17:00::'
       synset: 86793664-n
 rind:
   n:
-    form:
-    - renda
-    - rrind
     sense:
     - id: 'rind%1:17:00::'
       synset: 81096136-n
 rofinnadar:
   v:
-    form:
-    - feiser
-    - festa
-    - finnad
-    - fintar
-    - fitemmar
-    - ḟesed
     sense:
     - id: 'rofinnadar%2:31:00::'
       synset: 88683135-v
 rolaimethar:
   v:
-    form:
-    - llámar
     sense:
     - id: 'rolaimethar%2:41:00::'
       synset: 89065716-v
@@ -124,18 +77,11 @@ rád:
       synset: 88868896-n
 réid:
   a:
-    form:
-    - reid
     sense:
     - id: 'réid%3:00:00::'
       synset: 81160873-a
 rét:
   n:
-    form:
-    - reto
-    - réta
-    - rétaib
-    - rétu
     sense:
     - id: 'rét%1:03:00::'
       synset: 87663116-n
@@ -151,10 +97,6 @@ rét dénta:
       synset: 87353277-n
 ríagol:
   n:
-    form:
-    - riagoil
-    - riagol
-    - riaguil
     sense:
     - id: 'ríagol%1:09:00::'
       synset: 84482533-n
@@ -162,20 +104,10 @@ ríagol:
       synset: 89301137-n
 ríagolda:
   a:
-    form:
-    - riagolda
-    - riagoldae
-    - riagoldai
-    - riagoldu
     sense:
     - id: 'ríagolda%3:00:01::'
       synset: 87286632-a
   s:
-    form:
-    - riagolda
-    - riagoldae
-    - riagoldai
-    - riagoldu
     sense:
     - id: ríagolda%5:00:00:???:00
       synset: 84550353-s

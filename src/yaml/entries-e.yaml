@@ -1,14 +1,10 @@
 eirp:
   n:
-    form:
-    - heirp
     sense:
     - id: 'eirp%1:05:00::'
       synset: 85567530-n
 emnad:
   n:
-    form:
-    - nemnad
     sense:
     - id: 'emnad%1:22:00::'
       synset: 83417917-n
@@ -24,31 +20,16 @@ engracus:
       synset: 89071008-n
 engraic:
   n:
-    form:
-    - nengraicc
     sense:
     - id: 'engraic%1:04:00::'
       synset: 89071008-n
 engraicigidir:
   v:
-    form:
-    - Engraccigidir
-    - engracaigedar
-    - engraicigetar
-    - nengracigedar
-    - nengraicigetar
     sense:
     - id: 'engraicigidir%2:41:00::'
       synset: 82889111-v
 epert:
   n:
-    form:
-    - eipirt
-    - eperta
-    - epirt
-    - nepertaib
-    - nepertib
-    - ṅeperta
     sense:
     - id: 'epert%1:10:00::'
       synset: 81092558-n
@@ -65,69 +46,41 @@ ernail grammatic:
       synset: 85005967-n
 erochuir:
   n:
-    form:
-    - aerachuir
-    - erochair
     sense:
     - id: 'erochuir%1:08:00::'
       synset: 88705215-n
 etargne:
   n:
-    form:
-    - etargnae
-    - etargnai
-    - etargnu
-    - netargna
-    - netargnae
-    - netargnu
-    - netargnæ
     sense:
     - id: 'etargne%1:03:00::'
       synset: 84643561-n
 etarscarad:
   n:
-    form:
-    - netarscarad
     sense:
     - id: 'etarscarad%1:04:00::'
       synset: 87575869-n
 etercert:
   n:
-    form:
-    - etarceirt
-    - etarcerta
-    - netarcerta
     sense:
     - id: 'etercert%1:09:00::'
       synset: 84304616-n
 eulas:
   n:
-    form:
-    - heulus
     sense:
     - id: 'eulas%1:09:00::'
       synset: 88128664-n
 écintech:
   a:
-    form:
-    - ecintech
-    - écintecha
     sense:
     - id: 'écintech%3:00:01::'
       synset: 88691194-a
 écsamlus:
   n:
-    form:
-    - ecsamlus
     sense:
     - id: 'écsamlus%1:07:01::'
       synset: 82988524-n
 éicen:
   n:
-    form:
-    - ecen
-    - áeicen
-    - écen
     sense:
     - id: 'éicen%1:17:02::'
       synset: 89830465-n
@@ -135,21 +88,11 @@ eulas:
       synset: 89300110-n
 érchoiliud:
   n:
-    form:
-    - erchoiliud
-    - herchoiliud
-    - herchoiltib
-    - herchóiliud
-    - herchóiliuth
-    - hérchoiliud
-    - érchóilte
     sense:
     - id: 'érchoiliud%1:10:01::'
       synset: 81424377-n
 étig:
   a:
-    form:
-    - etig
     sense:
     - id: 'étig%3:00:01::'
       synset: 84770391-a

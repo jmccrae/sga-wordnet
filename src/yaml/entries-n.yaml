@@ -1,21 +1,15 @@
 nammá:
   r:
-    form:
-    - namma
     sense:
     - id: 'nammá%4:02:00::'
       synset: 81006346-r
 nathir:
   n:
-    form:
-    - nathrach
     sense:
     - id: 'nathir%1:05:00::'
       synset: 88989637-n
 nem:
   n:
-    form:
-    - nime
     sense:
     - id: 'nem%1:09:00::'
       synset: 84014212-n
@@ -26,9 +20,6 @@ neph corpdae:
       synset: 80780867-a
 nert:
   n:
-    form:
-    - neurt
-    - nnert
     sense:
     - id: 'nert%1:07:00::'
       synset: 81532433-n
@@ -36,25 +27,16 @@ nert:
       synset: 87470626-n
 neutur:
   n:
-    form:
-    - neutair
-    - neutar
-    - neutor
-    - neutuir
     sense:
     - id: 'neutur%1:10:00::'
       synset: 82042014-n
 nihelas:
   n:
-    form:
-    - nihelsa
     sense:
     - id: 'nihelas%1:26:00::'
       synset: 83624399-n
 not:
   n:
-    form:
-    - nota
     sense:
     - id: 'not%1:10:00::'
       synset: 85646258-n
@@ -73,9 +55,6 @@ noíbaid:
       synset: 83380632-v
 noídiu:
   n:
-    form:
-    - noiden
-    - nóidiu
     sense:
     - id: 'noídiu%1:18:00::'
       synset: 80752096-n
@@ -86,9 +65,6 @@ nuiednisse:
       synset: 82175189-n
 ní:
   n:
-    form:
-    - Ní
-    - ni
     sense:
     - id: 'ní%1:03:00::'
       synset: 87663116-n
@@ -102,8 +78,6 @@ ní béo:
       synset: 80028781-n
 nóib:
   a:
-    form:
-    - nóiba
     sense:
     - id: 'nóib%3:00:00::'
       synset: 82067339-a

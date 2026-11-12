@@ -5,12 +5,6 @@
       synset: 82753164-r
 áirem:
   n:
-    form:
-    - arim
-    - narim
-    - nárim
-    - áirme
-    - árim
     sense:
     - id: 'áirem%1:23:00::'
       synset: 81852294-n
@@ -25,10 +19,6 @@
       synset: 82967009-n
 ám:
   r:
-    form:
-    - am
-    - em
-    - áem
     sense:
     - id: 'ám%4:02:00::'
       synset: 88714875-r
@@ -36,13 +26,6 @@
       synset: 88596021-r
 áram:
   n:
-    form:
-    - aram
-    - arám
-    - náram
-    - áirme
-    - áraim
-    - árim
     sense:
     - id: 'áram%1:23:00::'
       synset: 81852294-n
@@ -52,25 +35,16 @@
       synset: 81701406-n
 écintech:
   a:
-    form:
-    - ecintech
-    - écintecha
     sense:
     - id: 'écintech%3:00:00::'
       synset: 88691194-a
 écsamlus:
   n:
-    form:
-    - ecsamlus
     sense:
     - id: 'écsamlus%1:07:00::'
       synset: 82988524-n
 éicen:
   n:
-    form:
-    - ecen
-    - áeicen
-    - écen
     sense:
     - id: 'éicen%1:17:00::'
       synset: 89830465-n
@@ -78,21 +52,11 @@
       synset: 89300110-n
 érchoiliud:
   n:
-    form:
-    - erchoiliud
-    - herchoiliud
-    - herchoiltib
-    - herchóiliud
-    - herchóiliuth
-    - hérchoiliud
-    - érchóilte
     sense:
     - id: 'érchoiliud%1:10:00::'
       synset: 81424377-n
 étig:
   a:
-    form:
-    - etig
     sense:
     - id: 'étig%3:00:00::'
       synset: 84770391-a
@@ -103,15 +67,11 @@
       synset: 87612028-r
 íarmifoich:
   v:
-    form:
-    - foich
     sense:
     - id: 'íarmifoich%2:35:00::'
       synset: 82966292-v
 íarum:
   r:
-    form:
-    - iarum
     sense:
     - id: 'íarum%4:02:00::'
       synset: 87612028-r
@@ -127,8 +87,6 @@
       synset: 84480034-v
 íth:
   n:
-    form:
-    - hith
     sense:
     - id: 'íth%1:13:00::'
       synset: 84699239-n
@@ -136,19 +94,11 @@
       synset: 88802907-n
 óa:
   n:
-    form:
-    - oo
     sense:
     - id: 'óa%1:08:00::'
       synset: 88504955-n
 óg:
   a:
-    form:
-    - nog
-    - nóg
-    - nógaib
-    - og
-    - óge
     sense:
     - id: 'óg%3:00:02::'
       synset: 86702727-a
@@ -157,60 +107,26 @@
     - id: 'óg%1:03:01::'
       synset: 81645044-n
   s:
-    form:
-    - nog
-    - nóg
-    - nógaib
-    - og
-    - óge
     sense:
     - id: óg%5:00:00:???:00
       synset: 89427292-s
 ógae:
   n:
-    form:
-    - hógi
-    - nogaib
-    - nógai
-    - nógi
     sense:
     - id: 'ógae%1:26:00::'
       synset: 83771050-n
 óindae:
   a:
-    form:
-    - noena
-    - oéndai
-    - oíndai
-    - óendaid
-    - óindi
     sense:
     - id: 'óindae%3:00:00::'
       synset: 86133132-a
 óinechaid:
   n:
-    form:
-    - óenechaid
     sense:
     - id: 'óinechaid%1:18:00::'
       synset: 88158727-n
 úathad:
   n:
-    form:
-    - hodid
-    - hothad
-    - huathad
-    - huathaid
-    - huathath
-    - nothuth
-    - nóthud
-    - othad
-    - othud
-    - uathad
-    - uathaid
-    - uathataib
-    - uathath
-    - uathuth
     sense:
     - id: 'úathad%1:10:00::'
       synset: 86730063-n
