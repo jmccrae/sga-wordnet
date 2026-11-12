@@ -19,9 +19,10 @@ synsets they translate. The corpus is the Old Irish [Universal
 Dependencies](https://universaldependencies.org/) treebank by Adrian Doyle.
 The induced candidates were then manually reviewed and corrected.
 
-The scripts used to build the resource were removed once it had been built;
-they remain in the git history before the cleanup, and WISTERIA covers the
-induction pipeline.
+The intermediate data from this process is kept in `data/`. The scripts that
+built the wordnet from it were removed once it had been built; they remain in
+the git history before the cleanup, and WISTERIA covers the induction
+pipeline.
 
 ## Contents
 
@@ -30,6 +31,11 @@ induction pipeline.
 | `src/yaml/` | The wordnet, in the YAML layout of the [English WordNet source](https://github.com/globalwordnet/english-wordnet/tree/main/src/yaml): `entries-*.yaml`, one file per lexicographer file (`noun.*`, `verb.*`, `adj.*`, `adv.*`) and `frames.yaml`. |
 | `data/sga_incomplete.conllu` | The source corpus, in CoNLL-U with English translations. |
 | `data/sga_incomplete.teanga.yaml` | The same corpus as [Teanga](https://github.com/teangaNLP/teanga) YAML, with tokens tagged by wordnet synset (`sga_key` layer). |
+| `data/sga_incomplete.{align,en-ga}` | Word alignments (fast_align) and the Old Irish–English bitext they were computed from. |
+| `data/sga_incomplete.senses`, `data/sga_incomplete.results_AD.xlsx` | Word sense disambiguation candidates for the English side, with the annotator's verdicts. |
+| `data/sense_corrections.csv`, `data/pos_corrections.csv` | Manual corrections to the disambiguated senses and parts of speech. |
+| `data/OI_Combined.review.csv`, `data/OI_Combined.corrections.csv` | A second batch of reviewed candidates and how the reviewer's notes were acted on. |
+| `data/priority_concepts.csv` | English synsets ranked by how useful they are to translate next. |
 | `downloads.toml` | The released versions of the wordnet. |
 | `settings.toml`, `branding/` | Configuration and branding for the [EWE](https://github.com/jmccrae/ewe) wordnet editor. |
 
