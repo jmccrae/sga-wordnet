@@ -1,29 +1,54 @@
 ifern:
   n:
+    form:
+    - iffirnn
     sense:
     - id: 'ifern%1:09:00::'
       synset: 87985611-n
 il:
   a:
+    form:
+    - hile
+    - hilib
+    - lia
+    - nil
     sense:
     - id: 'il%3:00:00::'
       synset: 88034512-a
   s:
+    form:
+    - hile
+    - hilib
+    - lia
+    - nil
     sense:
     - id: il%5:00:01:???:00
       synset: 81243737-s
 ilar:
   n:
+    form:
+    - hilair
+    - hilar
+    - hilur
+    - ilair
     sense:
     - id: 'ilar%1:10:00::'
       synset: 80259077-n
 ildae:
   a:
+    form:
+    - hilddai
+    - ildaib
     sense:
     - id: 'ildae%3:00:00::'
       synset: 87002668-a
 imchomarc:
   n:
+    form:
+    - imchomairc
+    - immchomarc
+    - immchomurc
+    - nimmchomarc
     sense:
     - id: 'imchomarc%1:10:00::'
       synset: 89847798-n
@@ -34,6 +59,8 @@ imdibe:
       synset: 87647377-n
 immacaldaim:
   n:
+    form:
+    - nimmocaldaim
     sense:
     - id: 'immacaldaim%1:03:00::'
       synset: 80644807-n
@@ -44,21 +71,43 @@ immalle:
       synset: 85720380-r
 immcomairc:
   v:
+    form:
+    - chomairc
+    - chomarcar
+    - chomarcatar
     sense:
     - id: 'immcomairc%2:32:00::'
       synset: 83672666-v
 immfolngai:
   v:
+    form:
+    - folṅgai
+    - folṅgat
+    - nimmolṅgai
+    - nimmolṅgaithær
+    - ḟolṅgai
     sense:
     - id: 'immfolngai%2:36:00::'
       synset: 88847701-v
 imḟognam:
   n:
+    form:
+    - immognam
+    - immognamib
+    - immognom
+    - immognomo
+    - nimmognam
+    - nimmognama
+    - nimmognom
+    - nimmḟognam
     sense:
     - id: 'imḟognam%1:10:00::'
       synset: 87030202-n
 imḟolang:
   n:
+    form:
+    - immfolung
+    - immolung
     sense:
     - id: 'imḟolang%1:03:00::'
       synset: 81975763-n
@@ -69,6 +118,18 @@ inchosc:
       synset: 82949802-v
 incoisig:
   v:
+    form:
+    - choisechar
+    - choisged
+    - choisget
+    - choisig
+    - chosaig
+    - chosig
+    - coisgedar
+    - coissig
+    - cosaig
+    - inchoisget
+    - inchoisig
     sense:
     - id: 'incoisig%2:32:00::'
       synset: 82949802-v
@@ -79,6 +140,10 @@ indas:
       synset: 80707623-n
 inderb:
   a:
+    form:
+    - indeirbbae
+    - inderbbae
+    - nindeirb
     sense:
     - id: 'inderb%3:00:00::'
       synset: 85457881-a
@@ -94,11 +159,17 @@ indlach:
       synset: 86031490-n
 inducbál:
   n:
+    form:
+    - indúcbal
     sense:
     - id: 'inducbál%1:26:00::'
       synset: 88949882-n
 ingen:
   n:
+    form:
+    - ingenaib
+    - ingin
+    - ingine
     sense:
     - id: 'ingen%1:18:00::'
       synset: 82479076-n
@@ -106,11 +177,21 @@ ingen:
       synset: 86711552-n
 inmedónach:
   a:
+    form:
+    - inmedonich
+    - inmedónchaib
+    - inmedónchu
+    - ninmedonach
     sense:
     - id: 'inmedónach%3:00:00::'
       synset: 83710193-a
 inne:
   n:
+    form:
+    - inni
+    - nini
+    - ninni
+    - ṅinni
     sense:
     - id: 'inne%1:09:00::'
       synset: 80785130-n
@@ -126,11 +207,16 @@ inne:
       synset: 80979221-n
 insamlathar:
   v:
+    form:
+    - samlathar
     sense:
     - id: 'insamlathar%2:36:00::'
       synset: 82874814-v
 insce:
   n:
+    form:
+    - innsce
+    - ninsci
     sense:
     - id: 'insce%1:10:00::'
       synset: 86617844-n
@@ -138,6 +224,16 @@ insce:
       synset: 88868896-n
 intliucht:
   n:
+    form:
+    - indliucht
+    - inntṡliuchto
+    - intliuchta
+    - intṡliucht
+    - intṡliuchta
+    - nintliuchta
+    - nintṡliucht
+    - ṅintliuchta
+    - ṅintliucta
     sense:
     - id: 'intliucht%1:09:00::'
       synset: 80785130-n
@@ -147,6 +243,20 @@ intliucht:
       synset: 86874665-n
 inunn:
   a:
+    form:
+    - hinnun
+    - hinon
+    - hinonn
+    - hinun
+    - hinunn
+    - hínnunn
+    - innon
+    - innunn
+    - inonn
+    - inun
+    - non
+    - sinonn
+    - sinunn
     sense:
     - id: 'inunn%3:00:00::'
       synset: 88080213-a
@@ -154,6 +264,8 @@ inunn:
       synset: 85023959-a
 iress:
   n:
+    form:
+    - hirise
     sense:
     - id: 'iress%1:09:00::'
       synset: 83335635-n
@@ -171,6 +283,12 @@ is:
       synset: 81056370-v
 ith:
   n:
+    form:
+    - etha
+    - hetho
+    - netha
+    - nhetha
+    - ṅetha
     sense:
     - id: 'ith%1:13:00::'
       synset: 81525755-n
@@ -185,11 +303,15 @@ ith:
       synset: 87612028-r
 íarmifoich:
   v:
+    form:
+    - foich
     sense:
     - id: 'íarmifoich%2:35:01::'
       synset: 82966292-v
 íarum:
   r:
+    form:
+    - iarum
     sense:
     - id: 'íarum%4:02:01::'
       synset: 87612028-r
@@ -205,6 +327,8 @@ ith:
       synset: 84480034-v
 íth:
   n:
+    form:
+    - hith
     sense:
     - id: 'íth%1:13:02::'
       synset: 84699239-n

@@ -5,16 +5,30 @@ taidbsiu:
       synset: 81960504-v
 tairmthecht:
   n:
+    form:
+    - tairmthechtae
     sense:
     - id: 'tairmthecht%1:04:00::'
       synset: 88175979-n
 tairmthechtas:
   n:
+    form:
+    - tairmtechtas
     sense:
     - id: 'tairmthechtas%1:04:00::'
       synset: 88175979-n
 tairmḟorcend:
   n:
+    form:
+    - tairmmoircniu
+    - tairmmorcinn
+    - tairmorcenn
+    - tairmorcien
+    - tarmmorcenn
+    - tarmorcenn
+    - tarmorcin
+    - tharmmorcnib
+    - ṅtairmoircniu
     sense:
     - id: 'tairmḟorcend%1:10:00::'
       synset: 89635677-n
@@ -25,11 +39,30 @@ tairngire:
       synset: 89899974-n
 tech:
   n:
+    form:
+    - taigæ
     sense:
     - id: 'tech%1:06:00::'
       synset: 84531795-n
 techtaid:
   v:
+    form:
+    - rothecht
+    - rothechtsat
+    - techta
+    - techtad
+    - techtaite
+    - techtas
+    - techtat
+    - techtath
+    - techtid
+    - techtite
+    - tectad
+    - thechta
+    - thechtaid
+    - thechtaite
+    - thechtas
+    - thechti
     sense:
     - id: 'techtaid%2:42:00::'
       synset: 87022866-v
@@ -39,6 +72,10 @@ techtaid:
       synset: 85962572-v
 tecmang:
   n:
+    form:
+    - decmaiṅg
+    - thecmungg
+    - theconmung
     sense:
     - id: 'tecmang%1:11:00::'
       synset: 80172240-n
@@ -59,6 +96,9 @@ teist:
       synset: 87516741-n
 testimin:
   n:
+    form:
+    - testemin
+    - thestimin
     sense:
     - id: 'testimin%1:10:00::'
       synset: 83989319-n
@@ -66,21 +106,40 @@ testimin:
       synset: 81290684-n
 timorcon:
   n:
+    form:
+    - thimmorcuin
+    - timmoircne
     sense:
     - id: 'timorcon%1:04:00::'
       synset: 84910614-n
 timortae:
   a:
+    form:
+    - thimmorti
+    - timmartae
+    - timmarti
+    - timmorta
+    - timmortae
+    - timmorte
     sense:
     - id: 'timortae%3:00:00::'
       synset: 84949211-a
 tindnacol:
   n:
+    form:
+    - thindnacol
+    - thindnacul
+    - tindnacul
     sense:
     - id: 'tindnacol%1:21:00::'
       synset: 84218285-n
 tinfed:
   n:
+    form:
+    - thinfid
+    - tinfeth
+    - tinfith
+    - tinphed
     sense:
     - id: 'tinfed%1:10:00::'
       synset: 80982440-n
@@ -88,21 +147,36 @@ tinfed:
       synset: 86228844-n
 tobarthaid:
   n:
+    form:
+    - tobarthado
+    - tobarthid
+    - tobarthidi
     sense:
     - id: 'tobarthaid%1:10:00::'
       synset: 87167098-n
 togarthaid:
   n:
+    form:
+    - thogarthid
+    - togarthado
+    - togarthaith
+    - togarthid
+    - togarthidi
     sense:
     - id: 'togarthaid%1:10:00::'
       synset: 89127561-n
 tomus:
   n:
+    form:
+    - toimse
     sense:
     - id: 'tomus%1:04:00::'
       synset: 85473015-n
 torad:
   n:
+    form:
+    - toraid
+    - torud
     sense:
     - id: 'torad%1:20:00::'
       synset: 82778974-n
@@ -113,11 +187,26 @@ torbae:
       synset: 88858179-n
 tormach:
   n:
+    form:
+    - thormach
+    - thormuch
+    - thórmuch
+    - tormag
+    - tormaig
+    - tormuch
+    - tórmach
+    - tórmag
     sense:
     - id: 'tormach%1:04:00::'
       synset: 89328654-n
 tosach:
   n:
+    form:
+    - thosuch
+    - tossach
+    - tossuch
+    - tosuch
+    - tosug
     sense:
     - id: 'tosach%1:09:00::'
       synset: 86634966-n
@@ -125,11 +214,15 @@ tosach:
       synset: 81665085-n
 trebar:
   a:
+    form:
+    - trebairiu
     sense:
     - id: 'trebar%3:00:00::'
       synset: 80698935-a
 trá:
   r:
+    form:
+    - tra
     sense:
     - id: 'trá%4:02:00::'
       synset: 86151269-r
@@ -137,11 +230,24 @@ trá:
       synset: 84592924-r
 trén:
   a:
+    form:
+    - thríuin
+    - tren
+    - trenaib
+    - tréna
     sense:
     - id: 'trén%3:00:00::'
       synset: 82219612-a
 tuisel:
   n:
+    form:
+    - thuisil
+    - thuisiul
+    - thuislib
+    - tuisil
+    - tuisiul
+    - tuisliu
+    - túisil
     sense:
     - id: 'tuisel%1:10:00::'
       synset: 87443575-n
@@ -157,16 +263,32 @@ tánaise:
       synset: 82293685-s
 téit:
   v:
+    form:
+    - coid
+    - regaid
+    - tesed
+    - tete
+    - theit
+    - theite
+    - tiagait
+    - tiagdde
+    - tiagta
+    - téte
     sense:
     - id: 'téit%2:42:00::'
       synset: 86414182-v
 tíarmóracht:
   n:
+    form:
+    - tiarmoracht
+    - tiarmóracht
     sense:
     - id: 'tíarmóracht%1:10:00::'
       synset: 86156433-n
 tír:
   n:
+    form:
+    - tir
     sense:
     - id: 'tír%1:15:00::'
       synset: 82183170-n
@@ -174,11 +296,17 @@ tír:
       synset: 80187145-n
 tís:
   r:
+    form:
+    - tis
     sense:
     - id: 'tís%4:02:00::'
       synset: 87740750-r
 tóbae:
   n:
+    form:
+    - thóbae
+    - thóbæ
+    - tóbe
     sense:
     - id: 'tóbae%1:22:00::'
       synset: 87265582-n
@@ -189,6 +317,12 @@ tóib:
       synset: 81779714-n
 tórand:
   n:
+    form:
+    - torand
+    - torant
+    - tóraind
+    - tóranda
+    - tórunt
     sense:
     - id: 'tórand%1:10:00::'
       synset: 86881526-n
@@ -196,6 +330,10 @@ tórand:
       synset: 85095499-n
 túas:
   r:
+    form:
+    - thuas
+    - tuas
+    - tuass
     sense:
     - id: 'túas%4:02:00::'
       synset: 83022925-r

@@ -1,15 +1,27 @@
 abgitir:
   n:
+    form:
+    - abbgitir
     sense:
     - id: 'abgitir%1:10:00::'
       synset: 84112012-n
 accobur:
   n:
+    form:
+    - accobair
+    - accobor
     sense:
     - id: 'accobur%1:12:00::'
       synset: 80925220-n
 accomol:
   n:
+    form:
+    - accomoil
+    - accomul
+    - acomol
+    - acomuil
+    - naccomol
+    - nacomol
     sense:
     - id: 'accomol%1:06:00::'
       synset: 87993082-n
@@ -21,11 +33,15 @@ accomol:
       synset: 85337901-n
 accuis:
   n:
+    form:
+    - accuiss
     sense:
     - id: 'accuis%1:11:00::'
       synset: 81165486-n
 acuit:
   n:
+    form:
+    - nacuit
     sense:
     - id: 'acuit%1:10:00::'
       synset: 81635929-n
@@ -44,6 +60,18 @@ adbar dúr:
       synset: 80452638-n
 adcomla:
   v:
+    form:
+    - chomaltar
+    - chomlat
+    - comaltal
+    - comaltar
+    - comla
+    - comlatar
+    - naccomaltar
+    - naccomoltar
+    - nacomlatar
+    - rochomolta
+    - ṅacomoltar
     sense:
     - id: 'adcomla%2:35:00::'
       synset: 88506063-v
@@ -61,16 +89,33 @@ adrad:
       synset: 88289372-n
 adroilli:
   v:
+    form:
+    - rollfe
     sense:
     - id: 'adroilli%2:42:00::'
       synset: 87817232-v
 adrími:
   v:
+    form:
+    - nairmim
+    - rimet
+    - ruirmiset
+    - rímed
+    - rímfiter
+    - rímter
+    - rímtis
     sense:
     - id: 'adrími%2:31:00::'
       synset: 84467615-v
 adtreba:
   v:
+    form:
+    - itreba
+    - rothreb
+    - treba
+    - trebat
+    - trebtar
+    - trebthar
     sense:
     - id: 'adtreba%2:40:00::'
       synset: 85146580-v
@@ -82,11 +127,22 @@ adtreba:
       synset: 81496297-v
 afracdae:
   a:
+    form:
+    - afracdai
+    - afracdæ
+    - ṅaffracdai
     sense:
     - id: 'afracdae%3:01:00::'
       synset: 84937351-a
 aiccent:
   n:
+    form:
+    - aiccend
+    - aiccind
+    - aicciund
+    - aicend
+    - naiccendaib
+    - naiccind
     sense:
     - id: 'aiccent%1:10:00::'
       synset: 88921522-n
@@ -99,26 +155,72 @@ aicde:
       synset: 83505619-n
 aicme:
   n:
+    form:
+    - aicmae
     sense:
     - id: 'aicme%1:14:00::'
       synset: 88643414-n
 aicned:
   n:
+    form:
+    - aicnid
+    - aicniud
+    - naicniud
+    - ṅaicnid
     sense:
     - id: 'aicned%1:07:00::'
       synset: 82559804-n
 aile:
   a:
+    form:
+    - ail
+    - aili
+    - ailiu
+    - aill
+    - ala
+    - alaaili
+    - alaailiu
+    - alaile
+    - alaili
+    - alailib
+    - alailiu
+    - alaill
+    - alaliu
+    - alanaile
+    - allail
+    - araile
+    - araili
+    - heliu
+    - la
+    - nail
+    - naile
+    - naili
+    - naill
+    - nalailiu
+    - nalali
+    - naraill
+    - nnalaill
+    - álailiu
+    - ṅaili
     sense:
     - id: 'aile%3:00:00::'
       synset: 88780467-a
 ailidetu:
   n:
+    form:
+    - ailidetad
     sense:
     - id: 'ailidetu%1:04:00::'
       synset: 87095000-n
 aimser:
   n:
+    form:
+    - aimmser
+    - aimsera
+    - aimsir
+    - aimsire
+    - naimsir
+    - naimsire
     sense:
     - id: 'aimser%1:28:00::'
       synset: 84836960-n
@@ -136,6 +238,10 @@ aimser:
       synset: 89941866-n
 aimserad:
   n:
+    form:
+    - aimmserad
+    - aimmserda
+    - naimserad
     sense:
     - id: 'aimserad%1:28:00::'
       synset: 88798491-n
@@ -146,6 +252,45 @@ aingel:
       synset: 85876304-n
 ainm:
   n:
+    form:
+    - Anmmaimm
+    - aimm
+    - ainmm
+    - ainmmaim
+    - anma
+    - anmae
+    - anmaim
+    - anman
+    - anmanaib
+    - anmanib
+    - anmann
+    - anmannaib
+    - anmannn
+    - anme
+    - anmimm
+    - anmma
+    - anmmae
+    - anmmaim
+    - anmmaimm
+    - anmman
+    - anmmanaib
+    - anmmann
+    - anmme
+    - anmmæ
+    - naiinm
+    - naimm
+    - nainm
+    - nainmm
+    - nanmae
+    - nanman
+    - nanmanaib
+    - nanmann
+    - nanmmae
+    - nanmman
+    - nanmmanaib
+    - nanmmann
+    - ṅainmm
+    - ṅanmann
     sense:
     - id: 'ainm%1:10:00::'
       synset: 86939996-n
@@ -169,16 +314,42 @@ ainmide:
       synset: 80717417-n
 ainmmde:
   a:
+    form:
+    - ainmde
+    - ainmdi
+    - ainmmdi
+    - ainmmdib
+    - ainmmdiu
     sense:
     - id: 'ainmmde%3:01:00::'
       synset: 85978877-a
 ainmmnid:
   n:
+    form:
+    - ainmid
+    - ainmmnidi
+    - ainmneda
+    - ainmnedo
+    - ainmnid
+    - ainmnidi
+    - anmmnidi
+    - naimnid
+    - nainmnedo
+    - nainmnid
+    - nainmnidib
+    - ṅainmmnid
     sense:
     - id: 'ainmmnid%1:10:00::'
       synset: 88482043-n
 ainmmnigud:
   n:
+    form:
+    - aimnigud
+    - ainmmnichthe
+    - ainmnigthe
+    - ainmnigud
+    - naimmnigud
+    - nainmnichthae
     sense:
     - id: 'ainmmnigud%1:10:00::'
       synset: 84423967-n
@@ -196,6 +367,11 @@ airchinnech:
       synset: 87400575-n
 airchrae:
   n:
+    form:
+    - erchra
+    - erchrae
+    - erchre
+    - nerchre
     sense:
     - id: 'airchrae%1:22:00::'
       synset: 82566946-n
@@ -203,6 +379,8 @@ airchrae:
       synset: 80492312-n
 airde:
   n:
+    form:
+    - nairde
     sense:
     - id: 'airde%1:03:00::'
       synset: 83853491-n
@@ -214,21 +392,36 @@ airde ningnai:
       synset: 81312087-n
 airdíxa:
   a:
+    form:
+    - airdixa
+    - airdixe
+    - airdixi
+    - airdíxi
+    - nairdíxa
     sense:
     - id: 'airdíxa%3:00:00::'
       synset: 88067839-a
 airec:
   n:
+    form:
+    - airic
+    - airiuc
+    - nairec
     sense:
     - id: 'airec%1:04:00::'
       synset: 84433864-n
 airisiu:
   n:
+    form:
+    - airissen
     sense:
     - id: 'airisiu%1:03:00::'
       synset: 87242000-n
 airitiu:
   n:
+    form:
+    - airitin
+    - hairitiu
     sense:
     - id: 'airitiu%1:04:00::'
       synset: 80466992-n
@@ -261,11 +454,27 @@ aiste:
       synset: 89602844-n
 aitherrechtaigthe:
   n:
+    form:
+    - aitherechtaigthib
+    - aitherrechtaigthi
+    - aitherrechtaigthib
+    - aitherrechtaigthiu
+    - aitherrechtaigthu
+    - naitherrechtaichthe
+    - naitherrechtaigthe
+    - naitherrechtaigthi
     sense:
     - id: 'aitherrechtaigthe%1:10:00::'
       synset: 86697922-n
 aitrebthaid:
   n:
+    form:
+    - aitrebthado
+    - aitrebthatha
+    - aitrebthidib
+    - aitribtheid
+    - aitribthid
+    - aittrebthado
     sense:
     - id: 'aitrebthaid%1:18:00::'
       synset: 82791085-n
@@ -273,11 +482,22 @@ aitrebthaid:
       synset: 85503812-n
 aittrebthach:
   a:
+    form:
+    - aitrebdacha
+    - aitrebthach
+    - aitrebthacha
+    - aitrebthaig
+    - aittrebthacha
+    - atrebthach
+    - atreibthig
+    - naitrebthach
     sense:
     - id: 'aittrebthach%3:01:00::'
       synset: 86287358-a
 alt:
   n:
+    form:
+    - alta
     sense:
     - id: 'alt%1:03:00::'
       synset: 86163603-n
@@ -299,6 +519,10 @@ alt menman:
       synset: 86747513-n
 amal:
   r:
+    form:
+    - samlaid
+    - samlid
+    - ṡamlaid
     sense:
     - id: 'amal%4:02:00::'
       synset: 85135742-r
@@ -306,6 +530,8 @@ amal:
       synset: 86651937-r
 amein:
   r:
+    form:
+    - amin
     sense:
     - id: 'amein%4:02:00::'
       synset: 85135742-r
@@ -316,6 +542,9 @@ amm:
       synset: 89941866-n
 analach:
   n:
+    form:
+    - analag
+    - analoige
     sense:
     - id: 'analach%1:09:00::'
       synset: 84743308-n
@@ -326,6 +555,8 @@ anim:
       synset: 80957324-n
 anmandae:
   n:
+    form:
+    - anmmandu
     sense:
     - id: 'anmandae%1:03:00::'
       synset: 80717417-n
@@ -341,11 +572,24 @@ ar:
       synset: 83067314-r
 ard:
   a:
+    form:
+    - ardd
+    - arddu
     sense:
     - id: 'ard%3:00:00::'
       synset: 84327853-a
 arfoím:
   v:
+    form:
+    - eróim
+    - fóim
+    - fóimat
+    - fóimtar
+    - narróetmar
+    - róet
+    - ḟoimát
+    - ḟóimat
+    - ḟóimtar
     sense:
     - id: 'arfoím%2:31:00::'
       synset: 84790345-v
@@ -358,6 +602,19 @@ argumeint:
       synset: 88439721-n
 aricc:
   v:
+    form:
+    - airecar
+    - airecht
+    - anic
+    - ecar
+    - icc
+    - ista
+    - nanísar
+    - necar
+    - necatar
+    - nísar
+    - écar
+    - ícht
     sense:
     - id: 'aricc%2:39:00::'
       synset: 87058334-v
@@ -367,21 +624,73 @@ aricc:
       synset: 83969036-v
 arm:
   n:
+    form:
+    - arma
+    - ṅairm
     sense:
     - id: 'arm%1:06:00::'
       synset: 82982330-n
 arsaid:
   s:
+    form:
+    - arsaidi
+    - arside
+    - arsidi
+    - arsidni
+    - narsidib
     sense:
     - id: arsaid%5:00:00:???:00
       synset: 86128746-s
 articol:
   n:
+    form:
+    - airticuil
+    - articuil
+    - articul
+    - narticol
+    - nartocol
+    - nartucol
+    - ṅarticuil
     sense:
     - id: 'articol%1:10:00::'
       synset: 80660328-n
 asbeir:
   v:
+    form:
+    - apir
+    - beir
+    - bera
+    - berad
+    - beram
+    - berar
+    - berat
+    - berr
+    - bertar
+    - bertha
+    - berthar
+    - bir
+    - biur
+    - eper
+    - eperr
+    - epur
+    - mberar
+    - neper
+    - neperr
+    - nepertar
+    - neperthae
+    - nepred
+    - neprem
+    - náerbara
+    - nérbrath
+    - perr
+    - robair
+    - rubart
+    - rubartmar
+    - rubartmmar
+    - ruburt
+    - ṁbeir
+    - ṁbir
+    - ṁbiur
     sense:
     - id: 'asbeir%2:32:00::'
       synset: 84005320-v
@@ -399,6 +708,10 @@ asbeir:
       synset: 82668847-v
 asgnin:
   v:
+    form:
+    - gninaim
+    - gnintar
+    - gnoither
     sense:
     - id: 'asgnin%2:31:00::'
       synset: 81343755-v
@@ -406,26 +719,47 @@ asgnin:
       synset: 83866191-v
 asingaib:
   v:
+    form:
+    - ingbat
+    - ringba
     sense:
     - id: 'asingaib%2:42:00::'
       synset: 85562732-v
 aslena:
   v:
+    form:
+    - lenaim
+    - lenaimm
+    - lennim
+    - lentae
     sense:
     - id: 'aslena%2:30:00::'
       synset: 82339519-v
 atbaill:
   v:
+    form:
+    - bail
+    - bela
+    - epil
+    - eple
     sense:
     - id: 'atbaill%2:30:00::'
       synset: 80546236-v
 athair:
   n:
+    form:
+    - athar
+    - athir
+    - athraib
     sense:
     - id: 'athair%1:18:00::'
       synset: 87794459-n
 atrab:
   n:
+    form:
+    - atraib
+    - atrub
+    - natrab
     sense:
     - id: 'atrab%1:03:00::'
       synset: 81618529-n
@@ -433,11 +767,93 @@ atrab:
       synset: 88857531-n
 attoíbed:
   n:
+    form:
+    - atoíbthe
     sense:
     - id: 'attoíbed%1:04:00::'
       synset: 88137976-n
 attá:
   v:
+    form:
+    - bbiad
+    - bbé
+    - bed
+    - beid
+    - beit
+    - beith
+    - bes
+    - bet
+    - bete
+    - beth
+    - bi
+    - bia
+    - biad
+    - bias
+    - biat
+    - biet
+    - biid
+    - biit
+    - bis
+    - bith
+    - bé
+    - bí
+    - bía
+    - bíat
+    - bíid
+    - bíit
+    - bís
+    - bíte
+    - bíth
+    - bói
+    - daas
+    - dass
+    - dáta
+    - dáu
+    - fail
+    - fil
+    - file
+    - mbe
+    - mbed
+    - mbetis
+    - mbiat
+    - mbis
+    - mbé
+    - mbí
+    - mbís
+    - mbíth
+    - mbítis
+    - mbói
+    - nroib
+    - rabatar
+    - robae
+    - robatar
+    - robbe
+    - robbátar
+    - robbí
+    - robe
+    - robiat
+    - robá
+    - robói
+    - roib
+    - rombatar
+    - rombí
+    - rombói
+    - rubai
+    - ruban
+    - rubé
+    - ta
+    - taat
+    - tá
+    - á
+    - ḟil
+    - ṁbed
+    - ṁbias
+    - ṁbiat
+    - ṁbis
+    - ṁbí
+    - ṁbíet
+    - ṁbís
+    - ṁbíte
     sense:
     - id: 'attá%2:42:00::'
       synset: 89295043-v
@@ -447,21 +863,38 @@ attá:
       synset: 87847657-v
 atárcadach:
   a:
+    form:
+    - atarcadach
+    - ṅatárcadach
     sense:
     - id: 'atárcadach%3:01:00::'
       synset: 87148436-a
 atárcud:
   n:
+    form:
+    - atarcud
+    - attaircedo
     sense:
     - id: 'atárcud%1:10:00::'
       synset: 83737725-n
 aue:
   n:
+    form:
+    - aui
+    - auib
+    - haue
+    - háui
     sense:
     - id: 'aue%1:18:00::'
       synset: 87162063-n
 áirem:
   n:
+    form:
+    - arim
+    - narim
+    - nárim
+    - áirme
+    - árim
     sense:
     - id: 'áirem%1:07:02::'
       synset: 88536860-n
@@ -476,6 +909,10 @@ aue:
       synset: 82967009-n
 ám:
   r:
+    form:
+    - am
+    - em
+    - áem
     sense:
     - id: 'ám%4:02:02::'
       synset: 88596021-r
@@ -483,6 +920,13 @@ aue:
       synset: 88714875-r
 áram:
   n:
+    form:
+    - aram
+    - arám
+    - náram
+    - áirme
+    - áraim
+    - árim
     sense:
     - id: 'áram%1:03:03::'
       synset: 84080689-n

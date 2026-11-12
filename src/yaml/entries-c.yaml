@@ -1,5 +1,7 @@
 caill:
   n:
+    form:
+    - chaill
     sense:
     - id: 'caill%1:17:00::'
       synset: 84304662-n
@@ -25,36 +27,80 @@ camthuisel:
       synset: 83027826-n
 carae:
   n:
+    form:
+    - cara
     sense:
     - id: 'carae%1:18:00::'
       synset: 87264171-n
 caraid:
   v:
+    form:
+    - carthar
+    - rrocar
     sense:
     - id: 'caraid%2:37:00::'
       synset: 80312255-v
 cathair:
   n:
+    form:
+    - cathrach
+    - cathraig
+    - chathir
+    - chathrach
+    - chathraig
     sense:
     - id: 'cathair%1:15:00::'
       synset: 87048819-n
 cathrar:
   n:
+    form:
+    - cathrur
+    - chathraraib
     sense:
     - id: 'cathrar%1:18:00::'
       synset: 82583182-n
 cedacht:
   r:
+    form:
+    - cidecht
     sense:
     - id: 'cedacht%4:02:00::'
       synset: 84192411-r
 cenn:
   n:
+    form:
+    - ceinn
+    - cheinn
+    - chenn
+    - chinn
+    - chiunn
+    - cinn
     sense:
     - id: 'cenn%1:08:00::'
       synset: 87743699-n
 cenél:
   n:
+    form:
+    - ceineuil
+    - ceneiuil
+    - cenel
+    - cenelaib
+    - ceneuil
+    - ceniuil
+    - ceniul
+    - cenéiuil
+    - cenéuil
+    - ceníuil
+    - ceníul
+    - cheneiuil
+    - chenel
+    - chenelaib
+    - cheneul
+    - cheniuil
+    - chenél
+    - chenéuil
+    - chenéul
+    - cheníuil
     sense:
     - id: 'cenél%1:14:00::'
       synset: 89533822-n
@@ -64,16 +110,31 @@ cenél:
       synset: 80707623-n
 cenélach:
   a:
+    form:
+    - cenelach
+    - cenelaich
+    - cenelcha
+    - cenélcha
+    - chenelach
+    - chenelaig
     sense:
     - id: 'cenélach%3:00:00::'
       synset: 89980474-a
 cenélae:
   n:
+    form:
+    - cenelae
+    - cenele
+    - cenéla
     sense:
     - id: 'cenélae%1:09:00::'
       synset: 80707623-n
 cenélche:
   n:
+    form:
+    - cenelchi
+    - cenélchi
+    - chenélchi
     sense:
     - id: 'cenélche%1:07:00::'
       synset: 88317509-n
@@ -84,16 +145,31 @@ ciniud:
       synset: 81452106-n
 cinnid:
   v:
+    form:
+    - chinni
+    - cinness
+    - cinnet
+    - cinnit
+    - cinte
+    - rochinnset
+    - rocinnius
+    - rocinnset
     sense:
     - id: 'cinnid%2:32:00::'
       synset: 83445470-v
 cinniud:
   n:
+    form:
+    - chinniuth
     sense:
     - id: 'cinniud%1:10:00::'
       synset: 81424377-n
 cland:
   n:
+    form:
+    - chlaind
+    - chland
+    - claind
     sense:
     - id: 'cland%1:18:00::'
       synset: 80752096-n
@@ -104,6 +180,8 @@ clann:
       synset: 81452106-n
 clíab:
   n:
+    form:
+    - cliab
     sense:
     - id: 'clíab%1:06:00::'
       synset: 83122893-n
@@ -119,11 +197,16 @@ cocart:
       synset: 80776963-n
 cochae:
   n:
+    form:
+    - chochu
+    - coche
     sense:
     - id: 'cochae%1:08:00::'
       synset: 86466983-n
 coibdelach:
   n:
+    form:
+    - chobdelaich
     sense:
     - id: 'coibdelach%1:18:00::'
       synset: 86919753-n
@@ -148,11 +231,18 @@ coibne:
       synset: 86919753-n
 coibnestae:
   s:
+    form:
+    - cobnesta
+    - coibnesta
+    - coibnestai
     sense:
     - id: coibnestae%5:00:00:???:00
       synset: 81762366-s
 coibnius:
   n:
+    form:
+    - choibnis
+    - choibnius
     sense:
     - id: 'coibnius%1:03:00::'
       synset: 84154477-n
@@ -168,6 +258,14 @@ coicell:
       synset: 81586762-n
 coindelg:
   n:
+    form:
+    - chondelg
+    - coindeiulc
+    - coindeulgg
+    - condeilgg
+    - condelg
+    - condelgg
+    - conṅdelgg
     sense:
     - id: 'coindelg%1:24:00::'
       synset: 83248279-n
@@ -175,10 +273,22 @@ coindelg:
       synset: 85147029-n
 coitchenn:
   a:
+    form:
+    - choitchen
+    - coitchen
+    - coitchena
+    - coitchenna
+    - coitchin
     sense:
     - id: 'coitchenn%3:00:02::'
       synset: 88157406-a
   s:
+    form:
+    - choitchen
+    - coitchen
+    - coitchena
+    - coitchenna
+    - coitchin
     sense:
     - id: coitchenn%5:00:00:???:00
       synset: 88638420-s
@@ -222,6 +332,13 @@ com dlúthad:
       synset: 83875899-n
 comaccomol:
   n:
+    form:
+    - chomaccomuil
+    - comaccomail
+    - comaccomla
+    - comaccomuil
+    - comacomol
+    - comacomuil
     sense:
     - id: 'comaccomol%1:10:00::'
       synset: 85337901-n
@@ -233,6 +350,16 @@ comairde:
       synset: 84154477-n
 comaisndís:
   n:
+    form:
+    - chomaisṅdeis
+    - chomaisṅdéis
+    - chomaisṅdís
+    - chomasṅdéis
+    - comaisṅdéis
+    - comaisṅdís
+    - comasṅdis
+    - comasṅdéis
+    - comasṅdís
     sense:
     - id: 'comaisndís%1:24:00::'
       synset: 82023118-n
@@ -266,11 +393,19 @@ comcháil:
       synset: 84154477-n
 comdelb:
   n:
+    form:
+    - comdeilb
+    - condeilb
     sense:
     - id: 'comdelb%1:07:00::'
       synset: 80915795-n
 comparit:
   n:
+    form:
+    - comparait
+    - comparaiti
+    - compariti
+    - conparite
     sense:
     - id: 'comparit%1:10:00::'
       synset: 81991571-n
@@ -281,16 +416,25 @@ compert:
       synset: 85625817-n
 comroircnech:
   s:
+    form:
+    - comroirnich
     sense:
     - id: comroircnech%5:00:00:???:00
       synset: 80733311-s
 comthinól:
   n:
+    form:
+    - chomthinóil
     sense:
     - id: 'comthinól%1:14:00::'
       synset: 89420360-n
 comthód:
   n:
+    form:
+    - chomthoud
+    - chomthóud
+    - chumtúth
+    - comthoud
     sense:
     - id: 'comthód%1:11:00::'
       synset: 87730379-n
@@ -301,11 +445,28 @@ comḟíalus:
       synset: 86919753-n
 comṡuidigthe:
   a:
+    form:
+    - chomsuidigthe
+    - chomsuidigthi
+    - chomsuidigthiu
+    - comsuidigthe
+    - comsuidigthi
+    - comsuidigthib
+    - comṡuidichthi
+    - comṡuidigthi
     sense:
     - id: 'comṡuidigthe%3:00:00::'
       synset: 86984615-a
 comṡuidigud:
   n:
+    form:
+    - chomsuidigtheo
+    - chomsuidigthib
+    - chomsuidigud
+    - comsuidigthi
+    - comsuidigud
+    - comṡuidigthi
+    - comṡuig
     sense:
     - id: 'comṡuidigud%1:07:00::'
       synset: 81287314-n
@@ -327,6 +488,11 @@ conar:
       synset: 81450780-n
 condelca:
   v:
+    form:
+    - delgthar
+    - rodelgg
+    - ṅdelgatar
+    - ṅdelggaddar
     sense:
     - id: 'condelca%2:31:00::'
       synset: 81282275-v
@@ -337,11 +503,24 @@ congab:
       synset: 89420360-n
 congaib:
   v:
+    form:
+    - gaib
+    - gaibet
+    - ṅgaib
     sense:
     - id: 'congaib%2:42:00::'
       synset: 84355095-v
 conoscaigi:
   v:
+    form:
+    - comarscaiged
+    - cumscaigther
+    - cumscichther
+    - cumsciget
+    - oscaigter
+    - oschiget
+    - osciget
+    - roscaiged
     sense:
     - id: 'conoscaigi%2:30:00::'
       synset: 80000309-v
@@ -354,6 +533,18 @@ conscara:
       synset: 85160243-v
 conson:
   n:
+    form:
+    - chonnsona
+    - chonsain
+    - chonsin
+    - chonson
+    - consain
+    - consana
+    - consine
+    - consoin
+    - consona
+    - consonaib
+    - consone
     sense:
     - id: 'conson%1:10:00::'
       synset: 84685879-n
@@ -361,11 +552,19 @@ conson:
       synset: 81706051-n
 consuidigedar:
   v:
+    form:
+    - comsuidigther
+    - comṡuidigther
+    - suidigedar
+    - suidigther
     sense:
     - id: 'consuidigedar%2:30:00::'
       synset: 89084398-v
 conutaing:
   v:
+    form:
+    - rótgatar
+    - utgim
     sense:
     - id: 'conutaing%2:36:00::'
       synset: 82248794-v
@@ -376,6 +575,9 @@ corp:
       synset: 88820217-n
 cosmail:
   a:
+    form:
+    - cosmaili
+    - cosmil
     sense:
     - id: 'cosmail%3:00:00::'
       synset: 80048888-a
@@ -383,11 +585,19 @@ cosmail:
       synset: 83913622-a
 cosmailigidir:
   v:
+    form:
+    - chosmailigetar
+    - cosmailigeddar
+    - cosmiligmmer
     sense:
     - id: 'cosmailigidir%2:31:00::'
       synset: 81282275-v
 cosmailius:
   n:
+    form:
+    - chosmailius
+    - cosmilius
+    - cosmilse
     sense:
     - id: 'cosmailius%1:07:00::'
       synset: 80577178-n
@@ -402,11 +612,18 @@ cosmart:
       synset: 80866675-n
 cotarsnae:
   s:
+    form:
+    - chotarsnu
+    - cotarsne
     sense:
     - id: cotarsnae%5:00:00:???:00
       synset: 81056278-s
 crann:
   n:
+    form:
+    - chrann
+    - chranna
+    - chrunn
     sense:
     - id: 'crann%1:20:00::'
       synset: 83206564-n
@@ -424,16 +641,25 @@ cretem:
       synset: 82055471-n
 cride:
   n:
+    form:
+    - chride
+    - cridi
     sense:
     - id: 'cride%1:09:00::'
       synset: 86754842-n
 croicenn:
   n:
+    form:
+    - chrocainn
+    - crocenn
     sense:
     - id: 'croicenn%1:08:00::'
       synset: 85991580-n
 cruth:
   n:
+    form:
+    - chrut
+    - chruth
     sense:
     - id: 'cruth%1:10:00::'
       synset: 85924383-n
@@ -441,16 +667,26 @@ cruth:
       synset: 82954869-n
 cruthugud:
   n:
+    form:
+    - chruthugud
+    - cruthad
+    - cruthaigtheo
+    - cruthath
     sense:
     - id: 'cruthugud%1:04:00::'
       synset: 86393212-n
 crích:
   n:
+    form:
+    - chrích
     sense:
     - id: 'crích%1:15:00::'
       synset: 83283779-n
 cucann:
   n:
+    form:
+    - cucain
+    - cucan
     sense:
     - id: 'cucann%1:21:00::'
       synset: 83357246-n
@@ -463,16 +699,26 @@ cuimrech:
       synset: 85270420-n
 cuit:
   n:
+    form:
+    - chuit
     sense:
     - id: 'cuit%1:21:00::'
       synset: 89918497-n
 cuitbedach:
   s:
+    form:
+    - cuitbedcha
     sense:
     - id: cuitbedach%5:00:00:???:00
       synset: 89820800-s
 cumachtae:
   n:
+    form:
+    - chumachtai
+    - chumachtu
+    - cumachtai
+    - cumachte
+    - cumachti
     sense:
     - id: 'cumachtae%1:07:00::'
       synset: 84173747-n
@@ -480,6 +726,8 @@ cumachtae:
       synset: 88914645-n
 cumang:
   n:
+    form:
+    - cumaṅg
     sense:
     - id: 'cumang%1:07:00::'
       synset: 84173747-n
@@ -500,6 +748,8 @@ cumsanad:
       synset: 83528414-n
 cumscugud:
   n:
+    form:
+    - chumscugud
     sense:
     - id: 'cumscugud%1:24:00::'
       synset: 86958274-n
@@ -523,11 +773,32 @@ cáith:
       synset: 85628654-n
 cárachtar:
   n:
+    form:
+    - carachtar
+    - carachtra
+    - caractar
+    - caracter
+    - carectar
+    - charactar
+    - chárachtraib
+    - cháractar
+    - cárachtra
     sense:
     - id: 'cárachtar%1:10:00::'
       synset: 80006726-n
 césad:
   n:
+    form:
+    - cesad
+    - cesta
+    - cesto
+    - chesad
+    - chesta
+    - chesto
+    - chésad
+    - chésta
+    - chésto
+    - césta
     sense:
     - id: 'césad%1:26:00::'
       synset: 82477077-n
@@ -535,15 +806,36 @@ césad:
       synset: 87456353-n
 cétbaid:
   n:
+    form:
+    - cetbuid
+    - chétbuid
+    - chétbutho
+    - cétbuid
     sense:
     - id: 'cétbaid%1:03:00::'
       synset: 82624428-n
 cétnae:
   a:
+    form:
+    - cetna
+    - cetne
+    - chéthnai
+    - chétna
+    - cétna
+    - cétne
+    - cétni
     sense:
     - id: 'cétnae%3:00:00::'
       synset: 88080213-a
   s:
+    form:
+    - cetna
+    - cetne
+    - chéthnai
+    - chétna
+    - cétna
+    - cétne
+    - cétni
     sense:
     - id: cétnae%5:00:01:???:00
       synset: 80101918-s
@@ -553,6 +845,17 @@ cétnaide:
     - id: 'cétnaide%1:10:01::'
       synset: 87143287-n
   s:
+    form:
+    - cetnide
+    - cetnidi
+    - chetnidi
+    - chetnidiu
+    - chétnaidi
+    - chétnidi
+    - chétnidiu
+    - cétnaidi
+    - cétnide
+    - cétnidi
     sense:
     - id: cétnaide%5:00:00:???:00
       synset: 89677527-s
@@ -560,6 +863,22 @@ cétnaide:
       synset: 87831006-s
 cíall:
   n:
+    form:
+    - ceill
+    - ceille
+    - cheil
+    - cheill
+    - cheillae
+    - cheille
+    - chial
+    - chiall
+    - chialla
+    - chiallaib
+    - chéill
+    - chéille
+    - ciall
+    - céill
+    - céille
     sense:
     - id: 'cíall%1:09:00::'
       synset: 80785130-n
@@ -573,16 +892,25 @@ cíall:
       synset: 83674301-n
 cían:
   n:
+    form:
+    - cein
+    - cene
+    - céin
     sense:
     - id: 'cían%1:28:00::'
       synset: 81416323-n
 cóir:
   a:
+    form:
+    - chóir
+    - coír
     sense:
     - id: 'cóir%3:00:00::'
       synset: 86325197-a
 cóis:
   n:
+    form:
+    - chois
     sense:
     - id: 'cóis%1:10:00::'
       synset: 85884946-n

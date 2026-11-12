@@ -1,20 +1,39 @@
 gainithir:
   v:
+    form:
+    - gainedar
+    - gigned
+    - roṅgenad
+    - roṅgenair
+    - ṅgainetar
     sense:
     - id: 'gainithir%2:42:00::'
       synset: 87731682-v
 gair:
   n:
+    form:
+    - ngair
     sense:
     - id: 'gair%1:07:00::'
       synset: 80428126-n
 genitiu:
   n:
+    form:
+    - geniten
+    - genitin
+    - genitne
+    - ngenitin
+    - ngenitiu
+    - ngenitne
+    - ṅgenitin
+    - ṅgenitiu
     sense:
     - id: 'genitiu%1:10:00::'
       synset: 89057725-n
 gerind:
   n:
+    form:
+    - geriind
     sense:
     - id: 'gerind%1:10:00::'
       synset: 85409528-n
@@ -35,21 +54,37 @@ glan:
       synset: 80831511-a
 glúas:
   n:
+    form:
+    - gluais
+    - gluaiss
+    - gluáiss
+    - glúais
     sense:
     - id: 'glúas%1:10:00::'
       synset: 84647083-n
 glún:
   n:
+    form:
+    - glunae
+    - glúne
     sense:
     - id: 'glún%1:08:00::'
       synset: 87404896-n
 gnáth:
   a:
+    form:
+    - gnathiu
+    - gnád
     sense:
     - id: 'gnáth%3:00:00::'
       synset: 89291192-a
 gné:
   n:
+    form:
+    - gnǽ
+    - ngnáe
+    - ngné
+    - ṅgné
     sense:
     - id: 'gné%1:09:00::'
       synset: 80707623-n
@@ -60,6 +95,13 @@ gnía:
       synset: 85523759-n
 gníid:
   v:
+    form:
+    - Gniid
+    - gniid
+    - gnither
+    - gní
+    - gnís
+    - gníte
     sense:
     - id: 'gníid%2:41:00::'
       synset: 87848353-v
@@ -67,6 +109,15 @@ gníid:
       synset: 89147749-v
 gním:
   n:
+    form:
+    - Gním
+    - ggním
+    - gnim
+    - gnima
+    - gnimo
+    - gníim
+    - gníma
+    - gnímo
     sense:
     - id: 'gním%1:26:00::'
       synset: 88556240-n
@@ -90,6 +141,12 @@ gníthid:
       synset: 85523759-n
 gnúis:
   n:
+    form:
+    - gnuis
+    - gnuisib
+    - gnusi
+    - gnúsi
+    - ṅgnúso
     sense:
     - id: 'gnúis%1:09:00::'
       synset: 89321446-n
@@ -102,21 +159,43 @@ graif:
       synset: 82910591-n
 grácad:
   n:
+    form:
+    - gracad
     sense:
     - id: 'grácad%1:10:00::'
       synset: 87894795-n
 grád:
   n:
+    form:
+    - ṅgrád
     sense:
     - id: 'grád%1:26:00::'
       synset: 82833728-n
 gréc:
   n:
+    form:
+    - graecu
+    - grec
+    - greca
+    - grecaib
+    - grece
+    - grecu
+    - greic
+    - greíc
+    - grécu
+    - ṅgréc
     sense:
     - id: 'gréc%1:10:00::'
       synset: 87379349-n
 grécde:
   a:
+    form:
+    - grecda
+    - grecdae
+    - grecde
+    - grecdi
+    - grecdib
+    - grecdu
     sense:
     - id: 'grécde%3:01:00::'
       synset: 88528725-a
@@ -127,6 +206,11 @@ guidid:
       synset: 88745763-v
 guth:
   n:
+    form:
+    - gotha
+    - gothaib
+    - gotho
+    - ṅgotho
     sense:
     - id: 'guth%1:10:00::'
       synset: 81092558-n
@@ -134,11 +218,27 @@ guth:
       synset: 87834809-n
 guthaigthe:
   n:
+    form:
+    - guthaichthe
+    - guthaigthi
+    - ṅguthaigthi
     sense:
     - id: 'guthaigthe%1:10:00::'
       synset: 88626435-n
 guttae:
   n:
+    form:
+    - gutae
+    - gutai
+    - gutaib
+    - gute
+    - guti
+    - guttai
+    - gutte
+    - gutti
+    - gutæ
+    - ṅgutai
+    - ṅguttae
     sense:
     - id: 'guttae%1:10:00::'
       synset: 88626435-n

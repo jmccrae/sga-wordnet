@@ -15,6 +15,9 @@ laiten:
       synset: 80566016-n
 laithe:
   n:
+    form:
+    - lathe
+    - lathi
     sense:
     - id: 'laithe%1:28:00::'
       synset: 85539345-n
@@ -32,11 +35,19 @@ lam bratt:
       synset: 83205092-n
 lebor:
   n:
+    form:
+    - lebraib
+    - libur
     sense:
     - id: 'lebor%1:10:00::'
       synset: 88787094-n
 lechdach:
   n:
+    form:
+    - lechdacha
+    - lechdachaib
+    - lechdagaib
+    - lechdaig
     sense:
     - id: 'lechdach%1:10:00::'
       synset: 86458947-n
@@ -47,6 +58,11 @@ lenab:
       synset: 80752096-n
 leth:
   n:
+    form:
+    - leith
+    - leithe
+    - lleith
+    - lleth
     sense:
     - id: 'leth%1:15:00::'
       synset: 81779714-n
@@ -54,11 +70,18 @@ leth:
       synset: 89412744-n
 linn:
   n:
+    form:
+    - lind
     sense:
     - id: 'linn%1:13:00::'
       synset: 80131426-n
 liter:
   n:
+    form:
+    - litir
+    - litrae
+    - litre
+    - litrib
     sense:
     - id: 'liter%1:10:00::'
       synset: 81890503-n
@@ -71,16 +94,25 @@ litred:
       synset: 81583883-n
 litrid:
   n:
+    form:
+    - litridi
+    - littridi
     sense:
     - id: 'litrid%1:18:00::'
       synset: 86750599-n
 loan:
   n:
+    form:
+    - loon
+    - lóon
     sense:
     - id: 'loan%1:27:00::'
       synset: 83077674-n
 loc:
   n:
+    form:
+    - luc
+    - luic
     sense:
     - id: 'loc%1:15:00::'
       synset: 80921094-n
@@ -101,6 +133,8 @@ locdatu:
       synset: 89502279-n
 loor:
   s:
+    form:
+    - lour
     sense:
     - id: loor%5:00:00:???:00
       synset: 87527017-s
@@ -122,6 +156,9 @@ luct menman:
       synset: 84303570-n
 luib:
   n:
+    form:
+    - lubae
+    - lube
     sense:
     - id: 'luib%1:03:00::'
       synset: 89068816-n
@@ -136,11 +173,18 @@ lá:
       synset: 83028557-n
 lán:
   a:
+    form:
+    - llán
     sense:
     - id: 'lán%3:00:00::'
       synset: 88576953-a
 léigend:
   n:
+    form:
+    - legend
+    - legind
+    - legund
+    - légund
     sense:
     - id: 'léigend%1:09:01::'
       synset: 83954240-n
@@ -150,11 +194,21 @@ léigend:
       synset: 84706651-v
 lía:
   n:
+    form:
+    - lia
+    - liac
+    - lie
+    - lieic
     sense:
     - id: 'lía%1:17:00::'
       synset: 80803010-n
 lín:
   n:
+    form:
+    - lin
+    - linaib
+    - lino
+    - línaib
     sense:
     - id: 'lín%1:07:00::'
       synset: 88536860-n
@@ -162,6 +216,9 @@ lín:
       synset: 82118563-n
 lóthar:
   n:
+    form:
+    - loathar
+    - lothor
     sense:
     - id: 'lóthar%1:06:00::'
       synset: 87726871-n

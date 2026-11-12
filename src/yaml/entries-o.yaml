@@ -1,10 +1,15 @@
 oentam:
   n:
+    form:
+    - oíntam
+    - óentaim
     sense:
     - id: 'oentam%1:18:00::'
       synset: 86604904-n
 oentu:
   n:
+    form:
+    - oentath
     sense:
     - id: 'oentu%1:07:00::'
       synset: 87812825-n
@@ -22,11 +27,17 @@ oircnid:
       synset: 80360709-n
 ol:
   v:
+    form:
+    - olseat
     sense:
     - id: 'ol%2:32:00::'
       synset: 87002822-v
 olc:
   a:
+    form:
+    - messa
+    - olcc
+    - uilcc
     sense:
     - id: 'olc%3:00:00::'
       synset: 87378976-a
@@ -41,6 +52,16 @@ opar:
       synset: 86982352-n
 ord:
   n:
+    form:
+    - Ordd
+    - huirdd
+    - nordd
+    - nuird
+    - nuirdd
+    - nurdd
+    - ordd
+    - uirdd
+    - ṅhuirdd
     sense:
     - id: 'ord%1:14:00::'
       synset: 82235376-n
@@ -53,11 +74,19 @@ oín:
       synset: 86133132-a
 óa:
   n:
+    form:
+    - oo
     sense:
     - id: 'óa%1:08:01::'
       synset: 88504955-n
 óg:
   a:
+    form:
+    - nog
+    - nóg
+    - nógaib
+    - og
+    - óge
     sense:
     - id: 'óg%3:00:03::'
       synset: 86702727-a
@@ -69,16 +98,29 @@ oín:
       synset: 81645044-n
 ógae:
   n:
+    form:
+    - hógi
+    - nogaib
+    - nógai
+    - nógi
     sense:
     - id: 'ógae%1:26:01::'
       synset: 83771050-n
 óindae:
   a:
+    form:
+    - noena
+    - oéndai
+    - oíndai
+    - óendaid
+    - óindi
     sense:
     - id: 'óindae%3:00:01::'
       synset: 86133132-a
 óinechaid:
   n:
+    form:
+    - óenechaid
     sense:
     - id: 'óinechaid%1:18:01::'
       synset: 88158727-n

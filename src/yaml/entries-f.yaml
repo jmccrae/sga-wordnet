@@ -1,5 +1,8 @@
 fairge:
   n:
+    form:
+    - foircce
+    - foirggae
     sense:
     - id: 'fairge%1:17:00::'
       synset: 87200862-n
@@ -10,26 +13,46 @@ fecht:
       synset: 89867029-n
 femen:
   n:
+    form:
+    - femin
+    - fémein
+    - ḟemen
+    - ḟemun
+    - ḟémiun
     sense:
     - id: 'femen%1:10:00::'
       synset: 89220346-n
 fer:
   n:
+    form:
+    - fir
+    - firu
+    - fiur
     sense:
     - id: 'fer%1:18:00::'
       synset: 85190976-n
 fers:
   n:
+    form:
+    - fersa
+    - ferso
+    - ḟers
+    - ḟerso
     sense:
     - id: 'fers%1:10:00::'
       synset: 87796683-n
 fid:
   n:
+    form:
+    - feda
+    - fedo
     sense:
     - id: 'fid%1:20:00::'
       synset: 83206564-n
 figair:
   n:
+    form:
+    - figuir
     sense:
     - id: 'figair%1:10:00::'
       synset: 85646258-n
@@ -39,31 +62,54 @@ figair:
       synset: 85924383-n
 fili:
   n:
+    form:
+    - filed
+    - fileda
+    - filid
+    - ḟilid
     sense:
     - id: 'fili%1:18:00::'
       synset: 89280411-n
 fillid:
   v:
+    form:
+    - fillim
+    - filte
+    - filter
     sense:
     - id: 'fillid%2:32:00::'
       synset: 80171514-v
 fis:
   n:
+    form:
+    - fius
+    - ḟius
     sense:
     - id: 'fis%1:09:00::'
       synset: 88128664-n
 fisid:
   n:
+    form:
+    - fissith
     sense:
     - id: 'fisid%1:18:00::'
       synset: 84705137-n
 flesc:
   n:
+    form:
+    - flescaib
+    - ḟlesc
+    - ḟlisc
     sense:
     - id: 'flesc%1:10:00::'
       synset: 83206484-n
 foceird:
   v:
+    form:
+    - cerddar
+    - cheirt
+    - laad
+    - rolaa
     sense:
     - id: 'foceird%2:35:00::'
       synset: 88016007-v
@@ -76,36 +122,65 @@ fochith:
       synset: 81672440-n
 fochraic:
   n:
+    form:
+    - ḟochraicc
     sense:
     - id: 'fochraic%1:11:00::'
       synset: 81900791-n
 fochslaid:
   n:
+    form:
+    - foxlada
+    - foxlaid
+    - foxlid
+    - foxlidi
+    - ḟoxlaid
     sense:
     - id: 'fochslaid%1:10:00::'
       synset: 82397685-n
 fochunn:
   n:
+    form:
+    - ḟochun
     sense:
     - id: 'fochunn%1:03:00::'
       synset: 81975763-n
 fodail:
   n:
+    form:
+    - Fodail
+    - fodil
+    - fodlaib
+    - ḟodail
     sense:
     - id: 'fodail%1:09:00::'
       synset: 85087478-n
 fodaim:
   v:
+    form:
+    - daim
+    - med
+    - ndaim
     sense:
     - id: 'fodaim%2:39:00::'
       synset: 84842723-v
 foditiu:
   n:
+    form:
+    - fodaitiu
+    - ḟodaitiu
     sense:
     - id: 'foditiu%1:04:00::'
       synset: 86933702-n
 fodáli:
   v:
+    form:
+    - dailter
+    - dalet
+    - dáli
+    - fodlaiter
+    - fodlat
+    - fodlatar
     sense:
     - id: 'fodáli%2:31:00::'
       synset: 81243704-v
@@ -113,16 +188,35 @@ fodáli:
       synset: 83899427-v
 fofera:
   v:
+    form:
+    - dera
+    - foired
     sense:
     - id: 'fofera%2:36:00::'
       synset: 88847701-v
 fogní:
   v:
+    form:
+    - fognat
+    - gní
+    - géna
+    - ngniat
+    - ṅgniat
     sense:
     - id: 'fogní%2:31:00::'
       synset: 80152611-v
 fogur:
   n:
+    form:
+    - fogair
+    - fogoir
+    - fogor
+    - fograib
+    - foguir
+    - ḟogair
+    - ḟogir
+    - ḟoguir
+    - ḟogur
     sense:
     - id: 'fogur%1:07:00::'
       synset: 87849671-n
@@ -130,6 +224,12 @@ fogur:
       synset: 87834809-n
 foillsigud:
   n:
+    form:
+    - failsigud
+    - foilsigud
+    - ḟoilsigthe
+    - ḟoilsigud
+    - ḟoilsiguth
     sense:
     - id: 'foillsigud%1:10:00::'
       synset: 84817857-n
@@ -137,11 +237,20 @@ foillsigud:
       synset: 86939928-n
 foilsigidir:
   v:
+    form:
+    - failsigetar
+    - foilsigdde
+    - foilsiged
+    - foilsigth
+    - foilsigther
     sense:
     - id: 'foilsigidir%2:39:00::'
       synset: 83707846-v
 foirbthe:
   a:
+    form:
+    - foirbthi
+    - foirbthiu
     sense:
     - id: 'foirbthe%3:00:00::'
       synset: 83037356-a
@@ -152,6 +261,16 @@ foirbthetu:
       synset: 85496712-n
 folad:
   n:
+    form:
+    - folaid
+    - folaith
+    - folid
+    - folod
+    - folud
+    - foluth
+    - ḟolad
+    - ḟolaid
+    - ḟolud
     sense:
     - id: 'folad%1:03:00::'
       synset: 89948552-n
@@ -161,35 +280,55 @@ folad:
       synset: 83505619-n
 folcaid:
   v:
+    form:
+    - folcaim
+    - folcaimm
     sense:
     - id: 'folcaid%2:35:00::'
       synset: 87634577-v
 follus:
   a:
+    form:
+    - foluss
     sense:
     - id: 'follus%3:00:00::'
       synset: 83570020-a
   s:
+    form:
+    - foluss
     sense:
     - id: follus%5:00:01:???:00
       synset: 83310555-s
 foraithmet:
   n:
+    form:
+    - foraith
+    - forathmet
     sense:
     - id: 'foraithmet%1:09:00::'
       synset: 83387525-n
 forbae:
   n:
+    form:
+    - ḟorbo
     sense:
     - id: 'forbae%1:04:00::'
       synset: 84294454-n
 forbart:
   n:
+    form:
+    - forbbart
+    - ḟorbairt
     sense:
     - id: 'forbart%1:11:00::'
       synset: 88477367-n
 forbeir:
   v:
+    form:
+    - beir
+    - biur
+    - foirpret
+    - forbiur
     sense:
     - id: 'forbeir%2:30:00::'
       synset: 89915078-v
@@ -200,6 +339,12 @@ forcain:
       synset: 88844957-v
 forcenn:
   n:
+    form:
+    - foirciun
+    - foirciunn
+    - forciunn
+    - ḟorcenn
+    - ḟorcinn
     sense:
     - id: 'forcenn%1:09:00::'
       synset: 83136937-n
@@ -215,6 +360,15 @@ forcetlid:
       synset: 83783926-n
 forcomai:
   v:
+    form:
+    - chomaither
+    - chomi
+    - comaider
+    - comam
+    - comat
+    - forcmat
+    - forcmatis
+    - forcmi
     sense:
     - id: 'forcomai%2:40:00::'
       synset: 86309643-v
@@ -222,16 +376,31 @@ forcomai:
       synset: 88684802-v
 forcongair:
   v:
+    form:
+    - chongair
+    - congair
+    - forcongarar
+    - forgair
+    - rochongart
+    - rrorcongrad
     sense:
     - id: 'forcongair%2:32:00::'
       synset: 82636562-v
 fordingair:
   v:
+    form:
+    - dingrat
+    - diṅgrat
     sense:
     - id: 'fordingair%2:32:00::'
       synset: 80902494-v
 forgnúis:
   n:
+    form:
+    - forggnuis
+    - forggnuso
+    - forgnúsa
+    - forgnúso
     sense:
     - id: 'forgnúis%1:09:00::'
       synset: 81886174-n
@@ -239,21 +408,30 @@ forgnúis:
       synset: 85924383-n
 forngaire:
   n:
+    form:
+    - forgare
+    - forgariu
     sense:
     - id: 'forngaire%1:10:00::'
       synset: 88664232-n
 fortórmach:
   n:
+    form:
+    - fortórmaich
     sense:
     - id: 'fortórmach%1:10:00::'
       synset: 87284935-n
 foslig:
   v:
+    form:
+    - sligim
     sense:
     - id: 'foslig%2:35:00::'
       synset: 84589581-v
 fot:
   n:
+    form:
+    - fuit
     sense:
     - id: 'fot%1:07:00::'
       synset: 88014072-n
@@ -266,11 +444,19 @@ foácaib:
       synset: 82478184-v
 foídid:
   v:
+    form:
+    - fóidit
+    - fóite
     sense:
     - id: 'foídid%2:38:00::'
       synset: 88815744-v
 frecndairc:
   a:
+    form:
+    - frecṅdairc
+    - ḟrecnairc
+    - ḟrecndairc
+    - ḟrecṅdairc
     sense:
     - id: 'frecndairc%3:00:00::'
       synset: 85007864-a
@@ -278,6 +464,9 @@ frecndairc:
       synset: 86144693-a
 frecrae:
   n:
+    form:
+    - frecra
+    - frecre
     sense:
     - id: 'frecrae%1:10:00::'
       synset: 87331769-n
@@ -305,6 +494,9 @@ fích:
       synset: 80399582-n
 fír:
   a:
+    form:
+    - fir
+    - ḟír
     sense:
     - id: 'fír%3:00:00::'
       synset: 89091813-a

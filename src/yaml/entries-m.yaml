@@ -1,5 +1,8 @@
 macc:
   n:
+    form:
+    - maccaib
+    - maicc
     sense:
     - id: 'macc%1:18:00::'
       synset: 89954573-n
@@ -7,11 +10,15 @@ macc:
       synset: 81292478-n
 machdad:
   n:
+    form:
+    - machdath
     sense:
     - id: 'machdad%1:11:00::'
       synset: 80780124-n
 maith:
   a:
+    form:
+    - ferr
     sense:
     - id: 'maith%3:00:00::'
       synset: 88733271-a
@@ -23,11 +30,16 @@ maith:
       synset: 81348025-n
 mall:
   a:
+    form:
+    - maill
+    - maull
     sense:
     - id: 'mall%3:00:00::'
       synset: 81946301-a
 mascul:
   n:
+    form:
+    - mmascul
     sense:
     - id: 'mascul%1:10:00::'
       synset: 86331880-n
@@ -40,6 +52,11 @@ medar:
       synset: 89330100-n
 medón:
   n:
+    form:
+    - medon
+    - mmedon
+    - mmedón
+    - mmédon
     sense:
     - id: 'medón%1:28:00::'
       synset: 85589361-n
@@ -47,11 +64,20 @@ medón:
       synset: 81411458-n
 medóndae:
   a:
+    form:
+    - medónda
+    - medóndai
+    - medóndæ
     sense:
     - id: 'medóndae%3:00:00::'
       synset: 87453341-a
 menma:
   n:
+    form:
+    - menmain
+    - menmmain
+    - menmman
+    - menmmann
     sense:
     - id: 'menma%1:09:00::'
       synset: 89159375-n
@@ -64,21 +90,32 @@ mesrugud:
       synset: 86693725-n
 mod:
   n:
+    form:
+    - mud
+    - muid
+    - múd
     sense:
     - id: 'mod%1:07:00::'
       synset: 82954869-n
 molad:
   n:
+    form:
+    - molath
     sense:
     - id: 'molad%1:10:00::'
       synset: 87438694-n
 mrechtrad:
   n:
+    form:
+    - mrechtraid
+    - mrechtrud
     sense:
     - id: 'mrechtrad%1:07:00::'
       synset: 82988524-n
 mucc:
   n:
+    form:
+    - muc
     sense:
     - id: 'mucc%1:05:00::'
       synset: 84383522-n
@@ -89,26 +126,53 @@ mug:
       synset: 80989107-n
 muinter:
   n:
+    form:
+    - mmuntar
+    - muntir
     sense:
     - id: 'muinter%1:14:00::'
       synset: 88746937-n
 muir:
   n:
+    form:
+    - mora
     sense:
     - id: 'muir%1:17:00::'
       synset: 87200862-n
 már:
   s:
+    form:
+    - maa
+    - maam
+    - mao
+    - mar
+    - mmáa
+    - moo
+    - máa
+    - máanu
+    - máir
+    - mám
+    - máo
+    - móa
+    - mór
     sense:
     - id: már%5:00:00:???:00
       synset: 80163161-s
 máthair:
   n:
+    form:
+    - máthar
+    - máthir
     sense:
     - id: 'máthair%1:18:00::'
       synset: 84340213-n
 méit:
   n:
+    form:
+    - meit
+    - méite
+    - mét
+    - méte
     sense:
     - id: 'méit%1:07:00::'
       synset: 85941576-n
@@ -132,6 +196,8 @@ méit a soud:
       synset: 83664205-v
 míl:
   n:
+    form:
+    - mil
     sense:
     - id: 'míl%1:18:00::'
       synset: 88280822-n
@@ -142,6 +208,11 @@ místae:
       synset: 87563551-s
 mút:
   n:
+    form:
+    - muta
+    - mute
+    - múit
+    - mútaib
     sense:
     - id: 'mút%1:10:00::'
       synset: 87982439-n
